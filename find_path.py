@@ -221,11 +221,11 @@ def find_shortest_path(start_node,end_node,graph,g_nodes,labels_all,triples_df,w
 
     return df
 
-def prioritize_path_cs(start_node,end_node,graph,g_nodes,labels_all,triples_df,weights,search_type,triples_file,output_dir,input_dir,embedding_dimensions, kg_type):
+def prioritize_path_cs(start_node,end_node,graph,g_nodes,labels_all,triples_df,weights,search_type,triples_file,input_dir,embedding_dimensions, kg_type):
 
     path_nodes = find_all_shortest_paths(start_node,end_node,graph,g_nodes,labels_all,triples_df,False,'all', kg_type)
 
-    e = Embeddings(triples_file,output_dir,input_dir,embedding_dimensions, kg_type)
+    e = Embeddings(triples_file,input_dir,embedding_dimensions, kg_type)
     emb = e.generate_graph_embeddings()
     df,paths_total_cs = calc_cosine_sim(emb,path_nodes,g_nodes,triples_df,search_type,labels_all, kg_type)
 
