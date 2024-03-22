@@ -1,0 +1,32 @@
+S|P|O
+MERTK|subClassOf|gene
+SKI|subClassOf|gene
+SKI|participates_in|Signal Transduction
+LATS2|participates_in|Signal Transduction
+NF1|subClassOf|gene
+diazinon|interacts with|SIN3A
+diazinon|interacts with|SKIL
+SKIL|participates_in|Signal Transduction
+LATS1 (human)|participates_in|Signal Transduction
+SKIL|participates_in|Generic Transcription Pathway
+ING2 (human)|participates_in|Generic Transcription Pathway
+STK3 (human)|participates_in|Signal Transduction
+SKIL|causes or contributes to condition|Pulmonary fibrosis
+MECP2|causes or contributes to condition|Pulmonary fibrosis
+HDAC1|participates_in|Downregulation of SMAD2/3:SMAD4 transcriptional activity
+SKI|participates_in|Downregulation of SMAD2/3:SMAD4 transcriptional activity
+SATB2|subClassOf|gene
+HDAC3|participates_in|Signal Transduction
+Mob|has_gene_template|SGMS1 (human)
+valproic acid|interacts with|SGMS1 (human)
+valproic acid|interacts with|SKI
+PRMT5|participates_in|Generic Transcription Pathway
+SKI|participates_in|Generic Transcription Pathway
+TEAD1|participates_in|Generic Transcription Pathway
+TEAD1|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD2|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD3|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD4|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD2|participates_in|Generic Transcription Pathway
+TEAD3|participates_in|Generic Transcription Pathway
+TEAD4|participates_in|Generic Transcription Pathway

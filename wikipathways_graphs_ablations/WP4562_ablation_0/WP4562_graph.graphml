@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d15" for="edge" attr.name="color" attr.type="string"/>
+<key id="d14" for="edge" attr.name="signal" attr.type="string"/>
+<key id="d13" for="edge" attr.name="interaction" attr.type="string"/>
+<key id="d12" for="edge" attr.name="arrow" attr.type="string"/>
+<key id="d11" for="edge" attr.name="edgeID" attr.type="string"/>
+<key id="d10" for="node" attr.name="geometry" attr.type="string"/>
+<key id="d9" for="node" attr.name="databaseID" attr.type="string"/>
+<key id="d8" for="node" attr.name="database" attr.type="string"/>
+<key id="d7" for="node" attr.name="color" attr.type="string"/>
+<key id="d6" for="node" attr.name="height" attr.type="string"/>
+<key id="d5" for="node" attr.name="width" attr.type="string"/>
+<key id="d4" for="node" attr.name="centerY" attr.type="string"/>
+<key id="d3" for="node" attr.name="centerX" attr.type="string"/>
+<key id="d2" for="node" attr.name="groupref" attr.type="string"/>
+<key id="d1" for="node" attr.name="graphid" attr.type="string"/>
+<key id="d0" for="node" attr.name="textlabel" attr.type="string"/>
+<graph edgedefault="directed"><node id="RELA">
+  <data key="d0">RELA</data>
+  <data key="d1">FOVXT</data>
+  <data key="d2">c03e9</data>
+  <data key="d3">218.84615384615336</data>
+  <data key="d4">421.56871218668977</data>
+  <data key="d5">89.99999999999997</data>
+  <data key="d6">25.00000000000001</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000173039</data>
+  <data key="d10">POINT (218.84615384615336 421.56871218668977)</data>
+</node>
+<node id="REL">
+  <data key="d0">REL</data>
+  <data key="d1">ba194</data>
+  <data key="d2">c03e9</data>
+  <data key="d3">218.8461538461533</data>
+  <data key="d4">446.56871218668977</data>
+  <data key="d5">89.99999999999997</data>
+  <data key="d6">25.00000000000001</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000162924</data>
+  <data key="d10">POINT (218.8461538461533 446.56871218668977)</data>
+</node>
+<node id="NFKB1">
+  <data key="d0">NFKB1</data>
+  <data key="d1">d72bb</data>
+  <data key="d2">c03e9</data>
+  <data key="d3">310.28522039757974</data>
+  <data key="d4">430.42350907519364</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000109320</data>
+  <data key="d10">POINT (310.28522039757974 430.42350907519364)</data>
+</node>
+<node id="NFKBIA">
+  <data key="d0">NFKBIA</data>
+  <data key="d1">b0712</data>
+  <data key="d2">c03e9</data>
+  <data key="d3">256.69835782195327</data>
+  <data key="d4">370.78651685393265</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000100906</data>
+  <data key="d10">POINT (256.69835782195327 370.78651685393265)</data>
+</node>
+<node id="NFKBIE">
+  <data key="d0">NFKBIE</data>
+  <data key="d1">e605f</data>
+  <data key="d2">c03e9</data>
+  <data key="d3">256.69835782195315</data>
+  <data key="d4">395.7865168539327</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000146232</data>
+  <data key="d10">POINT (256.69835782195315 395.7865168539327)</data>
+</node>
+<node id="NFKB stimuli"/>
+<node id="CHUK">
+  <data key="d0">CHUK</data>
+  <data key="d1">eb4eb</data>
+  <data key="d2">d4ced</data>
+  <data key="d3">454.8012100259291</data>
+  <data key="d4">319.0406222990493</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.00000000000001</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000213341</data>
+  <data key="d10">POINT (454.8012100259291 319.0406222990493)</data>
+</node>
+<node id="IKBKB">
+  <data key="d0">IKBKB</data>
+  <data key="d1">f5a4f</data>
+  <data key="d2">d4ced</data>
+  <data key="d3">454.8012100259291</data>
+  <data key="d4">344.04062229904923</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000104365</data>
+  <data key="d10">POINT (454.8012100259291 344.04062229904923)</data>
+</node>
+<node id="IKBKG">
+  <data key="d0">IKBKG</data>
+  <data key="d1">f8aac</data>
+  <data key="d2">d4ced</data>
+  <data key="d3">454.8012100259291</data>
+  <data key="d4">294.04062229904923</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.00000000000001</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000269335</data>
+  <data key="d10">POINT (454.8012100259291 294.04062229904923)</data>
+</node>
+<edge source="RELA" target="RELA">
+  <data key="d11">None</data>
+  <data key="d12">group</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="RELA" target="REL">
+  <data key="d11">QTD0D_d4d1a_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="RELA" target="NFKB1">
+  <data key="d11">QTD0D_c6bb4_d4d1a_d4937_d7cfb_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="RELA" target="NFKBIA">
+  <data key="d11">QTD0D_c6bb4_d4d1a_d4937_d7cfb_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="RELA" target="NFKBIE">
+  <data key="d11">QTD0D_c6bb4_d4d1a_d4937_d7cfb_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="REL" target="RELA">
+  <data key="d11">d4d1a_QTD0D_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="REL" target="REL">
+  <data key="d11">None</data>
+  <data key="d12">group</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="REL" target="NFKB1">
+  <data key="d11">QTD0D_c6bb4_d4d1a_d4937_d7cfb_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="REL" target="NFKBIA">
+  <data key="d11">QTD0D_c6bb4_d4d1a_d4937_d7cfb_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="REL" target="NFKBIE">
+  <data key="d11">QTD0D_c6bb4_d4d1a_d4937_d7cfb_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="NFKB1" target="RELA">
+  <data key="d11">QTD0D_c6bb4_d4d1a_d4937_d7cfb_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="NFKB1" target="REL">
+  <data key="d11">QTD0D_c6bb4_d4d1a_d4937_d7cfb_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="NFKB1" target="NFKB1">
+  <data key="d11">None</data>
+  <data key="d12">group</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NFKB1" target="NFKBIA">
+  <data key="d11">QTD0D_c6bb4_d4d1a_d4937_d7cfb_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="NFKB1" target="NFKBIE">
+  <data key="d11">QTD0D_c6bb4_d4d1a_d4937_d7cfb_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="NFKBIA" target="RELA">
+  <data key="d11">QTD0D_c6bb4_d4d1a_d4937_d7cfb_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="NFKBIA" target="REL">
+  <data key="d11">QTD0D_c6bb4_d4d1a_d4937_d7cfb_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="NFKBIA" target="NFKB1">
+  <data key="d11">QTD0D_c6bb4_d4d1a_d4937_d7cfb_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="NFKBIA" target="NFKBIA">
+  <data key="d11">None</data>
+  <data key="d12">group</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NFKBIA" target="NFKBIE">
+  <data key="d11">c6bb4_d7cfb_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="NFKBIE" target="RELA">
+  <data key="d11">QTD0D_c6bb4_d4d1a_d4937_d7cfb_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="NFKBIE" target="REL">
+  <data key="d11">QTD0D_c6bb4_d4d1a_d4937_d7cfb_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="NFKBIE" target="NFKB1">
+  <data key="d11">QTD0D_c6bb4_d4d1a_d4937_d7cfb_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="NFKBIE" target="NFKBIA">
+  <data key="d11">d7cfb_c6bb4_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="NFKBIE" target="NFKBIE">
+  <data key="d11">None</data>
+  <data key="d12">group</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NFKB stimuli" target="CHUK">
+  <data key="d11">None</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NFKB stimuli" target="IKBKB">
+  <data key="d11">None</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NFKB stimuli" target="IKBKG">
+  <data key="d11">None</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CHUK" target="RELA">
+  <data key="d11">None</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CHUK" target="NFKBIA">
+  <data key="d11">None</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CHUK" target="REL">
+  <data key="d11">None</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CHUK" target="NFKB1">
+  <data key="d11">None</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CHUK" target="NFKBIE">
+  <data key="d11">None</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CHUK" target="IKBKB">
+  <data key="d11">eb4eb_f5a4f_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="CHUK" target="IKBKG">
+  <data key="d11">eb4eb_f8aac_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="IKBKB" target="RELA">
+  <data key="d11">None</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="IKBKB" target="NFKBIA">
+  <data key="d11">None</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="IKBKB" target="REL">
+  <data key="d11">None</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="IKBKB" target="NFKB1">
+  <data key="d11">None</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="IKBKB" target="NFKBIE">
+  <data key="d11">None</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="IKBKB" target="CHUK">
+  <data key="d11">f5a4f_eb4eb_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="IKBKB" target="IKBKG">
+  <data key="d11">eb4eb_f5a4f_f8aac_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IKBKG" target="RELA">
+  <data key="d11">None</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="IKBKG" target="NFKBIA">
+  <data key="d11">None</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="IKBKG" target="REL">
+  <data key="d11">None</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="IKBKG" target="NFKB1">
+  <data key="d11">None</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="IKBKG" target="NFKBIE">
+  <data key="d11">None</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="IKBKG" target="CHUK">
+  <data key="d11">f8aac_eb4eb_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="IKBKG" target="IKBKB">
+  <data key="d11">eb4eb_f5a4f_f8aac_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,67 @@
+S|P|O
+RAB3A|causes or contributes to condition|Ependymoma
+hereditary spastic paraplegia 53|has phenotype|Ependymoma
+hereditary spastic paraplegia 53|has phenotype|Upper motor neuron dysfunction
+Upper motor neuron dysfunction|inheres in|Neuron
+RAB3A|subClassOf|protein_coding_gene
+RAB3B|subClassOf|protein_coding_gene
+RAB3B|participates_in|Metabolism of proteins
+otoancorin (human)|participates_in|Metabolism of proteins
+otoancorin (human)|participates_in|transmission of nerve impulse
+neuron|capable of|transmission of nerve impulse
+RAB3B|participates_in|RAB geranylgeranylation
+RAB3A|participates_in|RAB geranylgeranylation
+SBF2|subClassOf|protein_coding_gene
+MTMR2|subClassOf|protein_coding_gene
+SBF2|subClassOf|gene
+LITAF|subClassOf|gene
+MTMR2|subClassOf|gene
+HSPB1|participates_in|Signal Transduction
+FGD4|participates_in|Signal Transduction
+FGD4|subClassOf|gene
+HSPB1|subClassOf|gene
+LITAF|subClassOf|protein_coding_gene
+valproic acid|interacts with|LITAF
+valproic acid|interacts with|SBF2
+FIG4|subClassOf|gene
+RAB11A|subClassOf|protein_coding_gene
+NDRG1|subClassOf|protein_coding_gene
+RAB4A|subClassOf|protein_coding_gene
+SH3TC2|subClassOf|protein_coding_gene
+RAB11A|participates_in|Metabolism of proteins
+RAB4B|participates_in|Metabolism of proteins
+RAB11A|participates_in|RAB geranylgeranylation
+RAB11B|participates_in|RAB geranylgeranylation
+RAB25|participates_in|Metabolism of proteins
+RABAC1|subClassOf|protein_coding_gene
+NDRG1|subClassOf|gene
+SH3TC2|subClassOf|gene
+RAB4B|subClassOf|protein_coding_gene
+RAB11B|subClassOf|protein_coding_gene
+RAB25|subClassOf|protein_coding_gene
+RAB4A|participates_in|Translocation of SLC2A4 (GLUT4) to the plasma membrane
+RAB11A|participates_in|Translocation of SLC2A4 (GLUT4) to the plasma membrane
+RAB4A|participates_in|Signal Transduction
+RAB4B|participates_in|Signal Transduction
+RAB4A|participates_in|Post-translational protein modification
+RAB11B|participates_in|Post-translational protein modification
+RAB4B|causes or contributes to condition|Prostate cancer
+NDRG1|causes or contributes to condition|Prostate cancer
+RAB4B|participates_in|Signaling by MET
+RAB4A|participates_in|Signaling by MET
+RAB4B|participates_in|RAB geranylgeranylation
+RAB25|participates_in|RAB geranylgeranylation
+RAB11B|causes or contributes to condition|Intellectual disability
+RAB11A|causes or contributes to condition|Intellectual disability
+RAB11B|participates_in|Vesicle-mediated transport
+RAB4A|participates_in|Vesicle-mediated transport
+RAB4A|participates_in|Metabolism of proteins
+RAB25|participates_in|Post-translational protein modification
+RAB4B|participates_in|Post-translational protein modification
+RAB11B|participates_in|Metabolism of proteins
+RAB7A|subClassOf|protein_coding_gene
+GDAP1|subClassOf|protein_coding_gene
+MFN2|subClassOf|protein_coding_gene
+MFN2|subClassOf|gene
+GDAP1|subClassOf|gene
+FIG4|subClassOf|protein_coding_gene

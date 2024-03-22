@@ -1,0 +1,125 @@
+S|P|O
+STAT1|participates_in|Signaling by FGFR1 in disease
+KRAS|participates_in|Signaling by FGFR1 in disease
+IFNGR2|participates_in|Cytokine Signaling in Immune system
+KRAS|participates_in|Cytokine Signaling in Immune system
+IFNGR2|subClassOf|gene
+AKT3|subClassOf|gene
+STAT5A|participates_in|Cytokine Signaling in Immune system
+NRAS|participates_in|Cytokine Signaling in Immune system
+AKT1|participates_in|Cytokine Signaling in Immune system
+STAT3|participates_in|Cytokine Signaling in Immune system
+HRAS|participates_in|Cytokine Signaling in Immune system
+AKT2|subClassOf|gene
+STAT3|participates_in|Interleukin-6 signaling
+STAT1|participates_in|Interleukin-6 signaling
+STAT3|participates_in|Signaling by cytosolic FGFR1 fusion mutants
+STAT5A|participates_in|Signaling by cytosolic FGFR1 fusion mutants
+IL6R|participates_in|Interleukin-6 signaling
+IL6|participates_in|MAPK1 (ERK2) activation
+IL6R|participates_in|MAPK1 (ERK2) activation
+EPO|causes or contributes to condition|Thyroid carcinoma
+EPOR|causes or contributes to condition|Thyroid carcinoma
+CCND2|participates_in|Cyclin D associated events in G1
+CDK4|participates_in|Cyclin D associated events in G1
+CCND1|causes or contributes to condition|Hepatocellular carcinoma
+CDK4|causes or contributes to condition|Hepatocellular carcinoma
+CCND1|causes or contributes to condition|Neoplasm of the lung
+CCND2|causes or contributes to condition|Neoplasm of the lung
+EPOR|causes or contributes to condition|Neoplasm of the breast
+STAT5A|causes or contributes to condition|Neoplasm of the breast
+SOCS3|participates_in|Adaptive Immune System
+AKT2|participates_in|Adaptive Immune System
+SOCS3|participates_in|Signaling by PTK6
+HRAS|participates_in|Signaling by PTK6
+AKT1|participates_in|Signaling by PTK6
+NRAS|participates_in|Signaling by PTK6
+IFNGR1|participates_in|Cytokine Signaling in Immune system
+IFNGR1|subClassOf|gene
+IFNGR1|causes or contributes to condition|myocardial ischemia
+STAT5A|causes or contributes to condition|myocardial ischemia
+IL6R|causes or contributes to condition|Neoplasm of the stomach
+KRAS|causes or contributes to condition|Neoplasm of the stomach
+IL6R|participates_in|Immune System
+AKT3|participates_in|Immune System
+STAT3|causes or contributes to condition|T-cell lymphoma
+AKT1|causes or contributes to condition|T-cell lymphoma
+IL6R|participates_in|Signaling by Interleukins
+STAT5A|participates_in|Signaling by Interleukins
+IL6R|participates_in|Interleukin-4 and Interleukin-13 signaling
+AKT1|participates_in|Interleukin-4 and Interleukin-13 signaling
+HRAS|causes or contributes to condition|Neoplasm of the stomach
+IL6R|causes or contributes to condition|Non-small cell lung carcinoma
+AKT2|causes or contributes to condition|Non-small cell lung carcinoma
+SOCS1|causes or contributes to condition|Lymphoma
+KRAS|causes or contributes to condition|Lymphoma
+SOCS1|participates_in|Signaling by SCF-KIT
+AKT3|participates_in|Signaling by SCF-KIT
+SOCS1|causes or contributes to condition|B-cell lymphoma
+NRAS|causes or contributes to condition|B-cell lymphoma
+SOCS1|participates_in|Interleukin-4 and Interleukin-13 signaling
+HRAS|participates_in|Signaling by SCF-KIT
+AKT2|participates_in|Signaling by SCF-KIT
+KRAS|participates_in|Signaling by PTK6
+AKT3|participates_in|Adaptive Immune System
+NRAS|causes or contributes to condition|Non-small cell lung carcinoma
+STAT1|participates_in|Signaling by cytosolic FGFR1 fusion mutants
+STAT3|participates_in|Downstream signal transduction
+AKT3|participates_in|Downstream signal transduction
+HRAS|causes or contributes to condition|T-cell lymphoma
+MLST8|participates_in|CD28 dependent PI3K/Akt signaling
+MTOR|participates_in|CD28 dependent PI3K/Akt signaling
+MLST8|participates_in|PKB-mediated events
+AKT1S1|participates_in|PKB-mediated events
+RPTOR|participates_in|PKB-mediated events
+MTOR|participates_in|PKB-mediated events
+AKT2|participates_in|AKT-mediated inactivation of FOXO1A
+AKT1|participates_in|AKT-mediated inactivation of FOXO1A
+AKT3|participates_in|AKT-mediated inactivation of FOXO1A
+AKT2|participates_in|CD28 dependent PI3K/Akt signaling
+AKT2|participates_in|AKT phosphorylates targets in the cytosol
+AKT1S1|participates_in|AKT phosphorylates targets in the cytosol
+AKT2|participates_in|PKB-mediated events
+SOCS3|participates_in|PTK6 Activates STAT3
+STAT3|participates_in|PTK6 Activates STAT3
+SOCS3|participates_in|Growth hormone receptor signaling
+STAT5A|participates_in|Growth hormone receptor signaling
+SOCS3|participates_in|Interleukin-6 signaling
+SOCS1|participates_in|Regulation of IFNG signaling
+SOCS3|participates_in|Regulation of IFNG signaling
+SOCS1|participates_in|Growth hormone receptor signaling
+STAT3|participates_in|Growth hormone receptor signaling
+STAT1|participates_in|Regulation of IFNG signaling
+STAT1|participates_in|Interleukin-4 and Interleukin-13 signaling
+STAT1|participates_in|Downstream signal transduction
+AKT2|participates_in|Downstream signal transduction
+HRAS|participates_in|Signaling by FGFR1 in disease
+NRAS|participates_in|Signaling by FGFR1 in disease
+AKT3|participates_in|TP53 Regulates Metabolic Genes
+RPTOR|participates_in|TP53 Regulates Metabolic Genes
+AKT3|participates_in|CD28 dependent PI3K/Akt signaling
+AKT3|participates_in|AKT phosphorylates targets in the cytosol
+STAT3|participates_in|Signaling by FGFR1 in disease
+IFNGR1|causes or contributes to condition|mycobacterial infectious disease
+STAT1|causes or contributes to condition|mycobacterial infectious disease
+IFNGR2|participates_in|Regulation of IFNG signaling
+IFNGR1|participates_in|Regulation of IFNG signaling
+IFNG|participates_in|Regulation of IFNG signaling
+NRAS|causes or contributes to condition|Linear nevus sebaceous
+HRAS|causes or contributes to condition|Linear nevus sebaceous
+KRAS|causes or contributes to condition|Linear nevus sebaceous
+PRLR|participates_in|Prolactin receptor signaling
+STAT5A|participates_in|Prolactin receptor signaling
+STAT3|causes or contributes to condition|Non-small cell lung carcinoma
+PRL|participates_in|Prolactin receptor signaling
+GH1|participates_in|Prolactin receptor signaling
+GHR|participates_in|Prolactin receptor signaling
+STAT5A|causes or contributes to condition|Carcinoma
+CDK4|causes or contributes to condition|Carcinoma
+CCND2|causes or contributes to condition|myocardial ischemia
+STAT5A|causes or contributes to condition|Neoplasm of the lung
+AKT1|participates_in|PKB-mediated events
+AKT1|participates_in|AKT phosphorylates targets in the cytosol
+AKT1|participates_in|CD28 dependent PI3K/Akt signaling
+AKT3|causes or contributes to condition|Hemimegalencephaly
+MTOR|causes or contributes to condition|Hemimegalencephaly

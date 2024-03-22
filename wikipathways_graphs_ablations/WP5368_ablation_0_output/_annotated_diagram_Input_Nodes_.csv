@@ -1,0 +1,56 @@
+source|target|source_label|target_label|source_id|target_id
+HSD17B1|Estradiol-17beta|HSD17B1|Estradiol-17beta|http://www.ncbi.nlm.nih.gov/gene/3292|http://purl.obolibrary.org/obo/CHEBI_16469
+SLCO1B3|SLCO1B3|SLCO1B3|SLCO1B3|http://www.ncbi.nlm.nih.gov/gene/28234|http://www.ncbi.nlm.nih.gov/gene/28234
+SLCO1B3|estrone sulphate|SLCO1B3|estrone sulphate|http://www.ncbi.nlm.nih.gov/gene/28234|http://purl.obolibrary.org/obo/CHEBI_17474
+SLCO1B3|DHEA-S|SLCO1B3|DHEA-S|http://www.ncbi.nlm.nih.gov/gene/28234|http://purl.obolibrary.org/obo/CHEBI_16814
+SLCO1B3|SLCO1A2|SLCO1B3|SLCO1A2|http://www.ncbi.nlm.nih.gov/gene/28234|http://www.ncbi.nlm.nih.gov/gene/6579
+SLCO1B3|SLCO2B1|SLCO1B3|SLCO2B1|http://www.ncbi.nlm.nih.gov/gene/28234|http://www.ncbi.nlm.nih.gov/gene/11309
+SLCO1B3|SLCO4A1|SLCO1B3|SLCO4A1|http://www.ncbi.nlm.nih.gov/gene/28234|http://www.ncbi.nlm.nih.gov/gene/28231
+SLCO1B3|SLCO4C1|SLCO1B3|SLCO4C1|http://www.ncbi.nlm.nih.gov/gene/28234|http://www.ncbi.nlm.nih.gov/gene/353189
+SLCO4A1|estrone sulphate|SLCO4A1|estrone sulphate|http://www.ncbi.nlm.nih.gov/gene/28231|http://purl.obolibrary.org/obo/CHEBI_17474
+SLCO2B1|SLCO2B1|SLCO2B1|SLCO2B1|http://www.ncbi.nlm.nih.gov/gene/11309|http://www.ncbi.nlm.nih.gov/gene/11309
+SLCO4A1|SLCO2B1|SLCO4A1|SLCO2B1|http://www.ncbi.nlm.nih.gov/gene/28231|http://www.ncbi.nlm.nih.gov/gene/11309
+SLCO4A1|SLCO4C1|SLCO4A1|SLCO4C1|http://www.ncbi.nlm.nih.gov/gene/28231|http://www.ncbi.nlm.nih.gov/gene/353189
+SLCO4A1|SLCO1A2|SLCO4A1|SLCO1A2|http://www.ncbi.nlm.nih.gov/gene/28231|http://www.ncbi.nlm.nih.gov/gene/6579
+SLCO2B1|estrone sulphate|SLCO2B1|estrone sulphate|http://www.ncbi.nlm.nih.gov/gene/11309|http://purl.obolibrary.org/obo/CHEBI_17474
+SLCO2B1|DHEA-S|SLCO2B1|DHEA-S|http://www.ncbi.nlm.nih.gov/gene/11309|http://purl.obolibrary.org/obo/CHEBI_16814
+SLCO2B1|SLCO1A2|SLCO2B1|SLCO1A2|http://www.ncbi.nlm.nih.gov/gene/11309|http://www.ncbi.nlm.nih.gov/gene/6579
+SLCO2B1|SLCO4C1|SLCO2B1|SLCO4C1|http://www.ncbi.nlm.nih.gov/gene/11309|http://www.ncbi.nlm.nih.gov/gene/353189
+SLCO4C1|estrone sulphate|SLCO4C1|estrone sulphate|http://www.ncbi.nlm.nih.gov/gene/353189|http://purl.obolibrary.org/obo/CHEBI_17474
+SLCO1A2|SLCO1A2|SLCO1A2|SLCO1A2|http://www.ncbi.nlm.nih.gov/gene/6579|http://www.ncbi.nlm.nih.gov/gene/6579
+SLCO4C1|SLCO1A2|SLCO4C1|SLCO1A2|http://www.ncbi.nlm.nih.gov/gene/353189|http://www.ncbi.nlm.nih.gov/gene/6579
+SLCO1A2|estrone sulphate|SLCO1A2|estrone sulphate|http://www.ncbi.nlm.nih.gov/gene/6579|http://purl.obolibrary.org/obo/CHEBI_17474
+SLCO1A2|DHEA-S|SLCO1A2|DHEA-S|http://www.ncbi.nlm.nih.gov/gene/6579|http://purl.obolibrary.org/obo/CHEBI_16814
+SULT1E1|estrone sulphate|SULT1E1|estrone sulphate|http://www.ncbi.nlm.nih.gov/gene/6783|http://purl.obolibrary.org/obo/CHEBI_17474
+estrone|DHEA|estrone|DHEA|http://purl.obolibrary.org/obo/CHEBI_17263|http://purl.obolibrary.org/obo/CHEBI_28689
+DHEA|Estradiol-17beta|DHEA|Estradiol-17beta|http://purl.obolibrary.org/obo/CHEBI_28689|http://purl.obolibrary.org/obo/CHEBI_16469
+SLCO1B1|SLCO1B1|SLCO1B1|SLCO1B1|http://www.ncbi.nlm.nih.gov/gene/10599|http://www.ncbi.nlm.nih.gov/gene/10599
+HSD17B1|estrone|HSD17B1|estrone|http://www.ncbi.nlm.nih.gov/gene/3292|http://purl.obolibrary.org/obo/CHEBI_17263
+SLCO1B1|SLCO4C1|SLCO1B1|SLCO4C1|http://www.ncbi.nlm.nih.gov/gene/10599|http://www.ncbi.nlm.nih.gov/gene/353189
+SLCO1B1|SLCO2B1|SLCO1B1|SLCO2B1|http://www.ncbi.nlm.nih.gov/gene/10599|http://www.ncbi.nlm.nih.gov/gene/11309
+HSD17B1|NADH dianion|HSD17B1|NADH dianion|http://www.ncbi.nlm.nih.gov/gene/3292|http://purl.obolibrary.org/obo/CHEBI_57945
+Estradiol-17beta|Estradiol-17beta|Estradiol-17beta|Estradiol-17beta|http://purl.obolibrary.org/obo/CHEBI_16469|http://purl.obolibrary.org/obo/CHEBI_16469
+testosterone|Estradiol-17beta|testosterone|Estradiol-17beta|http://purl.obolibrary.org/obo/CHEBI_17347|http://purl.obolibrary.org/obo/CHEBI_16469
+Estradiol-17beta|ESR2|Estradiol-17beta|ESR2|http://purl.obolibrary.org/obo/CHEBI_16469|http://www.ncbi.nlm.nih.gov/gene/2100
+Estradiol-17beta|ESR1|Estradiol-17beta|ESR1|http://purl.obolibrary.org/obo/CHEBI_16469|http://www.ncbi.nlm.nih.gov/gene/2099
+Estradiol-17beta|estrone|Estradiol-17beta|estrone|http://purl.obolibrary.org/obo/CHEBI_16469|http://purl.obolibrary.org/obo/CHEBI_17263
+estrone sulphate|estrone sulphate|estrone sulphate|estrone sulphate|http://purl.obolibrary.org/obo/CHEBI_17474|http://purl.obolibrary.org/obo/CHEBI_17474
+estrone|estrone sulphate|estrone|estrone sulphate|http://purl.obolibrary.org/obo/CHEBI_17263|http://purl.obolibrary.org/obo/CHEBI_17474
+SULT1E1|DHEA-S|SULT1E1|DHEA-S|http://www.ncbi.nlm.nih.gov/gene/6783|http://purl.obolibrary.org/obo/CHEBI_16814
+SULT1E1|PAP|SULT1E1|PAP|http://www.ncbi.nlm.nih.gov/gene/6783|http://purl.obolibrary.org/obo/CHEBI_58343
+DHEA|DHEA-S|DHEA|DHEA-S|http://purl.obolibrary.org/obo/CHEBI_28689|http://purl.obolibrary.org/obo/CHEBI_16814
+SLCO1B1|SLCO4A1|SLCO1B1|SLCO4A1|http://www.ncbi.nlm.nih.gov/gene/10599|http://www.ncbi.nlm.nih.gov/gene/28231
+DHEA|Androstenedione|DHEA|Androstenedione|http://purl.obolibrary.org/obo/CHEBI_28689|http://purl.obolibrary.org/obo/CHEBI_16422
+HSD17B2|NADH dianion|HSD17B2|NADH dianion|http://www.ncbi.nlm.nih.gov/gene/3294|http://purl.obolibrary.org/obo/CHEBI_57945
+HSD17B3|testosterone|HSD17B3|testosterone|http://www.ncbi.nlm.nih.gov/gene/3293|http://purl.obolibrary.org/obo/CHEBI_17347
+HSD17B3|NADPH tetraanion|HSD17B3|NADPH tetraanion|http://www.ncbi.nlm.nih.gov/gene/3293|http://purl.obolibrary.org/obo/CHEBI_57783
+HSD17B3|NADP trianion|HSD17B3|NADP trianion|http://www.ncbi.nlm.nih.gov/gene/3293|http://purl.obolibrary.org/obo/CHEBI_58349
+HSD3B1|Androstenedione|HSD3B1|Androstenedione|http://www.ncbi.nlm.nih.gov/gene/3283|http://purl.obolibrary.org/obo/CHEBI_16422
+ESR2|ESR1|ESR2|ESR1|http://www.ncbi.nlm.nih.gov/gene/2100|http://www.ncbi.nlm.nih.gov/gene/2099
+Androstenedione|testosterone|Androstenedione|testosterone|http://purl.obolibrary.org/obo/CHEBI_16422|http://purl.obolibrary.org/obo/CHEBI_17347
+SLCO1B1|estrone sulphate|SLCO1B1|estrone sulphate|http://www.ncbi.nlm.nih.gov/gene/10599|http://purl.obolibrary.org/obo/CHEBI_17474
+SLCO1B1|DHEA-S|SLCO1B1|DHEA-S|http://www.ncbi.nlm.nih.gov/gene/10599|http://purl.obolibrary.org/obo/CHEBI_16814
+SLCO1B1|SLCO1A2|SLCO1B1|SLCO1A2|http://www.ncbi.nlm.nih.gov/gene/10599|http://www.ncbi.nlm.nih.gov/gene/6579
+SLCO1B1|SLCO1B3|SLCO1B1|SLCO1B3|http://www.ncbi.nlm.nih.gov/gene/10599|http://www.ncbi.nlm.nih.gov/gene/28234
+DHEA-S|DHEA-S|DHEA-S|DHEA-S|http://purl.obolibrary.org/obo/CHEBI_16814|http://purl.obolibrary.org/obo/CHEBI_16814
+SULT1E1|Estradiol-17beta|SULT1E1|Estradiol-17beta|http://www.ncbi.nlm.nih.gov/gene/6783|http://purl.obolibrary.org/obo/CHEBI_16469

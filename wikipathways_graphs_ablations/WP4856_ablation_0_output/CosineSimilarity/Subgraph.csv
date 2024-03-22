@@ -1,0 +1,45 @@
+S|P|O
+RAB3A|participates_in|Post-translational protein modification
+spectrin beta chain, non-erythrocytic 4 (human)|participates_in|Post-translational protein modification
+spectrin beta chain, non-erythrocytic 4 (human)|participates_in|transmission of nerve impulse
+neuron|capable of|transmission of nerve impulse
+SH3TC2|subClassOf|protein_coding_gene
+RAB11B|subClassOf|protein_coding_gene
+RAB25 (human)|subClassOf|protein_coding_gene
+RAB4B|participates_in|RAB geranylgeranylation
+RAB11B|participates_in|RAB geranylgeranylation
+RAB4B|participates_in|Post-translational protein modification
+RAB25 (human)|participates_in|Post-translational protein modification
+RAB25 (human)|participates_in|RAB geranylgeranylation
+GDAP1|subClassOf|protein_coding_gene
+MFN2|subClassOf|protein_coding_gene
+SH3TC2|subClassOf|gene
+RAB7A|subClassOf|gene
+RAB7A|participates_in|TBC/RABGAPs
+RAB11A|participates_in|TBC/RABGAPs
+RAB7A|participates_in|Innate Immune System
+RAB4B|participates_in|Innate Immune System
+RAB7A|participates_in|Vesicle-mediated transport
+RAB11B|participates_in|Vesicle-mediated transport
+RAB7A|subClassOf|protein_coding_gene
+RAB4B|subClassOf|protein_coding_gene
+RAB4A|participates_in|Signal Transduction
+RAB4B|participates_in|Signal Transduction
+RAB3A|subClassOf|protein_coding_gene
+RAB3B|subClassOf|protein_coding_gene
+RAB3B|participates_in|Post-translational protein modification
+RAB4A|participates_in|Vesicle-mediated transport
+SBF2|subClassOf|gene
+LITAF|subClassOf|gene
+RAB4A|participates_in|Post-translational protein modification
+RAB11B|participates_in|Post-translational protein modification
+FIG4 (human)|subClassOf|gene
+MTMR2|subClassOf|gene
+RAB11A|subClassOf|protein_coding_gene
+RAB4A|subClassOf|protein_coding_gene
+SBF2|subClassOf|protein_coding_gene
+MTMR2|subClassOf|protein_coding_gene
+RAB11A|participates_in|Metabolism of proteins
+RAB4B|participates_in|Metabolism of proteins
+RAB11A|participates_in|RAB geranylgeranylation
+RAB25 (human)|participates_in|Metabolism of proteins

@@ -1,0 +1,72 @@
+S|P|O
+Sparc|causes or contributes to condition|Nephropathy
+lead atom|is substance that treats|Nephropathy
+lead atom|molecularly interacts with|Cell adhesion
+Sparc|subClassOf|gene
+PAI-1|subClassOf|gene
+Sparc|subClassOf|protein_coding_gene
+Periostin|subClassOf|protein_coding_gene
+14-3-3|participates_in|Generic Transcription Pathway
+TAZ|participates_in|Generic Transcription Pathway
+14-3-3|participates_in|Signal Transduction
+Smad2|participates_in|Signal Transduction
+Smad3|participates_in|Signal Transduction
+Smad4|participates_in|Generic Transcription Pathway
+TAZ|participates_in|Metabolism
+CCN2 (human)|participates_in|Metabolism
+TAZ|subClassOf|protein_coding_gene
+TAZ|participates_in|Gene expression (Transcription)
+PAI-1|participates_in|Gene expression (Transcription)
+TAZ|participates_in|Signaling by TGF-beta Receptor Complex
+Smad2|participates_in|Signaling by TGF-beta Receptor Complex
+TAZ|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
+Smad3|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
+TAZ|participates_in|Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer
+Smad4|participates_in|Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer
+valproic acid|interacts with|Smad2
+valproic acid|interacts with|CNN2
+valproic acid|interacts with|Periostin
+PAI-1|participates_in|Signal Transduction
+Smad2|subClassOf|protein_coding_gene
+Smad2|participates_in|Gene expression (Transcription)
+Smad2|participates_in|Signaling by TGF-beta Receptor Complex in Cancer
+Smad3|participates_in|Signaling by TGF-beta Receptor Complex in Cancer
+Smad2|participates_in|TGF-beta receptor signaling activates SMADs
+Smad4|participates_in|TGF-beta receptor signaling activates SMADs
+TGFβ-II-R|participates_in|Signaling by TGF-beta Receptor Complex in Cancer
+valproic acid|interacts with|Smad3
+Smad3|subClassOf|protein_coding_gene
+Smad3|participates_in|Signaling by TGF-beta Receptor Complex
+PAI-1|participates_in|Signaling by TGF-beta Receptor Complex
+Smad3|causes or contributes to condition|Cirrhosis
+Sparc|causes or contributes to condition|Cirrhosis
+Smad3|participates_in|Signaling by NODAL
+Smad4|participates_in|Signaling by NODAL
+Smad4|subClassOf|protein_coding_gene
+CCN2 (human)|subClassOf|protein_coding_gene
+Smad4|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
+PAI-1|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
+Smad4|subClassOf|gene
+Smad4|participates_in|Signal Transduction
+TAZ|participates_in|Signal Transduction
+Smad4|participates_in|Signaling by Activin
+Smad2|participates_in|Signaling by Activin
+Smad4|participates_in|Loss of Function of SMAD4 in Cancer
+Smad3|participates_in|Loss of Function of SMAD4 in Cancer
+PAI-1|participates_in|ECM proteoglycans
+Sparc|participates_in|ECM proteoglycans
+TGFβ-I-R|participates_in|TGFBR1 KD Mutants in Cancer
+Smad2|participates_in|TGFBR1 KD Mutants in Cancer
+TGFβ-I-R|causes or contributes to condition|Emphysema
+Smad3|causes or contributes to condition|Emphysema
+TGFβ-I-R|causes or contributes to condition|Arterial dissection
+TGFβ-II-R|causes or contributes to condition|Arterial dissection
+TGFβ-I-R|subClassOf|protein_coding_gene
+TGFβ-III-R|subClassOf|protein_coding_gene
+TGF-β|causes or contributes to condition|Carcinoma
+TGFβ-II-R|causes or contributes to condition|Carcinoma
+TGFβ-II-R|participates_in|SMAD2/3 Phosphorylation Motif Mutants in Cancer
+Smad2|participates_in|SMAD2/3 Phosphorylation Motif Mutants in Cancer
+TGFβ-II-R|participates_in|TGFBR1 LBD Mutants in Cancer
+TGF-β|participates_in|TGFBR1 LBD Mutants in Cancer
+TGFβ-II-R|subClassOf|protein_coding_gene

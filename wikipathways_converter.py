@@ -19,15 +19,6 @@ from constants import (
     WIKIPATHWAYS_SUBFOLDER
 )
 
-
-def define_arguments():
-    parser=argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-    ## Required inputs
-    parser.add_argument("--wikipathways",dest="wikipathways",required=False,help="List of Wikipathways ID (example input: '['WP5372']'), there is no default")
-    parser.add_argument("--pfocr_urls",dest="pfocr_urls",required=False,help="List of pfocr urls (e.g., '['https://pfocr.wikipathways.org/figures/PMC6943888__40035_2019_179_Fig1_HTML.html']'), there is no default")
-    parser.add_argument("--pfocr-urls-file",dest="pfocr_urls_file",required=False,default=False,help="File with list of pfocr urls, there is no default",type=bool)
-    return(parser)
-
 def get_wikipathway_from_pfocr_url(pfocr_url):
     response = requests.get(pfocr_url)
     # Parse HTML
@@ -77,6 +68,7 @@ def convert_wikipathways_input(all_wikipathways_dir,wikipathway):
 
     return examples_file
 
+#Converts PFOCRs as a file or list into Wikipathway IDs, if provided
 def get_wikipathways_list(wikipathways,pfocr_urls,pfocr_urls_file):
 
     #Convert string input to list

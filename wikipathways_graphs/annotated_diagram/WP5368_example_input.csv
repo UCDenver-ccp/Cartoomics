@@ -1,0 +1,81 @@
+source|target
+CYP19A1|Estradiol-17beta
+HSD17B1|Estradiol-17beta
+HSD17B1|NADH dianion
+HSD17B1|NAD anion
+STS|estrone
+STS|DHEA
+STS|Estradiol-17beta
+testosterone|Estradiol-17beta
+Estradiol-17beta|Estradiol-17beta
+Estradiol-17beta|estradiol 3-sulphate
+Estradiol-17beta|ESR2
+Estradiol-17beta|ESR1
+Estradiol-17beta|estrone
+estrone|estrone sulphate
+estrone|Estradiol-17beta
+estrone sulphate|estrone
+estrone sulphate|estrone sulphate
+SULT1E1|DHEA-S
+SULT1E1|estradiol 3-sulphate
+SULT1E1|PAP
+SULT1E1|PAPS(4-)
+DHEA|DHEA-S
+DHEA|Androstenedione
+DHEA-S|DHEA
+DHEA-S|DHEA-S
+PAPS(4-)|estrone sulphate
+HSD17B2|NADH dianion
+HSD17B3|testosterone
+HSD17B3|NADPH tetraanion
+HSD17B3|NADP trianion
+NAD anion|estrone
+HSD3B1|Androstenedione
+estradiol 3-sulphate|Estradiol-17beta
+ESR2|ESR1
+ESR1|ESR2
+Androstenedione|testosterone
+SLCO1B1|estrone sulphate
+SLCO1B1|DHEA-S
+SLCO1B1|SLCO1A2
+SLCO1B1|SLCO1B3
+SLCO1B1|SLCO2B1
+SLCO1B1|SLCO4A1
+SLCO1B1|SLCO4C1
+SLCO1B1|SLCO1B1
+SLCO1B3|estrone sulphate
+SLCO1B3|DHEA-S
+SLCO1B3|SLCO1A2
+SLCO1B3|SLCO1B1
+SLCO1B3|SLCO2B1
+SLCO1B3|SLCO4A1
+SLCO1B3|SLCO4C1
+SLCO1B3|SLCO1B3
+SLCO4A1|estrone sulphate
+SLCO4A1|SLCO1B1
+SLCO4A1|SLCO1B3
+SLCO4A1|SLCO2B1
+SLCO4A1|SLCO4C1
+SLCO4A1|SLCO1A2
+SLCO2B1|estrone sulphate
+SLCO2B1|DHEA-S
+SLCO2B1|SLCO1A2
+SLCO2B1|SLCO1B1
+SLCO2B1|SLCO1B3
+SLCO2B1|SLCO4A1
+SLCO2B1|SLCO4C1
+SLCO2B1|SLCO2B1
+SLCO4C1|estrone sulphate
+SLCO4C1|SLCO1B1
+SLCO4C1|SLCO1B3
+SLCO4C1|SLCO4A1
+SLCO4C1|SLCO2B1
+SLCO4C1|SLCO1A2
+SLCO1A2|estrone sulphate
+SLCO1A2|DHEA-S
+SLCO1A2|SLCO1B1
+SLCO1A2|SLCO1B3
+SLCO1A2|SLCO2B1
+SLCO1A2|SLCO4A1
+SLCO1A2|SLCO4C1
+SLCO1A2|SLCO1A2

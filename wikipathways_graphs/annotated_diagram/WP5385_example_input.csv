@@ -1,0 +1,114 @@
+source|target
+AKT1|Rab43
+AKT1|Proliferation
+AKT1|FOXO1
+AKT1|AKT2
+AKT1|AKT3
+Rab43|Proliferation
+AKT2|Rab43
+AKT2|Proliferation
+AKT2|FOXO1
+AKT2|AKT1
+AKT2|AKT3
+AKT3|Rab43
+AKT3|Proliferation
+AKT3|FOXO1
+AKT3|AKT1
+AKT3|AKT2
+IR|K-Ras
+K-Ras|Rasf1a
+K-Ras|B-Raf
+T3|ERK 1
+T3|ERK 2
+T3|T4
+ERK 1|FOXO1
+ERK 1|EZH2
+ERK 1|ERK 2
+ERK 2|FOXO1
+ERK 2|EZH2
+ERK 2|ERK 1
+PDGFa|PDGFR-a
+PDGFR-a|K-Ras
+Cyclin D|Proliferation
+Cyclin D|Cyclin A
+Cyclin D|cMyc
+Cyclin D|CDK2
+Cyclin D|CDK4
+Cyclin D|FOXM1
+Cyclin A|Proliferation
+Cyclin A|Cyclin D
+Cyclin A|cMyc
+Cyclin A|CDK2
+Cyclin A|CDK4
+Cyclin A|FOXM1
+cMyc|Proliferation
+cMyc|Cyclin D
+cMyc|Cyclin A
+cMyc|CDK2
+cMyc|CDK4
+cMyc|FOXM1
+CDK2|Proliferation
+CDK2|Cyclin D
+CDK2|Cyclin A
+CDK2|cMyc
+CDK2|CDK4
+CDK2|FOXM1
+CDK4|Proliferation
+CDK4|Cyclin D
+CDK4|Cyclin A
+CDK4|cMyc
+CDK4|CDK2
+CDK4|FOXM1
+FOXM1|Proliferation
+FOXM1|Cyclin D
+FOXM1|Cyclin A
+FOXM1|cMyc
+FOXM1|CDK2
+FOXM1|CDK4
+Ca2+|CaM
+CaM|NFAT
+CaM|CRTC2
+IGF-1|IGF-1R
+IGF-1R|K-Ras
+VEGFR-1|AKT1
+VEGFR-1|AKT2
+VEGFR-1|AKT3
+TRs|T3
+FOXO1|Pdx1
+Pdx1|Proliferation
+PLGF|VEGFR-1
+Pref-1R|ERK 1
+Pref-1R|ERK 2
+NFAT|PI3K
+NFAT|Cyclin D
+NFAT|Cyclin A
+NFAT|cMyc
+NFAT|CDK2
+NFAT|CDK4
+NFAT|FOXM1
+NFAT|CRTC2
+PI3K|AKT1
+PI3K|AKT2
+PI3K|AKT3
+CRTC2|PI3K
+CRTC2|Cyclin D
+CRTC2|Cyclin A
+CRTC2|cMyc
+CRTC2|CDK2
+CRTC2|CDK4
+CRTC2|FOXM1
+CRTC2|NFAT
+B-Raf|ERK 1
+B-Raf|ERK 2
+P16ink4a|Proliferation
+TGFB1|TGFB1R
+TGFB1R|Smad7
+Smad7|AKT1
+Smad7|AKT2
+Smad7|AKT3
+EZH2|P16ink4a
+T4|TRs
+T4|T3
+Rasf1a|Proliferation
+Pref-1|Pref-1R
+Insulin|IR

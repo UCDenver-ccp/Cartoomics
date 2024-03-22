@@ -1,0 +1,158 @@
+S|P|O
+ERK 2|participates_in|Oxidative Stress Induced Senescence
+EZH2|participates_in|Oxidative Stress Induced Senescence
+AKT3|participates_in|AKT-mediated inactivation of FOXO1A
+FOXO1|participates_in|AKT-mediated inactivation of FOXO1A
+AKT1|participates_in|AKT-mediated inactivation of FOXO1A
+AKT2|participates_in|AKT-mediated inactivation of FOXO1A
+K-Ras|causes or contributes to condition|tubular adenocarcinoma
+Rasf1a|causes or contributes to condition|tubular adenocarcinoma
+K-Ras|causes or contributes to condition|gemistocytic astrocytoma
+B-Raf|causes or contributes to condition|gemistocytic astrocytoma
+T3|is substance that treats|Autism
+ERK 1|causes or contributes to condition|Autism
+T3|interacts with|mitogen-activated protein kinase 1 (human)
+mitogen-activated protein kinase 1 (human)|has_gene_template|ERK 2
+desiccated thyroid extract|has part|3,3',5-triiodo-L-thyronine
+desiccated thyroid extract|has part|T4
+ERK 1|participates_in|PI3K/AKT activation
+FOXO1|participates_in|PI3K/AKT activation
+ERK 1|participates_in|Oxidative Stress Induced Senescence
+ERK 1|participates_in|Negative feedback regulation of MAPK pathway
+ERK 2|participates_in|Negative feedback regulation of MAPK pathway
+VEGFR-1|participates_in|Signaling by VEGF
+AKT3|participates_in|Signaling by VEGF
+FOXO1|participates_in|Regulation of gene expression in beta cells
+Pdx1|participates_in|Regulation of gene expression in beta cells
+cMyc|participates_in|Cyclin E associated events during G1/S transition 
+CDK4|participates_in|Cyclin E associated events during G1/S transition 
+cMyc|causes or contributes to condition|Neoplasm of the lung
+FOXM1|causes or contributes to condition|Neoplasm of the lung
+CDK2|participates_in|PTK6 Regulates Cell Cycle
+CDK4|participates_in|PTK6 Regulates Cell Cycle
+CDK2|participates_in|Cyclin A/B1/B2 associated events during G2/M transition
+FOXM1|participates_in|Cyclin A/B1/B2 associated events during G2/M transition
+CDK2|participates_in|Cyclin E associated events during G1/S transition 
+CDK4|causes or contributes to condition|Hepatocellular carcinoma
+FOXM1|causes or contributes to condition|Hepatocellular carcinoma
+calmodulin (human)|subClassOf|CaM
+calmodulin-1 (human)|subClassOf|calmodulin (human)
+calmodulin-1 (human)|participates_in|Transcriptional activation of mitochondrial biogenesis
+CRTC2|participates_in|Transcriptional activation of mitochondrial biogenesis
+IGF-1|participates_in|SHC-related events triggered by IGF1R
+IGF-1R|participates_in|SHC-related events triggered by IGF1R
+PLGF|participates_in|VEGF binds to VEGFR leading to receptor dimerization
+VEGFR-1|participates_in|VEGF binds to VEGFR leading to receptor dimerization
+calmodulin-1 (human)|participates_in|Signal Transduction
+CDK4|participates_in|Signal Transduction
+CRTC2|subClassOf|protein_coding_gene
+cMyc|subClassOf|protein_coding_gene
+TGFB1|participates_in|TGFBR1 LBD Mutants in Cancer
+TGFB1R|participates_in|TGFBR1 LBD Mutants in Cancer
+phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform (human)|has function|PI3K
+phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform (human)|participates_in|G beta:gamma signalling through PI3Kgamma
+AKT3|participates_in|G beta:gamma signalling through PI3Kgamma
+CRTC2|has gene product|CREB-regulated transcription coactivator 2 (human)
+CREB-regulated transcription coactivator 2 (human)|molecularly interacts with|5'-AMP-activated protein kinase subunit gamma-3 (human)
+5'-AMP-activated protein kinase subunit gamma-3 (human)|molecularly interacts with|phosphatidylinositol 3-kinase catalytic subunit type 3 (human)
+phosphatidylinositol 3-kinase catalytic subunit type 3 (human)|has function|PI3K
+CDK2|subClassOf|protein_coding_gene
+CDK4|subClassOf|protein_coding_gene
+FOXM1|subClassOf|protein_coding_gene
+B-Raf|participates_in|Negative feedback regulation of MAPK pathway
+TGFB1R|participates_in|Downregulation of TGF-beta receptor signaling
+Smad7|participates_in|Downregulation of TGF-beta receptor signaling
+Smad7|causes or contributes to condition|Neoplasm of the large intestine
+AKT1|causes or contributes to condition|Neoplasm of the large intestine
+Smad7|participates_in|Generic Transcription Pathway
+AKT2|participates_in|Generic Transcription Pathway
+AKT3|participates_in|Generic Transcription Pathway
+Insulin|participates_in|Downstream signaling events of B Cell Receptor (BCR)
+K-Ras|participates_in|Downstream signaling events of B Cell Receptor (BCR)
+AKT1|participates_in|G beta:gamma signalling through PI3Kgamma
+AKT2|participates_in|G beta:gamma signalling through PI3Kgamma
+CaM|subClassOf|protein
+phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit gamma|subClassOf|protein
+phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit gamma (human)|subClassOf|phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit gamma
+phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit gamma (human)|has function|PI3K
+calmodulin-1 (human)|participates_in|MAPK family signaling cascades
+cMyc|participates_in|MAPK family signaling cascades
+calmodulin-1 (human)|participates_in|Hemostasis
+CDK2|participates_in|Hemostasis
+forkhead box protein M1|subClassOf|protein
+forkhead box protein M1 (human)|subClassOf|forkhead box protein M1
+forkhead box protein M1 (human)|has_gene_template|FOXM1
+IGF-1R|causes or contributes to condition|Squamous cell lung carcinoma
+K-Ras|causes or contributes to condition|Squamous cell lung carcinoma
+VEGFR-1|causes or contributes to condition|Lung adenocarcinoma
+AKT1|causes or contributes to condition|Lung adenocarcinoma
+AKT2|participates_in|Signaling by VEGF
+AKT1|participates_in|Regulation of TP53 Degradation
+CDK2|participates_in|Regulation of TP53 Degradation
+Pdx1|has gene product|pancreas/duodenum homeobox protein 1 (human)
+pancreas/duodenum homeobox protein 1 (human)|subClassOf|pancreas/duodenum homeobox protein 1
+pancreas/duodenum homeobox protein 1|subClassOf|protein
+Ras GTPase-activating protein 4B (human)|molecularly interacts with|calcium(2+)
+Ras GTPase-activating protein 4B (human)|subClassOf|protein
+PDGFa|causes or contributes to condition|Thyroid carcinoma
+K-Ras|causes or contributes to condition|Thyroid carcinoma
+Pdx1|subClassOf|protein_coding_gene
+AKT1|subClassOf|protein_coding_gene
+Rasf1a|subClassOf|protein_coding_gene
+AKT2|subClassOf|protein_coding_gene
+EZH2|subClassOf|protein_coding_gene
+AKT3|subClassOf|protein_coding_gene
+AKT1|participates_in|Regulation of gene expression in beta cells
+Pdx1|causes or contributes to condition|Neoplasm of the pancreas
+cMyc|causes or contributes to condition|Neoplasm of the pancreas
+Pdx1|subClassOf|gene
+Rasf1a|subClassOf|gene
+AKT2|participates_in|Regulation of gene expression in beta cells
+Pdx1|participates_in|Developmental Biology
+CDK4|participates_in|Developmental Biology
+EZH2|participates_in|Developmental Biology
+AKT3|participates_in|Regulation of gene expression in beta cells
+AKT1|participates_in|eNOS activation
+calmodulin-1 (human)|participates_in|eNOS activation
+AKT1|causes or contributes to condition|Osteosarcoma
+cMyc|causes or contributes to condition|Osteosarcoma
+AKT1|causes or contributes to condition|Neoplasm of the lung
+Rasf1a|causes or contributes to condition|Neoplasm of the lung
+AKT1|causes or contributes to condition|cutaneous melanoma
+CDK4|causes or contributes to condition|cutaneous melanoma
+EZH2|causes or contributes to condition|Osteosarcoma
+CDK4|participates_in|Oxidative Stress Induced Senescence
+AKT3|participates_in|Regulation of TP53 Degradation
+Pref-1|participates_in|Signal Transduction
+ERK 1|participates_in|Signal Transduction
+ERK 2|participates_in|Signal Transduction
+AKT3|participates_in|Cyclin E associated events during G1/S transition 
+Ras association domain-containing protein 1|subClassOf|protein
+Ras association domain-containing protein 1 (human)|subClassOf|Ras association domain-containing protein 1
+Ras association domain-containing protein 1 (human)|has_gene_template|Rasf1a
+calmodulin-1 (human)|participates_in|VEGFR2 mediated vascular permeability
+AKT2|participates_in|VEGFR2 mediated vascular permeability
+histone-lysine N-methyltransferase EZH2|subClassOf|protein
+histone-lysine N-methyltransferase EZH2 (human)|subClassOf|histone-lysine N-methyltransferase EZH2
+histone-lysine N-methyltransferase EZH2 (human)|has_gene_template|EZH2
+AKT3|participates_in|VEGFR2 mediated vascular permeability
+cMyc|causes or contributes to condition|medullomyoblastoma with myogenic differentiation
+Rasf1a|causes or contributes to condition|medullomyoblastoma with myogenic differentiation
+AKT2|participates_in|Cyclin E associated events during G1/S transition 
+ERK 2|participates_in|PI3K/AKT activation
+diazinon|interacts with|Rasf1a
+diazinon|interacts with|CDK4
+EZH2|subClassOf|gene
+AKT3|subClassOf|gene
+FOXM1|causes or contributes to condition|Non-small cell lung carcinoma
+AKT2|causes or contributes to condition|Non-small cell lung carcinoma
+EZH2|causes or contributes to condition|Hepatocellular carcinoma
+FOXM1|participates_in|Cell Cycle, Mitotic
+AKT3|participates_in|Cell Cycle, Mitotic
+AKT2|participates_in|Regulation of TP53 Degradation
+AKT2|causes or contributes to condition|Neoplasm of the breast
+EZH2|causes or contributes to condition|Neoplasm of the breast
+CDK2|causes or contributes to condition|diffuse large B-cell lymphoma
+EZH2|causes or contributes to condition|diffuse large B-cell lymphoma
+AKT2|subClassOf|gene
+AKT3|participates_in|Developmental Biology

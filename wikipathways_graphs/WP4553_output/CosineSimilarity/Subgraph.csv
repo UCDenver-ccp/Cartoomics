@@ -1,0 +1,175 @@
+S|P|O
+DUSP6|participates_in|MyD88-independent TLR4 cascade 
+MAPK1|participates_in|MyD88-independent TLR4 cascade 
+DUSP6|participates_in|Signaling by GPCR
+MAPK3|participates_in|Signaling by GPCR
+MAPK1|participates_in|MAP2K and MAPK activation
+MAPK3|participates_in|MAP2K and MAPK activation
+MAPK3|participates_in|Interleukin receptor SHC signaling
+MAPK1|participates_in|Interleukin receptor SHC signaling
+RNF2|subClassOf|protein_coding_gene
+PCGF1|subClassOf|protein_coding_gene
+valproic acid|interacts with|RNF2
+valproic acid|interacts with|BCOR
+valproic acid|interacts with|FBXL10
+BCL6|subClassOf|protein_coding_gene
+EED|causes or contributes to condition|Weaver syndrome
+Weaver syndrome|disease has basis in dysfunction of|EZH2
+EED|participates_in|Activation of HOX genes during differentiation
+SUZ12|participates_in|Activation of HOX genes during differentiation
+EZH2|participates_in|Activation of anterior HOX genes in hindbrain development during early embryogenesis
+EED|participates_in|Activation of anterior HOX genes in hindbrain development during early embryogenesis
+EZH2|participates_in|Activation of HOX genes during differentiation
+SUZ12|participates_in|PKMTs methylate histone lysines
+EED|participates_in|PKMTs methylate histone lysines
+SUZ12|participates_in|PRC2 methylates histones and DNA
+EZH2|participates_in|PRC2 methylates histones and DNA
+H3F3B|genetically interacts with|H3F3A
+H3F3A|genetically interacts with|HIST1H3D
+H3F3A|genetically interacts with|HIST1H3J
+H3F3A|genetically interacts with|HIST2H3A
+H3F3A|genetically interacts with|HIST2H3C
+H3F3A|genetically interacts with|HIST2H3D
+H3F3A|participates_in|PRC2 methylates histones and DNA
+HIST1H3C|participates_in|PRC2 methylates histones and DNA
+H3F3A|genetically interacts with|HIST1H3G
+H3F3A|genetically interacts with|HIST1H3H
+H3F3A|genetically interacts with|HIST1H3A
+H3F3A|genetically interacts with|HIST1H3F
+H3F3A|genetically interacts with|HIST1H3I
+H3F3A|genetically interacts with|HIST1H3E
+H3F3B|genetically interacts with|HIST1H3D
+H3F3B|genetically interacts with|HIST1H3J
+H3F3B|genetically interacts with|HIST2H3A
+H3F3B|genetically interacts with|HIST2H3C
+H3F3B|genetically interacts with|HIST2H3D
+H3F3B|genetically interacts with|HIST1H3F
+HIST1H3F|has gene product|HIST1H3C
+H3F3B|genetically interacts with|HIST1H3G
+H3F3B|genetically interacts with|HIST1H3H
+H3F3B|genetically interacts with|HIST1H3A
+H3F3B|genetically interacts with|HIST1H3I
+H3F3B|genetically interacts with|HIST1H3E
+HIST1H3J|genetically interacts with|HIST1H3D
+HIST1H3D|genetically interacts with|HIST2H3A
+HIST1H3D|genetically interacts with|HIST2H3C
+HIST2H3D|genetically interacts with|HIST1H3D
+HIST1H3D|has gene product|HIST1H3C
+HIST1H3D|genetically interacts with|HIST1H3G
+HIST1H3D|genetically interacts with|HIST1H3H
+HIST1H3D|genetically interacts with|HIST1H3A
+HIST1H3D|genetically interacts with|HIST1H3F
+HIST1H3D|genetically interacts with|HIST1H3I
+HIST1H3D|genetically interacts with|HIST1H3E
+HIST1H3J|genetically interacts with|HIST2H3A
+HIST1H3J|genetically interacts with|HIST2H3C
+HIST2H3D|genetically interacts with|HIST1H3J
+HIST1H3J|has gene product|HIST1H3C
+HIST1H3J|genetically interacts with|HIST1H3G
+HIST1H3J|genetically interacts with|HIST1H3H
+HIST1H3J|genetically interacts with|HIST1H3A
+HIST1H3J|genetically interacts with|HIST1H3F
+HIST1H3J|genetically interacts with|HIST1H3I
+HIST1H3J|genetically interacts with|HIST1H3E
+HIST2H3C|genetically interacts with|HIST2H3A
+HIST2H3D|genetically interacts with|HIST2H3A
+HIST2H3A|genetically interacts with|HIST1H3F
+HIST2H3A|genetically interacts with|HIST1H3G
+HIST2H3A|genetically interacts with|HIST1H3H
+HIST2H3A|genetically interacts with|HIST1H3A
+HIST2H3A|genetically interacts with|HIST1H3I
+HIST2H3A|genetically interacts with|HIST1H3E
+HIST2H3D|genetically interacts with|HIST2H3C
+HIST2H3C|genetically interacts with|HIST1H3F
+HIST2H3C|genetically interacts with|HIST1H3G
+HIST2H3C|genetically interacts with|HIST1H3H
+HIST2H3C|genetically interacts with|HIST1H3A
+HIST2H3C|genetically interacts with|HIST1H3I
+HIST2H3C|genetically interacts with|HIST1H3E
+HIST2H3D|genetically interacts with|HIST1H3F
+HIST2H3D|genetically interacts with|HIST1H3G
+HIST2H3D|genetically interacts with|HIST1H3H
+HIST2H3D|genetically interacts with|HIST1H3A
+HIST2H3D|genetically interacts with|HIST1H3I
+HIST2H3D|genetically interacts with|HIST1H3E
+HIST1H3C|has_gene_template|HIST1H3E (human)
+H3F3A|genetically interacts with|HIST1H3E (human)
+HIST1H3C|has_gene_template|HIST1H3D
+HIST1H3A|has gene product|HIST1H3C
+HIST2H3C|genetically interacts with|HIST1H3E (human)
+HIST1H3G|has gene product|HIST1H3C
+HIST1H3C|has_gene_template|HIST1H3H
+HIST1H3I|has gene product|HIST1H3C
+HIST1H3C|has_gene_template|HIST1H3E
+HIST1H3G|genetically interacts with|HIST1H3H
+HIST1H3G|genetically interacts with|HIST1H3A
+HIST1H3G|genetically interacts with|HIST1H3F
+HIST1H3G|genetically interacts with|HIST1H3I
+HIST1H3G|genetically interacts with|HIST1H3E
+HIST1H3H|has gene product|HIST1H3C
+HIST1H3A|genetically interacts with|HIST1H3H
+HIST1H3F|genetically interacts with|HIST1H3H
+HIST1H3I|genetically interacts with|HIST1H3H
+HIST1H3E|genetically interacts with|HIST1H3H
+HIST1H3A|genetically interacts with|HIST1H3F
+HIST1H3I|genetically interacts with|HIST1H3A
+HIST1H3E|genetically interacts with|HIST1H3A
+HIST1H3I|genetically interacts with|HIST1H3F
+HIST1H3E|genetically interacts with|HIST1H3F
+HIST1H3E|genetically interacts with|HIST1H3I
+HIST1H3E|has gene product|HIST1H3C
+H2AFB1|subClassOf|protein_coding_gene
+H2AFB2|subClassOf|protein_coding_gene
+valproic acid|interacts with|H2AFB1
+valproic acid|interacts with|H2AFB3
+H2AFB1|participates_in|RNA Polymerase I Promoter Opening
+H2AFJ|participates_in|RNA Polymerase I Promoter Opening
+H2AFB1|participates_in|SIRT1 negatively regulates rRNA expression
+H2AFV|participates_in|SIRT1 negatively regulates rRNA expression
+H2AFX|subClassOf|protein_coding_gene
+H2AFY|subClassOf|protein_coding_gene
+H2AFY2|subClassOf|protein_coding_gene
+H2AFB1|participates_in|TCF dependent signaling in response to WNT
+H2AFZ|participates_in|TCF dependent signaling in response to WNT
+H2AFB3|genetically interacts with|H2AFB2
+valproic acid|interacts with|H2AFB2
+valproic acid|interacts with|H2AFJ
+H2AFV|subClassOf|protein_coding_gene
+valproic acid|interacts with|H2AFY
+valproic acid|interacts with|H2AFY2
+H2AFZ|subClassOf|protein_coding_gene
+H2AFB3|subClassOf|protein_coding_gene
+H2AFJ|participates_in|TCF dependent signaling in response to WNT
+H2AFJ|subClassOf|protein_coding_gene
+H2AFJ|participates_in|RHO GTPases activate PKNs
+H2AFV|participates_in|RHO GTPases activate PKNs
+H2AFX|participates_in|RHO GTPases activate PKNs
+H2AFZ|participates_in|RNA Polymerase I Promoter Opening
+H2AFV|participates_in|Gene Silencing by RNA
+H2AFB1|participates_in|Gene Silencing by RNA
+H2AFV|participates_in|Deposition of new CENPA-containing nucleosomes at the centromere
+H2AFJ|participates_in|Deposition of new CENPA-containing nucleosomes at the centromere
+H2AFV|participates_in|NoRC negatively regulates rRNA expression
+H2AFX|participates_in|NoRC negatively regulates rRNA expression
+H2AFV|participates_in|Nucleosome assembly
+H2AFZ|participates_in|Nucleosome assembly
+H2AFX|participates_in|Developmental Biology
+H2AFB1|participates_in|Developmental Biology
+H2AFX|participates_in|Senescence-Associated Secretory Phenotype (SASP)
+H2AFJ|participates_in|Senescence-Associated Secretory Phenotype (SASP)
+H2AFX|participates_in|TCF dependent signaling in response to WNT
+H2AFV|participates_in|TCF dependent signaling in response to WNT
+H2AFX|participates_in|DNA methylation
+H2AFZ|participates_in|DNA methylation
+H2AFZ|participates_in|Signal Transduction
+H2AFB1|participates_in|Signal Transduction
+H2AFZ|participates_in|Cell Cycle
+H2AFJ|participates_in|Cell Cycle
+H2AFZ|participates_in|NoRC negatively regulates rRNA expression
+H2AFZ|participates_in|Cell Cycle, Mitotic
+H2AFX|participates_in|Cell Cycle, Mitotic
+BCOR|subClassOf|protein_coding_gene
+FBXL10|subClassOf|protein_coding_gene
+aflatoxin B1|interacts with|PCGF1
+aflatoxin B1|interacts with|BCL6
+aflatoxin B1|interacts with|BCOR

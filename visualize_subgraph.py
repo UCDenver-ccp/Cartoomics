@@ -83,6 +83,8 @@ def create_cytoscape_png(subgraph_df,subgraph_attributes_df,output_dir):
         os.makedirs(output_dir)
 
     #Update column names for cytoscape
+    #Subset columns
+    subgraph_df = subgraph_df[['S','P','O']]
     subgraph_df.columns = ['source','interaction','target']
     subgraph_attributes_df.columns = ['id','index']
 
@@ -108,7 +110,8 @@ def output_visualization(input_nodes_df,subgraph_df,output_dir):
 
     create_sif_file(subgraph_df,output_dir)
 
-    create_cytoscape_png(subgraph_df,subgraph_attributes_df,output_dir)
+    ##Not outputting graph visualization
+    ##create_cytoscape_png(subgraph_df,subgraph_attributes_df,output_dir)
 
     logging.info('Subgraph visualization complete.')
 

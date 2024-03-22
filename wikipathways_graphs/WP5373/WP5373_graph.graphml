@@ -1,0 +1,2810 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d15" for="edge" attr.name="color" attr.type="string"/>
+<key id="d14" for="edge" attr.name="signal" attr.type="string"/>
+<key id="d13" for="edge" attr.name="interaction" attr.type="string"/>
+<key id="d12" for="edge" attr.name="arrow" attr.type="string"/>
+<key id="d11" for="edge" attr.name="edgeID" attr.type="string"/>
+<key id="d10" for="node" attr.name="geometry" attr.type="string"/>
+<key id="d9" for="node" attr.name="databaseID" attr.type="string"/>
+<key id="d8" for="node" attr.name="database" attr.type="string"/>
+<key id="d7" for="node" attr.name="color" attr.type="string"/>
+<key id="d6" for="node" attr.name="height" attr.type="string"/>
+<key id="d5" for="node" attr.name="width" attr.type="string"/>
+<key id="d4" for="node" attr.name="centerY" attr.type="string"/>
+<key id="d3" for="node" attr.name="centerX" attr.type="string"/>
+<key id="d2" for="node" attr.name="groupref" attr.type="string"/>
+<key id="d1" for="node" attr.name="graphid" attr.type="string"/>
+<key id="d0" for="node" attr.name="textlabel" attr.type="string"/>
+<graph edgedefault="directed"><node id="RUNX2">
+  <data key="d0">RUNX2</data>
+  <data key="d1">a1da8</data>
+  <data key="d2">ddca4</data>
+  <data key="d3">1131.8875006115347</data>
+  <data key="d4">708.8354465791303</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000124813</data>
+  <data key="d10">POINT (1131.8875006115347 708.8354465791303)</data>
+</node>
+<node id="Hypertrophy">
+  <data key="d0">Hypertrophy</data>
+  <data key="d1">f57f3</data>
+  <data key="d2">None</data>
+  <data key="d3">872.5485023358063</data>
+  <data key="d4">827.7188788128606</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#14961e</data>
+  <data key="d8">Unknown</data>
+  <data key="d9">Hypertrophy</data>
+  <data key="d10">POINT (872.5485023358063 827.7188788128606)</data>
+</node>
+<node id="COL10A1">
+  <data key="d0">COL10A1</data>
+  <data key="d1">fdfc2</data>
+  <data key="d2">ddca4</data>
+  <data key="d3">1131.8875006115347</data>
+  <data key="d4">733.8354465791303</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000123500</data>
+  <data key="d10">POINT (1131.8875006115347 733.8354465791303)</data>
+</node>
+<node id="MMP13">
+  <data key="d0">MMP13</data>
+  <data key="d1">db756</data>
+  <data key="d2">ddca4</data>
+  <data key="d3">1131.8875006115347</data>
+  <data key="d4">758.8354465791302</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000137745</data>
+  <data key="d10">POINT (1131.8875006115347 758.8354465791302)</data>
+</node>
+<node id="CEBPB">
+  <data key="d0">CEBPB</data>
+  <data key="d1">bc3b2</data>
+  <data key="d2">None</data>
+  <data key="d3">1130.7513819634667</data>
+  <data key="d4">523.1150852242363</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P17676</data>
+  <data key="d10">POINT (1130.7513819634667 523.1150852242363)</data>
+</node>
+<node id="DIO2">
+  <data key="d0">DIO2</data>
+  <data key="d1">ea42b</data>
+  <data key="d2">None</data>
+  <data key="d3">1073.9521428507107</data>
+  <data key="d4">336.81566099443404</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000211448</data>
+  <data key="d10">POINT (1073.9521428507107 336.81566099443404)</data>
+</node>
+<node id="EPAS1">
+  <data key="d0">EPAS1</data>
+  <data key="d1">ec43d</data>
+  <data key="d2">None</data>
+  <data key="d3">1130.7513819634667</data>
+  <data key="d4">462.8650852242361</data>
+  <data key="d5">60.0</data>
+  <data key="d6">26.5</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000116016</data>
+  <data key="d10">POINT (1130.7513819634667 462.8650852242361)</data>
+</node>
+<node id="Vascularization">
+  <data key="d0">Vascularization</data>
+  <data key="d1">b7354</data>
+  <data key="d2">None</data>
+  <data key="d3">721.4839016128983</data>
+  <data key="d4">568.1918158567787</data>
+  <data key="d5">116.3160842422389</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#14961e</data>
+  <data key="d8">Unknown</data>
+  <data key="d9">Vascularization</data>
+  <data key="d10">POINT (721.4839016128983 568.1918158567787)</data>
+</node>
+<node id="DDR2">
+  <data key="d0">DDR2</data>
+  <data key="d1">f186e</data>
+  <data key="d2">None</data>
+  <data key="d3">628.2483157040028</data>
+  <data key="d4">225.9746447060777</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q16832</data>
+  <data key="d10">POINT (628.2483157040028 225.9746447060777)</data>
+</node>
+<node id="ARNT">
+  <data key="d0">ARNT</data>
+  <data key="d1">f8625</data>
+  <data key="d2">cbf98</data>
+  <data key="d3">944.7014352793859</data>
+  <data key="d4">407.00344630828045</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P27540</data>
+  <data key="d10">POINT (944.7014352793859 407.00344630828045)</data>
+</node>
+<node id="GANC">
+  <data key="d0">GANC</data>
+  <data key="d1">aace6</data>
+  <data key="d2">ca9a9</data>
+  <data key="d3">1046.5385412897817</data>
+  <data key="d4">716.7629671545656</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000214013</data>
+  <data key="d10">POINT (1046.5385412897817 716.7629671545656)</data>
+</node>
+<node id="COL2A1">
+  <data key="d0">COL2A1</data>
+  <data key="d1">df8b9</data>
+  <data key="d2">ad33e</data>
+  <data key="d3">628.2483157040027</data>
+  <data key="d4">102.55804232539873</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000139219</data>
+  <data key="d10">POINT (628.2483157040027 102.55804232539873)</data>
+</node>
+<node id="ACAN">
+  <data key="d0">ACAN</data>
+  <data key="d1">e1914</data>
+  <data key="d2">ca9a9</data>
+  <data key="d3">1046.5385412897817</data>
+  <data key="d4">691.7629671545656</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000157766</data>
+  <data key="d10">POINT (1046.5385412897817 691.7629671545656)</data>
+</node>
+<node id="VEGFA">
+  <data key="d0">VEGFA</data>
+  <data key="d1">a0997</data>
+  <data key="d2">None</data>
+  <data key="d3">312.54315772770246</data>
+  <data key="d4">89.25181196633719</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000112715</data>
+  <data key="d10">POINT (312.54315772770246 89.25181196633719)</data>
+</node>
+<node id="HIF1A">
+  <data key="d0">HIF1A</data>
+  <data key="d1">d854a</data>
+  <data key="d2">None</data>
+  <data key="d3">461.436164400234</data>
+  <data key="d4">550.7956096215378</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000100644</data>
+  <data key="d10">POINT (461.436164400234 550.7956096215378)</data>
+</node>
+<node id="Triiodothyronine">
+  <data key="d0">Triiodothyronine</data>
+  <data key="d1">d9cab</data>
+  <data key="d2">None</data>
+  <data key="d3">1130.7513819634662</data>
+  <data key="d4">395.43763665600585</data>
+  <data key="d5">115.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">CHEBI:18258</data>
+  <data key="d10">POINT (1130.7513819634662 395.43763665600585)</data>
+</node>
+<node id="Prolyl 4-hydroxylase">
+  <data key="d0">Prolyl 4-hydroxylase</data>
+  <data key="d1">b2da4</data>
+  <data key="d2">None</data>
+  <data key="d3">751.3181281669633</data>
+  <data key="d4">325.9971453760229</data>
+  <data key="d5">130.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q9NXG6</data>
+  <data key="d10">POINT (751.3181281669633 325.9971453760229)</data>
+</node>
+<node id="CNMD">
+  <data key="d0">CNMD</data>
+  <data key="d1">b2431</data>
+  <data key="d2">None</data>
+  <data key="d3">1037.685454419059</data>
+  <data key="d4">462.8650852242361</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">O75829</data>
+  <data key="d10">POINT (1037.685454419059 462.8650852242361)</data>
+</node>
+<node id="KDR">
+  <data key="d0">KDR</data>
+  <data key="d1">b8122</data>
+  <data key="d2">None</data>
+  <data key="d3">312.54315772770246</data>
+  <data key="d4">225.9746447060777</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000128052</data>
+  <data key="d10">POINT (312.54315772770246 225.9746447060777)</data>
+</node>
+<node id="PIK3CA">
+  <data key="d0">PIK3CA</data>
+  <data key="d1">d2c0b</data>
+  <data key="d2">None</data>
+  <data key="d3">127.5455006650345</data>
+  <data key="d4">339.08979913568714</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000121879</data>
+  <data key="d10">POINT (127.5455006650345 339.08979913568714)</data>
+</node>
+<node id="NGF">
+  <data key="d0">NGF</data>
+  <data key="d1">a97ac</data>
+  <data key="d2">None</data>
+  <data key="d3">586.7774110168593</data>
+  <data key="d4">699.828828092526</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000134259</data>
+  <data key="d10">POINT (586.7774110168593 699.828828092526)</data>
+</node>
+<node id="NTRK1">
+  <data key="d0">NTRK1</data>
+  <data key="d1">e0349</data>
+  <data key="d2">None</data>
+  <data key="d3">220.00372399271888</data>
+  <data key="d4">225.9746447060777</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P04629</data>
+  <data key="d10">POINT (220.00372399271888 225.9746447060777)</data>
+</node>
+<node id="Hypoxia">
+  <data key="d0">Hypoxia</data>
+  <data key="d1">db80c</data>
+  <data key="d2">None</data>
+  <data key="d3">906.428</data>
+  <data key="d4">155.0</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">Wikidata</data>
+  <data key="d9">Q105688</data>
+  <data key="d10">POINT (906.428 155)</data>
+</node>
+<node id="L-thyroxine">
+  <data key="d0">L-thyroxine</data>
+  <data key="d1">a9f13</data>
+  <data key="d2">None</data>
+  <data key="d3">1130.7513819634667</data>
+  <data key="d4">292.1150852242392</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">CHEBI:18332</data>
+  <data key="d10">POINT (1130.7513819634667 292.1150852242392)</data>
+</node>
+<node id="O2">
+  <data key="d0">O2</data>
+  <data key="d1">ca022</data>
+  <data key="d2">None</data>
+  <data key="d3">850.1666666666667</data>
+  <data key="d4">277.2777813314798</data>
+  <data key="d5">30.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">CHEBI:15379</data>
+  <data key="d10">POINT (850.1666666666667 277.2777813314798)</data>
+</node>
+<node id="Endothelial cell proliferation">
+  <data key="d0">Endothelial cell proliferation</data>
+  <data key="d1">ad7f0</data>
+  <data key="d2">cb718</data>
+  <data key="d3">746.096063817859</data>
+  <data key="d4">697.9661995053584</data>
+  <data key="d5">180.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#14961e</data>
+  <data key="d8">Unknown</data>
+  <data key="d9">Endothelial cell proliferation</data>
+  <data key="d10">POINT (746.096063817859 697.9661995053584)</data>
+</node>
+<node id="Migration">
+  <data key="d0">Migration</data>
+  <data key="d1">b8e58</data>
+  <data key="d2">cb718</data>
+  <data key="d3">746.0960638178585</data>
+  <data key="d4">722.9661995053584</data>
+  <data key="d5">180.0</data>
+  <data key="d6">25.000000000000032</data>
+  <data key="d7">#14961e</data>
+  <data key="d8">Unknown</data>
+  <data key="d9">Migration</data>
+  <data key="d10">POINT (746.0960638178585 722.9661995053584)</data>
+</node>
+<node id="Tube formation">
+  <data key="d0">Tube formation</data>
+  <data key="d1">c0a84</data>
+  <data key="d2">cb718</data>
+  <data key="d3">746.0960638178585</data>
+  <data key="d4">747.9661995053584</data>
+  <data key="d5">180.0</data>
+  <data key="d6">25.000000000000032</data>
+  <data key="d7">#14961e</data>
+  <data key="d8">Unknown</data>
+  <data key="d9">Tube formation</data>
+  <data key="d10">POINT (746.0960638178585 747.9661995053584)</data>
+</node>
+<node id="JUND">
+  <data key="d0">JUND</data>
+  <data key="d1">a0c66</data>
+  <data key="d2">c06c0</data>
+  <data key="d3">311.9648093688688</data>
+  <data key="d4">742.0259181709371</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000130522</data>
+  <data key="d10">POINT (311.9648093688688 742.0259181709371)</data>
+</node>
+<node id="CCN2">
+  <data key="d0">CCN2</data>
+  <data key="d1">ed88e</data>
+  <data key="d2">None</data>
+  <data key="d3">586.7774110168593</data>
+  <data key="d4">625.5492188433186</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000118523</data>
+  <data key="d10">POINT (586.7774110168593 625.5492188433186)</data>
+</node>
+<node id="JUNB">
+  <data key="d0">JUNB</data>
+  <data key="d1">f3ff8</data>
+  <data key="d2">c06c0</data>
+  <data key="d3">311.9648093688688</data>
+  <data key="d4">717.0259181709371</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000171223</data>
+  <data key="d10">POINT (311.9648093688688 717.0259181709371)</data>
+</node>
+<node id="FOS">
+  <data key="d0">FOS</data>
+  <data key="d1">dddab</data>
+  <data key="d2">c06c0</data>
+  <data key="d3">375.667647804657</data>
+  <data key="d4">680.1885593710517</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000170345</data>
+  <data key="d10">POINT (375.667647804657 680.1885593710517)</data>
+</node>
+<node id="JUN">
+  <data key="d0">JUN</data>
+  <data key="d1">b20a2</data>
+  <data key="d2">c06c0</data>
+  <data key="d3">311.9648093688688</data>
+  <data key="d4">692.0259181709368</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000177606</data>
+  <data key="d10">POINT (311.9648093688688 692.0259181709368)</data>
+</node>
+<node id="FOSL2">
+  <data key="d0">FOSL2</data>
+  <data key="d1">dde49</data>
+  <data key="d2">c06c0</data>
+  <data key="d3">375.667647804657</data>
+  <data key="d4">749.9627121703659</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000075426</data>
+  <data key="d10">POINT (375.667647804657 749.9627121703659)</data>
+</node>
+<node id="FOSL1">
+  <data key="d0">FOSL1</data>
+  <data key="d1">fed7b</data>
+  <data key="d2">c06c0</data>
+  <data key="d3">375.667647804657</data>
+  <data key="d4">726.787994570594</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000175592</data>
+  <data key="d10">POINT (375.667647804657 726.787994570594)</data>
+</node>
+<node id="FOSB">
+  <data key="d0">FOSB</data>
+  <data key="d1">ae5fc</data>
+  <data key="d2">c06c0</data>
+  <data key="d3">375.667647804657</data>
+  <data key="d4">703.6132769708224</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000125740</data>
+  <data key="d10">POINT (375.667647804657 703.6132769708224)</data>
+</node>
+<node id="RELA">
+  <data key="d0">RELA</data>
+  <data key="d1">cf52d</data>
+  <data key="d2">fa753</data>
+  <data key="d3">459.89221518970476</data>
+  <data key="d4">623.3442090615397</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000173039</data>
+  <data key="d10">POINT (459.89221518970476 623.3442090615397)</data>
+</node>
+<node id="IBSP">
+  <data key="d0">IBSP</data>
+  <data key="d1">de942</data>
+  <data key="d2">ac386</data>
+  <data key="d3">586.7774110168593</data>
+  <data key="d4">758.15240424121</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000029559</data>
+  <data key="d10">POINT (586.7774110168593 758.15240424121)</data>
+</node>
+<node id="SPP1">
+  <data key="d0">SPP1</data>
+  <data key="d1">a5253</data>
+  <data key="d2">ac386</data>
+  <data key="d3">586.7774110168593</data>
+  <data key="d4">783.5342378028652</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">HGNC</data>
+  <data key="d9">SPP1</data>
+  <data key="d10">POINT (586.7774110168593 783.5342378028652)</data>
+</node>
+<node id="NFKB1">
+  <data key="d0">NFKB1</data>
+  <data key="d1">e335c</data>
+  <data key="d2">fa753</data>
+  <data key="d3">459.89221518970476</data>
+  <data key="d4">599.7697366918962</data>
+  <data key="d5">60.0</data>
+  <data key="d6">23.48203777976861</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000109320</data>
+  <data key="d10">POINT (459.89221518970476 599.7697366918962)</data>
+</node>
+<node id="RELB">
+  <data key="d0">RELB</data>
+  <data key="d1">db7be</data>
+  <data key="d2">fa753</data>
+  <data key="d3">459.89221518970476</data>
+  <data key="d4">647.6776625413006</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000104856</data>
+  <data key="d10">POINT (459.89221518970476 647.6776625413006)</data>
+</node>
+<node id="MAPK3">
+  <data key="d0">MAPK3</data>
+  <data key="d1">fcd52</data>
+  <data key="d2">fca2b</data>
+  <data key="d3">450.92153668986475</data>
+  <data key="d4">420.2637168912638</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000102882</data>
+  <data key="d10">POINT (450.92153668986475 420.2637168912638)</data>
+</node>
+<node id="MAPK1">
+  <data key="d0">MAPK1</data>
+  <data key="d1">a34a9</data>
+  <data key="d2">fca2b</data>
+  <data key="d3">450.92153668986475</data>
+  <data key="d4">395.98544131055064</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000100030</data>
+  <data key="d10">POINT (450.92153668986475 395.98544131055064)</data>
+</node>
+<node id="JAK2">
+  <data key="d0">JAK2</data>
+  <data key="d1">c5599</data>
+  <data key="d2">None</data>
+  <data key="d3">452.92153668986475</data>
+  <data key="d4">332.8372765234608</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000096968</data>
+  <data key="d10">POINT (452.92153668986475 332.8372765234608)</data>
+</node>
+<node id="PRKCA">
+  <data key="d0">PRKCA</data>
+  <data key="d1">d5e74</data>
+  <data key="d2">None</data>
+  <data key="d3">452.9215366898643</data>
+  <data key="d4">263.83914008770716</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000154229</data>
+  <data key="d10">POINT (452.9215366898643 263.83914008770716)</data>
+</node>
+<node id="STAT3">
+  <data key="d0">STAT3</data>
+  <data key="d1">ef04a</data>
+  <data key="d2">None</data>
+  <data key="d3">558.3963976691803</data>
+  <data key="d4">332.8372765234609</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000168610</data>
+  <data key="d10">POINT (558.3963976691803 332.8372765234609)</data>
+</node>
+<node id="FGFR1">
+  <data key="d0">FGFR1</data>
+  <data key="d1">d1341</data>
+  <data key="d2">db14c</data>
+  <data key="d3">127.5455006650345</data>
+  <data key="d4">164.8014388929892</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P11362</data>
+  <data key="d10">POINT (127.5455006650345 164.8014388929892)</data>
+</node>
+<node id="FGFR2">
+  <data key="d0">FGFR2</data>
+  <data key="d1">b7533</data>
+  <data key="d2">db14c</data>
+  <data key="d3">127.5455006650345</data>
+  <data key="d4">189.80143889298915</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P21802</data>
+  <data key="d10">POINT (127.5455006650345 189.80143889298915)</data>
+</node>
+<node id="FGFR3">
+  <data key="d0">FGFR3</data>
+  <data key="d1">e9e08</data>
+  <data key="d2">db14c</data>
+  <data key="d3">127.5455006650345</data>
+  <data key="d4">214.80143889298915</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P22607</data>
+  <data key="d10">POINT (127.5455006650345 214.80143889298915)</data>
+</node>
+<node id="FGFR4">
+  <data key="d0">FGFR4</data>
+  <data key="d1">a21ab</data>
+  <data key="d2">db14c</data>
+  <data key="d3">127.5455006650345</data>
+  <data key="d4">239.8014388929891</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P22455</data>
+  <data key="d10">POINT (127.5455006650345 239.8014388929891)</data>
+</node>
+<node id="LAMTOR1">
+  <data key="d0">LAMTOR1</data>
+  <data key="d1">bede1</data>
+  <data key="d2">db14c</data>
+  <data key="d3">127.5455006650345</data>
+  <data key="d4">264.80143889298915</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q6IAA8</data>
+  <data key="d10">POINT (127.5455006650345 264.80143889298915)</data>
+</node>
+<node id="RAS">
+  <data key="d0">RAS</data>
+  <data key="d1">f9d26</data>
+  <data key="d2">None</data>
+  <data key="d3">220.00372399271885</data>
+  <data key="d4">335.03419862009036</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Pfam</data>
+  <data key="d9">PF00071</data>
+  <data key="d10">POINT (220.00372399271885 335.03419862009036)</data>
+</node>
+<node id="AKT1">
+  <data key="d0">AKT1</data>
+  <data key="d1">f0c39</data>
+  <data key="d2">facc4</data>
+  <data key="d3">127.5455006650345</data>
+  <data key="d4">400.71339666850906</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000142208</data>
+  <data key="d10">POINT (127.5455006650345 400.71339666850906)</data>
+</node>
+<node id="AKT2">
+  <data key="d0">AKT2</data>
+  <data key="d1">d6962</data>
+  <data key="d2">facc4</data>
+  <data key="d3">127.5455006650345</data>
+  <data key="d4">425.71339666850895</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000105221</data>
+  <data key="d10">POINT (127.5455006650345 425.71339666850895)</data>
+</node>
+<node id="AKT3">
+  <data key="d0">AKT3</data>
+  <data key="d1">bdea8</data>
+  <data key="d2">facc4</data>
+  <data key="d3">127.5455006650345</data>
+  <data key="d4">450.71339666850906</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000117020</data>
+  <data key="d10">POINT (127.5455006650345 450.71339666850906)</data>
+</node>
+<node id="SOX9">
+  <data key="d0">SOX9</data>
+  <data key="d1">cb66a</data>
+  <data key="d2">ac0ab</data>
+  <data key="d3">127.5455006650345</data>
+  <data key="d4">689.5746228713895</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000125398</data>
+  <data key="d10">POINT (127.5455006650345 689.5746228713895)</data>
+</node>
+<node id="AGC">
+  <data key="d0">AGC</data>
+  <data key="d1">a0a82</data>
+  <data key="d2">ac0ab</data>
+  <data key="d3">127.5455006650345</data>
+  <data key="d4">664.574622871389</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">InterPro</data>
+  <data key="d9">IPR000961</data>
+  <data key="d10">POINT (127.5455006650345 664.574622871389)</data>
+</node>
+<node id="VHL">
+  <data key="d0">VHL</data>
+  <data key="d1">e4306</data>
+  <data key="d2">cdb71</data>
+  <data key="d3">820.2605510030105</data>
+  <data key="d4">448.03223979310104</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P40337</data>
+  <data key="d10">POINT (820.2605510030105 448.03223979310104)</data>
+</node>
+<node id="FGF23">
+  <data key="d0">FGF23</data>
+  <data key="d1">ad620</data>
+  <data key="d2">None</data>
+  <data key="d3">127.5455006650345</data>
+  <data key="d4">85.22496632875331</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000118972</data>
+  <data key="d10">POINT (127.5455006650345 85.22496632875331)</data>
+</node>
+<node id="COL3A1">
+  <data key="d0">COL3A1</data>
+  <data key="d1">cd948</data>
+  <data key="d2">ad33e</data>
+  <data key="d3">628.2483157040027</data>
+  <data key="d4">153.0222775846231</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000168542</data>
+  <data key="d10">POINT (628.2483157040027 153.0222775846231)</data>
+</node>
+<node id="COL1A1">
+  <data key="d0">COL1A1</data>
+  <data key="d1">c07eb</data>
+  <data key="d2">ad33e</data>
+  <data key="d3">628.2483157040027</data>
+  <data key="d4">77.55804232539867</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000108821</data>
+  <data key="d10">POINT (628.2483157040027 77.55804232539867)</data>
+</node>
+<edge source="RUNX2" target="Hypertrophy">
+  <data key="d11">f2d2c</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="RUNX2" target="COL10A1">
+  <data key="d11">c3742_b0489_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="RUNX2" target="VEGFA">
+  <data key="d11">c3742_b0489_d1573_dee70_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="RUNX2" target="MMP13">
+  <data key="d11">a1da8_fdfc2_db756_a70b3_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="RUNX2" target="CEBPB">
+  <data key="d11">a1da8_a70b3_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="RUNX2" target="RUNX2">
+  <data key="d12">group</data>
+</edge>
+<edge source="COL10A1" target="Hypertrophy">
+  <data key="d11">f2d2c</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="COL10A1" target="DDR2">
+  <data key="d11">f9a1a</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="COL10A1" target="COL3A1">
+  <data key="d11">b3295_cd948_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="COL10A1" target="COL1A1">
+  <data key="d11">cd948_b3295_c07eb_df8b9_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="COL10A1" target="COL2A1">
+  <data key="d11">b3295_df8b9_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="COL10A1" target="RUNX2">
+  <data key="d11">b0489_c3742_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="COL10A1" target="VEGFA">
+  <data key="d11">b0489_d1573_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="COL10A1" target="MMP13">
+  <data key="d11">fdfc2_db756_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="COL10A1" target="CEBPB">
+  <data key="d11">a1da8_fdfc2_db756_a70b3_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="COL10A1" target="COL10A1">
+  <data key="d12">group</data>
+</edge>
+<edge source="MMP13" target="Hypertrophy">
+  <data key="d11">f2d2c</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="MMP13" target="RUNX2">
+  <data key="d11">a1da8_fdfc2_db756_a70b3_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="MMP13" target="COL10A1">
+  <data key="d11">db756_fdfc2_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="MMP13" target="VEGFA">
+  <data key="d11">dee70_d1573_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="MMP13" target="CEBPB">
+  <data key="d11">a1da8_fdfc2_db756_a70b3_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="MMP13" target="MMP13">
+  <data key="d12">group</data>
+</edge>
+<edge source="CEBPB" target="Hypertrophy">
+  <data key="d11">b4c38</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CEBPB" target="RUNX2">
+  <data key="d11">a70b3_a1da8_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="CEBPB" target="COL10A1">
+  <data key="d11">a1da8_fdfc2_db756_a70b3_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="CEBPB" target="MMP13">
+  <data key="d11">a1da8_fdfc2_db756_a70b3_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="CEBPB" target="CEBPB">
+  <data key="d11">a6853</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DIO2" target="Triiodothyronine">
+  <data key="d11">aa5f1</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="EPAS1" target="CEBPB">
+  <data key="d11">dd612</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Vascularization" target="Hypertrophy">
+  <data key="d11">db7aa</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DDR2" target="Vascularization">
+  <data key="d11">dd655</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="ARNT" target="GANC">
+  <data key="d11">f4fd9</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="ARNT" target="COL2A1">
+  <data key="d11">f4fd9</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="ARNT" target="ACAN">
+  <data key="d11">f4fd9</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="ARNT" target="VEGFA">
+  <data key="d11">f4fd9</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="ARNT" target="ARNT">
+  <data key="d11">e086f</data>
+  <data key="d12">group</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="ARNT" target="HIF1A">
+  <data key="d11">fb3ae_af586_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="GANC" target="COL2A1">
+  <data key="d11">aace6_dd9cd_e1914_f40a4_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="GANC" target="ACAN">
+  <data key="d11">aace6_e1914_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="GANC" target="VEGFA">
+  <data key="d11">aace6_dd9cd_e1914_f40a4_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="COL2A1" target="DDR2">
+  <data key="d11">f9a1a</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="COL2A1" target="SOX9">
+  <data key="d11">d4039_cb66a_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="COL2A1" target="AGC">
+  <data key="d11">cb66a_a0a82_d4039_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="COL2A1" target="COL3A1">
+  <data key="d11">cd948_b3295_c07eb_df8b9_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="COL2A1" target="COL10A1">
+  <data key="d11">df8b9_b3295_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="COL2A1" target="COL1A1">
+  <data key="d11">df8b9_c07eb_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="COL2A1" target="GANC">
+  <data key="d11">aace6_dd9cd_e1914_f40a4_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="COL2A1" target="ACAN">
+  <data key="d11">dd9cd_e1914_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="COL2A1" target="VEGFA">
+  <data key="d11">dd9cd_f40a4_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="COL2A1" target="COL2A1">
+  <data key="d12">group</data>
+</edge>
+<edge source="ACAN" target="GANC">
+  <data key="d11">e1914_aace6_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="ACAN" target="COL2A1">
+  <data key="d11">e1914_dd9cd_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="ACAN" target="VEGFA">
+  <data key="d11">aace6_dd9cd_e1914_f40a4_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="VEGFA" target="Vascularization">
+  <data key="d11">b0668</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="VEGFA" target="KDR">
+  <data key="d11">dc090</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="VEGFA" target="Hypertrophy">
+  <data key="d11">f2d2c</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="VEGFA" target="RUNX2">
+  <data key="d11">c3742_b0489_d1573_dee70_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="VEGFA" target="COL10A1">
+  <data key="d11">d1573_b0489_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="VEGFA" target="MMP13">
+  <data key="d11">d1573_dee70_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="VEGFA" target="GANC">
+  <data key="d11">aace6_dd9cd_e1914_f40a4_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="VEGFA" target="COL2A1">
+  <data key="d11">f40a4_dd9cd_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="VEGFA" target="ACAN">
+  <data key="d11">aace6_dd9cd_e1914_f40a4_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="HIF1A" target="GANC">
+  <data key="d11">f4fd9</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="HIF1A" target="COL2A1">
+  <data key="d11">f4fd9</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="HIF1A" target="ACAN">
+  <data key="d11">f4fd9</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="HIF1A" target="VEGFA">
+  <data key="d11">d5e36</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="HIF1A" target="HIF1A">
+  <data key="d11">a421d</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="HIF1A" target="ARNT">
+  <data key="d11">af586_fb3ae_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="HIF1A" target="VHL">
+  <data key="d11">f28ab_e4306_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="Triiodothyronine" target="EPAS1">
+  <data key="d11">e0dd1</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Prolyl 4-hydroxylase" target="HIF1A">
+  <data key="d11">e3e40</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CNMD" target="EPAS1">
+  <data key="d11">ea98b</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CNMD" target="Vascularization">
+  <data key="d11">dabdd</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="KDR" target="PIK3CA">
+  <data key="d11">fed85</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="KDR" target="MAPK3">
+  <data key="d11">a165b</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="KDR" target="MAPK1">
+  <data key="d11">a165b</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="KDR" target="JAK2">
+  <data key="d11">b08d6</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="KDR" target="PRKCA">
+  <data key="d11">f409f</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="KDR" target="RELA">
+  <data key="d11">d3ceb</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="KDR" target="NFKB1">
+  <data key="d11">d3ceb</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="KDR" target="RELB">
+  <data key="d11">d3ceb</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="KDR" target="JUND">
+  <data key="d11">dc2e8</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="KDR" target="JUNB">
+  <data key="d11">dc2e8</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="KDR" target="FOS">
+  <data key="d11">dc2e8</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="KDR" target="JUN">
+  <data key="d11">dc2e8</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="KDR" target="FOSL2">
+  <data key="d11">dc2e8</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="KDR" target="FOSL1">
+  <data key="d11">dc2e8</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="KDR" target="FOSB">
+  <data key="d11">dc2e8</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="KDR" target="HIF1A">
+  <data key="d11">d0f37</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="PIK3CA" target="AKT1">
+  <data key="d11">b1f32</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="PIK3CA" target="AKT2">
+  <data key="d11">b1f32</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="PIK3CA" target="AKT3">
+  <data key="d11">b1f32</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NGF" target="NTRK1">
+  <data key="d11">ae4e0</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NGF" target="Endothelial cell proliferation">
+  <data key="d11">fbf8d</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NGF" target="Migration">
+  <data key="d11">fbf8d</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NGF" target="Tube formation">
+  <data key="d11">fbf8d</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NTRK1" target="RAS">
+  <data key="d11">cf797</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Hypoxia" target="HIF1A">
+  <data key="d11">ce707</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="L-thyroxine" target="Triiodothyronine">
+  <data key="d11">aa5f1</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Endothelial cell proliferation" target="Migration">
+  <data key="d11">ad7f0_b8e58_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="Endothelial cell proliferation" target="Tube formation">
+  <data key="d11">ad7f0_b8e58_c0a84_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="Migration" target="Endothelial cell proliferation">
+  <data key="d11">b8e58_ad7f0_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="Migration" target="Tube formation">
+  <data key="d11">b8e58_c0a84_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="Tube formation" target="Endothelial cell proliferation">
+  <data key="d11">ad7f0_b8e58_c0a84_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="Tube formation" target="Migration">
+  <data key="d11">c0a84_b8e58_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="JUND" target="CCN2">
+  <data key="d11">bd177</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="JUND" target="NGF">
+  <data key="d11">a70f6</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="JUND" target="JUNB">
+  <data key="d11">a0c66_f3ff8_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="JUND" target="FOS">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="JUND" target="JUN">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="JUND" target="FOSL2">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="JUND" target="FOSL1">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="JUND" target="FOSB">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="CCN2" target="Endothelial cell proliferation">
+  <data key="d11">ca6f6</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CCN2" target="Migration">
+  <data key="d11">ca6f6</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CCN2" target="Tube formation">
+  <data key="d11">ca6f6</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="JUNB" target="CCN2">
+  <data key="d11">bd177</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="JUNB" target="NGF">
+  <data key="d11">a70f6</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="JUNB" target="JUND">
+  <data key="d11">f3ff8_a0c66_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="JUNB" target="FOS">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="JUNB" target="JUN">
+  <data key="d11">f3ff8_b20a2_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="JUNB" target="FOSL2">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="JUNB" target="FOSL1">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="JUNB" target="FOSB">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOS" target="CCN2">
+  <data key="d11">bd177</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FOS" target="NGF">
+  <data key="d11">a70f6</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FOS" target="JUND">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOS" target="JUNB">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOS" target="JUN">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOS" target="FOSL2">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOS" target="FOSL1">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOS" target="FOSB">
+  <data key="d11">dddab_ae5fc_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="JUN" target="CCN2">
+  <data key="d11">bd177</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="JUN" target="NGF">
+  <data key="d11">a70f6</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="JUN" target="JUND">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="JUN" target="JUNB">
+  <data key="d11">b20a2_f3ff8_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="JUN" target="FOS">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="JUN" target="FOSL2">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="JUN" target="FOSL1">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="JUN" target="FOSB">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOSL2" target="CCN2">
+  <data key="d11">bd177</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FOSL2" target="NGF">
+  <data key="d11">a70f6</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FOSL2" target="JUND">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOSL2" target="JUNB">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOSL2" target="FOS">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOSL2" target="JUN">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOSL2" target="FOSL1">
+  <data key="d11">dde49_fed7b_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="FOSL2" target="FOSB">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOSL1" target="CCN2">
+  <data key="d11">bd177</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FOSL1" target="NGF">
+  <data key="d11">a70f6</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FOSL1" target="JUND">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOSL1" target="JUNB">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOSL1" target="FOS">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOSL1" target="JUN">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOSL1" target="FOSL2">
+  <data key="d11">fed7b_dde49_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="FOSL1" target="FOSB">
+  <data key="d11">fed7b_ae5fc_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="FOSB" target="CCN2">
+  <data key="d11">bd177</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FOSB" target="NGF">
+  <data key="d11">a70f6</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FOSB" target="JUND">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOSB" target="JUNB">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOSB" target="FOS">
+  <data key="d11">ae5fc_dddab_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="FOSB" target="JUN">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOSB" target="FOSL2">
+  <data key="d11">a0c66_f3ff8_dddab_b20a2_dde49_fed7b_ae5fc_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOSB" target="FOSL1">
+  <data key="d11">ae5fc_fed7b_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="RELA" target="IBSP">
+  <data key="d11">a3f88</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="RELA" target="SPP1">
+  <data key="d11">a3f88</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="RELA" target="VEGFA">
+  <data key="d11">bd3a4</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="RELA" target="CCN2">
+  <data key="d11">d4690</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="RELA" target="NGF">
+  <data key="d11">b398b</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="RELA" target="NFKB1">
+  <data key="d11">cf52d_e335c_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="RELA" target="RELB">
+  <data key="d11">cf52d_db7be_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="IBSP" target="Endothelial cell proliferation">
+  <data key="d11">f4784</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="IBSP" target="Migration">
+  <data key="d11">f4784</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="IBSP" target="Tube formation">
+  <data key="d11">f4784</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="IBSP" target="SPP1">
+  <data key="d11">de942_a5253_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="SPP1" target="Endothelial cell proliferation">
+  <data key="d11">f4784</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SPP1" target="Migration">
+  <data key="d11">f4784</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SPP1" target="Tube formation">
+  <data key="d11">f4784</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SPP1" target="IBSP">
+  <data key="d11">a5253_de942_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="NFKB1" target="IBSP">
+  <data key="d11">a3f88</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NFKB1" target="SPP1">
+  <data key="d11">a3f88</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NFKB1" target="VEGFA">
+  <data key="d11">bd3a4</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NFKB1" target="CCN2">
+  <data key="d11">d4690</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NFKB1" target="NGF">
+  <data key="d11">b398b</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NFKB1" target="RELA">
+  <data key="d11">e335c_cf52d_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="NFKB1" target="RELB">
+  <data key="d11">cf52d_e335c_db7be_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="RELB" target="IBSP">
+  <data key="d11">a3f88</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="RELB" target="SPP1">
+  <data key="d11">a3f88</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="RELB" target="VEGFA">
+  <data key="d11">bd3a4</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="RELB" target="CCN2">
+  <data key="d11">d4690</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="RELB" target="NGF">
+  <data key="d11">b398b</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="RELB" target="RELA">
+  <data key="d11">db7be_cf52d_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="RELB" target="NFKB1">
+  <data key="d11">cf52d_e335c_db7be_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="MAPK3" target="SOX9">
+  <data key="d11">ff2c7</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="MAPK3" target="AGC">
+  <data key="d11">ff2c7</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="MAPK3" target="COL2A1">
+  <data key="d11">ff2c7</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="MAPK3" target="RUNX2">
+  <data key="d11">a24b4</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="MAPK3" target="COL10A1">
+  <data key="d11">a24b4</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="MAPK3" target="VEGFA">
+  <data key="d11">a24b4</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="MAPK3" target="MMP13">
+  <data key="d11">a24b4</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="MAPK3" target="MAPK1">
+  <data key="d11">fe758_c1398_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="MAPK3" target="MAPK3">
+  <data key="d12">group</data>
+</edge>
+<edge source="MAPK1" target="SOX9">
+  <data key="d11">ff2c7</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="MAPK1" target="AGC">
+  <data key="d11">ff2c7</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="MAPK1" target="COL2A1">
+  <data key="d11">ff2c7</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="MAPK1" target="RUNX2">
+  <data key="d11">a24b4</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="MAPK1" target="COL10A1">
+  <data key="d11">a24b4</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="MAPK1" target="VEGFA">
+  <data key="d11">a24b4</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="MAPK1" target="MMP13">
+  <data key="d11">a24b4</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="MAPK1" target="MAPK3">
+  <data key="d11">c1398_fe758_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="MAPK1" target="MAPK1">
+  <data key="d12">group</data>
+</edge>
+<edge source="JAK2" target="STAT3">
+  <data key="d11">e4f0d</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FGFR1" target="PIK3CA">
+  <data key="d11">da3d1</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FGFR1" target="RAS">
+  <data key="d11">e7089</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FGFR1" target="FGFR2">
+  <data key="d11">d1341_b7533_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="FGFR1" target="FGFR3">
+  <data key="d11">d1341_b7533_e9e08_a21ab_bede1_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FGFR1" target="FGFR4">
+  <data key="d11">d1341_b7533_e9e08_a21ab_bede1_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FGFR1" target="LAMTOR1">
+  <data key="d11">d1341_b7533_e9e08_a21ab_bede1_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FGFR2" target="PIK3CA">
+  <data key="d11">da3d1</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FGFR2" target="RAS">
+  <data key="d11">e7089</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FGFR2" target="FGFR1">
+  <data key="d11">b7533_d1341_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="FGFR2" target="FGFR3">
+  <data key="d11">b7533_e9e08_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="FGFR2" target="FGFR4">
+  <data key="d11">d1341_b7533_e9e08_a21ab_bede1_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FGFR2" target="LAMTOR1">
+  <data key="d11">d1341_b7533_e9e08_a21ab_bede1_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FGFR3" target="PIK3CA">
+  <data key="d11">da3d1</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FGFR3" target="RAS">
+  <data key="d11">e7089</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FGFR3" target="FGFR1">
+  <data key="d11">d1341_b7533_e9e08_a21ab_bede1_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FGFR3" target="FGFR2">
+  <data key="d11">e9e08_b7533_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="FGFR3" target="FGFR4">
+  <data key="d11">e9e08_a21ab_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="FGFR3" target="LAMTOR1">
+  <data key="d11">d1341_b7533_e9e08_a21ab_bede1_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FGFR4" target="PIK3CA">
+  <data key="d11">da3d1</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FGFR4" target="RAS">
+  <data key="d11">e7089</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FGFR4" target="FGFR1">
+  <data key="d11">d1341_b7533_e9e08_a21ab_bede1_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FGFR4" target="FGFR2">
+  <data key="d11">d1341_b7533_e9e08_a21ab_bede1_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FGFR4" target="FGFR3">
+  <data key="d11">a21ab_e9e08_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="FGFR4" target="LAMTOR1">
+  <data key="d11">a21ab_bede1_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="LAMTOR1" target="PIK3CA">
+  <data key="d11">da3d1</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="LAMTOR1" target="RAS">
+  <data key="d11">e7089</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="LAMTOR1" target="FGFR1">
+  <data key="d11">d1341_b7533_e9e08_a21ab_bede1_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="LAMTOR1" target="FGFR2">
+  <data key="d11">d1341_b7533_e9e08_a21ab_bede1_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="LAMTOR1" target="FGFR3">
+  <data key="d11">d1341_b7533_e9e08_a21ab_bede1_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="LAMTOR1" target="FGFR4">
+  <data key="d11">bede1_a21ab_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="RAS" target="MAPK1">
+  <data key="d11">d774d</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="RAS" target="MAPK3">
+  <data key="d11">d774d</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT1" target="RUNX2">
+  <data key="d11">cc5d0</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT1" target="COL10A1">
+  <data key="d11">cc5d0</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT1" target="VEGFA">
+  <data key="d11">cc5d0</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT1" target="MMP13">
+  <data key="d11">cc5d0</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT1" target="SOX9">
+  <data key="d11">d5b85</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT1" target="AGC">
+  <data key="d11">d5b85</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT1" target="COL2A1">
+  <data key="d11">d5b85</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT1" target="AKT2">
+  <data key="d11">f0c39_d6962_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="AKT1" target="AKT3">
+  <data key="d11">f0c39_d6962_bdea8_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="AKT2" target="RUNX2">
+  <data key="d11">cc5d0</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT2" target="COL10A1">
+  <data key="d11">cc5d0</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT2" target="VEGFA">
+  <data key="d11">cc5d0</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT2" target="MMP13">
+  <data key="d11">cc5d0</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT2" target="SOX9">
+  <data key="d11">d5b85</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT2" target="AGC">
+  <data key="d11">d5b85</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT2" target="COL2A1">
+  <data key="d11">d5b85</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT2" target="AKT1">
+  <data key="d11">d6962_f0c39_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="AKT2" target="AKT3">
+  <data key="d11">d6962_bdea8_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="AKT3" target="RUNX2">
+  <data key="d11">cc5d0</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT3" target="COL10A1">
+  <data key="d11">cc5d0</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT3" target="VEGFA">
+  <data key="d11">cc5d0</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT3" target="MMP13">
+  <data key="d11">cc5d0</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT3" target="SOX9">
+  <data key="d11">d5b85</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT3" target="AGC">
+  <data key="d11">d5b85</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT3" target="COL2A1">
+  <data key="d11">d5b85</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT3" target="AKT1">
+  <data key="d11">f0c39_d6962_bdea8_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="AKT3" target="AKT2">
+  <data key="d11">bdea8_d6962_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="SOX9" target="AGC">
+  <data key="d11">cb66a_a0a82_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="SOX9" target="COL2A1">
+  <data key="d11">cb66a_d4039_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="AGC" target="SOX9">
+  <data key="d11">a0a82_cb66a_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="AGC" target="COL2A1">
+  <data key="d11">cb66a_a0a82_d4039_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="VHL" target="HIF1A">
+  <data key="d11">e4306_f28ab_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="FGF23" target="FGFR1">
+  <data key="d11">c7e19</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FGF23" target="FGFR2">
+  <data key="d11">c7e19</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FGF23" target="FGFR3">
+  <data key="d11">c7e19</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FGF23" target="FGFR4">
+  <data key="d11">c7e19</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FGF23" target="LAMTOR1">
+  <data key="d11">c7e19</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="COL3A1" target="DDR2">
+  <data key="d11">f9a1a</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="COL3A1" target="COL10A1">
+  <data key="d11">cd948_b3295_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="COL3A1" target="COL1A1">
+  <data key="d11">cd948_b3295_c07eb_df8b9_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="COL3A1" target="COL2A1">
+  <data key="d11">cd948_b3295_c07eb_df8b9_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="COL1A1" target="DDR2">
+  <data key="d11">f9a1a</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="COL1A1" target="COL3A1">
+  <data key="d11">cd948_b3295_c07eb_df8b9_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="COL1A1" target="COL10A1">
+  <data key="d11">cd948_b3295_c07eb_df8b9_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="COL1A1" target="COL2A1">
+  <data key="d11">c07eb_df8b9_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+</graph></graphml>

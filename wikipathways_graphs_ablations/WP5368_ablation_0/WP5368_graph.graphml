@@ -1,0 +1,897 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d15" for="edge" attr.name="color" attr.type="string"/>
+<key id="d14" for="edge" attr.name="signal" attr.type="string"/>
+<key id="d13" for="edge" attr.name="interaction" attr.type="string"/>
+<key id="d12" for="edge" attr.name="arrow" attr.type="string"/>
+<key id="d11" for="edge" attr.name="edgeID" attr.type="string"/>
+<key id="d10" for="node" attr.name="geometry" attr.type="string"/>
+<key id="d9" for="node" attr.name="databaseID" attr.type="string"/>
+<key id="d8" for="node" attr.name="database" attr.type="string"/>
+<key id="d7" for="node" attr.name="color" attr.type="string"/>
+<key id="d6" for="node" attr.name="height" attr.type="string"/>
+<key id="d5" for="node" attr.name="width" attr.type="string"/>
+<key id="d4" for="node" attr.name="centerY" attr.type="string"/>
+<key id="d3" for="node" attr.name="centerX" attr.type="string"/>
+<key id="d2" for="node" attr.name="groupref" attr.type="string"/>
+<key id="d1" for="node" attr.name="graphid" attr.type="string"/>
+<key id="d0" for="node" attr.name="textlabel" attr.type="string"/>
+<graph edgedefault="directed"><node id="CYP19A1">
+  <data key="d0">CYP19A1</data>
+  <data key="d1">fe9eb</data>
+  <data key="d2">None</data>
+  <data key="d3">683.4618171718752</data>
+  <data key="d4">480.76175578155824</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P11511</data>
+  <data key="d10">POINT (683.4618171718752 480.76175578155824)</data>
+</node>
+<node id="HSD17B1">
+  <data key="d0">HSD17B1</data>
+  <data key="d1">ed627</data>
+  <data key="d2">None</data>
+  <data key="d3">503.65990435937505</data>
+  <data key="d4">608.1424252659349</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P14061</data>
+  <data key="d10">POINT (503.65990435937505 608.1424252659349)</data>
+</node>
+<node id="STS">
+  <data key="d0">STS</data>
+  <data key="d1">d6f8b</data>
+  <data key="d2">None</data>
+  <data key="d3">503.65990435937505</data>
+  <data key="d4">745.142425265935</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P08842</data>
+  <data key="d10">POINT (503.65990435937505 745.142425265935)</data>
+</node>
+<node id="NADPH tetraanion">
+  <data key="d0">NADPH tetraanion</data>
+  <data key="d1">ea187</data>
+  <data key="d2">None</data>
+  <data key="d3">1022.7410520468745</data>
+  <data key="d4">506.50280782843333</data>
+  <data key="d5">138.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">CHEBI:57783</data>
+  <data key="d10">POINT (1022.7410520468745 506.50280782843333)</data>
+</node>
+<node id="testosterone">
+  <data key="d0">testosterone</data>
+  <data key="d1">cfd4a</data>
+  <data key="d2">None</data>
+  <data key="d3">851.6599043593749</data>
+  <data key="d4">381.14242526593335</data>
+  <data key="d5">166.1402335468752</data>
+  <data key="d6">24.999999999999996</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">CHEBI:17347</data>
+  <data key="d10">POINT (851.6599043593749 381.14242526593335)</data>
+</node>
+<node id="Estradiol-17beta">
+  <data key="d0">Estradiol-17beta</data>
+  <data key="d1">a80ef</data>
+  <data key="d2">None</data>
+  <data key="d3">319.659904359375</data>
+  <data key="d4">537.1424252659338</data>
+  <data key="d5">161.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">CHEBI:16469</data>
+  <data key="d10">POINT (319.659904359375 537.1424252659338)</data>
+</node>
+<node id="estrone">
+  <data key="d0">estrone</data>
+  <data key="d1">e7f1c</data>
+  <data key="d2">None</data>
+  <data key="d3">319.659904359375</data>
+  <data key="d4">680.142425265935</data>
+  <data key="d5">161.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">CHEBI:17263</data>
+  <data key="d10">POINT (319.659904359375 680.142425265935)</data>
+</node>
+<node id="estrone sulphate">
+  <data key="d0">estrone sulphate</data>
+  <data key="d1">cf272</data>
+  <data key="d2">None</data>
+  <data key="d3">319.659904359375</data>
+  <data key="d4">801.142425265935</data>
+  <data key="d5">161.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">CHEBI:17474</data>
+  <data key="d10">POINT (319.659904359375 801.142425265935)</data>
+</node>
+<node id="NADP trianion">
+  <data key="d0">NADP trianion</data>
+  <data key="d1">ff515</data>
+  <data key="d2">None</data>
+  <data key="d3">1022.7410520468763</data>
+  <data key="d4">406.1424252659333</data>
+  <data key="d5">138.00000000000003</data>
+  <data key="d6">24.99999999999998</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">CHEBI:58349</data>
+  <data key="d10">POINT (1022.7410520468763 406.1424252659333)</data>
+</node>
+<node id="PAP">
+  <data key="d0">PAP</data>
+  <data key="d1">db967</data>
+  <data key="d2">None</data>
+  <data key="d3">483.65990435937505</data>
+  <data key="d4">406.14242526593335</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">58343</data>
+  <data key="d10">POINT (483.65990435937505 406.14242526593335)</data>
+</node>
+<node id="SULT1E1">
+  <data key="d0">SULT1E1</data>
+  <data key="d1">abbb8</data>
+  <data key="d2">None</data>
+  <data key="d3">503.65990435937505</data>
+  <data key="d4">454.1424252659333</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P49888</data>
+  <data key="d10">POINT (503.65990435937505 454.1424252659333)</data>
+</node>
+<node id="DHEA">
+  <data key="d0">DHEA</data>
+  <data key="d1">d9c73</data>
+  <data key="d2">None</data>
+  <data key="d3">852.659904359375</data>
+  <data key="d4">680.142425265935</data>
+  <data key="d5">161.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">CHEBI:28689</data>
+  <data key="d10">POINT (852.659904359375 680.142425265935)</data>
+</node>
+<node id="DHEA-S">
+  <data key="d0">DHEA-S</data>
+  <data key="d1">c7249</data>
+  <data key="d2">None</data>
+  <data key="d3">852.659904359375</data>
+  <data key="d4">801.142425265935</data>
+  <data key="d5">161.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">CHEBI:16814</data>
+  <data key="d10">POINT (852.659904359375 801.142425265935)</data>
+</node>
+<node id="PAPS(4-)">
+  <data key="d0">PAPS(4-)</data>
+  <data key="d1">f41ef</data>
+  <data key="d2">None</data>
+  <data key="d3">483.65990435937505</data>
+  <data key="d4">501.1424252659333</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">CHEBI:58339</data>
+  <data key="d10">POINT (483.65990435937505 501.1424252659333)</data>
+</node>
+<node id="HSD17B2">
+  <data key="d0">HSD17B2</data>
+  <data key="d1">c71cf</data>
+  <data key="d2">None</data>
+  <data key="d3">119.65990435937493</data>
+  <data key="d4">604.1424252659349</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P37059</data>
+  <data key="d10">POINT (119.65990435937493 604.1424252659349)</data>
+</node>
+<node id="HSD17B3">
+  <data key="d0">HSD17B3</data>
+  <data key="d1">b1080</data>
+  <data key="d2">None</data>
+  <data key="d3">1029.6599043593742</data>
+  <data key="d4">454.1424252659333</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P37058</data>
+  <data key="d10">POINT (1029.6599043593742 454.1424252659333)</data>
+</node>
+<node id="NAD anion">
+  <data key="d0">NAD anion</data>
+  <data key="d1">e3742</data>
+  <data key="d2">None</data>
+  <data key="d3">168.01666368749966</data>
+  <data key="d4">559.142425265934</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">CHEBI:57540</data>
+  <data key="d10">POINT (168.01666368749966 559.142425265934)</data>
+</node>
+<node id="HSD3B1">
+  <data key="d0">HSD3B1</data>
+  <data key="d1">bf5eb</data>
+  <data key="d2">None</data>
+  <data key="d3">1029.6599043593742</data>
+  <data key="d4">608.1424252659349</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P14060</data>
+  <data key="d10">POINT (1029.6599043593742 608.1424252659349)</data>
+</node>
+<node id="estradiol 3-sulphate">
+  <data key="d0">estradiol 3-sulphate</data>
+  <data key="d1">fe919</data>
+  <data key="d2">None</data>
+  <data key="d3">319.659904359375</data>
+  <data key="d4">381.14242526593335</data>
+  <data key="d5">161.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">CHEBI:4866</data>
+  <data key="d10">POINT (319.659904359375 381.14242526593335)</data>
+</node>
+<node id="ESR2">
+  <data key="d0">ESR2</data>
+  <data key="d1">d2ff1</data>
+  <data key="d2">f781e</data>
+  <data key="d3">1069.6849733125014</data>
+  <data key="d4">220.53859964093346</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q92731</data>
+  <data key="d10">POINT (1069.6849733125014 220.53859964093346)</data>
+</node>
+<node id="ESR1">
+  <data key="d0">ESR1</data>
+  <data key="d1">d8e9c</data>
+  <data key="d2">f781e</data>
+  <data key="d3">1069.6849733125014</data>
+  <data key="d4">184.53859964093354</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P03372</data>
+  <data key="d10">POINT (1069.6849733125014 184.53859964093354)</data>
+</node>
+<node id="Androstenedione">
+  <data key="d0">Androstenedione</data>
+  <data key="d1">a28d3</data>
+  <data key="d2">None</data>
+  <data key="d3">852.659904359375</data>
+  <data key="d4">537.1424252659338</data>
+  <data key="d5">161.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">CHEBI:16422</data>
+  <data key="d10">POINT (852.659904359375 537.1424252659338)</data>
+</node>
+<node id="NADH dianion">
+  <data key="d0">NADH dianion</data>
+  <data key="d1">e4a5a</data>
+  <data key="d2">None</data>
+  <data key="d3">168.01666368749966</data>
+  <data key="d4">643.1424252659349</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">CHEBI:57945</data>
+  <data key="d10">POINT (168.01666368749966 643.1424252659349)</data>
+</node>
+<node id="SLCO1B1">
+  <data key="d0">SLCO1B1</data>
+  <data key="d1">c4629</data>
+  <data key="d2">dc920</data>
+  <data key="d3">484.98699375</data>
+  <data key="d4">888.0043237034349</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q9Y6L6</data>
+  <data key="d10">POINT (484.98699375 888.0043237034349)</data>
+</node>
+<node id="SLCO1B3">
+  <data key="d0">SLCO1B3</data>
+  <data key="d1">b8c19</data>
+  <data key="d2">dc920</data>
+  <data key="d3">484.98699375</data>
+  <data key="d4">917.3587996409349</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q9NPD5</data>
+  <data key="d10">POINT (484.98699375 917.3587996409349)</data>
+</node>
+<node id="SLCO4A1">
+  <data key="d0">SLCO4A1</data>
+  <data key="d1">b2fb8</data>
+  <data key="d2">dc920</data>
+  <data key="d3">484.98699375</data>
+  <data key="d4">979.8965962034349</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q96BD0</data>
+  <data key="d10">POINT (484.98699375 979.8965962034349)</data>
+</node>
+<node id="SLCO2B1">
+  <data key="d0">SLCO2B1</data>
+  <data key="d1">fca07</data>
+  <data key="d2">dc920</data>
+  <data key="d3">484.9869937500001</data>
+  <data key="d4">949.2658387034348</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">O94956</data>
+  <data key="d10">POINT (484.9869937500001 949.2658387034348)</data>
+</node>
+<node id="SLCO4C1">
+  <data key="d0">SLCO4C1</data>
+  <data key="d1">a010d</data>
+  <data key="d2">dc920</data>
+  <data key="d3">484.98699375000007</data>
+  <data key="d4">1011.8036352659349</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q6ZQN7</data>
+  <data key="d10">POINT (484.98699375000007 1011.8036352659349)</data>
+</node>
+<node id="SLCO1A2">
+  <data key="d0">SLCO1A2</data>
+  <data key="d1">e5607</data>
+  <data key="d2">b86b6</data>
+  <data key="d3">1031.025250000001</data>
+  <data key="d4">891.1962890159349</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P46721</data>
+  <data key="d10">POINT (1031.025250000001 891.1962890159349)</data>
+</node>
+<edge source="CYP19A1" target="Estradiol-17beta">
+  <data key="d11">id90673804</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="HSD17B1" target="Estradiol-17beta">
+  <data key="d11">idf88bcdf0</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="HSD17B1" target="NADH dianion"/>
+<edge source="HSD17B1" target="NAD anion"/>
+<edge source="STS" target="estrone">
+  <data key="d11">id7688567b</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="STS" target="DHEA">
+  <data key="d11">idfefe8251</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="STS" target="Estradiol-17beta">
+  <data key="d11">idf0535e6c</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="testosterone" target="Estradiol-17beta">
+  <data key="d11">id90673804</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Estradiol-17beta" target="Estradiol-17beta">
+  <data key="d11">id725a25d7</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Estradiol-17beta" target="estradiol 3-sulphate">
+  <data key="d11">id7e4f4e24</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Estradiol-17beta" target="ESR2">
+  <data key="d11">id367d3891</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Estradiol-17beta" target="ESR1">
+  <data key="d11">id367d3891</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Estradiol-17beta" target="estrone">
+  <data key="d11">idd8141160</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="estrone" target="estrone sulphate">
+  <data key="d11">idd54253f5</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="estrone" target="Estradiol-17beta">
+  <data key="d11">idf88bcdf0</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="estrone sulphate" target="estrone">
+  <data key="d11">id7688567b</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="estrone sulphate" target="estrone sulphate">
+  <data key="d11">id777f3bad</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SULT1E1" target="DHEA-S">
+  <data key="d11">idd57dc9ff</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SULT1E1" target="estradiol 3-sulphate">
+  <data key="d11">id7e4f4e24</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SULT1E1" target="PAP"/>
+<edge source="SULT1E1" target="PAPS(4-)"/>
+<edge source="DHEA" target="DHEA-S">
+  <data key="d11">idd57dc9ff</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DHEA" target="Androstenedione">
+  <data key="d11">d391d</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DHEA-S" target="DHEA">
+  <data key="d11">idfefe8251</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DHEA-S" target="DHEA-S">
+  <data key="d11">ide6322db8</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="PAPS(4-)" target="estrone sulphate">
+  <data key="d11">idd54253f5</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="HSD17B2" target="NADH dianion"/>
+<edge source="HSD17B3" target="testosterone">
+  <data key="d11">idf3869959</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="HSD17B3" target="NADPH tetraanion"/>
+<edge source="HSD17B3" target="NADP trianion"/>
+<edge source="NAD anion" target="estrone">
+  <data key="d11">idd8141160</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="HSD3B1" target="Androstenedione">
+  <data key="d11">d391d</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="estradiol 3-sulphate" target="Estradiol-17beta">
+  <data key="d11">idf0535e6c</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="ESR2" target="ESR1">
+  <data key="d11">d2ff1_d8e9c_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="ESR1" target="ESR2">
+  <data key="d11">d8e9c_d2ff1_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="Androstenedione" target="testosterone">
+  <data key="d11">idf3869959</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SLCO1B1" target="estrone sulphate">
+  <data key="d11">id777f3bad</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SLCO1B1" target="DHEA-S">
+  <data key="d11">ide6322db8</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SLCO1B1" target="SLCO1A2">
+  <data key="d11">bbb6c_e5607_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="SLCO1B1" target="SLCO1B3">
+  <data key="d11">bbb6c_b90e5_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="SLCO1B1" target="SLCO2B1">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO1B1" target="SLCO4A1">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO1B1" target="SLCO4C1">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO1B1" target="SLCO1B1">
+  <data key="d12">group</data>
+</edge>
+<edge source="SLCO1B3" target="estrone sulphate">
+  <data key="d11">id777f3bad</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SLCO1B3" target="DHEA-S">
+  <data key="d11">ide6322db8</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SLCO1B3" target="SLCO1A2">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO1B3" target="SLCO1B1">
+  <data key="d11">b90e5_bbb6c_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="SLCO1B3" target="SLCO2B1">
+  <data key="d11">b90e5_c38cb_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="SLCO1B3" target="SLCO4A1">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO1B3" target="SLCO4C1">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO1B3" target="SLCO1B3">
+  <data key="d12">group</data>
+</edge>
+<edge source="SLCO4A1" target="estrone sulphate">
+  <data key="d11">id777f3bad</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SLCO4A1" target="SLCO1B1">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO4A1" target="SLCO1B3">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO4A1" target="SLCO2B1">
+  <data key="d11">b2fb8_fca07_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="SLCO4A1" target="SLCO4C1">
+  <data key="d11">b2fb8_a010d_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="SLCO4A1" target="SLCO1A2">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO2B1" target="estrone sulphate">
+  <data key="d11">id777f3bad</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SLCO2B1" target="DHEA-S">
+  <data key="d11">ide6322db8</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SLCO2B1" target="SLCO1A2">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO2B1" target="SLCO1B1">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO2B1" target="SLCO1B3">
+  <data key="d11">c38cb_b90e5_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="SLCO2B1" target="SLCO4A1">
+  <data key="d11">fca07_b2fb8_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="SLCO2B1" target="SLCO4C1">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO2B1" target="SLCO2B1">
+  <data key="d12">group</data>
+</edge>
+<edge source="SLCO4C1" target="estrone sulphate">
+  <data key="d11">id777f3bad</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SLCO4C1" target="SLCO1B1">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO4C1" target="SLCO1B3">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO4C1" target="SLCO4A1">
+  <data key="d11">a010d_b2fb8_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="SLCO4C1" target="SLCO2B1">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO4C1" target="SLCO1A2">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO1A2" target="estrone sulphate">
+  <data key="d11">id777f3bad</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SLCO1A2" target="DHEA-S">
+  <data key="d11">ide6322db8</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SLCO1A2" target="SLCO1B1">
+  <data key="d11">e81ae_c4629_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="SLCO1A2" target="SLCO1B3">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO1A2" target="SLCO2B1">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO1A2" target="SLCO4A1">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO1A2" target="SLCO4C1">
+  <data key="d11">c4629_b8c19_b2fb8_fca07_a010d_e81ae_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="SLCO1A2" target="SLCO1A2">
+  <data key="d12">group</data>
+</edge>
+</graph></graphml>

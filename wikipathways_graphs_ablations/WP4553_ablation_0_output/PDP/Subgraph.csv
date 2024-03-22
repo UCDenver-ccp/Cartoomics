@@ -1,0 +1,89 @@
+S|P|O
+DUSP6|participates_in|ERKs are inactivated
+MAPK3|participates_in|ERKs are inactivated
+RNF2|subClassOf|protein_coding_gene
+PCGF1|subClassOf|protein_coding_gene
+valproic acid|interacts with|RNF2 (human)
+valproic acid|interacts with|BCOR
+valproic acid|interacts with|FBXL10
+BCL6 (human)|subClassOf|protein_coding_gene
+EED|causes or contributes to condition|Weaver syndrome
+Weaver syndrome|disease has basis in dysfunction of|EZH2
+EED|causes or contributes to condition|perineurioma
+SUZ12|causes or contributes to condition|perineurioma
+H3F3B|genetically interacts with|HIST2H3A
+H3F3B|genetically interacts with|HIST1H3I
+H3F3B|genetically interacts with|H3F3A (human)
+H3F3A|genetically interacts with|HIST1H3D
+H3F3A|genetically interacts with|HIST2H3A
+H3F3A|genetically interacts with|HIST2H3C
+H3F3A|genetically interacts with|HIST2H3D
+H3F3A|genetically interacts with|HIST1H3E (human)
+HIST1H3E (human)|has gene product|HIST1H3C
+H3F3A|genetically interacts with|HIST1H3H
+H3F3A|genetically interacts with|HIST1H3I
+EZH2|causes or contributes to condition|Weaver syndrome
+SUZ12|causes or contributes to condition|Weaver syndrome
+H3F3B|genetically interacts with|HIST1H3H
+H3F3B|genetically interacts with|HIST1H3E
+EZH2|participates_in|Developmental Biology
+DUSP6|participates_in|Developmental Biology
+HIST1H3D|genetically interacts with|HIST2H3A
+HIST2H3D|genetically interacts with|HIST1H3I
+HIST1H3I|has gene product|HIST1H3C
+HIST2H3D|genetically interacts with|HIST1H3D
+HIST1H3D|has gene product|HIST1H3C
+HIST1H3D|genetically interacts with|HIST1H3H
+HIST1H3D|genetically interacts with|HIST1H3I
+HIST1H3D|genetically interacts with|HIST1H3E
+HIST2H3D|genetically interacts with|HIST2H3A
+H3F3A|genetically interacts with|HIST1H3E
+H3F3B|genetically interacts with|HIST2H3D
+HIST2H3A|genetically interacts with|HIST1H3H
+HIST2H3A|genetically interacts with|HIST1H3I
+HIST2H3A|genetically interacts with|HIST1H3E
+HIST2H3D|genetically interacts with|HIST2H3C
+HIST2H3C|participates_in|Interleukin-7 signaling
+HIST1H3C|participates_in|Interleukin-7 signaling
+HIST2H3C|genetically interacts with|HIST1H3H
+HIST2H3C|genetically interacts with|HIST1H3I
+HIST2H3C|genetically interacts with|HIST1H3E
+HIST2H3D|participates_in|Interleukin-7 signaling
+H3F3B|genetically interacts with|HIST2H3C
+HIST2H3A|participates_in|Interleukin-7 signaling
+H3F3B|genetically interacts with|HIST1H3D
+HIST2H3D|genetically interacts with|HIST1H3H
+HIST1H3D|genetically interacts with|HIST2H3C
+HIST1H3C|has_gene_template|HIST1H3H
+HIST1H3C|has_gene_template|HIST1H3E
+FBXL10|subClassOf|protein_coding_gene
+valproic acid|interacts with|H2AB1 (human)
+valproic acid|interacts with|H2AFB3
+H2AFB1|participates_in|Packaging Of Telomere Ends
+H2AFJ|participates_in|Packaging Of Telomere Ends
+H2AFV|participates_in|Packaging Of Telomere Ends
+H2AZ1 (human)|participates_in|Packaging Of Telomere Ends
+H2AFX|participates_in|Packaging Of Telomere Ends
+valproic acid|interacts with|H2AFJ
+H2AFB3|subClassOf|protein_coding_gene
+H2AFV|subClassOf|protein_coding_gene
+H2AFX|subClassOf|protein_coding_gene
+valproic acid|interacts with|H2AFY
+H2AZ1 (human)|subClassOf|protein_coding_gene
+HIST2H3D|genetically interacts with|HIST1H3E
+H2AFY|subClassOf|protein_coding_gene
+HIST1H3I (human)|genetically interacts with|HIST1H3I
+HIST1H3I (human)|genetically interacts with|HIST1H3H
+HIST1H3I|genetically interacts with|HIST1H3H
+aflatoxin B1|interacts with|BCOR
+aflatoxin B1|interacts with|BCL6
+genistein(1-)|interacts with|MAPK3
+genistein(1-)|molecularly interacts with|Cell proliferation
+SUZ12|causes or contributes to condition|giant cell glioblastoma
+DUSP6|causes or contributes to condition|giant cell glioblastoma
+aflatoxin B1|interacts with|DUSP6
+aflatoxin B1|molecularly interacts with|Cell proliferation
+EED|participates_in|Developmental Biology
+HIST2H3C|genetically interacts with|HIST2H3A
+aflatoxin B1|interacts with|PCGF1
+DUSP6|subClassOf|protein_coding_gene

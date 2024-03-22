@@ -1,0 +1,38 @@
+S|P|O
+diazinon|interacts with|SIN3A
+diazinon|interacts with|SKIL
+TEAD4|participates_in|Generic Transcription Pathway
+SKIL|participates_in|Generic Transcription Pathway
+TEAD4|subClassOf|protein_coding_gene
+LATS2|subClassOf|protein_coding_gene
+TEAD3|participates_in|Generic Transcription Pathway
+TEAD3|subClassOf|protein_coding_gene
+TEAD1|participates_in|Generic Transcription Pathway
+TEAD1|subClassOf|protein_coding_gene
+PRMT5|participates_in|Generic Transcription Pathway
+PRMT5|subClassOf|protein_coding_gene
+Mob|has_gene_template|SGMS1 (human)
+diazinon|interacts with|SGMS1 (human)
+Mob|molecularly interacts with|N-acylsphingosine
+N-acylsphingosine|participates_in|Signal Transduction
+LATS2|participates_in|Signal Transduction
+diazinon|interacts with|HDAC3 (human)
+HDAC3|participates_in|Signal Transduction
+SATB2|subClassOf|protein_coding_gene
+SKIL|subClassOf|protein_coding_gene
+HDAC1|participates_in|Downregulation of SMAD2/3:SMAD4 transcriptional activity
+SKIL|participates_in|Downregulation of SMAD2/3:SMAD4 transcriptional activity
+HDAC1|participates_in|Signal Transduction
+NF1|participates_in|Signal Transduction
+SKIL|participates_in|Signal Transduction
+NF1|causes or contributes to condition|gemistocytic astrocytoma
+LATS2|causes or contributes to condition|gemistocytic astrocytoma
+MERTK|subClassOf|protein_coding_gene
+TEAD3|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD4|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD1|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+SKIL|causes or contributes to condition|Pulmonary fibrosis
+MECP2|causes or contributes to condition|Pulmonary fibrosis
+STK3 (human)|participates_in|Signal Transduction
+ING2 (human)|participates_in|Generic Transcription Pathway
+LATS1 (human)|participates_in|Signal Transduction

@@ -1,0 +1,38 @@
+S|P|O
+diazinon|interacts with|SIN3A
+diazinon|interacts with|SKIL
+TEAD4|participates_in|Generic Transcription Pathway
+SKIL|participates_in|Generic Transcription Pathway
+TEAD4|subClassOf|protein_coding_gene
+LATS2|subClassOf|protein_coding_gene
+TEAD3|subClassOf|protein_coding_gene
+SKIL|subClassOf|protein_coding_gene
+TEAD1|subClassOf|protein_coding_gene
+PRMT5|subClassOf|protein_coding_gene
+SGMS1-202|ribosomally translates to|phosphatidylcholine:ceramide cholinephosphotransferase 1 (human)
+SGMS1-202|subClassOf|protein_coding_gene
+Mob|subClassOf|Homo sapiens protein
+serine/threonine-protein kinase LATS2 (human)|subClassOf|Homo sapiens protein
+serine/threonine-protein kinase LATS2 (human)|has_gene_template|LATS2
+diazinon|interacts with|HDAC3 (human)
+HDAC3|participates_in|Signal Transduction
+LATS2|participates_in|Signal Transduction
+SATB2|subClassOf|protein_coding_gene
+HDAC1|participates_in|Signaling by TGF-beta Receptor Complex
+SKIL|participates_in|Signaling by TGF-beta Receptor Complex
+HDAC1|subClassOf|protein_coding_gene
+NF1|subClassOf|protein_coding_gene
+NF1|causes or contributes to condition|Astrocytoma
+LATS2|causes or contributes to condition|Astrocytoma
+MERTK|subClassOf|protein_coding_gene
+TEAD3|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD4|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD1|participates_in|Metabolism
+TEAD4|participates_in|Metabolism
+TEAD1|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+SKIL|causes or contributes to condition|Pulmonary fibrosis
+MECP2|causes or contributes to condition|Pulmonary fibrosis
+SKIL|participates_in|Signal Transduction
+STK3 (human)|participates_in|Signal Transduction
+ING2 (human)|participates_in|Generic Transcription Pathway
+LATS1 (human)|participates_in|Signal Transduction

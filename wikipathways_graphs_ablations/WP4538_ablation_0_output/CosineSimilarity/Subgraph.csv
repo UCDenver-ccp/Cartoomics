@@ -1,0 +1,265 @@
+S|P|O
+IFNAR1|participates_in|Interferon alpha/beta signaling
+IFNAR2|participates_in|Interferon alpha/beta signaling
+IFNAR2|participates_in|Regulation of IFNA signaling
+JAK1 (human)|participates_in|Regulation of IFNA signaling
+TYK2 (human)|participates_in|Interferon alpha/beta signaling
+IFNGR2|participates_in|Interferon gamma signaling
+JAK1 (human)|participates_in|Interferon gamma signaling
+IFNGR2|participates_in|Regulation of IFNG signaling
+JAK2|participates_in|Regulation of IFNG signaling
+IFNGR2|participates_in|Immune System
+TYK2 (human)|participates_in|Immune System
+IL10RA|participates_in|Interleukin-10 signaling
+JAK1 (human)|participates_in|Interleukin-10 signaling
+IL10RA|participates_in|Immune System
+JAK2|participates_in|Immune System
+IFNAR1|participates_in|Regulation of IFNA signaling
+IL10RA|participates_in|Cytokine Signaling in Immune system
+TYK2 (human)|participates_in|Cytokine Signaling in Immune system
+IL10RB|participates_in|Interleukin-10 signaling
+IL10RB|participates_in|Cytokine Signaling in Immune system
+JAK2|participates_in|Cytokine Signaling in Immune system
+IL10RB|participates_in|Signaling by Interleukins
+IFNLR1|participates_in|Signaling by Interleukins
+IL22RA1|participates_in|Cytokine Signaling in Immune system
+IL20RA|subClassOf|protein_coding_gene
+JAK1 (human)|subClassOf|protein_coding_gene
+IL20RA|causes or contributes to condition|Spontaneous abortion
+JAK2|causes or contributes to condition|Spontaneous abortion
+IL20RA|participates_in|Signaling by Interleukins
+TYK2 (human)|participates_in|Signaling by Interleukins
+IL22RA1|participates_in|Immune System
+JAK1 (human)|participates_in|Immune System
+IL22RA1|participates_in|Signaling by Interleukins
+JAK2|participates_in|Signaling by Interleukins
+IL21R|causes or contributes to condition|Severe combined immunodeficiency
+JAK3|causes or contributes to condition|Severe combined immunodeficiency
+IL6ST|participates_in|IL-6-type cytokine receptor ligand interactions
+IL11RA (human)|participates_in|IL-6-type cytokine receptor ligand interactions
+CSF3R|subClassOf|gene
+JAK2|subClassOf|gene
+IL2RA|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+JAK3|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+IL2RA|participates_in|Interleukin receptor SHC signaling
+JAK1 (human)|participates_in|Interleukin receptor SHC signaling
+IL9R|participates_in|Immune System
+JAK3|participates_in|Immune System
+IL9R|participates_in|Signaling by Interleukins
+JAK1 (human)|participates_in|Signaling by Interleukins
+IL21R|subClassOf|protein_coding_gene
+IL15RA|subClassOf|protein_coding_gene
+IL6ST|participates_in|Cytokine Signaling in Immune system
+IL7R|participates_in|Interleukin-7 signaling
+IL2RG|participates_in|Interleukin-7 signaling
+IL6ST|participates_in|Signaling by Interleukins
+CTF1 (human)|participates_in|Signaling by Interleukins
+IL2RG|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+IL2RG|participates_in|Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+JAK1 (human)|participates_in|Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+IL2RG|subClassOf|gene
+IL21R|subClassOf|gene
+IL2RG|participates_in|Cytokine Signaling in Immune system
+IL9R|participates_in|Cytokine Signaling in Immune system
+IL15RA|participates_in|Cytokine Signaling in Immune system
+JAK3|participates_in|Cytokine Signaling in Immune system
+IL6ST|causes or contributes to condition|Eczematoid dermatitis
+IL6R (human)|causes or contributes to condition|Eczematoid dermatitis
+OSMR|participates_in|IL-6-type cytokine receptor ligand interactions
+CNTFR (human)|participates_in|IL-6-type cytokine receptor ligand interactions
+IL6ST|participates_in|Interleukin-6 family signaling
+LIFR (human)|participates_in|Interleukin-6 family signaling
+JAK1 (human)|participates_in|IL-6-type cytokine receptor ligand interactions
+TYK2 (human)|participates_in|Regulation of IFNA signaling
+IL10RB|participates_in|Immune System
+IFNLR1|subClassOf|protein_coding_gene
+IL5RA|participates_in|NCAM signaling for neurite out-growth
+JAK2|participates_in|NCAM signaling for neurite out-growth
+CSF2RA|participates_in|Downstream signal transduction
+IL3RA|participates_in|Downstream signal transduction
+IL20RA|participates_in|Interleukin-20 family signaling
+IL22RA1|participates_in|Interleukin-20 family signaling
+IL2RA|participates_in|Cytokine Signaling in Immune system
+IL5RA|participates_in|Interleukin-2 family signaling
+CSF2RA|participates_in|Interleukin-2 family signaling
+JAK1 (human)|participates_in|Interleukin-7 signaling
+IL5RA|participates_in|Signaling by Leptin
+IL3RA|participates_in|Signaling by Leptin
+EGFR|participates_in|Signaling by VEGF
+JAK1 (human)|participates_in|Signaling by VEGF
+IFNLR1|causes or contributes to condition|Psoriasiform dermatitis
+TYK2 (human)|causes or contributes to condition|Psoriasiform dermatitis
+EGFR|participates_in|Frs2-mediated activation
+JAK2|participates_in|Frs2-mediated activation
+EGFR|participates_in|ARMS-mediated activation
+SRC|participates_in|ARMS-mediated activation
+PDGFRB|participates_in|Signaling by EGFR
+JAK1 (human)|participates_in|Signaling by EGFR
+PDGFRB|participates_in|Signalling to p38 via RIT and RIN
+JAK2|participates_in|Signalling to p38 via RIT and RIN
+PDGFRB|participates_in|Signaling by GPCR
+SRC|participates_in|Signaling by GPCR
+F2RL2|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+JAK2|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+F2RL2|participates_in|GPCR downstream signalling
+AGTR2|participates_in|GPCR downstream signalling
+IFNLR1|participates_in|Cytokine Signaling in Immune system
+PDGFRA|participates_in|IRS-mediated signalling
+SRC|participates_in|IRS-mediated signalling
+PDGFRA|participates_in|Signaling by Interleukins
+valproic acid|interacts with|AGTR2
+valproic acid|interacts with|JAK2
+PDGFRB|participates_in|ARMS-mediated activation
+PDGFRA|participates_in|ARMS-mediated activation
+TRIM28|causes or contributes to condition|Atherosclerosis
+STAT3|causes or contributes to condition|Atherosclerosis
+SETD7|subClassOf|protein_coding_gene
+STAT3|subClassOf|protein_coding_gene
+CREBBP|causes or contributes to condition|Acute myeloid leukemia
+STAT3|causes or contributes to condition|Acute myeloid leukemia
+CSF3R|participates_in|Signaling by Interleukins
+PDGFRA|participates_in|Signaling by EGFR
+JAK2|participates_in|Signaling by EGFR
+IL3RA|participates_in|RET signaling
+JAK2|participates_in|RET signaling
+MAPK1|participates_in|Toll Like Receptor 2 (TLR2) Cascade
+MAPK7|participates_in|Toll Like Receptor 2 (TLR2) Cascade
+MAPK1|participates_in|MAPK family signaling cascades
+MAPK6|participates_in|MAPK family signaling cascades
+MAPK1|participates_in|MAP2K and MAPK activation
+MAPK3|participates_in|MAP2K and MAPK activation
+MAPK1|participates_in|TRIF(TICAM1)-mediated TLR4 signaling 
+MAPK10|participates_in|TRIF(TICAM1)-mediated TLR4 signaling 
+MAPK1|participates_in|Signaling by NTRKs
+MAPK13|participates_in|Signaling by NTRKs
+MAPK4 (human)|participates_in|MAPK family signaling cascades
+valproic acid|interacts with|MAPK1 (human)
+valproic acid|interacts with|MAPK12
+MAPK8|participates_in|TRIF(TICAM1)-mediated TLR4 signaling 
+F2RL3|participates_in|GPCR downstream signalling
+F2RL3|participates_in|Signal Transduction
+JAK2|participates_in|Signal Transduction
+valproic acid|interacts with|MAPK15
+MAPK15|subClassOf|protein_coding_gene
+MAPK9|subClassOf|protein_coding_gene
+valproic acid|interacts with|MAPK8
+MAPK7|subClassOf|protein_coding_gene
+MAPK6|subClassOf|protein_coding_gene
+valproic acid|interacts with|MAPK3
+valproic acid|interacts with|MAPK10
+valproic acid|interacts with|MAPK13
+IL7R|causes or contributes to condition|Severe combined immunodeficiency
+F2RL3|participates_in|Class A/1 (Rhodopsin-like receptors)
+AGTR2|participates_in|Class A/1 (Rhodopsin-like receptors)
+MAPK12|participates_in|Innate Immune System
+MAPK9|participates_in|Innate Immune System
+valproic acid|interacts with|MAPK4
+MAPK3|participates_in|Signalling to RAS
+MAPK13|participates_in|Signalling to RAS
+MAPK9|participates_in|TRIF(TICAM1)-mediated TLR4 signaling 
+STAT3|causes or contributes to condition|Prostate neoplasm
+STMN1 (human)|causes or contributes to condition|Prostate neoplasm
+SOCS3|participates_in|Signaling by Interleukins
+SOCS3|participates_in|Interleukin-6 signaling
+JAK1 (human)|participates_in|Interleukin-6 signaling
+SOCS3|participates_in|Regulation of IFNA signaling
+PTPRD|causes or contributes to condition|Neoplasm of the breast
+STAT3|causes or contributes to condition|Neoplasm of the breast
+PTPRD|subClassOf|protein_coding_gene
+PTPRC|subClassOf|protein_coding_gene
+PTPRT|subClassOf|protein_coding_gene
+MLST8|participates_in|Signaling by SCF-KIT
+STAT3|participates_in|Signaling by SCF-KIT
+MLST8|participates_in|PI3K/AKT activation
+MTOR|participates_in|PI3K/AKT activation
+MLST8|participates_in|PIP3 activates AKT signaling
+AKT1S1|participates_in|PIP3 activates AKT signaling
+MLST8|subClassOf|protein_coding_gene
+DEPTOR (human)|subClassOf|protein_coding_gene
+valproic acid|interacts with|MLST8 (human)
+valproic acid|interacts with|MAPKAP1
+RICTOR|subClassOf|protein_coding_gene
+MTOR|causes or contributes to condition|adenocarcinoma
+STAT3|causes or contributes to condition|adenocarcinoma
+MTOR|participates_in|Diseases of signal transduction by growth factor receptors and second messengers
+AKT1S1|participates_in|Diseases of signal transduction by growth factor receptors and second messengers
+MTOR|subClassOf|protein_coding_gene
+MTOR|participates_in|Transcriptional Regulation by TP53
+MAPKAP1|participates_in|Transcriptional Regulation by TP53
+MTOR|participates_in|Signaling by the B Cell Receptor (BCR)
+RICTOR|participates_in|Signaling by the B Cell Receptor (BCR)
+AKT1S1|subClassOf|protein_coding_gene
+MAPK12|subClassOf|protein_coding_gene
+MAPK10|subClassOf|protein_coding_gene
+MAPK4 (human)|subClassOf|protein_coding_gene
+MAPK14|participates_in|Toll Like Receptor 2 (TLR2) Cascade
+MAPK3|participates_in|Toll Like Receptor 2 (TLR2) Cascade
+MAPK6|participates_in|Signal Transduction
+MAPK4 (human)|participates_in|Signal Transduction
+MAPK13|subClassOf|protein_coding_gene
+MAPK1|participates_in|MAP kinase activation
+MAPK14|participates_in|MAP kinase activation
+PRKCB|causes or contributes to condition|hereditary diffuse gastric adenocarcinoma
+STAT3|causes or contributes to condition|hereditary diffuse gastric adenocarcinoma
+MAPKAP1|participates_in|Signaling by SCF-KIT
+RICTOR|participates_in|Signaling by SCF-KIT
+RICTOR|participates_in|Signaling by NTRKs
+STAT3|participates_in|Signaling by NTRKs
+JAK2|participates_in|Interleukin-6 signaling
+STAT3|participates_in|Interleukin-6 signaling
+PTPRC|subClassOf|gene
+STAT3|subClassOf|gene
+MAPK3|participates_in|TRIF(TICAM1)-mediated TLR4 signaling 
+MAPK12|participates_in|Developmental Biology
+MAPK7|participates_in|Developmental Biology
+PIAS3|subClassOf|protein_coding_gene
+CSF2RA|participates_in|G beta:gamma signalling through PI3Kgamma
+JAK2|participates_in|G beta:gamma signalling through PI3Kgamma
+MPL|subClassOf|gene
+MPL|subClassOf|protein_coding_gene
+TYK2 (human)|subClassOf|protein_coding_gene
+GHR|participates_in|Cytokine Signaling in Immune system
+GHR|subClassOf|gene
+TYK2 (human)|subClassOf|gene
+PTPRT|causes or contributes to condition|Acute myeloid leukemia
+MAPK12|participates_in|Cell-Cell communication
+MAPK8|participates_in|Cell-Cell communication
+MAPK12|participates_in|Signaling by NTRKs
+MAPK12|participates_in|Signaling by NTRK1 (TRKA)
+MAPK3|participates_in|Signaling by NTRK1 (TRKA)
+MAPK3|participates_in|Signal Transduction
+MAPK9|participates_in|Toll Like Receptor TLR1:TLR2 Cascade
+MAPK8|participates_in|Toll Like Receptor TLR1:TLR2 Cascade
+MAPK9|participates_in|Cellular Senescence
+MAPK7|participates_in|Cellular Senescence
+MAPK14|subClassOf|protein_coding_gene
+MAPK9|participates_in|MyD88 cascade initiated on plasma membrane
+MAPK3|participates_in|MyD88 cascade initiated on plasma membrane
+MAPK9|participates_in|MyD88:MAL(TIRAP) cascade initiated on plasma membrane
+MAPK10|participates_in|MyD88:MAL(TIRAP) cascade initiated on plasma membrane
+MAPK13|participates_in|Innate Immune System
+MAPK8|participates_in|Signal Transduction
+MAPK8|causes or contributes to condition|Trigeminal neuralgia
+MAPK3|causes or contributes to condition|Trigeminal neuralgia
+MAPK10|participates_in|Toll Like Receptor TLR1:TLR2 Cascade
+MAPK8|participates_in|Innate Immune System
+MAPK8|subClassOf|protein_coding_gene
+MAPK14|participates_in|Signal Transduction
+MAPK14|participates_in|Signalling to ERKs
+MAPK13|participates_in|Signalling to ERKs
+MAPK14|participates_in|Toll Like Receptor TLR1:TLR2 Cascade
+MAPK3|participates_in|Developmental Biology
+MAPK7|participates_in|Toll Like Receptor 4 (TLR4) Cascade
+MAPK10|participates_in|Toll Like Receptor 4 (TLR4) Cascade
+MAPK14|participates_in|Toll Like Receptor 3 (TLR3) Cascade
+MAPK7|participates_in|Toll Like Receptor 3 (TLR3) Cascade
+MAPK14|participates_in|Toll Like Receptor TLR6:TLR2 Cascade
+MAPK8|participates_in|Toll Like Receptor TLR6:TLR2 Cascade
+MAPK14|participates_in|TRIF(TICAM1)-mediated TLR4 signaling 
+MAPK14|participates_in|Myogenesis
+MAPK12|participates_in|Myogenesis
+MAPK7|participates_in|Signaling by NTRK1 (TRKA)
+MAPK13|participates_in|Signaling by NTRK1 (TRKA)
+MAPK8|participates_in|Toll Like Receptor 2 (TLR2) Cascade
+SOCS3|participates_in|Interleukin-6 family signaling
+STAT3|participates_in|Interleukin-6 family signaling

@@ -1,0 +1,207 @@
+S|P|O
+IFNAR1|participates_in|Regulation of IFNA signaling
+IFNAR2|participates_in|Regulation of IFNA signaling
+JAK1 (human)|participates_in|Regulation of IFNA signaling
+TYK2 (human)|participates_in|Regulation of IFNA signaling
+IFNGR2|participates_in|Regulation of IFNG signaling
+JAK1 (human)|participates_in|Regulation of IFNG signaling
+JAK2|participates_in|Regulation of IFNG signaling
+IFNGR2|participates_in|Interferon Signaling
+TYK2 (human)|participates_in|Interferon Signaling
+IL10RA|participates_in|Interleukin-10 signaling
+JAK1 (human)|participates_in|Interleukin-10 signaling
+IL10RA|causes or contributes to condition|Ulcerative colitis
+JAK2|causes or contributes to condition|Ulcerative colitis
+TYK2 (human)|participates_in|Interleukin-10 signaling
+IL10RB|participates_in|Interleukin-10 signaling
+IL10RB|causes or contributes to condition|Ulcerative colitis
+IL10RB|participates_in|Signaling by Interleukins
+IFNLR1|participates_in|Signaling by Interleukins
+IL10RB|participates_in|Interleukin-20 family signaling
+IL22RA1|participates_in|Interleukin-20 family signaling
+IL20RA|participates_in|Signaling by Interleukins
+JAK1 (human)|participates_in|Signaling by Interleukins
+IL20RA|causes or contributes to condition|Spontaneous abortion
+JAK2|causes or contributes to condition|Spontaneous abortion
+TYK2 (human)|participates_in|Signaling by Interleukins
+IL22RA1|participates_in|Signaling by Interleukins
+JAK2|participates_in|Signaling by Interleukins
+IL21R|causes or contributes to condition|Severe combined immunodeficiency
+JAK3|causes or contributes to condition|Severe combined immunodeficiency
+IL6ST|participates_in|IL-6-type cytokine receptor ligand interactions
+IL11RA (human)|participates_in|IL-6-type cytokine receptor ligand interactions
+CSF3R|participates_in|Signaling by Interleukins
+IL2RA|participates_in|G beta:gamma signalling through PI3Kgamma
+JAK3|participates_in|G beta:gamma signalling through PI3Kgamma
+JAK1 (human)|participates_in|G beta:gamma signalling through PI3Kgamma
+IL9R|participates_in|Signaling by Interleukins
+JAK3|participates_in|Signaling by Interleukins
+valproic acid|interacts with|IL21R
+valproic acid|interacts with|JAK1
+IL15RA|participates_in|Signaling by Interleukins
+IL6ST|participates_in|MAPK1 (ERK2) activation
+TYK2 (human)|participates_in|MAPK1 (ERK2) activation
+IL7R|participates_in|Interleukin-7 signaling
+IL2RG|participates_in|Interleukin-7 signaling
+CTF1 (human)|participates_in|IL-6-type cytokine receptor ligand interactions
+JAK3|participates_in|Interleukin-7 signaling
+JAK1 (human)|participates_in|Interleukin-7 signaling
+IL2RG|subClassOf|gene
+IL21R|subClassOf|gene
+IL2RG|participates_in|Signaling by Interleukins
+IL2RG|participates_in|G beta:gamma signalling through PI3Kgamma
+IL6R (human)|participates_in|MAPK1 (ERK2) activation
+OSMR|participates_in|IL-6-type cytokine receptor ligand interactions
+CNTFR (human)|participates_in|IL-6-type cytokine receptor ligand interactions
+LIFR (human)|participates_in|IL-6-type cytokine receptor ligand interactions
+JAK2|participates_in|MAPK1 (ERK2) activation
+JAK1 (human)|participates_in|MAPK1 (ERK2) activation
+IL5RA|participates_in|G beta:gamma signalling through PI3Kgamma
+JAK2|participates_in|G beta:gamma signalling through PI3Kgamma
+CSF2RA|participates_in|G beta:gamma signalling through PI3Kgamma
+IL3RA|participates_in|G beta:gamma signalling through PI3Kgamma
+IL20RA|participates_in|Interleukin-20 family signaling
+IL2RA|participates_in|Signaling by Interleukins
+EGFR|participates_in|SOS-mediated signalling
+JAK1 (human)|participates_in|SOS-mediated signalling
+IFNLR1|causes or contributes to condition|Palmoplantar pustulosis
+TYK2 (human)|causes or contributes to condition|Palmoplantar pustulosis
+EGFR|causes or contributes to condition|Cervix cancer
+JAK2|causes or contributes to condition|Cervix cancer
+EGFR|causes or contributes to condition|autosomal recessive polycystic kidney disease
+SRC|causes or contributes to condition|autosomal recessive polycystic kidney disease
+PDGFRB|participates_in|SOS-mediated signalling
+PDGFRB|causes or contributes to condition|Calcinosis
+JAK2|causes or contributes to condition|Calcinosis
+PDGFRB|participates_in|PI3K/AKT activation
+SRC|participates_in|PI3K/AKT activation
+F2RL2|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+JAK2|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+F2RL2|participates_in|Peptide ligand-binding receptors
+AGTR2|participates_in|Peptide ligand-binding receptors
+PDGFRA|participates_in|PI3K/AKT activation
+PDGFRA|participates_in|SOS-mediated signalling
+AGTR2|participates_in|GPCR downstream signalling
+JAK2|participates_in|GPCR downstream signalling
+TRIM28|causes or contributes to condition|Type IV atherosclerotic lesion
+STAT3|causes or contributes to condition|Type IV atherosclerotic lesion
+SETD7|subClassOf|protein_coding_gene
+STAT3|subClassOf|protein_coding_gene
+CREBBP|causes or contributes to condition|Acute megakaryocytic leukemia
+STAT3|causes or contributes to condition|Acute megakaryocytic leukemia
+JAK2|participates_in|SOS-mediated signalling
+MAPK1|participates_in|ERKs are inactivated
+MAPK7|participates_in|ERKs are inactivated
+MAPK1|participates_in|MAPK family signaling cascades
+MAPK6|participates_in|MAPK family signaling cascades
+MAPK1|participates_in|Negative feedback regulation of MAPK pathway
+MAPK3|participates_in|Negative feedback regulation of MAPK pathway
+MAPK1|participates_in|Activation of the AP-1 family of transcription factors
+MAPK10|participates_in|Activation of the AP-1 family of transcription factors
+MAPK1|participates_in|Signalling to RAS
+MAPK13|participates_in|Signalling to RAS
+MAPK4 (human)|participates_in|MAPK family signaling cascades
+MAPK12|participates_in|Signalling to RAS
+MAPK8|participates_in|Activation of the AP-1 family of transcription factors
+F2RL3|participates_in|Thrombin signalling through proteinase activated receptors (PARs)
+F2RL2|participates_in|Thrombin signalling through proteinase activated receptors (PARs)
+F2RL3|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+valproic acid|interacts with|MAPK15
+valproic acid|interacts with|MAPK12
+MAPK15|subClassOf|protein_coding_gene
+MAPK9|subClassOf|protein_coding_gene
+valproic acid|interacts with|MAPK8
+MAPK7|subClassOf|protein_coding_gene
+MAPK6|subClassOf|protein_coding_gene
+valproic acid|interacts with|MAPK3
+valproic acid|interacts with|MAPK10
+valproic acid|interacts with|MAPK13
+IL7R|causes or contributes to condition|Severe combined immunodeficiency
+F2RL3|participates_in|Peptide ligand-binding receptors
+MAPK12|participates_in|Innate Immune System
+MAPK9|participates_in|Innate Immune System
+valproic acid|interacts with|MAPK4
+MAPK3|participates_in|Signalling to RAS
+MAPK9|participates_in|Activation of the AP-1 family of transcription factors
+STAT3|causes or contributes to condition|Carcinoma
+STMN1 (human)|causes or contributes to condition|Carcinoma
+SOCS3|participates_in|Interleukin-6 signaling
+JAK2|participates_in|Interleukin-6 signaling
+JAK1 (human)|participates_in|Interleukin-6 signaling
+TYK2 (human)|participates_in|Interleukin-6 signaling
+PTPRD|causes or contributes to condition|Neoplasm of the breast
+STAT3|causes or contributes to condition|Neoplasm of the breast
+aflatoxin B1|interacts with|PTPRD (human)
+aflatoxin B1|interacts with|PTPRC
+PTPRD|subClassOf|protein_coding_gene
+PTPRT|subClassOf|protein_coding_gene
+MLST8|participates_in|Downstream signal transduction
+STAT3|participates_in|Downstream signal transduction
+MLST8|participates_in|CD28 dependent PI3K/Akt signaling
+MTOR|participates_in|CD28 dependent PI3K/Akt signaling
+MLST8|participates_in|PKB-mediated events
+AKT1S1|participates_in|PKB-mediated events
+MLST8|subClassOf|protein_coding_gene
+DEPTOR (human)|subClassOf|protein_coding_gene
+MAPKAP1|participates_in|CD28 dependent PI3K/Akt signaling
+RICTOR|participates_in|CD28 dependent PI3K/Akt signaling
+MTOR|causes or contributes to condition|Cervical polyp
+STAT3|causes or contributes to condition|Cervical polyp
+MTOR|participates_in|PKB-mediated events
+MTOR|subClassOf|protein_coding_gene
+AKT1S1|subClassOf|protein_coding_gene
+valproic acid|interacts with|MAPK1 (human)
+MAPK10|participates_in|Innate Immune System
+MAPK12|participates_in|Signal Transduction
+MAPK4 (human)|participates_in|Signal Transduction
+MAPK14|participates_in|Activation of the AP-1 family of transcription factors
+MAPK3|participates_in|Activation of the AP-1 family of transcription factors
+aflatoxin B1|interacts with|MAPK6
+aflatoxin B1|interacts with|MAPK10
+MAPK6|participates_in|MAPK6/MAPK4 signaling
+MAPK4 (human)|participates_in|MAPK6/MAPK4 signaling
+MAPK3|participates_in|MAPK family signaling cascades
+MAPK13|participates_in|Innate Immune System
+MAPK13|participates_in|Signal Transduction
+PRKCB|causes or contributes to condition|adult T-cell leukemia/lymphoma
+STAT3|causes or contributes to condition|adult T-cell leukemia/lymphoma
+MAPKAP1|participates_in|Downstream signal transduction
+RICTOR|participates_in|Downstream signal transduction
+STAT3|participates_in|Interleukin-6 signaling
+PTPRC|causes or contributes to condition|Prostate neoplasm
+STAT3|causes or contributes to condition|Prostate neoplasm
+MAPK12|participates_in|Signaling by NTRK1 (TRKA)
+MAPK7|participates_in|Signaling by NTRK1 (TRKA)
+PTPRC|subClassOf|protein_coding_gene
+PIAS3|causes or contributes to condition|Cervical polyp
+MPL|participates_in|Platelet activation, signaling and aggregation
+JAK2|participates_in|Platelet activation, signaling and aggregation
+MPL|subClassOf|gene
+TYK2 (human)|subClassOf|gene
+GHR|participates_in|Prolactin receptor signaling
+JAK2|participates_in|Prolactin receptor signaling
+GHR|participates_in|Cytokine Signaling in Immune system
+TYK2 (human)|participates_in|Cytokine Signaling in Immune system
+PTPRT|causes or contributes to condition|Acute megakaryocytic leukemia
+MAPK12|participates_in|DSCAM interactions
+MAPK8|participates_in|DSCAM interactions
+MAPK6|participates_in|Signal Transduction
+MAPK13|participates_in|DSCAM interactions
+MAPK9|participates_in|MAPK targets/ Nuclear events mediated by MAP kinases
+MAPK7|participates_in|MAPK targets/ Nuclear events mediated by MAP kinases
+MAPK14|participates_in|Signal Transduction
+MAPK4 (human)|subClassOf|protein_coding_gene
+MAPK8|participates_in|Signal Transduction
+MAPK7|participates_in|Signal Transduction
+MAPK14|participates_in|DSCAM interactions
+MAPK3|participates_in|ERKs are inactivated
+MAPK10|participates_in|MAPK targets/ Nuclear events mediated by MAP kinases
+MAPK14|participates_in|ERK/MAPK targets
+MAPK7|participates_in|ERK/MAPK targets
+MAPK14|participates_in|Activation of PPARGC1A (PGC-1alpha) by phosphorylation
+MAPK12|participates_in|Activation of PPARGC1A (PGC-1alpha) by phosphorylation
+MAPK14|subClassOf|protein_coding_gene
+MAPK13|participates_in|Signaling by NTRK1 (TRKA)
+MAPK8|participates_in|MAPK targets/ Nuclear events mediated by MAP kinases
+SOCS3|participates_in|PTK6 Activates STAT3
+STAT3|participates_in|PTK6 Activates STAT3

@@ -1,0 +1,48 @@
+S|P|O
+PLCB1|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+IP3|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+GRM1|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+GNA14|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+DAG|participates_in|DAG and IP3 signaling
+PRKCG|participates_in|DAG and IP3 signaling
+GNAQ|causes or contributes to condition|Iris melanoma
+GNA11|causes or contributes to condition|Iris melanoma
+GNAQ|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+GNA14|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+GNA15 (human)|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+GNA11|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+GRIA4|participates_in|Activation of AMPA receptors
+sodium(1+)|participates_in|Activation of AMPA receptors
+CACNA1A|causes or contributes to condition|Spinocerebellar atrophy
+PRKCG|causes or contributes to condition|Spinocerebellar atrophy
+ATP2B2|participates_in|Hemostasis
+PRKCG|participates_in|Hemostasis
+IP3R1|participates_in|PLC-gamma1 signalling
+PRKCG|participates_in|PLC-gamma1 signalling
+PRKCG|participates_in|Glutamate binding, activation of AMPA receptors and synaptic plasticity
+sodium(1+)|participates_in|Glutamate binding, activation of AMPA receptors and synaptic plasticity
+PRKCG|participates_in|Trafficking of GluR2-containing AMPA receptors
+GRIA1|participates_in|Trafficking of GluR2-containing AMPA receptors
+GRIA3|participates_in|Activation of AMPA receptors
+GRIA1|participates_in|Activation of AMPA receptors
+GRIA3|participates_in|Trafficking of GluR2-containing AMPA receptors
+PLCB3|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+PLCB1|participates_in|Synthesis of IP3 and IP4 in the cytosol
+PLCB4|participates_in|Synthesis of IP3 and IP4 in the cytosol
+PLCB3|participates_in|PLC beta mediated events
+DAG|participates_in|PLC beta mediated events
+PLCB3|participates_in|Synthesis of IP3 and IP4 in the cytosol
+IP3|participates_in|Synthesis of IP3 and IP4 in the cytosol
+PLCB1|participates_in|PLC beta mediated events
+PLCB4|participates_in|PLC beta mediated events
+RYR3|subClassOf|protein_coding_gene
+PRKCG|subClassOf|protein_coding_gene
+GRIA4|participates_in|Trafficking of GluR2-containing AMPA receptors
+PDK1|participates_in|Signal Transduction
+PRKCG|participates_in|Signal Transduction
+PIP2|participates_in|Erythropoietin activates Phospholipase C gamma (PLCG)
+IP3|participates_in|Erythropoietin activates Phospholipase C gamma (PLCG)
+DAG|participates_in|Erythropoietin activates Phospholipase C gamma (PLCG)
+IP3|participates_in|CLEC7A (Dectin-1) induces NFAT activation
+IP3R1|participates_in|CLEC7A (Dectin-1) induces NFAT activation
+IP3|participates_in|Signal Transduction

@@ -1,0 +1,60 @@
+source|target
+α-synuclein (1-103) fragment|Parkinson's disease
+α-synuclein (1-103) fragment|TrkB
+α-synuclein (1-103) fragment|MAO B
+BDNF|TrkB
+TrkB|C/EBP10A𝛽
+TrkB|AKT 1
+TrkB|AKT 2
+TrkB|AKT 3
+TDP-43|TDP-43 fragment
+TDP-43 fragment|Frontotemporal dementia
+TDP-43 fragment|"Amyotrophic lateral 
+sclerosis"
+δ-secretase|δ-secretase
+δ-secretase|TDP-43 fragment
+δ-secretase|SET fragment
+δ-secretase|SRPK2 fragment
+δ-secretase|Amyloid-beta
+δ-secretase|α-synuclein (1-103) fragment
+δ-secretase|Tau (1-368) fragment
+SET|SET fragment
+SET fragment|Microtubule-associated protein tau
+SET fragment|PP2A
+AKT 1|AKT 1
+AKT 1|AKT 2
+AKT 1|AKT 3
+AKT 1|δ-secretase
+AKT 2|AKT 1
+AKT 2|AKT 2
+AKT 2|AKT 3
+AKT 2|δ-secretase
+AKT 3|AKT 1
+AKT 3|AKT 2
+AKT 3|AKT 3
+AKT 3|δ-secretase
+SRPK2|SRPK2 fragment
+SRPK2|δ-secretase
+APP|Amyloid-beta
+Amyloid-beta|LGMN
+Amyloid-beta|Alzheimer's disease
+Dopamine|DOPAL
+DOPAL|δ-secretase
+LGMN|Prolegumain
+Prolegumain|δ-secretase
+STAT1|BACE1
+BACE1|Amyloid-beta
+α-synuclein|α-synuclein (1-103) fragment
+Tau (1-368) fragment|TrkB
+Tau (1-368) fragment|STAT1
+Tau (1-368) fragment|Alzheimer's disease
+C/EBP10A𝛽|LGMN
+MAO B|DOPAL
+Microtubule-associated protein tau|Tau (1-368) fragment
+Microtubule-associated protein tau|Microtubule-associated protein tau
+PP2A|PP2A
+PP2A|Microtubule-associated protein tau
+Frontotemporal dementia|"Amyotrophic lateral 
+sclerosis"
+"Amyotrophic lateral 
+sclerosis"|Frontotemporal dementia

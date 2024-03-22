@@ -1,0 +1,155 @@
+S|P|O
+PAK1|participates_in|Activation of RAC1
+PAK2|participates_in|Activation of RAC1
+LIMD1|subClassOf|protein_coding_gene
+LATS1|subClassOf|protein_coding_gene
+valproic acid|interacts with|MAPK8
+valproic acid|interacts with|LIMD1
+PAK3|subClassOf|protein_coding_gene
+TEAD3|subClassOf|protein_coding_gene
+MAPK8|participates_in|MyD88-independent TLR4 cascade 
+MAPK9|participates_in|MyD88-independent TLR4 cascade 
+ITGB5|subClassOf|protein_coding_gene
+SRC|subClassOf|protein_coding_gene
+MAPK8|subClassOf|protein_coding_gene
+valproic acid|interacts with|ITGB2
+valproic acid|interacts with|TEAD3
+ITGB5|participates_in|Immune System
+MAPK9|participates_in|Immune System
+PAK1|participates_in|Immune System
+PAK2|subClassOf|protein_coding_gene
+ITGB5|participates_in|Adaptive Immune System
+PAK3|participates_in|Adaptive Immune System
+valproic acid|interacts with|PAK1
+PAK5|subClassOf|protein_coding_gene
+PAK6|subClassOf|protein_coding_gene
+ITGB5|participates_in|Integrin cell surface interactions
+ITGB6|participates_in|Integrin cell surface interactions
+MAPK9|subClassOf|protein_coding_gene
+MAP4K1|subClassOf|protein_coding_gene
+ITGB4|subClassOf|protein_coding_gene
+ITGB1|subClassOf|protein_coding_gene
+PAK5|participates_in|Developmental Biology
+PAK6|participates_in|Developmental Biology
+PAK3|participates_in|Signaling by ROBO receptors
+PAK5|participates_in|Signaling by ROBO receptors
+PAK6|participates_in|Activation of RAC1
+ITGB2|participates_in|Adaptive Immune System
+valproic acid|interacts with|ITGB6
+valproic acid|interacts with|PAK6
+ITGB6|subClassOf|gene
+ITGB4|subClassOf|gene
+ITGB6|participates_in|Molecules associated with elastic fibres
+ITGB3|participates_in|Molecules associated with elastic fibres
+ITGB6|participates_in|Extracellular matrix organization
+ITGB2|participates_in|Extracellular matrix organization
+ITGB1|participates_in|Molecules associated with elastic fibres
+ITGB4|participates_in|Cell-Cell communication
+MAPK8|participates_in|Cell-Cell communication
+PAK1|subClassOf|protein_coding_gene
+valproic acid|interacts with|ITGB4
+valproic acid|interacts with|PAK2
+ITGB5|participates_in|Non-integrin membrane-ECM interactions
+ITGB3|participates_in|Non-integrin membrane-ECM interactions
+ITGB4|participates_in|Non-integrin membrane-ECM interactions
+PAK1|participates_in|CD28 co-stimulation
+PAK3|participates_in|CD28 co-stimulation
+PAK1|participates_in|Axon guidance
+PAK5|participates_in|Axon guidance
+PAK3|participates_in|Activation of RAC1
+ITGB3|subClassOf|protein_coding_gene
+ITGB1|participates_in|RHO GTPase Effectors
+PAK1|participates_in|RHO GTPase Effectors
+ITGB1|participates_in|Developmental Biology
+PAK2|participates_in|Developmental Biology
+ITGB1|participates_in|Signaling by Rho GTPases
+PAK3|participates_in|Signaling by Rho GTPases
+ITGB3|participates_in|FCERI mediated MAPK activation
+MAPK8|participates_in|FCERI mediated MAPK activation
+MAPK9|participates_in|FCERI mediated MAPK activation
+ITGB3|participates_in|VEGFA-VEGFR2 Pathway
+PAK1|participates_in|VEGFA-VEGFR2 Pathway
+ITGB3|participates_in|Signaling by VEGF
+PAK2|participates_in|Signaling by VEGF
+ITGB3|participates_in|Axon guidance
+PAK3|participates_in|Axon guidance
+valproic acid|interacts with|SRC
+ITGB3|participates_in|Integrin cell surface interactions
+ITGB2|participates_in|Integrin cell surface interactions
+ITGB1|participates_in|Non-integrin membrane-ECM interactions
+ITGB2|subClassOf|gene
+SRC|subClassOf|gene
+ITGB2|participates_in|Toll-like Receptor Cascades
+MAPK8|participates_in|Toll-like Receptor Cascades
+ITGB2|participates_in|Toll Like Receptor 4 (TLR4) Cascade
+MAPK9|participates_in|Toll Like Receptor 4 (TLR4) Cascade
+YWHAQ|participates_in|Gene expression (Transcription)
+TEAD3|participates_in|Gene expression (Transcription)
+ITGB2|subClassOf|protein_coding_gene
+ITGB3|participates_in|Signaling by SCF-KIT
+SRC|participates_in|Signaling by SCF-KIT
+ITGB4|participates_in|Extracellular matrix organization
+ITGB1|participates_in|Axon guidance
+PAK6|participates_in|Axon guidance
+MAP4K2|subClassOf|protein_coding_gene
+MAP4K5|subClassOf|protein_coding_gene
+MAP4K3|subClassOf|protein_coding_gene
+ITGB1|participates_in|Signal Transduction
+SRC|participates_in|Signal Transduction
+MAP4K4|subClassOf|protein_coding_gene
+LATS1|participates_in|Signaling by Hippo
+WWTR1|participates_in|Signaling by Hippo
+TEAD3|participates_in|Metabolism
+TEAD1|participates_in|Metabolism
+ITGB6|subClassOf|protein_coding_gene
+aflatoxin B1|interacts with|MAP4K3
+aflatoxin B1|interacts with|MAP4K1
+WWTR1|participates_in|Metabolism
+ITGB2|causes or contributes to condition|Calcinosis
+ITGB1|causes or contributes to condition|Calcinosis
+aflatoxin B1|interacts with|ITGB6
+aflatoxin B1|interacts with|PAK2
+TEAD2|participates_in|Regulation of lipid metabolism by PPARalpha
+TEAD1|participates_in|Regulation of lipid metabolism by PPARalpha
+STK3|subClassOf|protein_coding_gene
+SAV1|subClassOf|protein_coding_gene
+ACTA1|subClassOf|gene
+ACTA2|subClassOf|gene
+ACTB|subClassOf|gene
+ACTB|subClassOf|protein_coding_gene
+ACTC1|subClassOf|protein_coding_gene
+ACTC1|subClassOf|gene
+ACTG1|subClassOf|gene
+ACTG1|subClassOf|protein_coding_gene
+ACTG2 (human)|subClassOf|protein_coding_gene
+TEAD1|subClassOf|protein_coding_gene
+ITGB5|participates_in|Muscle contraction
+WWTR1|participates_in|Muscle contraction
+TEAD2|subClassOf|protein_coding_gene
+PAK1|participates_in|Signal Transduction
+WWTR1|participates_in|Signal Transduction
+LATS1|participates_in|Signal Transduction
+TEAD1|subClassOf|gene
+CTNNA1|participates_in|Myogenesis
+CTNNB1 (human)|participates_in|Myogenesis
+WWTR1|subClassOf|protein_coding_gene
+CTNNA1|subClassOf|protein_coding_gene
+YWHAQ|participates_in|Generic Transcription Pathway
+TEAD2|participates_in|Generic Transcription Pathway
+TEAD1|participates_in|Generic Transcription Pathway
+WWTR1|participates_in|Regulation of lipid metabolism by PPARalpha
+ITGB3|causes or contributes to condition|Prostate neoplasm
+PAK6|causes or contributes to condition|Prostate neoplasm
+SAV1|participates_in|Signal Transduction
+valproic acid|interacts with|MAP4K4
+valproic acid|interacts with|MAP4K1
+ITGB5|participates_in|ECM proteoglycans
+ITGB1|participates_in|ECM proteoglycans
+YWHAQ|subClassOf|protein_coding_gene
+aflatoxin B1|interacts with|PAK3
+aflatoxin B1|interacts with|WWTR1
+valproic acid|interacts with|ITGB1
+STK3|participates_in|Signaling by Hippo
+WWTR1|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD2|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD3|participates_in|Regulation of lipid metabolism by PPARalpha

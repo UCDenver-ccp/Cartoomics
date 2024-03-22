@@ -1,0 +1,275 @@
+S|P|O
+RUNX2|subClassOf|gene
+COL10A1|subClassOf|gene
+RUNX2|causes or contributes to condition|Osteosarcoma
+VEGFA|causes or contributes to condition|Osteosarcoma
+MMP13|subClassOf|gene
+valproic acid|interacts with|RUNX2
+valproic acid|interacts with|CEBPB
+COL10A1|participates_in|Extracellular matrix organization
+DDR2 (human)|participates_in|Extracellular matrix organization
+COL10A1|participates_in|Collagen chain trimerization
+COL3A1|participates_in|Collagen chain trimerization
+COL1A1|participates_in|Collagen chain trimerization
+COL2A1|participates_in|Collagen chain trimerization
+VEGFA|subClassOf|gene
+COL10A1|participates_in|Assembly of collagen fibrils and other multimeric structures
+MMP13|participates_in|Assembly of collagen fibrils and other multimeric structures
+COL10A1|subClassOf|protein_coding_gene
+CEBPB|subClassOf|protein_coding_gene
+MMP13|causes or contributes to condition|Prostate neoplasm
+VEGFA|causes or contributes to condition|Prostate neoplasm
+MMP13|subClassOf|protein_coding_gene
+DIO2|has gene product|type II iodothyronine deiodinase (human)
+Triiodothyronine|interacts with|type II iodothyronine deiodinase (human)
+EPAS1|participates_in|Cellular responses to stress
+CEBPB|participates_in|Cellular responses to stress
+ARNT|subClassOf|protein_coding_gene
+GANC|subClassOf|protein_coding_gene
+ARNT|causes or contributes to condition|Cutaneous melanoma
+COL2A1|causes or contributes to condition|Cutaneous melanoma
+ARNT|participates_in|Metabolism
+ACAN|participates_in|Metabolism
+ARNT|participates_in|Regulation of gene expression by Hypoxia-inducible Factor
+VEGFA|participates_in|Regulation of gene expression by Hypoxia-inducible Factor
+HIF1A|participates_in|Regulation of gene expression by Hypoxia-inducible Factor
+COL2A1|subClassOf|protein_coding_gene
+ACAN|subClassOf|protein_coding_gene
+VEGFA|subClassOf|protein_coding_gene
+COL2A1|participates_in|Extracellular matrix organization
+COL2A1|causes or contributes to condition|Cleft palate
+SOX9|causes or contributes to condition|Cleft palate
+aggrecan core protein (human)|participates_in|Extracellular matrix organization
+aggrecan core protein (human)|subClassOf|AGC
+ACAN|participates_in|Extracellular matrix organization
+COL2A1|causes or contributes to condition|Multiple epiphyseal dysplasia
+VEGFA|causes or contributes to condition|Multiple epiphyseal dysplasia
+ACAN|subClassOf|gene
+VEGFA|participates_in|VEGF binds to VEGFR leading to receptor dimerization
+KDR|participates_in|VEGF binds to VEGFR leading to receptor dimerization
+HIF1A|subClassOf|protein_coding_gene
+valproic acid|interacts with|HIF1A
+valproic acid|interacts with|COL2A1
+HIF1A|participates_in|Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha
+VHL|participates_in|Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha
+Triiodothyronine|is substance that treats|nevus of Ito
+nevus of Ito|has phenotype|Pulmonary arterial hypertension
+EPAS1|causes or contributes to condition|Pulmonary arterial hypertension
+valproic acid|interacts with|P4HTM (human)
+aflatoxin B1|interacts with|CNMD (human)
+aflatoxin B1|interacts with|EPAS1
+KDR|causes or contributes to condition|tubular adenocarcinoma
+PIK3CA|causes or contributes to condition|tubular adenocarcinoma
+KDR|participates_in|VEGFR2 mediated cell proliferation
+MAPK3|participates_in|VEGFR2 mediated cell proliferation
+MAPK1|participates_in|VEGFR2 mediated cell proliferation
+KDR|causes or contributes to condition|Deep venous thrombosis
+JAK2|causes or contributes to condition|Deep venous thrombosis
+PRKCA (human)|participates_in|VEGFR2 mediated cell proliferation
+KDR|causes or contributes to condition|Schizophrenia
+RELA|causes or contributes to condition|Schizophrenia
+NFKB1|causes or contributes to condition|tubular adenocarcinoma
+KDR|subClassOf|protein_coding_gene
+RELB|subClassOf|protein_coding_gene
+JUND|subClassOf|protein_coding_gene
+KDR|causes or contributes to condition|Lung adenocarcinoma
+JUNB|causes or contributes to condition|Lung adenocarcinoma
+FOS|subClassOf|protein_coding_gene
+KDR|causes or contributes to condition|Angiosarcoma
+JUN|causes or contributes to condition|Angiosarcoma
+FOSL2|subClassOf|protein_coding_gene
+FOSL1|subClassOf|protein_coding_gene
+FOSB|subClassOf|protein_coding_gene
+KDR|causes or contributes to condition|Neoplasm of the pancreas
+HIF1A|causes or contributes to condition|Neoplasm of the pancreas
+PIK3CA|participates_in|CD28 dependent PI3K/Akt signaling
+AKT1|participates_in|CD28 dependent PI3K/Akt signaling
+AKT2|participates_in|CD28 dependent PI3K/Akt signaling
+PIK3CA|causes or contributes to condition|Hemimegalencephaly
+AKT3|causes or contributes to condition|Hemimegalencephaly
+NGF|participates_in|TRKA activation by NGF
+NTRK1|participates_in|TRKA activation by NGF
+NGF|has gene product|beta-nerve growth factor (human)
+beta-nerve growth factor (human)|molecularly interacts with|angiopoietin-1 receptor (human)
+angiopoietin-1 receptor (human)|participates_in|Endothelial cell proliferation
+NGF|participates_in|NRAGE signals death through JNK
+Bcl-2-like protein 11 (human)|participates_in|NRAGE signals death through JNK
+Bcl-2-like protein 11 (human)|participates_in|Tube formation
+NTRK1|causes or contributes to condition|Lewy bodies
+autosomal recessive juvenile Parkinson disease 2|has phenotype|Lewy bodies
+RAS|is substance that treats|autosomal recessive juvenile Parkinson disease 2
+oxygen atom|is substance that treats|Hypoxemia
+oxygen atom|interacts with|HIF1A
+desiccated thyroid extract|has part|L-thyroxine
+desiccated thyroid extract|has part|Triiodothyronine
+hormone|molecularly interacts with|Endothelial cell proliferation
+hormone|molecularly interacts with|Tube formation
+JUND|causes or contributes to condition|Cirrhosis
+CCN2|causes or contributes to condition|Cirrhosis
+JUND|causes or contributes to condition|Status epilepticus without prominent motor symptoms
+NGF|causes or contributes to condition|Status epilepticus without prominent motor symptoms
+JUNB|causes or contributes to condition|Status epilepticus without prominent motor symptoms
+FOS|causes or contributes to condition|Status epilepticus without prominent motor symptoms
+JUN|causes or contributes to condition|Status epilepticus without prominent motor symptoms
+JUND|causes or contributes to condition|Neoplasm of the lung
+FOSL2|causes or contributes to condition|Neoplasm of the lung
+FOSB|causes or contributes to condition|Neoplasm of the lung
+CCN2|participates_in|PPARA activates gene expression
+apolipoprotein A-I (human)|participates_in|PPARA activates gene expression
+apolipoprotein A-I (human)|participates_in|Endothelial cell proliferation
+valproic acid|interacts with|CCN2
+valproic acid|molecularly interacts with|Tube formation
+JUNB|causes or contributes to condition|Neoplasm of the lung
+CCN2|causes or contributes to condition|Neoplasm of the lung
+JUNB|causes or contributes to condition|middle cerebral artery infarction
+NGF|causes or contributes to condition|middle cerebral artery infarction
+FOS|causes or contributes to condition|middle cerebral artery infarction
+JUNB|subClassOf|protein_coding_gene
+FOS|causes or contributes to condition|Extrahepatic cholestasis
+CCN2|causes or contributes to condition|Extrahepatic cholestasis
+FOS|participates_in|Activation of the AP-1 family of transcription factors
+JUN|participates_in|Activation of the AP-1 family of transcription factors
+FOS|causes or contributes to condition|Neoplasm of the lung
+FOS|causes or contributes to condition|Focal sensory seizure
+FOSB|causes or contributes to condition|Focal sensory seizure
+JUN|causes or contributes to condition|Extrahepatic cholestasis
+JUN|causes or contributes to condition|Neoplasm of the lung
+JUN|subClassOf|protein_coding_gene
+JUN|causes or contributes to condition|Neoplasm of the liver
+FOSB|causes or contributes to condition|Neoplasm of the liver
+aflatoxin B1|interacts with|FOSL2
+aflatoxin B1|interacts with|NGF
+CCN2|subClassOf|protein_coding_gene
+NGF|subClassOf|protein_coding_gene
+FOSB|causes or contributes to condition|Seizure
+NGF|causes or contributes to condition|Seizure
+RELA|causes or contributes to condition|Breast carcinoma
+IBSP|causes or contributes to condition|Breast carcinoma
+RELA|causes or contributes to condition|Brain neoplasm
+SPP1|causes or contributes to condition|Brain neoplasm
+RELA|participates_in|Signaling by Interleukins
+VEGFA|participates_in|Signaling by Interleukins
+RELA|causes or contributes to condition|Extrahepatic cholestasis
+RELA|participates_in|NF-kB is activated and signals survival
+NGF|participates_in|NF-kB is activated and signals survival
+RELA|participates_in|IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR)
+NFKB1|participates_in|IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR)
+RELA|participates_in|CD209 (DC-SIGN) signaling
+RELB|participates_in|CD209 (DC-SIGN) signaling
+IBSP|participates_in|Extracellular matrix organization
+lysyl oxidase homolog 2 (human)|participates_in|Extracellular matrix organization
+lysyl oxidase homolog 2 (human)|participates_in|Endothelial cell proliferation
+polycyclic arene|is substance that treats|Breast carcinoma
+polycyclic arene|molecularly interacts with|Tube formation
+IBSP|participates_in|Integrin cell surface interactions
+SPP1|participates_in|Integrin cell surface interactions
+SPP1|participates_in|Degradation of the extracellular matrix
+matrix metalloproteinase-14 (human)|participates_in|Degradation of the extracellular matrix
+matrix metalloproteinase-14 (human)|participates_in|Endothelial cell proliferation
+SPP1|causes or contributes to condition|Carotid artery stenosis
+bisphenol A|is substance that treats|Carotid artery stenosis
+bisphenol A|molecularly interacts with|Tube formation
+NFKB1|subClassOf|protein_coding_gene
+IBSP|subClassOf|protein_coding_gene
+SPP1|causes or contributes to condition|tubular adenocarcinoma
+VEGFA|causes or contributes to condition|tubular adenocarcinoma
+CCN2|causes or contributes to condition|tubular adenocarcinoma
+NFKB1|participates_in|NF-kB is activated and signals survival
+NFKB1|participates_in|CD209 (DC-SIGN) signaling
+SPP1|subClassOf|protein_coding_gene
+RELB|participates_in|Cytokine Signaling in Immune system
+VEGFA|participates_in|Cytokine Signaling in Immune system
+MAPK3|causes or contributes to condition|Neoplasm of the lung
+SOX9|causes or contributes to condition|Neoplasm of the lung
+MAPK3|participates_in|Disease
+aggrecan core protein (human)|participates_in|Disease
+valproic acid|interacts with|MAPK3
+MAPK3|participates_in|Gene expression (Transcription)
+RUNX2|participates_in|Gene expression (Transcription)
+MAPK3|subClassOf|protein_coding_gene
+MAPK3|causes or contributes to condition|malignant tumor of neck
+VEGFA|causes or contributes to condition|malignant tumor of neck
+MAPK3|causes or contributes to condition|Prostate cancer
+MMP13|causes or contributes to condition|Prostate cancer
+MAPK3|participates_in|Negative feedback regulation of MAPK pathway
+MAPK1|participates_in|Negative feedback regulation of MAPK pathway
+MAPK1|causes or contributes to condition|Neoplasm of the lung
+MAPK1|participates_in|Disease
+valproic acid|interacts with|MAPK1
+MAPK1|subClassOf|protein_coding_gene
+MAPK1|causes or contributes to condition|malignant tumor of neck
+JAK2|participates_in|Interleukin-6 signaling
+STAT3|participates_in|Interleukin-6 signaling
+FGFR1|participates_in|PI-3K cascade:FGFR1
+PIK3CA|participates_in|PI-3K cascade:FGFR1
+hypogonadotropic hypogonadism 2 with or without anosmia|disease has basis in dysfunction of|FGFR1
+hypogonadotropic hypogonadism 2 with or without anosmia|has phenotype|Orthostatic hypotension
+RAS|is substance that treats|Orthostatic hypotension
+FGFR1|causes or contributes to condition|Jackson-Weiss syndrome
+FGFR2|causes or contributes to condition|Jackson-Weiss syndrome
+FGFR1|causes or contributes to condition|gliosarcoma
+FGFR3|causes or contributes to condition|gliosarcoma
+FGFR1|participates_in|PI3K Cascade
+FGFR4|participates_in|PI3K Cascade
+LAMTOR1|participates_in|PI3K Cascade
+FGFR2|participates_in|PI-3K cascade:FGFR2
+PIK3CA|participates_in|PI-3K cascade:FGFR2
+FGFR2|participates_in|RET signaling
+glial cell line-derived neurotrophic factor (human)|participates_in|RET signaling
+RAS|interacts with|glial cell line-derived neurotrophic factor (human)
+FGFR2|causes or contributes to condition|LADD syndrome
+FGFR3|causes or contributes to condition|LADD syndrome
+FGFR2|participates_in|PI3K Cascade
+FGFR3|causes or contributes to condition|Epidermal nevus
+PIK3CA|causes or contributes to condition|Epidermal nevus
+FGFR3|causes or contributes to condition|testicular germ cell tumor
+testicular germ cell tumor|has phenotype|Orthostatic hypotension
+FGFR3|participates_in|PI3K Cascade
+FGFR4|participates_in|Signaling by FGFR4 in disease
+PIK3CA|participates_in|Signaling by FGFR4 in disease
+FGFR4|participates_in|RET signaling
+PIK3CA|participates_in|PI3K Cascade
+LAMTOR1|participates_in|Signal Transduction
+glial cell line-derived neurotrophic factor (human)|participates_in|Signal Transduction
+MAPK1|participates_in|RET signaling
+MAPK3|participates_in|RET signaling
+AKT1|causes or contributes to condition|Osteosarcoma
+AKT1|subClassOf|gene
+AKT1|causes or contributes to condition|Prostate neoplasm
+AKT1|participates_in|Deactivation of the beta-catenin transactivating complex
+SOX9|participates_in|Deactivation of the beta-catenin transactivating complex
+AKT1|participates_in|Disease
+COL2A1|subClassOf|gene
+AKT1|participates_in|AKT-mediated inactivation of FOXO1A
+AKT2|participates_in|AKT-mediated inactivation of FOXO1A
+AKT3|participates_in|AKT-mediated inactivation of FOXO1A
+AKT2|participates_in|Generic Transcription Pathway
+RUNX2|participates_in|Generic Transcription Pathway
+AKT2|subClassOf|gene
+AKT2|participates_in|VEGFA-VEGFR2 Pathway
+VEGFA|participates_in|VEGFA-VEGFR2 Pathway
+AKT2|participates_in|Deactivation of the beta-catenin transactivating complex
+AKT2|participates_in|Disease
+AKT3|participates_in|Generic Transcription Pathway
+AKT3|subClassOf|gene
+AKT3|participates_in|VEGFA-VEGFR2 Pathway
+SOX9|subClassOf|gene
+AKT3|participates_in|Disease
+AKT3|causes or contributes to condition|Cutaneous melanoma
+SOX9|has gene product|transcription factor SOX-9 (human)
+transcription factor SOX-9 (human)|molecularly interacts with|aggrecan core protein (human)
+aggrecan core protein (human)|molecularly interacts with|transcription factor SOX-9 (human)
+transcription factor SOX-9 (human)|has_gene_template|SOX9
+FGF23|participates_in|FGFR1c and Klotho ligand binding and activation
+FGFR1|participates_in|FGFR1c and Klotho ligand binding and activation
+FGF23|participates_in|FGFR2c ligand binding and activation
+FGFR2|participates_in|FGFR2c ligand binding and activation
+FGF23|participates_in|Signaling by activated point mutants of FGFR3
+FGFR3|participates_in|Signaling by activated point mutants of FGFR3
+FGF23|participates_in|FGFR4 ligand binding and activation
+FGFR4|participates_in|FGFR4 ligand binding and activation
+FGF23|participates_in|PI3K Cascade
+COL3A1|participates_in|Extracellular matrix organization
+COL3A1|causes or contributes to condition|Extrahepatic cholestasis
+COL1A1|causes or contributes to condition|Extrahepatic cholestasis
+COL1A1|participates_in|Extracellular matrix organization

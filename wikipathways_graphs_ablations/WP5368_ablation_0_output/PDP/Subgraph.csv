@@ -1,0 +1,44 @@
+S|P|O
+HSD17B1|participates_in|Estrogen biosynthesis
+Estradiol-17beta|participates_in|Estrogen biosynthesis
+SLCO1B3|participates_in|Transport of organic anions
+estrone 3-sulfate|participates_in|Transport of organic anions
+dehydroepiandrosterone sulfate|participates_in|Transport of organic anions
+SLCO1A2|participates_in|Transport of organic anions
+SLCO2B1|participates_in|Transport of organic anions
+SLCO4A1|participates_in|Transport of organic anions
+SLCO4C1|participates_in|Transport of organic anions
+SULT1E1|participates_in|Cytosolic sulfonation of small molecules
+estrone 3-sulfate|participates_in|Cytosolic sulfonation of small molecules
+17-beta-hydroxysteroid dehydrogenase 14 (human)|molecularly interacts with|estrone
+17-beta-hydroxysteroid dehydrogenase 14 (human)|molecularly interacts with|DHEA
+17-beta-hydroxysteroid dehydrogenase 14 (human)|molecularly interacts with|Estradiol-17beta
+estrone|participates_in|Estrogen biosynthesis
+SLCO1B1|participates_in|Transport of organic anions
+HSD17B1|participates_in|The canonical retinoid cycle in rods (twilight vision)
+NADH(2-)|participates_in|The canonical retinoid cycle in rods (twilight vision)
+testosterone|is substance that treats|Microprolactinoma
+Estradiol-17beta|is substance that treats|Microprolactinoma
+Estradiol-17beta|is substance that treats|prostate intraepithelial neoplasia
+ESR2|causes or contributes to condition|prostate intraepithelial neoplasia
+ESR1 (human)|causes or contributes to condition|prostate intraepithelial neoplasia
+estrone|is substance that treats|Microprolactinoma
+estrone 3-sulfate|has functional parent|estrone
+dehydroepiandrosterone sulfate|participates_in|Cytosolic sulfonation of small molecules
+SULT1E1|has gene product|sulfotransferase 1E1 (human)
+sulfotransferase 1E1 (human)|molecularly interacts with|PAP
+dehydroepiandrosterone sulfate|has functional parent|DHEA
+DHEA|participates_in|Androgen biosynthesis
+Androstenedione|participates_in|Androgen biosynthesis
+HSD17B2|has gene product|17-beta-hydroxysteroid dehydrogenase type 2 (human)
+17-beta-hydroxysteroid dehydrogenase type 2 (human)|molecularly interacts with|NADH dianion
+HSD17B3|participates_in|Androgen biosynthesis
+testosterone|participates_in|Androgen biosynthesis
+NADPH(4-)|participates_in|Androgen biosynthesis
+NADP(3-)|participates_in|Androgen biosynthesis
+HSD3B1|participates_in|Androgen biosynthesis
+Androstenedione|participates_in|Estrogen biosynthesis
+testosterone|participates_in|Estrogen biosynthesis
+SLCO1B1|causes or contributes to condition|Rotor syndrome
+SLCO1B3|causes or contributes to condition|Rotor syndrome
+Estradiol-17beta|participates_in|Cytosolic sulfonation of small molecules

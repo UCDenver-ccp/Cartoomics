@@ -1,0 +1,51 @@
+S|P|O
+NF2|participates_in|Signal Transduction
+STK3|participates_in|Signal Transduction
+CXCL10|participates_in|Signal Transduction
+LATS1|participates_in|Signal Transduction
+TEAD2|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD4 (human)|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD1|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD3|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+RASSF1|subClassOf|protein_coding_gene
+STK4|subClassOf|protein_coding_gene
+STK3|subClassOf|protein_coding_gene
+LATS1|participates_in|Signaling by Hippo
+WWTR1|participates_in|Signaling by Hippo
+YAP1|participates_in|Signaling by Hippo
+NF2|subClassOf|protein_coding_gene
+STK38L (human)|subClassOf|protein_coding_gene
+CXCL10|subClassOf|protein_coding_gene
+RASSF1|subClassOf|gene
+YAP1|subClassOf|gene
+aflatoxin B1|interacts with|MAP4K1
+aflatoxin B1|interacts with|WWTR1
+MAP4K1|subClassOf|protein_coding_gene
+YAP1|subClassOf|protein_coding_gene
+STK4|participates_in|Signal Transduction
+WWTR1|participates_in|Signal Transduction
+STK4|causes or contributes to condition|Neoplasm of the breast
+YAP1|causes or contributes to condition|Neoplasm of the breast
+MAP4K2|subClassOf|protein_coding_gene
+WWTR1|subClassOf|protein_coding_gene
+WWTR1|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TNIK|subClassOf|protein_coding_gene
+NF2|subClassOf|gene
+MAP4K4|subClassOf|protein_coding_gene
+aflatoxin B1|interacts with|MAP4K3
+MAP4K3|subClassOf|protein_coding_gene
+LATS1|subClassOf|protein_coding_gene
+TNIK|subClassOf|gene
+aflatoxin B1|interacts with|RASSF1 (human)
+valproic acid|interacts with|MAP4K1
+valproic acid|interacts with|STK38L
+TNIK|participates_in|Oxidative Stress Induced Senescence
+MAP4K4|participates_in|Oxidative Stress Induced Senescence
+valproic acid|interacts with|MAP4K2
+valproic acid|interacts with|STK4
+STK3|participates_in|Signaling by Hippo
+YAP1|causes or contributes to condition|epithelioid hemangioendothelioma
+WWTR1|causes or contributes to condition|epithelioid hemangioendothelioma
+YAP1|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+YAP1|participates_in|Signal Transduction
+valproic acid|interacts with|MAP4K4

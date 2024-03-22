@@ -1,0 +1,104 @@
+S|P|O
+CYP19A1|participates_in|Cytochrome P450 - arranged by substrate type
+Estradiol-17beta|participates_in|Cytochrome P450 - arranged by substrate type
+HSD17B1|participates_in|Estrogen biosynthesis
+Estradiol-17beta|participates_in|Estrogen biosynthesis
+HSD17B1|participates_in|Visual phototransduction
+NADH(2-)|participates_in|Visual phototransduction
+HSD17B1|has gene product|17-beta-hydroxysteroid dehydrogenase type 1 (human)
+17-beta-hydroxysteroid dehydrogenase type 1 (human)|molecularly interacts with|NAD anion
+STS|subClassOf|tag
+engineered_tag|subClassOf|tag
+engineered_tag|subClassOf|engineered_region
+engineered_gene|subClassOf|engineered_region
+engineered_gene|subClassOf|gene
+LDLR (human)|subClassOf|gene
+LDLR (human)|participates_in|Metabolism
+estrone|participates_in|Metabolism
+HEXB|subClassOf|gene
+HEXB|participates_in|Metabolism
+DHEA|participates_in|Metabolism
+engineered_tag|has_quality|engineered
+engineered_gene|has_quality|engineered
+UGT1A1|subClassOf|gene
+Estradiol-17beta|interacts with|UGT1A1
+17-beta-hydroxysteroid dehydrogenase type 6 (human)|molecularly interacts with|testosterone
+17-beta-hydroxysteroid dehydrogenase type 6 (human)|molecularly interacts with|Estradiol-17beta
+estradiol 3-sulphate|has functional parent|Estradiol-17beta
+Estradiol-17beta|interacts with|estrogen receptor beta (human)
+estrogen receptor beta (human)|has_gene_template|ESR2
+Estradiol-17beta|interacts with|estrogen receptor (human)
+estrogen receptor (human)|has_gene_template|ESR1
+Estradiol-17beta|interacts with|UDP-glucuronosyltransferase 1A9 (human)
+estrone|interacts with|UDP-glucuronosyltransferase 1A9 (human)
+estrone sulphate|has functional parent|estrone
+cytochrome P450 2B6 (human)|molecularly interacts with|estrone
+cytochrome P450 2B6 (human)|molecularly interacts with|Estradiol-17beta
+SULT1E1|participates_in|Biological oxidations
+DHEA-S|participates_in|Biological oxidations
+SULT1E1|participates_in|Phase II - Conjugation of compounds
+estradiol 3-sulphate|participates_in|Phase II - Conjugation of compounds
+SULT1E1|has gene product|sulfotransferase 1E1 (human)
+sulfotransferase 1E1 (human)|molecularly interacts with|PAP
+sulfotransferase 1E1 (human)|molecularly interacts with|PAPS(4-)
+DHEA-S|has functional parent|DHEA
+DHEA|interacts with|steroid 17-alpha-hydroxylase/17,20 lyase (human)
+steroid 17-alpha-hydroxylase/17,20 lyase (human)|molecularly interacts with|Androstenedione
+sulfotransferase 1A4 (human)|molecularly interacts with|PAPS(4-)
+sulfotransferase 1A4 (human)|participates_in|Cytosolic sulfonation of small molecules
+estrone sulphate|participates_in|Cytosolic sulfonation of small molecules
+HSD17B2|participates_in|Metabolism of steroid hormones
+NADH(2-)|participates_in|Metabolism of steroid hormones
+HSD17B3|has gene product|testosterone 17-beta-dehydrogenase 3 (human)
+testosterone 17-beta-dehydrogenase 3 (human)|molecularly interacts with|testosterone
+testosterone 17-beta-dehydrogenase 3 (human)|molecularly interacts with|NADPH tetraanion
+HSD17B3|participates_in|Androgen biosynthesis
+NADP(3-)|participates_in|Androgen biosynthesis
+17-beta-hydroxysteroid dehydrogenase type 6 (human)|molecularly interacts with|NAD anion
+17-beta-hydroxysteroid dehydrogenase type 6 (human)|molecularly interacts with|estrone
+HSD3B1|has gene product|3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1 (human)
+3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1 (human)|molecularly interacts with|Androstenedione
+ESR2|causes or contributes to condition|gemistocytic astrocytoma
+ESR1|causes or contributes to condition|gemistocytic astrocytoma
+ESR1|participates_in|Nuclear Receptor transcription pathway
+ESR2|participates_in|Nuclear Receptor transcription pathway
+Androstenedione|interacts with|3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1 (human)
+3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1 (human)|molecularly interacts with|testosterone
+SLCO1B1|has gene product|solute carrier organic anion transporter family member 1B1 (human)
+estrone sulphate|interacts with|solute carrier organic anion transporter family member 1B1 (human)
+SLCO1B1|participates_in|Transport of organic anions
+DHEA-S|participates_in|Transport of organic anions
+SLCO1A2|participates_in|Transport of organic anions
+SLCO1B3|participates_in|Transport of organic anions
+SLCO2B1|participates_in|Transport of organic anions
+valproic acid|interacts with|SLCO1B1
+valproic acid|interacts with|SLCO4A1
+SLCO1B1|participates_in|Transport of small molecules
+SLCO4C1|participates_in|Transport of small molecules
+SLCO1B3|has gene product|solute carrier organic anion transporter family member 1B3 (human)
+estrone sulphate|interacts with|solute carrier organic anion transporter family member 1B3 (human)
+DHEA-S|interacts with|solute carrier organic anion transporter family member 1B3 (human)
+aflatoxin B1|interacts with|SLCO1B3
+aflatoxin B1|interacts with|SLCO1A2
+SLCO1B3|participates_in|Recycling of bile acids and salts
+SLCO1B1|participates_in|Recycling of bile acids and salts
+SLCO1B3|participates_in|Transport of vitamins, nucleosides, and related molecules
+SLCO2B1|participates_in|Transport of vitamins, nucleosides, and related molecules
+SLCO4A1|participates_in|Transport of organic anions
+SLCO1B3|participates_in|Transport of small molecules
+estrone sulphate|participates_in|Transport of organic anions
+SLCO4A1|participates_in|Transport of small molecules
+SLCO4A1|participates_in|SLC-mediated transmembrane transport
+SLCO2B1|participates_in|SLC-mediated transmembrane transport
+SLCO4C1|participates_in|Transport of organic anions
+SLCO4A1|subClassOf|protein_coding_gene
+SLCO1A2|subClassOf|protein_coding_gene
+DHEA-S|participates_in|Transport of vitamins, nucleosides, and related molecules
+SLCO2B1|participates_in|Transport of small molecules
+SLCO4C1|participates_in|Transport of vitamins, nucleosides, and related molecules
+estrone sulphate|participates_in|Transport of vitamins, nucleosides, and related molecules
+SLCO4C1|subClassOf|protein_coding_gene
+SLCO1A2|has gene product|solute carrier organic anion transporter family member 1A2 (human)
+estrone sulphate|interacts with|solute carrier organic anion transporter family member 1A2 (human)
+aflatoxin B1|interacts with|SLCO2B1
+SLCO1A2|participates_in|Transport of small molecules

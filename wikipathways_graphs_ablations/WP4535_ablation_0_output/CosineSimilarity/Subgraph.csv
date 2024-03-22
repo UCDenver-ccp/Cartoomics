@@ -1,0 +1,143 @@
+S|P|O
+SUN|subClassOf|protein_coding_gene
+ADCY9|subClassOf|protein_coding_gene
+ADCY10|subClassOf|protein_coding_gene
+ADCY4|subClassOf|protein_coding_gene
+ADCY7|subClassOf|protein_coding_gene
+ADCY2|subClassOf|protein_coding_gene
+ADCY8|subClassOf|protein_coding_gene
+ADCY5|subClassOf|protein_coding_gene
+ADCY6|subClassOf|protein_coding_gene
+ADCY9|participates_in|Signaling by EGFR
+ADCY2|participates_in|Signaling by EGFR
+ADCY9|participates_in|DAP12 signaling
+ADCY4|participates_in|DAP12 signaling
+ADCY5|participates_in|Signaling by EGFR
+ADCY9|participates_in|PKA activation
+ADCY6|participates_in|PKA activation
+ADCY9|participates_in|Innate Immune System
+ADCY7|participates_in|Innate Immune System
+ADCY9|participates_in|G alpha (s) signalling events
+ADCY8|participates_in|G alpha (s) signalling events
+ADCY9|participates_in|Hedgehog 'off' state
+ADCY10|participates_in|Hedgehog 'off' state
+ADCY4|participates_in|Hedgehog 'off' state
+ADCY4|participates_in|PKA activation
+ADCY2|participates_in|PKA activation
+ADCY4|participates_in|Integration of energy metabolism
+ADCY5|participates_in|Integration of energy metabolism
+ADCY4|participates_in|Neuronal System
+ADCY6|participates_in|Neuronal System
+ADCY7|participates_in|Integration of energy metabolism
+ADCY4|participates_in|PLC beta mediated events
+ADCY8|participates_in|PLC beta mediated events
+ADCY2|participates_in|Innate Immune System
+ADCY7|participates_in|GABA receptor activation
+ADCY5|participates_in|GABA receptor activation
+ADCY7|participates_in|G-protein mediated events
+ADCY6|participates_in|G-protein mediated events
+ADCY7|participates_in|Adenylate cyclase activating pathway
+ADCY8|participates_in|Adenylate cyclase activating pathway
+ADCY2|participates_in|Signaling by PDGF
+ADCY5|participates_in|Signaling by PDGF
+ADCY2|participates_in|Integration of energy metabolism
+ADCY6|participates_in|Integration of energy metabolism
+ADCY2|participates_in|Signaling by NTRK1 (TRKA)
+ADCY8|participates_in|Signaling by NTRK1 (TRKA)
+ADCY8|participates_in|Neurotransmitter receptors and postsynaptic signal transmission
+ADCY5|participates_in|Neurotransmitter receptors and postsynaptic signal transmission
+ADCY8|participates_in|Signaling by GPCR
+ADCY6|participates_in|Signaling by GPCR
+ADCY5|participates_in|Activation of GABAB receptors
+ADCY6|participates_in|Activation of GABAB receptors
+TAZ|subClassOf|protein_coding_gene
+YY1AP1|subClassOf|protein_coding_gene
+MAP2K2|participates_in|Signal Transduction
+Smad3|participates_in|Signal Transduction
+MAP2K2|participates_in|Disease
+SMAD2 (human)|participates_in|Disease
+MAP2K2|participates_in|Signal transduction by L1
+MAPK1|participates_in|Signal transduction by L1
+ADCY10|participates_in|Signaling by Hedgehog
+ADCY8|participates_in|Signaling by Hedgehog
+Smad3|participates_in|Signaling by TGF-beta Receptor Complex
+SMAD2 (human)|participates_in|Signaling by TGF-beta Receptor Complex
+MAP2K2|participates_in|DAP12 signaling
+MAP2K1|participates_in|DAP12 signaling
+Smad3|participates_in|Signaling by NODAL
+SMAD4|participates_in|Signaling by NODAL
+MAP2K1|participates_in|Developmental Biology
+Smad3|participates_in|Developmental Biology
+SMAD2 (human)|participates_in|Developmental Biology
+MAP2K1|participates_in|Signaling by EGFR
+MAPK1|participates_in|Signaling by EGFR
+MAP2K1|participates_in|Toll-like Receptor Cascades
+MAPK3 (human)|participates_in|Toll-like Receptor Cascades
+fatty acid|molecularly interacts with|microtubule
+fatty acid|participates_in|Golgi-to-ER retrograde transport
+KIF5B|participates_in|Golgi-to-ER retrograde transport
+TGFB1|causes or contributes to condition|Emphysema
+Smad3|causes or contributes to condition|Emphysema
+TGFB1|participates_in|Diseases of signal transduction by growth factor receptors and second messengers
+SMAD2 (human)|participates_in|Diseases of signal transduction by growth factor receptors and second messengers
+TGFB1|causes or contributes to condition|Ureteral obstruction
+TGFB2|causes or contributes to condition|Ureteral obstruction
+TGFB2|causes or contributes to condition|Loeys-Dietz syndrome
+Smad3|causes or contributes to condition|Loeys-Dietz syndrome
+SMAD2 (human)|causes or contributes to condition|Loeys-Dietz syndrome
+Intermediate filament|subClassOf|polymeric cytoskeletal fiber
+valproic acid|molecularly interacts with|polymeric cytoskeletal fiber
+valproic acid|interacts with|PLEC
+PLEC|subClassOf|protein_coding_gene
+SYNE3|subClassOf|protein_coding_gene
+SOS2|participates_in|Axon guidance
+NRAS|participates_in|Axon guidance
+KRAS|participates_in|Axon guidance
+SOS2|participates_in|NRAGE signals death through JNK
+SOS1|participates_in|NRAGE signals death through JNK
+NRAS|participates_in|Signaling by EGFR
+MAP2K2|participates_in|Signaling by EGFR
+NRAS|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+MAP2K1|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+NRAS|participates_in|Signaling by FGFR3 point mutants in cancer
+KRAS|participates_in|Signaling by FGFR3 point mutants in cancer
+KRAS|participates_in|DAP12 signaling
+KRAS|participates_in|Paradoxical activation of RAF signaling by kinase inactive BRAF
+MAP2K1|participates_in|Paradoxical activation of RAF signaling by kinase inactive BRAF
+F-actin|subClassOf|macromolecular complex
+aflatoxin B1|molecularly interacts with|macromolecular complex
+aflatoxin B1|interacts with|SYNE1
+cyclophosphamide|molecularly interacts with|macromolecular complex
+cyclophosphamide|is substance that treats|Emery-Dreifuss muscular dystrophy
+SYNE2|causes or contributes to condition|Emery-Dreifuss muscular dystrophy
+SYNE1|participates_in|Cell Cycle
+SYNE2|participates_in|Cell Cycle
+SYNE2|subClassOf|protein_coding_gene
+RhoA|participates_in|Axon guidance
+MAPK3 (human)|participates_in|Axon guidance
+Cofilin-1|causes or contributes to condition|Neoplasm of the breast
+selenium atom|is substance that treats|Neoplasm of the breast
+selenium atom|molecularly interacts with|macromolecular complex
+Cofilin-1|participates_in|Developmental Biology
+MAPK3 (human)|participates_in|Developmental Biology
+LBR|subClassOf|protein_coding_gene
+BANF1|subClassOf|protein_coding_gene
+TMPO|participates_in|Mitotic Anaphase
+BANF1|participates_in|Mitotic Anaphase
+MAP2K2|participates_in|Axon guidance
+EMD|participates_in|Cell Cycle, Mitotic
+BANF1|participates_in|Cell Cycle, Mitotic
+MAPK1|participates_in|MAP2K and MAPK activation
+MAPK3 (human)|participates_in|MAP2K and MAPK activation
+TMEM43|subClassOf|protein_coding_gene
+SOS1|participates_in|Signaling by FGFR4
+GRB2 (human)|participates_in|Signaling by FGFR4
+RhoA|participates_in|Signaling by NTRK1 (TRKA)
+MAPK1|participates_in|Signaling by NTRK1 (TRKA)
+KIF5B|subClassOf|protein_coding_gene
+SOS2|subClassOf|gene
+MAP2K1|subClassOf|gene
+SYNE1|participates_in|Meiosis
+SUN|participates_in|Meiosis
+RhoA|participates_in|Metabolism of proteins
+TAZ|participates_in|Metabolism of proteins

@@ -1,0 +1,49 @@
+S|P|O
+Sparc|participates_in|Scavenging by Class H Receptors
+stabilin-1 (human)|participates_in|Scavenging by Class H Receptors
+stabilin-1 (human)|participates_in|Cell adhesion
+Sparc|participates_in|ECM proteoglycans
+SERPINE1|participates_in|ECM proteoglycans
+14-3-3|participates_in|Generic Transcription Pathway
+TAZ|participates_in|Generic Transcription Pathway
+Smad2|participates_in|Generic Transcription Pathway
+Smad4|participates_in|Generic Transcription Pathway
+TAZ|subClassOf|protein_coding_gene
+POSTN|subClassOf|protein_coding_gene
+TAZ|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
+SERPINE1|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
+Smad4|causes or contributes to condition|Neoplasm of the large intestine
+Sparc|causes or contributes to condition|Neoplasm of the large intestine
+Smad2|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
+valproic acid|interacts with|Smad2
+valproic acid|interacts with|POSTN
+Smad2|participates_in|SMAD4 MH2 Domain Mutants in Cancer
+Smad4|participates_in|SMAD4 MH2 Domain Mutants in Cancer
+Smad2|participates_in|SMAD2/3 MH2 Domain Mutants in Cancer
+TGFβ-II-R|participates_in|SMAD2/3 MH2 Domain Mutants in Cancer
+POSTN|causes or contributes to condition|Neoplasm of the large intestine
+Smad4|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
+Smad2|subClassOf|protein_coding_gene
+Sparc|subClassOf|protein_coding_gene
+Smad3|causes or contributes to condition|Ureteral obstruction
+SERPINE1|causes or contributes to condition|Ureteral obstruction
+Smad3|causes or contributes to condition|Neoplasm of the large intestine
+Smad3|participates_in|SMAD4 MH2 Domain Mutants in Cancer
+TGFβ-I-R|participates_in|SMAD2/3 MH2 Domain Mutants in Cancer
+Smad3|participates_in|SMAD2/3 MH2 Domain Mutants in Cancer
+TGFβ-I-R|participates_in|TGFBR2 Kinase Domain Mutants in Cancer
+TGFβ-II-R|participates_in|TGFBR2 Kinase Domain Mutants in Cancer
+Smad3|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
+TGFβ-I-R|subClassOf|protein_coding_gene
+TGFBR3 (human)|subClassOf|protein_coding_gene
+TGFβ-II-R|subClassOf|protein_coding_gene
+Smad3|participates_in|Generic Transcription Pathway
+TAZ|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+CCN2 (human)|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+CCN2 (human)|participates_in|Generic Transcription Pathway
+Smad3|participates_in|Loss of Function of SMAD4 in Cancer
+Smad4|participates_in|Loss of Function of SMAD4 in Cancer
+Smad3|causes or contributes to condition|Cirrhosis
+CCN2 (human)|causes or contributes to condition|Cirrhosis
+TGF-β|participates_in|TGFBR2 MSI Frameshift Mutants in Cancer
+TGFβ-II-R|participates_in|TGFBR2 MSI Frameshift Mutants in Cancer

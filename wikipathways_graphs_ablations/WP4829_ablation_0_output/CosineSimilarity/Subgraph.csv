@@ -1,0 +1,217 @@
+S|P|O
+AP2A2|participates_in|Neurotransmitter receptors and postsynaptic signal transmission
+GABRA3|participates_in|Neurotransmitter receptors and postsynaptic signal transmission
+PTEN|causes or contributes to condition|collecting duct carcinoma
+PIK3CA|causes or contributes to condition|collecting duct carcinoma
+PTEN|participates_in|DAP12 interactions
+PIK3CB|participates_in|DAP12 interactions
+PTEN|participates_in|Downstream signal transduction
+PIK3R1|participates_in|Downstream signal transduction
+PTEN|participates_in|Signaling by NTRKs
+PIK3R2|participates_in|Signaling by NTRKs
+PTEN|participates_in|PI3K/AKT activation
+PIK3R3|participates_in|PI3K/AKT activation
+valproic acid|interacts with|PTEN
+valproic acid|interacts with|PIK3CG
+PIK3CA|subClassOf|gene
+GABRA1|subClassOf|gene
+PIK3CA|participates_in|Adaptive Immune System
+AP2A1|participates_in|Adaptive Immune System
+PIK3CA|participates_in|Signaling by NTRK1 (TRKA)
+AP2A2|participates_in|Signaling by NTRK1 (TRKA)
+valproic acid|interacts with|PIK3CA
+valproic acid|interacts with|GABRA3
+PIK3CA|causes or contributes to condition|Schizophrenia
+GABRA4|causes or contributes to condition|Schizophrenia
+PIK3CB|participates_in|Signaling by NTRKs
+AP2A1|participates_in|Signaling by NTRKs
+GABRA5|causes or contributes to condition|Schizophrenia
+GABRB3|subClassOf|gene
+PIK3CA|subClassOf|protein_coding_gene
+GABRG1|subClassOf|protein_coding_gene
+GABRG2|subClassOf|protein_coding_gene
+valproic acid|interacts with|GABRG3
+valproic acid|interacts with|GABRD
+GABRE|subClassOf|protein_coding_gene
+GABRP|subClassOf|protein_coding_gene
+valproic acid|interacts with|GABRQ
+PIK3CA|participates_in|GAB1 signalosome
+PIK3CB|participates_in|GAB1 signalosome
+PIK3CA|participates_in|Downstream signaling of activated FGFR2
+PIK3R1|participates_in|Downstream signaling of activated FGFR2
+PIK3CA|participates_in|Interleukin-2 family signaling
+PIK3R2|participates_in|Interleukin-2 family signaling
+PIK3CA|participates_in|Interleukin-3, Interleukin-5 and GM-CSF signaling
+PIK3R3|participates_in|Interleukin-3, Interleukin-5 and GM-CSF signaling
+PIK3CA|participates_in|Hemostasis
+PIK3CG|participates_in|Hemostasis
+GABRB1|causes or contributes to condition|Schizophrenia
+PIK3CB|subClassOf|protein_coding_gene
+GABRA1|subClassOf|protein_coding_gene
+PIK3CB|participates_in|Metabolism of lipids
+AP2A2|participates_in|Metabolism of lipids
+PIK3R1|subClassOf|protein_coding_gene
+PIK3CB|causes or contributes to condition|Schizophrenia
+GABRB1|subClassOf|protein_coding_gene
+GABRB3|subClassOf|protein_coding_gene
+GABRG3|subClassOf|protein_coding_gene
+GABRD|subClassOf|protein_coding_gene
+GABRQ (human)|causes or contributes to condition|Schizophrenia
+PIK3CB|participates_in|Interleukin-3, Interleukin-5 and GM-CSF signaling
+PIK3R1|participates_in|Interleukin-3, Interleukin-5 and GM-CSF signaling
+PIK3CB|participates_in|Interleukin-2 family signaling
+GABRA3|subClassOf|protein_coding_gene
+NGFR|participates_in|p75NTR regulates axonogenesis
+RHOA|participates_in|p75NTR regulates axonogenesis
+PIK3R3|participates_in|DAP12 interactions
+PIK3R1|participates_in|Axon guidance
+AP2A1|participates_in|Axon guidance
+PIK3R1|participates_in|Signaling by NTRK1 (TRKA)
+aflatoxin B1|interacts with|PIK3R1
+aflatoxin B1|interacts with|GABRA3
+GABRA4|subClassOf|protein_coding_gene
+PIK3R1|causes or contributes to condition|Alcoholism
+GABRA5|causes or contributes to condition|Alcoholism
+PIK3R1|subClassOf|gene
+GABRB1|subClassOf|gene
+aflatoxin B1|interacts with|GABRG1
+GABRG2|causes or contributes to condition|Alcoholism
+GABRD|subClassOf|gene
+aflatoxin B1|interacts with|GABRE
+PIK3CB|participates_in|Signal Transduction
+PIK3CG|participates_in|Signal Transduction
+GABRQ (human)|subClassOf|protein_coding_gene
+PIK3R3|subClassOf|protein_coding_gene
+valproic acid|interacts with|PIK3R3
+valproic acid|interacts with|PIK3R2
+valproic acid|interacts with|GABRA1
+PIK3R2|participates_in|Axon guidance
+AP2A2|participates_in|Signaling by NTRKs
+PIK3R2|subClassOf|protein_coding_gene
+GABRA5|subClassOf|protein_coding_gene
+PIK3R2|subClassOf|gene
+valproic acid|interacts with|GABRG1
+PIK3R1|participates_in|Metabolism of lipids
+PIK3CG|participates_in|Metabolism of lipids
+PIK3R2|participates_in|Diseases of signal transduction by growth factor receptors and second messengers
+PIK3R3|participates_in|Diseases of signal transduction by growth factor receptors and second messengers
+PIK3R2|participates_in|Platelet activation, signaling and aggregation
+PIK3CG|participates_in|Platelet activation, signaling and aggregation
+PIK3R3|participates_in|Axon guidance
+PIK3R3|participates_in|Signaling by NTRK1 (TRKA)
+valproic acid|interacts with|GABRA5
+valproic acid|interacts with|GABRB3
+PIK3R1|participates_in|TCR signaling
+PIK3R2|participates_in|TCR signaling
+PIK3CG|causes or contributes to condition|Autism
+GABRA1|causes or contributes to condition|Autism
+AP2A1|participates_in|Signal Transduction
+PIK3CG|participates_in|Metabolism
+AP2A2|participates_in|Metabolism
+aflatoxin B1|interacts with|PIK3CG
+PIK3CG|subClassOf|protein_coding_gene
+GABRA5|causes or contributes to condition|Autism
+protein kinase C epsilon type (human)|has function|PKC
+protein kinase C epsilon type (human)|participates_in|Signal Transduction
+PIK3CA|participates_in|Signal Transduction
+protein kinase C theta type (human)|has function|PKC
+protein kinase C theta type (human)|participates_in|GPCR downstream signalling
+PIK3CB|participates_in|GPCR downstream signalling
+protein kinase C alpha type (human)|has function|PKC
+protein kinase C alpha type (human)|participates_in|RET signaling
+PIK3R1|participates_in|RET signaling
+PIK3R2|participates_in|Signal Transduction
+serine/threonine-protein kinase N1 (human)|has function|PKC
+serine/threonine-protein kinase N1 (human)|participates_in|Signal Transduction
+PIK3R3|participates_in|Signal Transduction
+PKC|subClassOf|protein serine/threonine kinase activity
+phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform (human)|has function|protein serine/threonine kinase activity
+phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform (human)|has_gene_template|PIK3CG
+mBDNF|causes or contributes to condition|Status epilepticus without prominent motor symptoms
+NTRK2|causes or contributes to condition|Status epilepticus without prominent motor symptoms
+NTRK2|participates_in|Signal Transduction
+protein kinase C zeta type (human)|participates_in|Signal Transduction
+protein kinase C zeta type (human)|has function|PKC
+NTRK2|participates_in|Signaling by NTRKs
+SHC1|participates_in|Signaling by NTRKs
+NTRK2|causes or contributes to condition|Status epilepticus
+SLC12A5 (human)|causes or contributes to condition|Status epilepticus
+SHC1|participates_in|DAP12 signaling
+CREB1 (human)|participates_in|DAP12 signaling
+aflatoxin B1|interacts with|GABRP
+mBDNF|subClassOf|protein_coding_gene
+NGFR|subClassOf|protein_coding_gene
+ROCK1|subClassOf|protein_coding_gene
+RHOA|participates_in|PI3K/AKT activation
+RHOA|subClassOf|protein_coding_gene
+ROCK1|participates_in|Innate Immune System
+PTEN|participates_in|Innate Immune System
+GABRA1|participates_in|Neurotransmitter receptors and postsynaptic signal transmission
+AP2A1|participates_in|Neurotransmitter receptors and postsynaptic signal transmission
+GABRA1|participates_in|Neuronal System
+AP2A2|participates_in|Neuronal System
+GABRA1|causes or contributes to condition|Bipolar affective disorder
+GABRA3|causes or contributes to condition|Bipolar affective disorder
+GABRA1|participates_in|GABA receptor activation
+GABRA4|participates_in|GABA receptor activation
+GABRA1|participates_in|Ion channel transport
+GABRA5|participates_in|Ion channel transport
+GABRB1|participates_in|Neuronal System
+NGFR|causes or contributes to condition|Bilateral tonic-clonic seizure
+SLC12A5 (human)|causes or contributes to condition|Bilateral tonic-clonic seizure
+aflatoxin B1|interacts with|GABRA1
+GABRQ (human)|participates_in|Neurotransmitter receptors and postsynaptic signal transmission
+AP2A1|participates_in|MHC class II antigen presentation
+AP2A2|participates_in|MHC class II antigen presentation
+AP2A1|participates_in|Neuronal System
+GABRA3|participates_in|Neuronal System
+GABRA4|participates_in|Neurotransmitter receptors and postsynaptic signal transmission
+GABRA5|participates_in|Neurotransmitter receptors and postsynaptic signal transmission
+GABRB1|participates_in|Neurotransmitter receptors and postsynaptic signal transmission
+GABRB3|participates_in|Neurotransmitter receptors and postsynaptic signal transmission
+AP2A1|subClassOf|protein_coding_gene
+AP2A1|participates_in|Transmission across Chemical Synapses
+GABRG2|participates_in|Transmission across Chemical Synapses
+GABRG3|participates_in|Neurotransmitter receptors and postsynaptic signal transmission
+AP2A2|participates_in|Transmission across Chemical Synapses
+GABRA4|participates_in|Transmission across Chemical Synapses
+valproic acid|interacts with|AP2A2
+GABRB3|participates_in|Neuronal System
+AP2A2|subClassOf|protein_coding_gene
+GABRQ (human)|participates_in|Transmission across Chemical Synapses
+GABRA5|participates_in|Neuronal System
+GABRG3|participates_in|Neuronal System
+GABRA3|participates_in|GABA receptor activation
+GABRB1|participates_in|GABA receptor activation
+GABRG1|causes or contributes to condition|Bipolar affective disorder
+GABRG2|participates_in|Neurotransmitter receptors and postsynaptic signal transmission
+GABRA3|participates_in|Transport of small molecules
+GABRG3|participates_in|Transport of small molecules
+GABRQ (human)|participates_in|GABA receptor activation
+GABRA4|participates_in|Neuronal System
+GABRB3|participates_in|Transmission across Chemical Synapses
+GABRG2|participates_in|Neuronal System
+GABRA1|participates_in|Transmission across Chemical Synapses
+GABRG3|participates_in|Transmission across Chemical Synapses
+GABRD|causes or contributes to condition|Schizophrenia
+GABRA5|participates_in|Transmission across Chemical Synapses
+GABRA5|participates_in|GABA receptor activation
+GABRG2|participates_in|GABA receptor activation
+GABRB1|causes or contributes to condition|Bipolar affective disorder
+GABRB3|causes or contributes to condition|Bipolar affective disorder
+NGFR|participates_in|Signaling by NTRKs
+JAK2|participates_in|Signaling by NTRKs
+GABRB1|participates_in|Transport of small molecules
+GABRB3|causes or contributes to condition|Alcoholism
+GABRG1|causes or contributes to condition|Alcoholism
+GABRB3|causes or contributes to condition|Schizophrenia
+GABRQ (human)|participates_in|Neuronal System
+GABRG2|subClassOf|gene
+GABRG3|participates_in|GABA receptor activation
+valproic acid|interacts with|GABRP
+JAK2|subClassOf|protein_coding_gene
+CREM|subClassOf|protein_coding_gene
+NTRK2|subClassOf|gene
+CREB1 (human)|subClassOf|gene
+CREM|causes or contributes to condition|Myocardial infarction
+CREB1 (human)|causes or contributes to condition|Myocardial infarction

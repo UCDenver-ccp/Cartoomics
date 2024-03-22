@@ -1,0 +1,302 @@
+S|P|O
+Ca 2+|participates_in|Unblocking of NMDA receptors, glutamate binding and activation
+CAMK2B (human)|participates_in|Unblocking of NMDA receptors, glutamate binding and activation
+MTOR|participates_in|MTOR signalling
+RPTOR (human)|participates_in|MTOR signalling
+rapamycin|interacts with|serine/threonine-protein kinase mTOR (human)
+serine/threonine-protein kinase mTOR (human)|has_gene_template|MTOR
+NTRK2|causes or contributes to condition|Glioma
+HRAS|causes or contributes to condition|Glioma
+NTRK2|causes or contributes to condition|diffuse astrocytoma
+KRAS|causes or contributes to condition|diffuse astrocytoma
+NTRK2|participates_in|Signaling by NTRKs
+NRAS|participates_in|Signaling by NTRKs
+NTRK2|participates_in|Signaling by NTRK1 (TRKA)
+PIK3CA|participates_in|Signaling by NTRK1 (TRKA)
+PIK3CB|participates_in|Signaling by NTRK1 (TRKA)
+NTRK2|participates_in|Signal Transduction
+PIK3R2|participates_in|Signal Transduction
+MAPK3|participates_in|Insulin receptor signalling cascade
+TSC1|participates_in|Insulin receptor signalling cascade
+MTOR|participates_in|Insulin receptor signalling cascade
+RPS6KB1 (human)|participates_in|Insulin receptor signalling cascade
+AKT2|participates_in|Intrinsic Pathway for Apoptosis
+AKT3|participates_in|Intrinsic Pathway for Apoptosis
+HRAS|participates_in|Signaling by high-kinase activity BRAF mutants
+MAPK1|participates_in|Signaling by high-kinase activity BRAF mutants
+HRAS|participates_in|Axon guidance
+NRAS|participates_in|Axon guidance
+KRAS|participates_in|Prolonged ERK activation events
+MAPK3|participates_in|Prolonged ERK activation events
+KRAS|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+MAPK1|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+KRAS|participates_in|Signaling by SCF-KIT
+NRAS|participates_in|Signaling by SCF-KIT
+NRAS|participates_in|Signaling by FGFR1
+MAPK3|participates_in|Signaling by FGFR1
+NRAS|participates_in|Signaling by FGFR3
+MAPK1|participates_in|Signaling by FGFR3
+AKT2|subClassOf|gene
+TSC1|subClassOf|gene
+AKT2|participates_in|Costimulation by the CD28 family
+AKT1|participates_in|Costimulation by the CD28 family
+PIK3R1|participates_in|Signaling by NTRK1 (TRKA)
+HRAS|participates_in|Fc epsilon receptor (FCERI) signaling
+MAPK3|participates_in|Fc epsilon receptor (FCERI) signaling
+BDNF|causes or contributes to condition|Status epilepticus without prominent motor symptoms
+NTRK2|causes or contributes to condition|Status epilepticus without prominent motor symptoms
+PIK3CB|participates_in|Interleukin-3, Interleukin-5 and GM-CSF signaling
+PIK3R1|participates_in|Interleukin-3, Interleukin-5 and GM-CSF signaling
+PIK3R2|participates_in|Downstream signaling events of B Cell Receptor (BCR)
+AKT2|participates_in|Downstream signaling events of B Cell Receptor (BCR)
+MAPK1|participates_in|Signaling by Insulin receptor
+TSC1|participates_in|Signaling by Insulin receptor
+CACNA1C|participates_in|Regulation of insulin secretion
+Ca 2+|participates_in|Regulation of insulin secretion
+GRM1|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+PIK3CA|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+GRM1|participates_in|Signaling by GPCR
+PIK3CB|participates_in|Signaling by GPCR
+GRM1|participates_in|Signal Transduction
+PIK3R1|participates_in|Signal Transduction
+AKT3|subClassOf|gene
+GRM1|participates_in|Neurexins and neuroligins
+HOMER1|participates_in|Neurexins and neuroligins
+PIK3CA|participates_in|Adaptive Immune System
+AKT2|participates_in|Adaptive Immune System
+PIK3CA|participates_in|GAB1 signalosome
+PIK3CB|participates_in|GAB1 signalosome
+PIK3CA|causes or contributes to condition|cutaneous melanoma
+AKT1|causes or contributes to condition|cutaneous melanoma
+PIK3CA|participates_in|Signaling by ERBB2
+AKT3|participates_in|Signaling by ERBB2
+PIK3CA|participates_in|Interleukin-2 family signaling
+PIK3R2|participates_in|Interleukin-2 family signaling
+PIK3CA|participates_in|Downstream signaling of activated FGFR2
+PIK3R1|participates_in|Downstream signaling of activated FGFR2
+PIK3CB|participates_in|IGF1R signaling cascade
+AKT2|participates_in|IGF1R signaling cascade
+PIK3CB|participates_in|Signaling by VEGF
+AKT1|participates_in|Signaling by VEGF
+PIK3CB|participates_in|Signaling by NTRKs
+AKT3|participates_in|Signaling by NTRKs
+PIK3CB|participates_in|Interleukin-2 family signaling
+GRM1|participates_in|Protein-protein interactions at synapses
+SHANK3|participates_in|Protein-protein interactions at synapses
+AKT1|participates_in|CD28 co-stimulation
+AKT3|participates_in|CD28 co-stimulation
+AKT1|causes or contributes to condition|Squamous cell carcinoma
+TSC1|causes or contributes to condition|Squamous cell carcinoma
+MAPK3|participates_in|Interleukin receptor SHC signaling
+MAPK1|participates_in|Interleukin receptor SHC signaling
+HRAS|participates_in|SHC-related events triggered by IGF1R
+KRAS|participates_in|SHC-related events triggered by IGF1R
+SYNGAP1|subClassOf|protein_coding_gene
+GRIN3B|subClassOf|protein_coding_gene
+PIK3R1|participates_in|Platelet activation, signaling and aggregation
+AKT1|participates_in|Platelet activation, signaling and aggregation
+PIK3R1|participates_in|Downstream signaling events of B Cell Receptor (BCR)
+AKT3|participates_in|Downstream signaling events of B Cell Receptor (BCR)
+HOMER1|subClassOf|protein_coding_gene
+PIK3CA|subClassOf|protein_coding_gene
+HOMER1|causes or contributes to condition|Schizophrenia
+PIK3CB|causes or contributes to condition|Schizophrenia
+PIK3R2|subClassOf|protein_coding_gene
+PIK3R1|subClassOf|protein_coding_gene
+SHANK3|participates_in|Neurexins and neuroligins
+SHANK3|participates_in|Axon guidance
+PIK3CA|participates_in|Axon guidance
+SHANK3|participates_in|Developmental Biology
+PIK3CB|participates_in|Developmental Biology
+PIK3R2|participates_in|G beta:gamma signalling through PI3Kgamma
+PIK3R1|participates_in|G beta:gamma signalling through PI3Kgamma
+GRIN2A|participates_in|ARMS-mediated activation
+HRAS|participates_in|ARMS-mediated activation
+GRIN2A|participates_in|Signaling by VEGF
+KRAS|participates_in|Signaling by VEGF
+GRIN1|participates_in|Frs2-mediated activation
+KRAS|participates_in|Frs2-mediated activation
+NRAS|participates_in|Frs2-mediated activation
+GRIN1|participates_in|RET signaling
+GRIN2A|participates_in|RET signaling
+GRIN1|participates_in|Unblocking of NMDA receptors, glutamate binding and activation
+GRIN2B|participates_in|Unblocking of NMDA receptors, glutamate binding and activation
+GRIN1|participates_in|Interleukin-2 family signaling
+GRIN2D|participates_in|Interleukin-2 family signaling
+GRIN1|subClassOf|protein_coding_gene
+GRIN3A|subClassOf|protein_coding_gene
+GRIN1|participates_in|Signaling by NTRK1 (TRKA)
+GRIN2C|participates_in|Signaling by NTRK1 (TRKA)
+PIK3R1|participates_in|Axon guidance
+PIK3R2|participates_in|Axon guidance
+GRIN2A|participates_in|DAP12 interactions
+NRAS|participates_in|DAP12 interactions
+PIK3R2|participates_in|Downstream signal transduction
+AKT3|participates_in|Downstream signal transduction
+GRIN2B|participates_in|FCERI mediated MAPK activation
+GRIN2C|participates_in|FCERI mediated MAPK activation
+PIK3R1|participates_in|Signaling by GPCR
+AKT2|participates_in|Signaling by GPCR
+GRIN2A|participates_in|Downstream signal transduction
+SYNGAP1|participates_in|Downstream signal transduction
+GRIN2A|subClassOf|protein_coding_gene
+GRIN2A|participates_in|VEGFA-VEGFR2 Pathway
+GRIN2C|participates_in|VEGFA-VEGFR2 Pathway
+GRIN2B|participates_in|Interleukin-2 family signaling
+HRAS|participates_in|Interleukin-2 family signaling
+GRIN2B|participates_in|GRB2 events in EGFR signaling
+KRAS|participates_in|GRB2 events in EGFR signaling
+NRAS|participates_in|GRB2 events in EGFR signaling
+GRIN2B|participates_in|Downstream signal transduction
+GRIN2D|participates_in|Downstream signal transduction
+GRIN2B|participates_in|SOS-mediated signalling
+SYNGAP1|participates_in|SOS-mediated signalling
+GRIN2B|participates_in|RET signaling
+GRIN2A|participates_in|Signalling to p38 via RIT and RIN
+GRIN2D|participates_in|Signalling to p38 via RIT and RIN
+GRIN2B|subClassOf|protein_coding_gene
+GRIN2D|participates_in|Signaling by SCF-KIT
+HRAS|participates_in|Signaling by SCF-KIT
+GRIN2D|participates_in|Prolonged ERK activation events
+NRAS|participates_in|Prolonged ERK activation events
+aflatoxin B1|interacts with|GRIN2D
+aflatoxin B1|interacts with|SYNGAP1
+valproic acid|interacts with|GRIN2D
+valproic acid|interacts with|GRIN3B
+GRIN2D|causes or contributes to condition|Schizophrenia
+GRIN3A|causes or contributes to condition|Schizophrenia
+GRIN2D|participates_in|CREB1 phosphorylation through the activation of CaMKII/CaMKK/CaMKIV cascasde
+GRIN2C|participates_in|CREB1 phosphorylation through the activation of CaMKII/CaMKK/CaMKIV cascasde
+SYNGAP1|participates_in|ARMS-mediated activation
+SYNGAP1|participates_in|GRB2 events in EGFR signaling
+SYNGAP1|causes or contributes to condition|Schizophrenia
+PIK3R2|participates_in|G-protein beta:gamma signalling
+AKT1|participates_in|G-protein beta:gamma signalling
+valproic acid|interacts with|HRAS
+GSK3B|participates_in|Signal Transduction
+RHEB|participates_in|Signal Transduction
+KRAS|subClassOf|protein_coding_gene
+valproic acid|interacts with|NRAS
+valproic acid|interacts with|GRIN2C
+HRAS|subClassOf|protein_coding_gene
+NRAS|subClassOf|protein_coding_gene
+GRIN2C|subClassOf|protein_coding_gene
+GRIN2C|participates_in|Signalling to p38 via RIT and RIN
+HRAS|participates_in|Signalling to p38 via RIT and RIN
+GRIN2C|participates_in|Prolonged ERK activation events
+RHEB|participates_in|Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+RPTOR (human)|participates_in|Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+GDP|participates_in|Signal Transduction
+Ras GTPase-activating protein 1 (human)|participates_in|Signal Transduction
+GTP|interacts with|Ras GTPase-activating protein 1 (human)
+PRKAA2|participates_in|PI3K Cascade
+TSC1|participates_in|PI3K Cascade
+PRKAA2|participates_in|Cellular responses to stress
+PRKAB1|participates_in|Cellular responses to stress
+PRKAA2|participates_in|Translocation of SLC2A4 (GLUT4) to the plasma membrane
+PRKAB2|participates_in|Translocation of SLC2A4 (GLUT4) to the plasma membrane
+PRKAA2|participates_in|Generic Transcription Pathway
+PRKAG1|participates_in|Generic Transcription Pathway
+PRKAA2|participates_in|Metabolism
+PRKAG2|participates_in|Metabolism
+PRKAB1|participates_in|IGF1R signaling cascade
+PRKAB2|participates_in|IGF1R signaling cascade
+PRKAB1|participates_in|Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+PRKAG1|participates_in|Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+PRKAB1|participates_in|Translocation of SLC2A4 (GLUT4) to the plasma membrane
+PRKAG2|participates_in|Translocation of SLC2A4 (GLUT4) to the plasma membrane
+NF1|causes or contributes to condition|pilocytic astrocytoma
+KRAS|causes or contributes to condition|pilocytic astrocytoma
+PRKAB2|participates_in|Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+TSC1|participates_in|Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+PRKAB2|participates_in|Energy dependent regulation of mTOR by LKB1-AMPK
+PRKAG1|participates_in|Energy dependent regulation of mTOR by LKB1-AMPK
+PRKAB2|participates_in|Vesicle-mediated transport
+PRKAG2|participates_in|Vesicle-mediated transport
+PRKAB2|participates_in|Organelle biogenesis and maintenance
+PRKAG3|participates_in|Organelle biogenesis and maintenance
+PRKAG1|participates_in|IRS-mediated signalling
+TSC1|participates_in|IRS-mediated signalling
+PRKAG1|participates_in|Mitochondrial biogenesis
+PRKAG2|participates_in|Mitochondrial biogenesis
+PRKAG1|participates_in|Vesicle-mediated transport
+PRKAG3|participates_in|Vesicle-mediated transport
+PRKAG2|participates_in|Gene expression (Transcription)
+TSC1|participates_in|Gene expression (Transcription)
+PRKAG3|participates_in|Translocation of SLC2A4 (GLUT4) to the plasma membrane
+PRKAG3|participates_in|PI3K Cascade
+PRKAB1|participates_in|PI3K Cascade
+NF1|participates_in|ARMS-mediated activation
+NRAS|participates_in|ARMS-mediated activation
+TSC1|participates_in|Signal Transduction
+GTP|participates_in|Response to elevated platelet cytosolic Ca2+
+GDP|participates_in|Response to elevated platelet cytosolic Ca2+
+PTEN|participates_in|Fc epsilon receptor (FCERI) signaling
+AKT2|participates_in|Fc epsilon receptor (FCERI) signaling
+PTEN|causes or contributes to condition|psammomatous meningioma
+AKT1|causes or contributes to condition|psammomatous meningioma
+AKT3|participates_in|Fc epsilon receptor (FCERI) signaling
+AKT2|subClassOf|protein_coding_gene
+HOMER1|causes or contributes to condition|Depression
+AKT1|causes or contributes to condition|Depression
+AKT3|subClassOf|protein_coding_gene
+NF1|participates_in|Signalling to p38 via RIT and RIN
+PRKAA2|participates_in|Vesicle-mediated transport
+GRIN2C|participates_in|GRB2 events in EGFR signaling
+AKT2|participates_in|Developmental Biology
+AKT1|participates_in|Signal Transduction
+AKT3|participates_in|Signaling by GPCR
+AKT2|participates_in|Insulin receptor signalling cascade
+RHEB|participates_in|Insulin receptor signalling cascade
+GDP|participates_in|Developmental Biology
+PRKAG1|participates_in|Signaling by Insulin receptor
+RHEB|participates_in|Signaling by Insulin receptor
+AKT3|participates_in|Signaling by NTRK1 (TRKA)
+PRKAG1|participates_in|Translocation of SLC2A4 (GLUT4) to the plasma membrane
+GDP|participates_in|Translocation of SLC2A4 (GLUT4) to the plasma membrane
+GSK3B|participates_in|Axon guidance
+GDP|participates_in|Axon guidance
+AKT1|participates_in|PI3K Cascade
+RHEB|participates_in|PI3K Cascade
+AKT1|participates_in|Hemostasis
+GDP|participates_in|Hemostasis
+PRKAB1|participates_in|Signal Transduction
+PRKAB1|participates_in|Organelle biogenesis and maintenance
+GDP|participates_in|Organelle biogenesis and maintenance
+MAPK3|participates_in|IRS-related events triggered by IGF1R
+RHEB|participates_in|IRS-related events triggered by IGF1R
+MAPK3|participates_in|Thrombin signalling through proteinase activated receptors (PARs)
+GDP|participates_in|Thrombin signalling through proteinase activated receptors (PARs)
+PRKAG2|participates_in|Cellular responses to stress
+RHEB|participates_in|Cellular responses to stress
+PRKAG2|participates_in|Integration of energy metabolism
+GDP|participates_in|Integration of energy metabolism
+SHANK3|subClassOf|gene
+GRM1|subClassOf|protein_coding_gene
+SYNGAP1|participates_in|Signaling by EGFR
+NRAS|participates_in|Signaling by EGFR
+AKT1|participates_in|Signaling by NTRK1 (TRKA)
+TSC1|participates_in|Vesicle-mediated transport
+GDP|participates_in|Vesicle-mediated transport
+SYNGAP1|participates_in|RET signaling
+GRIN2C|participates_in|RET signaling
+AKT1|participates_in|Developmental Biology
+PRKAA2|participates_in|Signaling by Insulin receptor
+PRKAA2|participates_in|Signal Transduction
+AKT3|participates_in|Signal Transduction
+AKT3|participates_in|VEGFA-VEGFR2 Pathway
+GDP|participates_in|VEGFA-VEGFR2 Pathway
+PRKAB2|subClassOf|protein_coding_gene
+RHEB|subClassOf|protein_coding_gene
+PRKAB2|participates_in|Metabolism
+GDP|participates_in|Metabolism
+MAPK1|participates_in|Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+MAPK1|participates_in|Signaling by VEGF
+GDP|participates_in|Signaling by VEGF
+NTRK2|causes or contributes to condition|Bipolar affective disorder
+AKT2|causes or contributes to condition|Bipolar affective disorder
+PRKAG3|participates_in|Macroautophagy
+RHEB|participates_in|Macroautophagy
+TSC1|participates_in|Energy dependent regulation of mTOR by LKB1-AMPK
+RHEB|participates_in|Energy dependent regulation of mTOR by LKB1-AMPK
+GRIN1|participates_in|Signalling to p38 via RIT and RIN

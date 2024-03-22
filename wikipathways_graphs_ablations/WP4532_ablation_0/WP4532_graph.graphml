@@ -1,0 +1,3719 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d15" for="edge" attr.name="color" attr.type="string"/>
+<key id="d14" for="edge" attr.name="signal" attr.type="string"/>
+<key id="d13" for="edge" attr.name="interaction" attr.type="string"/>
+<key id="d12" for="edge" attr.name="arrow" attr.type="string"/>
+<key id="d11" for="edge" attr.name="edgeID" attr.type="string"/>
+<key id="d10" for="node" attr.name="geometry" attr.type="string"/>
+<key id="d9" for="node" attr.name="databaseID" attr.type="string"/>
+<key id="d8" for="node" attr.name="database" attr.type="string"/>
+<key id="d7" for="node" attr.name="color" attr.type="string"/>
+<key id="d6" for="node" attr.name="height" attr.type="string"/>
+<key id="d5" for="node" attr.name="width" attr.type="string"/>
+<key id="d4" for="node" attr.name="centerY" attr.type="string"/>
+<key id="d3" for="node" attr.name="centerX" attr.type="string"/>
+<key id="d2" for="node" attr.name="groupref" attr.type="string"/>
+<key id="d1" for="node" attr.name="graphid" attr.type="string"/>
+<key id="d0" for="node" attr.name="textlabel" attr.type="string"/>
+<graph edgedefault="directed"><node id="TCTEX1D2">
+  <data key="d0">TCTEX1D2</data>
+  <data key="d1">b77ca</data>
+  <data key="d2">b7eae</data>
+  <data key="d3">397.0</data>
+  <data key="d4">687.0</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000213123</data>
+  <data key="d10">POINT (397 687)</data>
+</node>
+<node id="WDR35">
+  <data key="d0">WDR35</data>
+  <data key="d1">AN35R</data>
+  <data key="d2">da860</data>
+  <data key="d3">187.0</data>
+  <data key="d4">187.5</data>
+  <data key="d5">80.0</data>
+  <data key="d6">20.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">57539</data>
+  <data key="d10">POINT (187 187.5)</data>
+</node>
+<node id="IFT122">
+  <data key="d0">IFT122</data>
+  <data key="d1">KC75U</data>
+  <data key="d2">da860</data>
+  <data key="d3">187.0</data>
+  <data key="d4">207.5</data>
+  <data key="d5">80.0</data>
+  <data key="d6">20.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">55764</data>
+  <data key="d10">POINT (187 207.5)</data>
+</node>
+<node id="IFT140">
+  <data key="d0">IFT140</data>
+  <data key="d1">EPXC0</data>
+  <data key="d2">da860</data>
+  <data key="d3">187.0</data>
+  <data key="d4">227.5</data>
+  <data key="d5">80.0</data>
+  <data key="d6">20.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">9742</data>
+  <data key="d10">POINT (187 227.5)</data>
+</node>
+<node id="WDR19">
+  <data key="d0">WDR19</data>
+  <data key="d1">IWY0S</data>
+  <data key="d2">da860</data>
+  <data key="d3">187.0</data>
+  <data key="d4">247.5</data>
+  <data key="d5">80.0</data>
+  <data key="d6">20.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">57728</data>
+  <data key="d10">POINT (187 247.5)</data>
+</node>
+<node id="IFT22">
+  <data key="d0">IFT22</data>
+  <data key="d1">Q3LTX</data>
+  <data key="d2">da860</data>
+  <data key="d3">295.0</data>
+  <data key="d4">189.5</data>
+  <data key="d5">80.0</data>
+  <data key="d6">20.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">64792</data>
+  <data key="d10">POINT (295 189.5)</data>
+</node>
+<node id="HSPB11">
+  <data key="d0">HSPB11</data>
+  <data key="d1">I3P2Y</data>
+  <data key="d2">da860</data>
+  <data key="d3">295.0</data>
+  <data key="d4">209.5</data>
+  <data key="d5">80.0</data>
+  <data key="d6">20.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">51668</data>
+  <data key="d10">POINT (295 209.5)</data>
+</node>
+<node id="IFT27">
+  <data key="d0">IFT27</data>
+  <data key="d1">CAPIM</data>
+  <data key="d2">da860</data>
+  <data key="d3">295.0</data>
+  <data key="d4">229.5</data>
+  <data key="d5">80.0</data>
+  <data key="d6">20.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">11020</data>
+  <data key="d10">POINT (295 229.5)</data>
+</node>
+<node id="IFT43">
+  <data key="d0">IFT43</data>
+  <data key="d1">T8XPU</data>
+  <data key="d2">da860</data>
+  <data key="d3">187.0</data>
+  <data key="d4">267.5</data>
+  <data key="d5">80.0</data>
+  <data key="d6">20.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">112752</data>
+  <data key="d10">POINT (187 267.5)</data>
+</node>
+<node id="IFT46">
+  <data key="d0">IFT46</data>
+  <data key="d1">9214E</data>
+  <data key="d2">da860</data>
+  <data key="d3">295.0</data>
+  <data key="d4">249.5</data>
+  <data key="d5">80.0</data>
+  <data key="d6">20.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">56912</data>
+  <data key="d10">POINT (295 249.5)</data>
+</node>
+<node id="IFT80">
+  <data key="d0">IFT80</data>
+  <data key="d1">U6KO0</data>
+  <data key="d2">da860</data>
+  <data key="d3">397.0</data>
+  <data key="d4">190.5</data>
+  <data key="d5">80.0</data>
+  <data key="d6">20.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">57560</data>
+  <data key="d10">POINT (397 190.5)</data>
+</node>
+<node id="IFT81">
+  <data key="d0">IFT81</data>
+  <data key="d1">PCC5T</data>
+  <data key="d2">da860</data>
+  <data key="d3">295.0</data>
+  <data key="d4">269.5</data>
+  <data key="d5">80.0</data>
+  <data key="d6">20.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">28981</data>
+  <data key="d10">POINT (295 269.5)</data>
+</node>
+<node id="WDR34">
+  <data key="d0">WDR34</data>
+  <data key="d1">c77cf</data>
+  <data key="d2">b7eae</data>
+  <data key="d3">397.0</data>
+  <data key="d4">420.0</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000119333</data>
+  <data key="d10">POINT (397 420)</data>
+</node>
+<node id="DYNC2H1">
+  <data key="d0">DYNC2H1</data>
+  <data key="d1">ce425</data>
+  <data key="d2">b7eae</data>
+  <data key="d3">397.0</data>
+  <data key="d4">342.0</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000187240</data>
+  <data key="d10">POINT (397 342)</data>
+</node>
+<node id="DYNC2LI1">
+  <data key="d0">DYNC2LI1</data>
+  <data key="d1">ce63c</data>
+  <data key="d2">b7eae</data>
+  <data key="d3">397.0</data>
+  <data key="d4">459.0</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000138036</data>
+  <data key="d10">POINT (397 459)</data>
+</node>
+<node id="WDR60">
+  <data key="d0">WDR60</data>
+  <data key="d1">f5372</data>
+  <data key="d2">b7eae</data>
+  <data key="d3">397.0</data>
+  <data key="d4">395.0</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000126870</data>
+  <data key="d10">POINT (397 395)</data>
+</node>
+<node id="DYNLL2">
+  <data key="d0">DYNLL2</data>
+  <data key="d1">a0505</data>
+  <data key="d2">f17ff</data>
+  <data key="d3">187.0</data>
+  <data key="d4">611.0</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000264364</data>
+  <data key="d10">POINT (187 611)</data>
+</node>
+<node id="DYNLT1">
+  <data key="d0">DYNLT1</data>
+  <data key="d1">b88b3</data>
+  <data key="d2">f17ff</data>
+  <data key="d3">187.0</data>
+  <data key="d4">636.0</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000146425</data>
+  <data key="d10">POINT (187 636)</data>
+</node>
+<node id="DYNLRB1">
+  <data key="d0">DYNLRB1</data>
+  <data key="d1">cd250</data>
+  <data key="d2">f17ff</data>
+  <data key="d3">187.0</data>
+  <data key="d4">536.0</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000125971</data>
+  <data key="d10">POINT (187 536)</data>
+</node>
+<node id="DYNLL1">
+  <data key="d0">DYNLL1</data>
+  <data key="d1">dc81d</data>
+  <data key="d2">f17ff</data>
+  <data key="d3">187.0</data>
+  <data key="d4">586.0</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000088986</data>
+  <data key="d10">POINT (187 586)</data>
+</node>
+<node id="DYNLRB2">
+  <data key="d0">DYNLRB2</data>
+  <data key="d1">e9601</data>
+  <data key="d2">f17ff</data>
+  <data key="d3">187.0</data>
+  <data key="d4">561.0</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000168589</data>
+  <data key="d10">POINT (187 561)</data>
+</node>
+<node id="DYNLT3">
+  <data key="d0">DYNLT3</data>
+  <data key="d1">f24c0</data>
+  <data key="d2">f17ff</data>
+  <data key="d3">187.0</data>
+  <data key="d4">661.0</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000165169</data>
+  <data key="d10">POINT (187 661)</data>
+</node>
+<node id="DYNC1LI1">
+  <data key="d0">DYNC1LI1</data>
+  <data key="d1">bd605</data>
+  <data key="d2">f17ff</data>
+  <data key="d3">187.0</data>
+  <data key="d4">457.0</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000144635</data>
+  <data key="d10">POINT (187 457)</data>
+</node>
+<node id="DYNC1H1">
+  <data key="d0">DYNC1H1</data>
+  <data key="d1">c9eb2</data>
+  <data key="d2">f17ff</data>
+  <data key="d3">187.0</data>
+  <data key="d4">341.0</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000197102</data>
+  <data key="d10">POINT (187 341)</data>
+</node>
+<node id="DYNC1I2">
+  <data key="d0">DYNC1I2</data>
+  <data key="d1">dde0a</data>
+  <data key="d2">f17ff</data>
+  <data key="d3">187.0</data>
+  <data key="d4">420.0</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000077380</data>
+  <data key="d10">POINT (187 420)</data>
+</node>
+<node id="DYNC1I1">
+  <data key="d0">DYNC1I1</data>
+  <data key="d1">e4767</data>
+  <data key="d2">f17ff</data>
+  <data key="d3">187.0</data>
+  <data key="d4">395.0</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000158560</data>
+  <data key="d10">POINT (187 395)</data>
+</node>
+<node id="DYNC1LI2">
+  <data key="d0">DYNC1LI2</data>
+  <data key="d1">e084a</data>
+  <data key="d2">f17ff</data>
+  <data key="d3">187.0</data>
+  <data key="d4">482.0</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000135720</data>
+  <data key="d10">POINT (187 482)</data>
+</node>
+<edge source="TCTEX1D2" target="WDR35">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TCTEX1D2" target="IFT122">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TCTEX1D2" target="IFT140">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TCTEX1D2" target="WDR19">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TCTEX1D2" target="IFT22">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TCTEX1D2" target="HSPB11">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TCTEX1D2" target="IFT27">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TCTEX1D2" target="IFT43">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TCTEX1D2" target="IFT46">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TCTEX1D2" target="IFT80">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TCTEX1D2" target="IFT81">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TCTEX1D2" target="WDR34">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="TCTEX1D2" target="DYNC2H1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="TCTEX1D2" target="DYNC2LI1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="TCTEX1D2" target="WDR60">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="TCTEX1D2" target="DYNLL2">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="TCTEX1D2" target="DYNLT1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="TCTEX1D2" target="DYNLRB1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="TCTEX1D2" target="DYNLL1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="TCTEX1D2" target="DYNLRB2">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="TCTEX1D2" target="DYNLT3">
+  <data key="d11">b77ca_ed6f7_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="WDR35" target="IFT122">
+  <data key="d11">AN35R_KC75U_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="WDR35" target="IFT140">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR35" target="WDR19">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR35" target="IFT22">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR35" target="HSPB11">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR35" target="IFT27">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR35" target="IFT43">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR35" target="IFT46">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR35" target="IFT80">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR35" target="IFT81">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT122" target="WDR35">
+  <data key="d11">KC75U_AN35R_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="IFT122" target="IFT140">
+  <data key="d11">KC75U_EPXC0_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="IFT122" target="WDR19">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT122" target="IFT22">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT122" target="HSPB11">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT122" target="IFT27">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT122" target="IFT43">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT122" target="IFT46">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT122" target="IFT80">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT122" target="IFT81">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT140" target="WDR35">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT140" target="IFT122">
+  <data key="d11">EPXC0_KC75U_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="IFT140" target="WDR19">
+  <data key="d11">EPXC0_IWY0S_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="IFT140" target="IFT22">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT140" target="HSPB11">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT140" target="IFT27">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT140" target="IFT43">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT140" target="IFT46">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT140" target="IFT80">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT140" target="IFT81">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR19" target="WDR35">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR19" target="IFT122">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR19" target="IFT140">
+  <data key="d11">IWY0S_EPXC0_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="WDR19" target="IFT22">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR19" target="HSPB11">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR19" target="IFT27">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR19" target="IFT43">
+  <data key="d11">IWY0S_T8XPU_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="WDR19" target="IFT46">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR19" target="IFT80">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR19" target="IFT81">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT22" target="WDR35">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT22" target="IFT122">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT22" target="IFT140">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT22" target="WDR19">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT22" target="HSPB11">
+  <data key="d11">Q3LTX_I3P2Y_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="IFT22" target="IFT27">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT22" target="IFT43">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT22" target="IFT46">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT22" target="IFT80">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT22" target="IFT81">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="HSPB11" target="WDR35">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="HSPB11" target="IFT122">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="HSPB11" target="IFT140">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="HSPB11" target="WDR19">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="HSPB11" target="IFT22">
+  <data key="d11">I3P2Y_Q3LTX_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="HSPB11" target="IFT27">
+  <data key="d11">I3P2Y_CAPIM_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="HSPB11" target="IFT43">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="HSPB11" target="IFT46">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="HSPB11" target="IFT80">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="HSPB11" target="IFT81">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT27" target="WDR35">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT27" target="IFT122">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT27" target="IFT140">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT27" target="WDR19">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT27" target="IFT22">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT27" target="HSPB11">
+  <data key="d11">CAPIM_I3P2Y_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="IFT27" target="IFT43">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT27" target="IFT46">
+  <data key="d11">CAPIM_9214E_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="IFT27" target="IFT80">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT27" target="IFT81">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT43" target="WDR35">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT43" target="IFT122">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT43" target="IFT140">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT43" target="WDR19">
+  <data key="d11">T8XPU_IWY0S_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="IFT43" target="IFT22">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT43" target="HSPB11">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT43" target="IFT27">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT43" target="IFT46">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT43" target="IFT80">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT43" target="IFT81">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT46" target="WDR35">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT46" target="IFT122">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT46" target="IFT140">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT46" target="WDR19">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT46" target="IFT22">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT46" target="HSPB11">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT46" target="IFT27">
+  <data key="d11">9214E_CAPIM_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="IFT46" target="IFT43">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT46" target="IFT80">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT46" target="IFT81">
+  <data key="d11">9214E_PCC5T_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="IFT80" target="WDR35">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT80" target="IFT122">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT80" target="IFT140">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT80" target="WDR19">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT80" target="IFT22">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT80" target="HSPB11">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT80" target="IFT27">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT80" target="IFT43">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT80" target="IFT46">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT80" target="IFT81">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT81" target="WDR35">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT81" target="IFT122">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT81" target="IFT140">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT81" target="WDR19">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT81" target="IFT22">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT81" target="HSPB11">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT81" target="IFT27">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT81" target="IFT43">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="IFT81" target="IFT46">
+  <data key="d11">PCC5T_9214E_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="IFT81" target="IFT80">
+  <data key="d11">AN35R_KC75U_EPXC0_IWY0S_Q3LTX_I3P2Y_CAPIM_T8XPU_9214E_U6KO0_PCC5T_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR34" target="WDR35">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR34" target="IFT122">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR34" target="IFT140">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR34" target="WDR19">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR34" target="IFT22">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR34" target="HSPB11">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR34" target="IFT27">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR34" target="IFT43">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR34" target="IFT46">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR34" target="IFT80">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR34" target="IFT81">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR34" target="TCTEX1D2">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR34" target="DYNC2H1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR34" target="DYNC2LI1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR34" target="WDR60">
+  <data key="d11">c77cf_f5372_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="WDR34" target="DYNLL2">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR34" target="DYNLT1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR34" target="DYNLRB1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR34" target="DYNLL1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR34" target="DYNLRB2">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR34" target="DYNLT3">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2H1" target="WDR35">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2H1" target="IFT122">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2H1" target="IFT140">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2H1" target="WDR19">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2H1" target="IFT22">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2H1" target="HSPB11">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2H1" target="IFT27">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2H1" target="IFT43">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2H1" target="IFT46">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2H1" target="IFT80">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2H1" target="IFT81">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2H1" target="TCTEX1D2">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2H1" target="WDR34">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2H1" target="DYNC2LI1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2H1" target="WDR60">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2H1" target="DYNLL2">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2H1" target="DYNLT1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2H1" target="DYNLRB1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2H1" target="DYNLL1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2H1" target="DYNLRB2">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2H1" target="DYNLT3">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2LI1" target="WDR35">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2LI1" target="IFT122">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2LI1" target="IFT140">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2LI1" target="WDR19">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2LI1" target="IFT22">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2LI1" target="HSPB11">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2LI1" target="IFT27">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2LI1" target="IFT43">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2LI1" target="IFT46">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2LI1" target="IFT80">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2LI1" target="IFT81">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC2LI1" target="TCTEX1D2">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2LI1" target="WDR34">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2LI1" target="DYNC2H1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2LI1" target="WDR60">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2LI1" target="DYNLL2">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2LI1" target="DYNLT1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2LI1" target="DYNLRB1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2LI1" target="DYNLL1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2LI1" target="DYNLRB2">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC2LI1" target="DYNLT3">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR60" target="WDR35">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR60" target="IFT122">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR60" target="IFT140">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR60" target="WDR19">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR60" target="IFT22">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR60" target="HSPB11">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR60" target="IFT27">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR60" target="IFT43">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR60" target="IFT46">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR60" target="IFT80">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR60" target="IFT81">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="WDR60" target="TCTEX1D2">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR60" target="WDR34">
+  <data key="d11">f5372_c77cf_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="WDR60" target="DYNC2H1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR60" target="DYNC2LI1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR60" target="DYNLL2">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR60" target="DYNLT1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR60" target="DYNLRB1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR60" target="DYNLL1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR60" target="DYNLRB2">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="WDR60" target="DYNLT3">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL2" target="WDR35">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL2" target="IFT122">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL2" target="IFT140">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL2" target="WDR19">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL2" target="IFT22">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL2" target="HSPB11">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL2" target="IFT27">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL2" target="IFT43">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL2" target="IFT46">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL2" target="IFT80">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL2" target="IFT81">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL2" target="TCTEX1D2">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL2" target="WDR34">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL2" target="DYNC2H1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL2" target="DYNC2LI1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL2" target="WDR60">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL2" target="DYNLT1">
+  <data key="d11">f0701_ac44f_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="DYNLL2" target="DYNLRB1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL2" target="DYNLL1">
+  <data key="d11">f0701_b53fe_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="DYNLL2" target="DYNLRB2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL2" target="DYNLT3">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL2" target="DYNC1LI1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL2" target="DYNC1H1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL2" target="DYNC1I2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL2" target="DYNC1I1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL2" target="DYNC1LI2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL2" target="DYNLL2">
+  <data key="d12">group</data>
+</edge>
+<edge source="DYNLT1" target="WDR35">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT1" target="IFT122">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT1" target="IFT140">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT1" target="WDR19">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT1" target="IFT22">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT1" target="HSPB11">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT1" target="IFT27">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT1" target="IFT43">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT1" target="IFT46">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT1" target="IFT80">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT1" target="IFT81">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT1" target="TCTEX1D2">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT1" target="WDR34">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT1" target="DYNC2H1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT1" target="DYNC2LI1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT1" target="WDR60">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT1" target="DYNLL2">
+  <data key="d11">ac44f_f0701_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="DYNLT1" target="DYNLRB1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT1" target="DYNLL1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT1" target="DYNLRB2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT1" target="DYNLT3">
+  <data key="d11">ac44f_ed6f7_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="DYNLT1" target="DYNC1LI1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT1" target="DYNC1H1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT1" target="DYNC1I2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT1" target="DYNC1I1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT1" target="DYNC1LI2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT1" target="DYNLT1">
+  <data key="d12">group</data>
+</edge>
+<edge source="DYNLRB1" target="WDR35">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB1" target="IFT122">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB1" target="IFT140">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB1" target="WDR19">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB1" target="IFT22">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB1" target="HSPB11">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB1" target="IFT27">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB1" target="IFT43">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB1" target="IFT46">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB1" target="IFT80">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB1" target="IFT81">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB1" target="TCTEX1D2">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB1" target="WDR34">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB1" target="DYNC2H1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB1" target="DYNC2LI1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB1" target="WDR60">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB1" target="DYNLL2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB1" target="DYNLT1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB1" target="DYNLL1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB1" target="DYNLRB2">
+  <data key="d11">ef11b_d6173_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="DYNLRB1" target="DYNLT3">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB1" target="DYNC1LI1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB1" target="DYNC1H1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB1" target="DYNC1I2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB1" target="DYNC1I1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB1" target="DYNC1LI2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB1" target="DYNLRB1">
+  <data key="d12">group</data>
+</edge>
+<edge source="DYNLL1" target="WDR35">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL1" target="IFT122">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL1" target="IFT140">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL1" target="WDR19">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL1" target="IFT22">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL1" target="HSPB11">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL1" target="IFT27">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL1" target="IFT43">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL1" target="IFT46">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL1" target="IFT80">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL1" target="IFT81">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLL1" target="TCTEX1D2">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL1" target="WDR34">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL1" target="DYNC2H1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL1" target="DYNC2LI1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL1" target="WDR60">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL1" target="DYNLL2">
+  <data key="d11">b53fe_f0701_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="DYNLL1" target="DYNLT1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL1" target="DYNLRB1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL1" target="DYNLRB2">
+  <data key="d11">b53fe_d6173_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="DYNLL1" target="DYNLT3">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL1" target="DYNC1LI1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL1" target="DYNC1H1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL1" target="DYNC1I2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL1" target="DYNC1I1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL1" target="DYNC1LI2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLL1" target="DYNLL1">
+  <data key="d12">group</data>
+</edge>
+<edge source="DYNLRB2" target="WDR35">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB2" target="IFT122">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB2" target="IFT140">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB2" target="WDR19">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB2" target="IFT22">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB2" target="HSPB11">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB2" target="IFT27">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB2" target="IFT43">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB2" target="IFT46">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB2" target="IFT80">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB2" target="IFT81">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLRB2" target="TCTEX1D2">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB2" target="WDR34">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB2" target="DYNC2H1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB2" target="DYNC2LI1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB2" target="WDR60">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB2" target="DYNLL2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB2" target="DYNLT1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB2" target="DYNLRB1">
+  <data key="d11">d6173_ef11b_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="DYNLRB2" target="DYNLL1">
+  <data key="d11">d6173_b53fe_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="DYNLRB2" target="DYNLT3">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB2" target="DYNC1LI1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB2" target="DYNC1H1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB2" target="DYNC1I2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB2" target="DYNC1I1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB2" target="DYNC1LI2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_9</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLRB2" target="DYNLRB2">
+  <data key="d12">group</data>
+</edge>
+<edge source="DYNLT3" target="WDR35">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT3" target="IFT122">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT3" target="IFT140">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT3" target="WDR19">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT3" target="IFT22">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT3" target="HSPB11">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT3" target="IFT27">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT3" target="IFT43">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT3" target="IFT46">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT3" target="IFT80">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT3" target="IFT81">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNLT3" target="TCTEX1D2">
+  <data key="d11">ed6f7_b77ca_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="DYNLT3" target="WDR34">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT3" target="DYNC2H1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT3" target="DYNC2LI1">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT3" target="WDR60">
+  <data key="d11">b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT3" target="DYNLL2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT3" target="DYNLT1">
+  <data key="d11">ed6f7_ac44f_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="DYNLT3" target="DYNLRB1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT3" target="DYNLL1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT3" target="DYNLRB2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT3" target="DYNC1LI1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT3" target="DYNC1H1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT3" target="DYNC1I2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT3" target="DYNC1I1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT3" target="DYNC1LI2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_10</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNLT3" target="DYNLT3">
+  <data key="d12">group</data>
+</edge>
+<edge source="DYNC1LI1" target="WDR35">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI1" target="IFT122">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI1" target="IFT140">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI1" target="WDR19">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI1" target="IFT22">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI1" target="HSPB11">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI1" target="IFT27">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI1" target="IFT43">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI1" target="IFT46">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI1" target="IFT80">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI1" target="IFT81">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI1" target="DYNLL2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1LI1" target="DYNLT1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1LI1" target="DYNC1H1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1LI1" target="DYNLRB1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1LI1" target="DYNLL1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1LI1" target="DYNC1I2">
+  <data key="d11">bd605_dde0a_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="DYNC1LI1" target="DYNC1I1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1LI1" target="DYNLRB2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1LI1" target="DYNLT3">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1LI1" target="DYNC1LI2">
+  <data key="d11">bd605_e084a_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="DYNC1H1" target="WDR35">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1H1" target="IFT122">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1H1" target="IFT140">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1H1" target="WDR19">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1H1" target="IFT22">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1H1" target="HSPB11">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1H1" target="IFT27">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1H1" target="IFT43">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1H1" target="IFT46">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1H1" target="IFT80">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1H1" target="IFT81">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1H1" target="DYNLL2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1H1" target="DYNLT1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1H1" target="DYNC1LI1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1H1" target="DYNLRB1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1H1" target="DYNLL1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1H1" target="DYNC1I2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1H1" target="DYNC1I1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1H1" target="DYNLRB2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1H1" target="DYNLT3">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1H1" target="DYNC1LI2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1I2" target="WDR35">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I2" target="IFT122">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I2" target="IFT140">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I2" target="WDR19">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I2" target="IFT22">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I2" target="HSPB11">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I2" target="IFT27">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I2" target="IFT43">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I2" target="IFT46">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I2" target="IFT80">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I2" target="IFT81">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I2" target="DYNLL2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1I2" target="DYNLT1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1I2" target="DYNC1LI1">
+  <data key="d11">dde0a_bd605_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="DYNC1I2" target="DYNC1H1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1I2" target="DYNLRB1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1I2" target="DYNLL1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1I2" target="DYNC1I1">
+  <data key="d11">dde0a_e4767_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="DYNC1I2" target="DYNLRB2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1I2" target="DYNLT3">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1I2" target="DYNC1LI2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_7</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1I1" target="WDR35">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I1" target="IFT122">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I1" target="IFT140">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I1" target="WDR19">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I1" target="IFT22">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I1" target="HSPB11">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I1" target="IFT27">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I1" target="IFT43">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I1" target="IFT46">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I1" target="IFT80">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I1" target="IFT81">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1I1" target="DYNLL2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1I1" target="DYNLT1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1I1" target="DYNC1LI1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1I1" target="DYNC1H1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1I1" target="DYNLRB1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1I1" target="DYNLL1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1I1" target="DYNC1I2">
+  <data key="d11">e4767_dde0a_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="DYNC1I1" target="DYNLRB2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1I1" target="DYNLT3">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1I1" target="DYNC1LI2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_8</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1LI2" target="WDR35">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI2" target="IFT122">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI2" target="IFT140">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI2" target="WDR19">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI2" target="IFT22">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI2" target="HSPB11">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI2" target="IFT27">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI2" target="IFT43">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI2" target="IFT46">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI2" target="IFT80">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI2" target="IFT81">
+  <data key="d11">None</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DYNC1LI2" target="DYNLL2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1LI2" target="DYNLT1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1LI2" target="DYNC1LI1">
+  <data key="d11">e084a_bd605_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="DYNC1LI2" target="DYNC1H1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1LI2" target="DYNLRB1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1LI2" target="DYNLL1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1LI2" target="DYNC1I2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1LI2" target="DYNC1I1">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1LI2" target="DYNLRB2">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="DYNC1LI2" target="DYNLT3">
+  <data key="d11">a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_11</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+</graph></graphml>

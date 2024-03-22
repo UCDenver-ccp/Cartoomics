@@ -1,0 +1,54 @@
+S|P|O
+Sparc|causes or contributes to condition|Nephropathy
+lead atom|is substance that treats|Nephropathy
+lead atom|molecularly interacts with|Cell adhesion
+Sparc|participates_in|Platelet degranulation 
+SERPINE1|participates_in|Platelet degranulation 
+14-3-3|participates_in|Generic Transcription Pathway
+TAZ|participates_in|Generic Transcription Pathway
+14-3-3|participates_in|Signal Transduction
+Smad2|participates_in|Signal Transduction
+Smad4|participates_in|Generic Transcription Pathway
+TAZ|subClassOf|protein_coding_gene
+POSTN|subClassOf|protein_coding_gene
+TAZ|participates_in|Gene expression (Transcription)
+SERPINE1|participates_in|Gene expression (Transcription)
+Smad4|subClassOf|protein_coding_gene
+Sparc|subClassOf|protein_coding_gene
+Smad2|subClassOf|protein_coding_gene
+valproic acid|interacts with|Smad2
+valproic acid|interacts with|POSTN
+SERPINE1|participates_in|Signal Transduction
+Smad2|participates_in|TGF-beta receptor signaling activates SMADs
+Smad4|participates_in|TGF-beta receptor signaling activates SMADs
+Smad2|participates_in|Signaling by TGF-beta Receptor Complex in Cancer
+TGFβ-II-R|participates_in|Signaling by TGF-beta Receptor Complex in Cancer
+Smad4|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
+SERPINE1|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
+TAZ|participates_in|Signaling by TGF-beta Receptor Complex
+Smad4|participates_in|Signaling by TGF-beta Receptor Complex
+Smad3|participates_in|Signaling by TGF-beta Receptor Complex
+SERPINE1|participates_in|Signaling by TGF-beta Receptor Complex
+valproic acid|interacts with|Smad3
+Smad3|participates_in|Signaling by TGF-beta Receptor Complex in Cancer
+TGFβ-I-R|participates_in|TGFBR1 KD Mutants in Cancer
+Smad2|participates_in|TGFBR1 KD Mutants in Cancer
+TGFβ-I-R|participates_in|Metabolism of proteins
+Smad3|participates_in|Metabolism of proteins
+TGFβ-I-R|causes or contributes to condition|Arterial dissection
+TGFβ-II-R|causes or contributes to condition|Arterial dissection
+TGFβ-I-R|subClassOf|protein_coding_gene
+TGFBR3 (human)|subClassOf|protein_coding_gene
+TGFβ-II-R|subClassOf|protein_coding_gene
+Smad3|participates_in|Signal Transduction
+TAZ|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+CCN2 (human)|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+valproic acid|interacts with|CTFG
+aflatoxin B1|interacts with|Smad4
+aflatoxin B1|interacts with|CTFG
+Smad3|participates_in|Signaling by NODAL
+Smad4|participates_in|Signaling by NODAL
+TGF-β|causes or contributes to condition|Emphysema
+TGFβ-II-R|causes or contributes to condition|Emphysema
+Smad3|causes or contributes to condition|Cirrhosis
+Sparc|causes or contributes to condition|Cirrhosis

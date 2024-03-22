@@ -1,0 +1,25 @@
+Pathway_URL,Pathway_ID,Keywords,Guiding_Term,Guiding_Term_URI,PMID
+https://pfocr.wikipathways.org/figures/PMC6943888__40035_2019_179_Fig1_HTML.html,WP5372,AEP;Alzheimer’s disease;Parkinson’s disease;C/EBPβ;TrkB;TDP-43,Neurodegenerative disease,MONDO:0005559,31911834
+https://pfocr.wikipathways.org/figures/PMC6365454__fnins-13-00025-g0002.html,WP5283,diabetes;hyperglycemia;microglia;neurons;neuropathy;oxidative stress;pain,Neuron function,,30766472
+https://pfocr.wikipathways.org/figures/PMC6218675__fphys-09-01533-g0001.html,WP4535,A-type lamins;Emery-Dreifuss muscular dystrophy (EDMD);cardiomyopathy;emerin;luma;muscular dystrophy (MD);nesprin protein;nuclear envelope (NE),EDMD physiopathology,MONDO:0016830,30425656
+https://pfocr.wikipathways.org/figures/PMC6143874__etm-16-04-3275-g02.html,WP5358,cellular signaling pathways;diabetes;β-cell proliferation,Diabetes,MONDO:0005015,30233674
+https://pfocr.wikipathways.org/figures/PMC6143874__etm-16-04-3275-g01.html,WP5385,cellular signaling pathways;diabetes;β-cell proliferation,SAME,,30233674
+https://pfocr.wikipathways.org/figures/PMC6121065__fncel-12-00273-g0001.html,WP4829,BDNF;GABA receptors;KCC2;TrkB;p75NTR,γ-aminobutyric acid (GABA) neurotransmission,GO:0061534,30210299
+https://pfocr.wikipathways.org/figures/PMC6115613__fnmol-11-00244-g004.html,WP4564,cadherin;ephrin;invasion;kidins220;migration;neurotrophin;p75NTR,Cell migration,GO:0016477,30190671
+https://pfocr.wikipathways.org/figures/PMC6115613__fnmol-11-00244-g003.html,WP4565,cadherin;ephrin;invasion;kidins220;migration;neurotrophin;p75NTR,Cell migration,GO:0016477,30190671
+https://pfocr.wikipathways.org/figures/PMC6103457__BST-46-967-g0001.html,WP4532,cilia;dynein;intraflagellar transport;kinesin;microtubule,Dynein transport,,30065109
+https://pfocr.wikipathways.org/figures/PMC6087706__40169_2018_202_Fig2_HTML.html,WP4534,Actomyosin;Cancer progression;Cancer therapy resistance;Contact inhibition of proliferation;Hippo pathway;Mechanotransduction;TAZ;YAP,YAP/TAZ regulation,,30101371
+https://pfocr.wikipathways.org/figures/PMC6085908__BRB3-8-e00978-g001.html,WP4539,autism;autism spectrum disorder;genetics;ion channels;synapse formation;synaptopathology;therapeutic targets,autism,,29934975
+https://pfocr.wikipathways.org/figures/PMC6027339__biomedicines-06-00038-g005.html,WP4562,CARD11;CARMA1;CD79;MyD88;NF-κB;leukemia;lymphoma,NF-κB activation,,29587428
+https://pfocr.wikipathways.org/figures/PMC5992185__41392_2018_15_Fig4_HTML.html,WP4533,transforming growth factor-β;TGF-β signaling pathway;fibrosis;cancer,,,29892481
+https://pfocr.wikipathways.org/figures/PMC5923349__cancers-10-00094-g004.html,WP4542,Hippo pathway;LATS1/2;MST1/2;PD-L1;TAZ;YAP;cancer;immunology;immunotherapy;inflammation,,,29597279
+https://pfocr.wikipathways.org/figures/PMC5923345__cancers-10-00090-g002.html,WP4540,Hippo pathway;NF2;YAP1/TAZ;malignant mesothelioma,,,29565815
+https://pfocr.wikipathways.org/figures/PMC5923345__cancers-10-00090-g001.html,WP4541,Hippo pathway;NF2;YAP1/TAZ;malignant mesothelioma,,,29565815
+https://pfocr.wikipathways.org/figures/PMC5883377__CN-16-151_F1B.html,WP4760,Purkinje cell dendritic development;Spinocerebellar ataxias;calcium signaling;carbonic anhydrase related protein 8;inositol 1;4;5-trisphosphate receptor;protein kinase C gamma,,,28554312
+https://pfocr.wikipathways.org/figures/PMC5867295__fbioe-06-00018-g005.html,WP5373,cartilage;chondrocytes;endochondral ossification;hypertrophy;osteoarthritis;phenotype,,,29616218
+https://pfocr.wikipathways.org/figures/PMC5854428__ppat.1006839.g001.html,WP4538,transcription 3;immune response;antiviral therapy,,,29543893
+https://pfocr.wikipathways.org/figures/PMC5833345__41419_2017_66_Fig7_HTML.html,WP4553,FBXL10;B-cell lymphoma;kinase signaling pathways,,,29352142
+https://pfocr.wikipathways.org/figures/PMC5819904__IJMM-41-03-1201-g03.html,WP4537,glaucoma;Hippo;Yes-associated protein;transcriptional co-activator with PDZ-binding motif;Wnt;lysophosphatidic acid;transforming growth factor-β,,,29286147
+https://pfocr.wikipathways.org/figures/PMC5819904__IJMM-41-03-1201-g03.html,WP5382,glaucoma;Hippo;Yes-associated protein;transcriptional co-activator with PDZ-binding motif;Wnt;lysophosphatidic acid;transforming growth factor-β,,,29286147
+https://pfocr.wikipathways.org/figures/PMC5452883__ol-13-06-4047-g00.html,WP5368,E2;STS;SULT1E1;epithelial ovarian cancer;estrogen;estrogen metabolizing enzymes;ovarian cancer;sulfotransferase,,,28588698
+https://pfocr.wikipathways.org/figures/PMC3514635__gr4.html,WP4856,Charcot–Marie–Tooth disease;Intracellular traffic;Membrane traffic;Peripheral neuropathy;Neurodegeneration;Polyneuropathy;Axon degeneration,,,22465036

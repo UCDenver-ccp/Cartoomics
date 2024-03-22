@@ -1,0 +1,7 @@
+source_node,target_node,num_paths
+INOS,NO,1
+NO,NRS,1
+e-,ROS,1
+e-,ATP,1
+Fructose,AGE,1
+AGE,RAGE,1

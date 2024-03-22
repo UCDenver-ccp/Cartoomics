@@ -1,0 +1,67 @@
+S|P|O
+CYP19A1|participates_in|Estrogen biosynthesis
+Estradiol-17beta|participates_in|Estrogen biosynthesis
+HSD17B1|participates_in|Estrogen biosynthesis
+HSD17B1|participates_in|The canonical retinoid cycle in rods (twilight vision)
+NADH(2-)|participates_in|The canonical retinoid cycle in rods (twilight vision)
+NAD anion|participates_in|The canonical retinoid cycle in rods (twilight vision)
+STS|subClassOf|tag
+EST|subClassOf|tag
+EST|derives_from|mRNA
+NSD_transcript|subClassOf|mRNA
+CYP19A1-211|subClassOf|NSD_transcript
+CYP19A1|transcribed to|CYP19A1-211
+estrone|participates_in|Estrogen biosynthesis
+engineered_tag|subClassOf|tag
+engineered_tag|subClassOf|engineered_region
+engineered_region|subClassOf|biomaterial_region
+GPX3-211|subClassOf|biomaterial_region
+GPX3 (human)|transcribed to|GPX3-211
+GPX3 (human)|causes or contributes to condition|tubular adenocarcinoma
+DHEA|is substance that treats|tubular adenocarcinoma
+engineered_gene|subClassOf|engineered_region
+engineered_gene|subClassOf|gene
+UGT1A1|subClassOf|gene
+Estradiol-17beta|interacts with|UGT1A1
+testosterone|is substance that treats|Microprolactinoma
+Estradiol-17beta|is substance that treats|Microprolactinoma
+estradiol 3-sulphate|has functional parent|Estradiol-17beta
+Estradiol-17beta|is substance that treats|prostate intraepithelial neoplasia
+ESR2|causes or contributes to condition|prostate intraepithelial neoplasia
+ESR1|causes or contributes to condition|prostate intraepithelial neoplasia
+estrone|is substance that treats|Microprolactinoma
+estrone sulphate|has functional parent|estrone
+estrone|is substance that treats|Macroprolactinoma
+Estradiol-17beta|is substance that treats|Macroprolactinoma
+SULT1E1|participates_in|Cytosolic sulfonation of small molecules
+DHEA-S|participates_in|Cytosolic sulfonation of small molecules
+estradiol 3-sulphate|participates_in|Cytosolic sulfonation of small molecules
+SULT1E1|has gene product|sulfotransferase 1E1 (human)
+sulfotransferase 1E1 (human)|molecularly interacts with|PAP
+sulfotransferase 1E1 (human)|molecularly interacts with|PAPS(4-)
+DHEA-S|has functional parent|DHEA
+DHEA|participates_in|Androgen biosynthesis
+Androstenedione|participates_in|Androgen biosynthesis
+sulfotransferase 1E1 (human)|molecularly interacts with|estrone 3-sulfate(1-)
+estrone 3-sulfate(1-)|is conjugate base of|estrone sulphate
+HSD17B2|has gene product|17-beta-hydroxysteroid dehydrogenase type 2 (human)
+17-beta-hydroxysteroid dehydrogenase type 2 (human)|molecularly interacts with|NADH dianion
+HSD17B3|participates_in|Androgen biosynthesis
+testosterone|participates_in|Androgen biosynthesis
+NADPH(4-)|participates_in|Androgen biosynthesis
+NADP(3-)|participates_in|Androgen biosynthesis
+17-beta-hydroxysteroid dehydrogenase 14 (human)|molecularly interacts with|NAD anion
+17-beta-hydroxysteroid dehydrogenase 14 (human)|molecularly interacts with|estrone
+HSD3B1|participates_in|Androgen biosynthesis
+Androstenedione|participates_in|Estrogen biosynthesis
+testosterone|participates_in|Estrogen biosynthesis
+SLCO1B1|participates_in|Transport of organic anions
+estrone sulphate|participates_in|Transport of organic anions
+DHEA-S|participates_in|Transport of organic anions
+SLCO1A2|participates_in|Transport of organic anions
+SLCO1B1|causes or contributes to condition|Rotor syndrome
+SLCO1B3|causes or contributes to condition|Rotor syndrome
+SLCO2B1|participates_in|Transport of organic anions
+SLCO4A1|participates_in|Transport of organic anions
+SLCO4C1|participates_in|Transport of organic anions
+SLCO1B3|participates_in|Transport of organic anions

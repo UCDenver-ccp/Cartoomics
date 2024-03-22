@@ -1,0 +1,124 @@
+S|P|O
+IFT140|subClassOf|protein_coding_gene
+IFT22|subClassOf|protein_coding_gene
+DYNLRB2|participates_in|Organelle biogenesis and maintenance
+IFT140|participates_in|Organelle biogenesis and maintenance
+DYNLRB2|subClassOf|protein_coding_gene
+HSPB11|participates_in|Organelle biogenesis and maintenance
+DYNLRB2|participates_in|Intraflagellar transport
+IFT27|participates_in|Intraflagellar transport
+IFT43|participates_in|Intraflagellar transport
+DYNLRB2|participates_in|Cilium Assembly
+IFT46|participates_in|Cilium Assembly
+IFT81 (human)|participates_in|Intraflagellar transport
+DYNLT3|subClassOf|protein_coding_gene
+DYNC1LI1|subClassOf|protein_coding_gene
+DYNC1H1|subClassOf|protein_coding_gene
+DYNC1I2|subClassOf|protein_coding_gene
+DYNC1I1|subClassOf|protein_coding_gene
+DYNC1LI2|subClassOf|protein_coding_gene
+HSPB11|subClassOf|protein_coding_gene
+IFT27|subClassOf|protein_coding_gene
+IFT43|subClassOf|protein_coding_gene
+IFT46|subClassOf|protein_coding_gene
+IFT81 (human)|subClassOf|protein_coding_gene
+DYNLL1|participates_in|Vesicle-mediated transport
+DYNC1LI2|participates_in|Vesicle-mediated transport
+DYNLL1|participates_in|COPI-independent Golgi-to-ER retrograde traffic
+DYNC1I1|participates_in|COPI-independent Golgi-to-ER retrograde traffic
+DYNLL1|participates_in|Mitotic G2-G2/M phases
+DYNC1I2|participates_in|Mitotic G2-G2/M phases
+DYNLRB1|participates_in|Organelle biogenesis and maintenance
+IFT27|participates_in|Organelle biogenesis and maintenance
+DYNLRB1|participates_in|Cilium Assembly
+IFT43|participates_in|Cilium Assembly
+DYNLRB1|participates_in|Intraflagellar transport
+DYNLL1|participates_in|Organelle biogenesis and maintenance
+DYNLRB1|subClassOf|protein_coding_gene
+DYNLL1|subClassOf|protein_coding_gene
+DYNLL1|participates_in|Intraflagellar transport
+IFT43|participates_in|Organelle biogenesis and maintenance
+IFT46|participates_in|Intraflagellar transport
+IFT81 (human)|participates_in|Organelle biogenesis and maintenance
+DYNC1LI1|participates_in|COPI-independent Golgi-to-ER retrograde traffic
+DYNLL1|participates_in|Centrosome maturation
+DYNC1H1|participates_in|Centrosome maturation
+DYNC1I1|participates_in|Golgi-to-ER retrograde transport
+DYNC1LI2|participates_in|Golgi-to-ER retrograde transport
+DYNC1I2|participates_in|COPI-independent Golgi-to-ER retrograde traffic
+DYNC1LI2|participates_in|COPI-independent Golgi-to-ER retrograde traffic
+DYNC1I2|participates_in|Adaptive Immune System
+DYNC1I1|participates_in|Adaptive Immune System
+DYNC1I2|participates_in|Organelle biogenesis and maintenance
+DYNC1I2|participates_in|Cilium Assembly
+DYNC1H1|participates_in|COPI-independent Golgi-to-ER retrograde traffic
+DYNC1LI1|participates_in|Metabolism of proteins
+DYNC1I2|participates_in|Metabolism of proteins
+DYNC1LI1|participates_in|Post-translational protein modification
+DYNC1LI2|participates_in|Post-translational protein modification
+DYNC1H1|subClassOf|gene
+IFT140|subClassOf|gene
+DYNC1H1|participates_in|Cilium Assembly
+IFT22|participates_in|Cilium Assembly
+HSPB11|participates_in|Cilium Assembly
+IFT27|participates_in|Cilium Assembly
+DYNC1H1|participates_in|Organelle biogenesis and maintenance
+IFT46|participates_in|Organelle biogenesis and maintenance
+DYNC1H1|participates_in|Loss of Nlp from mitotic centrosomes
+DYNC1I2|participates_in|Loss of Nlp from mitotic centrosomes
+DYNC1H1|participates_in|Membrane Trafficking
+DYNC1LI2|participates_in|Membrane Trafficking
+IFT22|participates_in|Intraflagellar transport
+IFT140|participates_in|Intraflagellar transport
+DYNLT1|subClassOf|protein_coding_gene
+WDR34|causes or contributes to condition|short rib-polydactyly syndrome
+WDR60|causes or contributes to condition|short rib-polydactyly syndrome
+WDR34|subClassOf|protein_coding_gene
+DYNLL2|subClassOf|protein_coding_gene
+WDR34|participates_in|Organelle biogenesis and maintenance
+DYNC2H1|causes or contributes to condition|Jeune syndrome
+IFT140|causes or contributes to condition|Jeune syndrome
+DYNC2H1|participates_in|Organelle biogenesis and maintenance
+IFT22|participates_in|Organelle biogenesis and maintenance
+DYNC2H1|subClassOf|protein_coding_gene
+DYNC2H1|causes or contributes to condition|Polydactyly
+IFT27|causes or contributes to condition|Polydactyly
+DYNC2LI1|causes or contributes to condition|short rib-polydactyly syndrome
+DYNC2H1|participates_in|Cilium Assembly
+IFT81 (human)|participates_in|Cilium Assembly
+DYNC2H1|causes or contributes to condition|short rib-polydactyly syndrome
+DYNC2H1|participates_in|Intraflagellar transport
+DYNLL2|participates_in|Intraflagellar transport
+DYNC2LI1|participates_in|Intraflagellar transport
+DYNC2LI1|subClassOf|protein_coding_gene
+WDR34|participates_in|Intraflagellar transport
+HSPB11|participates_in|Intraflagellar transport
+WDR34|causes or contributes to condition|Jeune syndrome
+WDR34|participates_in|Cilium Assembly
+WDR34|subClassOf|gene
+IFT27|subClassOf|gene
+IFT43|subClassOf|gene
+DYNLL2|participates_in|Organelle biogenesis and maintenance
+DYNLL2|participates_in|Macroautophagy
+DYNLL1|participates_in|Macroautophagy
+DYNLL2|participates_in|Cilium Assembly
+DYNLL2|participates_in|COPI-mediated anterograde transport
+DYNC1H1|participates_in|COPI-mediated anterograde transport
+DYNLL2|participates_in|Golgi-to-ER retrograde transport
+DYNC1I2|participates_in|Golgi-to-ER retrograde transport
+DYNLL2|participates_in|ER to Golgi Anterograde Transport
+DYNC1I1|participates_in|ER to Golgi Anterograde Transport
+DYNLL2|participates_in|COPI-independent Golgi-to-ER retrograde traffic
+DYNLT1|participates_in|Immune System
+DYNLL1|participates_in|Immune System
+DYNLT1|participates_in|Innate Immune System
+DYNC1H1|participates_in|Innate Immune System
+DYNC1I2|participates_in|Immune System
+DYNC2LI1|causes or contributes to condition|Jeune syndrome
+WDR60|causes or contributes to condition|Jeune syndrome
+DYNC2LI1|participates_in|Cilium Assembly
+WDR60|participates_in|Cilium Assembly
+IFT140|participates_in|Cilium Assembly
+WDR60|participates_in|Organelle biogenesis and maintenance
+WDR60|participates_in|Intraflagellar transport
+WDR60|subClassOf|protein_coding_gene

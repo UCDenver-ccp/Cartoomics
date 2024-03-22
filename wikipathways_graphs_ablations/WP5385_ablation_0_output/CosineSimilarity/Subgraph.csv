@@ -1,0 +1,175 @@
+S|P|O
+ERK 2|participates_in|Cellular responses to stress
+EZH2|participates_in|Cellular responses to stress
+AKT3|participates_in|Signaling by EGFR
+FOXO1|participates_in|Signaling by EGFR
+AKT1|participates_in|Regulation of beta-cell development
+FOXO1|participates_in|Regulation of beta-cell development
+AKT1|participates_in|IRS-related events triggered by IGF1R
+AKT2|participates_in|IRS-related events triggered by IGF1R
+AKT1|participates_in|CD28 co-stimulation
+AKT3|participates_in|CD28 co-stimulation
+AKT2|participates_in|DAP12 interactions
+FOXO1|participates_in|DAP12 interactions
+AKT2|participates_in|Intrinsic Pathway for Apoptosis
+AKT3|participates_in|Intrinsic Pathway for Apoptosis
+K-Ras|causes or contributes to condition|tubular adenocarcinoma
+Rasf1a|causes or contributes to condition|tubular adenocarcinoma
+K-Ras|participates_in|Paradoxical activation of RAF signaling by kinase inactive BRAF
+B-Raf|participates_in|Paradoxical activation of RAF signaling by kinase inactive BRAF
+T3|interacts with|mitogen-activated protein kinase 3 (human)
+mitogen-activated protein kinase 3 (human)|has_gene_template|ERK 1
+T3|interacts with|mitogen-activated protein kinase 1 (human)
+mitogen-activated protein kinase 1 (human)|has_gene_template|ERK 2
+desiccated thyroid extract|has part|3,3',5-triiodo-L-thyronine
+desiccated thyroid extract|has part|T4
+ERK 1|causes or contributes to condition|Prostate neoplasm
+FOXO1|causes or contributes to condition|Prostate neoplasm
+ERK 1|participates_in|Developmental Biology
+EZH2|participates_in|Developmental Biology
+ERK 1|participates_in|Interleukin receptor SHC signaling
+ERK 2|participates_in|Interleukin receptor SHC signaling
+VEGFR-1|participates_in|Signaling by VEGF
+AKT3|participates_in|Signaling by VEGF
+FOXO1|participates_in|Regulation of gene expression in beta cells
+Pdx1|participates_in|Regulation of gene expression in beta cells
+cMyc|participates_in|G1/S Transition
+CDK4|participates_in|G1/S Transition
+cMyc|causes or contributes to condition|Hepatocellular carcinoma
+FOXM1|causes or contributes to condition|Hepatocellular carcinoma
+CDK2|participates_in|Meiotic recombination
+CDK4|participates_in|Meiotic recombination
+CDK2|participates_in|Cell Cycle
+FOXM1|participates_in|Cell Cycle
+cMyc|causes or contributes to condition|Glioblastoma multiforme
+CDK2|causes or contributes to condition|Glioblastoma multiforme
+diazinon|interacts with|CDK4
+diazinon|interacts with|FOXM1
+CaM|subClassOf|protein
+Homo sapiens protein|subClassOf|protein
+CREB-regulated transcription coactivator 2 (human)|subClassOf|Homo sapiens protein
+CREB-regulated transcription coactivator 2 (human)|has_gene_template|CRTC2
+IGF-1|participates_in|Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+IGF-1R|participates_in|Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+valproic acid|interacts with|PGF (human)
+valproic acid|interacts with|VEGFR-1
+Rho guanine nucleotide exchange factor 39 (human)|subClassOf|protein
+Rho guanine nucleotide exchange factor 39 (human)|participates_in|Signal Transduction
+CDK4|participates_in|Signal Transduction
+CRTC2|subClassOf|protein_coding_gene
+cMyc|subClassOf|protein_coding_gene
+TGFB1|participates_in|TGFBR1 LBD Mutants in Cancer
+TGFB1R|participates_in|TGFBR1 LBD Mutants in Cancer
+phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform (human)|has function|PI3K
+phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform (human)|molecularly interacts with|RAC-gamma serine/threonine-protein kinase (human)
+RAC-gamma serine/threonine-protein kinase (human)|has_gene_template|AKT3
+CRTC2|participates_in|Transcriptional activation of mitochondrial biogenesis
+ADP(3-)|participates_in|Transcriptional activation of mitochondrial biogenesis
+phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform (human)|molecularly interacts with|ADP(3-)
+CDK2|subClassOf|protein_coding_gene
+CDK4|subClassOf|protein_coding_gene
+FOXM1|subClassOf|protein_coding_gene
+B-Raf|participates_in|SHC1 events in EGFR signaling
+ERK 1|participates_in|SHC1 events in EGFR signaling
+B-Raf|participates_in|Negative regulation of MAPK pathway
+ERK 2|participates_in|Negative regulation of MAPK pathway
+TGFB1R|causes or contributes to condition|Neoplasm of the large intestine
+Smad7|causes or contributes to condition|Neoplasm of the large intestine
+Smad7|participates_in|Signal Transduction
+AKT1|participates_in|Signal Transduction
+AKT2|participates_in|Signal Transduction
+Smad7|participates_in|Generic Transcription Pathway
+AKT3|participates_in|Generic Transcription Pathway
+Insulin|participates_in|Signaling by Insulin receptor
+K-Ras|participates_in|Signaling by Insulin receptor
+phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform (human)|has function|PI3K
+phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform (human)|participates_in|Insulin receptor signalling cascade
+AKT1|participates_in|Insulin receptor signalling cascade
+phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform (human)|participates_in|GPVI-mediated activation cascade
+AKT2|participates_in|GPVI-mediated activation cascade
+calmodulin (human)|subClassOf|CaM
+calmodulin (human)|subClassOf|Homo sapiens protein
+phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform (human)|subClassOf|Homo sapiens protein
+phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform (human)|has function|PI3K
+immunoglobulin kappa variable 1-5 (human)|subClassOf|protein
+immunoglobulin kappa variable 1-5 (human)|participates_in|Immune System
+cMyc|participates_in|Immune System
+protein|subClassOf|molecular entity
+molecular entity|participates_in|Hemostasis
+CDK2|participates_in|Hemostasis
+putative tubulin-like protein alpha-4B (human)|subClassOf|protein
+putative tubulin-like protein alpha-4B (human)|participates_in|Cell Cycle, Mitotic
+FOXM1|participates_in|Cell Cycle, Mitotic
+K-Ras|participates_in|Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+AKT1|participates_in|Signaling by VEGF
+AKT2|participates_in|Signaling by VEGF
+CDK2|participates_in|Signal Transduction
+Pdx1|has gene product|pancreas/duodenum homeobox protein 1 (human)
+pancreas/duodenum homeobox protein 1 (human)|subClassOf|Homo sapiens protein
+Ras GTPase-activating protein 4B (human)|molecularly interacts with|calcium(2+)
+Ras GTPase-activating protein 4B (human)|subClassOf|protein
+PDGFa|participates_in|Frs2-mediated activation
+K-Ras|participates_in|Frs2-mediated activation
+Pdx1|subClassOf|protein_coding_gene
+AKT1|subClassOf|protein_coding_gene
+Rasf1a|subClassOf|protein_coding_gene
+AKT2|subClassOf|protein_coding_gene
+EZH2|subClassOf|protein_coding_gene
+AKT3|subClassOf|protein_coding_gene
+Pdx1|participates_in|Regulation of beta-cell development
+Pdx1|subClassOf|gene
+Rasf1a|subClassOf|gene
+Pdx1|participates_in|Developmental Biology
+AKT2|participates_in|Developmental Biology
+CDK4|subClassOf|gene
+AKT3|participates_in|Developmental Biology
+AKT1|participates_in|Vesicle-mediated transport
+immunoglobulin kappa variable 1D-39 (human)|participates_in|Vesicle-mediated transport
+immunoglobulin kappa variable 1D-39 (human)|subClassOf|protein
+valproic acid|interacts with|AKT1
+valproic acid|interacts with|cMyc
+AKT1|causes or contributes to condition|Neoplasm of the lung
+Rasf1a|causes or contributes to condition|Neoplasm of the lung
+AKT1|causes or contributes to condition|Neoplasm of the breast
+FOXM1|causes or contributes to condition|Neoplasm of the breast
+AKT1|participates_in|Mitotic G1 phase and G1/S transition
+CDK4|participates_in|Mitotic G1 phase and G1/S transition
+AKT1|causes or contributes to condition|Osteosarcoma
+EZH2|causes or contributes to condition|Osteosarcoma
+CDK4|causes or contributes to condition|Hepatocellular carcinoma
+EZH2|causes or contributes to condition|Hepatocellular carcinoma
+CDK2|participates_in|G1/S Transition
+AKT3|participates_in|G1/S Transition
+valproic acid|interacts with|DLK1 (human)
+valproic acid|interacts with|ERK 1
+valproic acid|interacts with|ERK 2
+AKT3|participates_in|Signal Transduction
+Elevated hepatic transaminase|inheres in|protein
+childhood medulloblastoma|has phenotype|Elevated hepatic transaminase
+Rasf1a|causes or contributes to condition|childhood medulloblastoma
+immunoglobulin heavy variable 1-46 (human)|subClassOf|protein
+immunoglobulin heavy variable 1-46 (human)|participates_in|Vesicle-mediated transport
+AKT2|participates_in|Vesicle-mediated transport
+putative zinc finger protein 735 (human)|subClassOf|protein
+putative zinc finger protein 735 (human)|participates_in|Gene expression (Transcription)
+EZH2|participates_in|Gene expression (Transcription)
+immunoglobulin heavy variable 3-23 (human)|subClassOf|protein
+immunoglobulin heavy variable 3-23 (human)|participates_in|Immune System
+AKT3|participates_in|Immune System
+cMyc|causes or contributes to condition|desmoplastic/nodular medulloblastoma
+Rasf1a|causes or contributes to condition|desmoplastic/nodular medulloblastoma
+cMyc|participates_in|Cell Cycle
+AKT2|participates_in|Cell Cycle
+cMyc|causes or contributes to condition|Abnormality of chromosome stability
+EZH2|causes or contributes to condition|Abnormality of chromosome stability
+cMyc|participates_in|Gene expression (Transcription)
+AKT3|participates_in|Gene expression (Transcription)
+ERK 2|participates_in|MAPK family signaling cascades
+FOXO1|participates_in|MAPK family signaling cascades
+diazinon|interacts with|Rasf1a
+FOXM1|causes or contributes to condition|Non-small cell lung carcinoma
+AKT2|causes or contributes to condition|Non-small cell lung carcinoma
+AKT2|participates_in|Regulation of TP53 Degradation
+CDK2|participates_in|Regulation of TP53 Degradation
+CDK4|participates_in|Cell Cycle
+CDK2|participates_in|Cellular responses to stress

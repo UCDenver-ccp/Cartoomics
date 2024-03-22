@@ -1,0 +1,96 @@
+S|P|O
+SUN|subClassOf|protein_coding_gene
+ADCY9|subClassOf|protein_coding_gene
+ADCY10|subClassOf|protein_coding_gene
+ADCY4|subClassOf|protein_coding_gene
+ADCY7|subClassOf|protein_coding_gene
+ADCY2|subClassOf|protein_coding_gene
+ADCY8|subClassOf|protein_coding_gene
+ADCY5|subClassOf|protein_coding_gene
+ADCY6|subClassOf|protein_coding_gene
+ADCY9|participates_in|Adenylate cyclase activating pathway
+ADCY2|participates_in|Adenylate cyclase activating pathway
+ADCY4|participates_in|Adenylate cyclase activating pathway
+ADCY5|participates_in|Adenylate cyclase activating pathway
+ADCY6|participates_in|Adenylate cyclase activating pathway
+ADCY7|participates_in|Adenylate cyclase activating pathway
+ADCY8|participates_in|Adenylate cyclase activating pathway
+ADCY9|participates_in|Hedgehog 'off' state
+ADCY10|participates_in|Hedgehog 'off' state
+ADCY2|participates_in|Hedgehog 'off' state
+ADCY4|participates_in|Hedgehog 'off' state
+ADCY5|participates_in|Hedgehog 'off' state
+ADCY6|participates_in|Hedgehog 'off' state
+ADCY7|participates_in|Hedgehog 'off' state
+TAZ|subClassOf|gene
+YY1AP1|subClassOf|gene
+MAP2K2|participates_in|Diseases of signal transduction by growth factor receptors and second messengers
+Smad3|participates_in|Diseases of signal transduction by growth factor receptors and second messengers
+SMAD2 (human)|participates_in|Diseases of signal transduction by growth factor receptors and second messengers
+MAP2K2|participates_in|Negative feedback regulation of MAPK pathway
+MAPK1|participates_in|Negative feedback regulation of MAPK pathway
+ADCY8|participates_in|Hedgehog 'off' state
+Smad3|participates_in|SMAD4 MH2 Domain Mutants in Cancer
+SMAD2 (human)|participates_in|SMAD4 MH2 Domain Mutants in Cancer
+MAP2K1|participates_in|Negative feedback regulation of MAPK pathway
+Smad3|participates_in|Loss of Function of SMAD4 in Cancer
+SMAD4|participates_in|Loss of Function of SMAD4 in Cancer
+MAP2K1|participates_in|Diseases of signal transduction by growth factor receptors and second messengers
+MAPK3 (human)|participates_in|Negative feedback regulation of MAPK pathway
+fatty acid|molecularly interacts with|microtubule
+fatty acid|participates_in|Peptide hormone metabolism
+KIF5B|participates_in|Peptide hormone metabolism
+TGFB1|participates_in|SMAD2/3 MH2 Domain Mutants in Cancer
+Smad3|participates_in|SMAD2/3 MH2 Domain Mutants in Cancer
+SMAD2 (human)|participates_in|SMAD2/3 MH2 Domain Mutants in Cancer
+TGFB1|causes or contributes to condition|Ureteral obstruction
+TGFB2|causes or contributes to condition|Ureteral obstruction
+Smad3|causes or contributes to condition|Ureteral obstruction
+TGFB2|causes or contributes to condition|Loeys-Dietz syndrome
+SMAD2 (human)|causes or contributes to condition|Loeys-Dietz syndrome
+Intermediate filament|subClassOf|polymeric cytoskeletal fiber
+valproic acid|molecularly interacts with|polymeric cytoskeletal fiber
+valproic acid|interacts with|PLEC
+valproic acid|interacts with|SYNE3
+SOS2|participates_in|Signaling by NTRKs
+NRAS|participates_in|Signaling by NTRKs
+KRAS|participates_in|Signaling by NTRKs
+SOS2|participates_in|Activation of RAC1
+SOS1|participates_in|Activation of RAC1
+NRAS|participates_in|RAF activation
+MAP2K2|participates_in|RAF activation
+MAP2K1|participates_in|RAF activation
+NRAS|causes or contributes to condition|Linear nevus sebaceous
+KRAS|causes or contributes to condition|Linear nevus sebaceous
+KRAS|participates_in|RAF activation
+F-actin|subClassOf|macromolecular complex
+bisphenol A|molecularly interacts with|macromolecular complex
+bisphenol A|interacts with|SYNE1
+aconitine|molecularly interacts with|macromolecular complex
+aconitine|is substance that treats|Paroxysmal atrial fibrillation
+SYNE2|causes or contributes to condition|Paroxysmal atrial fibrillation
+SYNE1|participates_in|Meiotic synapsis
+SYNE2|participates_in|Meiotic synapsis
+SUN|participates_in|Meiotic synapsis
+RhoA|participates_in|PI3K/AKT activation
+MAPK3 (human)|participates_in|PI3K/AKT activation
+Cofilin-1|has gene product|cofilin-1 (human)
+copper(II) oxide|interacts with|cofilin-1 (human)
+copper(II) oxide|molecularly interacts with|macromolecular complex
+Cofilin-1|participates_in|Regulation of actin dynamics for phagocytic cup formation
+MAPK3 (human)|participates_in|Regulation of actin dynamics for phagocytic cup formation
+LBR|subClassOf|gene
+BANF1|subClassOf|gene
+TMPO|participates_in|Initiation of Nuclear Envelope (NE) Reformation
+BANF1|participates_in|Initiation of Nuclear Envelope (NE) Reformation
+EMD|participates_in|Initiation of Nuclear Envelope (NE) Reformation
+SYNE3|subClassOf|protein_coding_gene
+TMEM43|subClassOf|protein_coding_gene
+SOS1|participates_in|SHC-related events triggered by IGF1R
+GRB2 (human)|participates_in|SHC-related events triggered by IGF1R
+MAPK1|participates_in|PI3K/AKT activation
+KIF5B|subClassOf|protein_coding_gene
+MAP2K1|participates_in|Signaling by NTRKs
+MAP2K2|participates_in|Signaling by NTRKs
+RhoA|participates_in|Metabolism of proteins
+TAZ|participates_in|Metabolism of proteins

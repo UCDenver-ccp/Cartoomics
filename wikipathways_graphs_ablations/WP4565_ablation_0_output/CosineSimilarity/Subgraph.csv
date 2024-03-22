@@ -1,0 +1,212 @@
+S|P|O
+aflatoxin B1|interacts with|CDH11
+aflatoxin B1|interacts with|TIAM1
+CDH11|subClassOf|protein_coding_gene
+TRIO (human)|subClassOf|protein_coding_gene
+TIAM1|participates_in|Signaling by NTRKs
+TRIO (human)|participates_in|Signaling by NTRKs
+JUN|causes or contributes to condition|hereditary diffuse gastric adenocarcinoma
+TWIST1|causes or contributes to condition|hereditary diffuse gastric adenocarcinoma
+EPHB2|subClassOf|protein_coding_gene
+SORT1|subClassOf|protein_coding_gene
+EPHB6|subClassOf|protein_coding_gene
+EPHB3|subClassOf|protein_coding_gene
+valproic acid|interacts with|BDNF (human)
+valproic acid|interacts with|SORT1
+EPHB1|participates_in|Developmental Biology
+AKT2|participates_in|Developmental Biology
+valproic acid|interacts with|EPHB1 (human)
+valproic acid|interacts with|AKT1
+FOS|participates_in|Toll Like Receptor 3 (TLR3) Cascade
+JUN|participates_in|Toll Like Receptor 3 (TLR3) Cascade
+FOS|subClassOf|protein_coding_gene
+PIK3R5|participates_in|G-protein beta:gamma signalling
+PIK3CG|participates_in|G-protein beta:gamma signalling
+PIK3CD|participates_in|Signaling by GPCR
+PIK3R6|participates_in|Signaling by GPCR
+PIK3R3|participates_in|GAB1 signalosome
+AKT3|participates_in|GAB1 signalosome
+PIK3R3|participates_in|PI3K/AKT activation
+AKT1|participates_in|PI3K/AKT activation
+PIK3R3|participates_in|Signaling by GPCR
+PIK3R5|participates_in|Signaling by GPCR
+PIK3R3|participates_in|GPVI-mediated activation cascade
+PIK3R6|participates_in|GPVI-mediated activation cascade
+valproic acid|interacts with|PIK3R3
+valproic acid|interacts with|PIK3CG
+PIK3R5|participates_in|GPCR downstream signalling
+AKT2|participates_in|GPCR downstream signalling
+PIK3R5|participates_in|Platelet activation, signaling and aggregation
+AKT3|participates_in|Platelet activation, signaling and aggregation
+AKT1|participates_in|GPCR downstream signalling
+PIK3R3|participates_in|Signal Transduction
+AKT2|participates_in|Signal Transduction
+PIK3R5|participates_in|GPVI-mediated activation cascade
+AKT2|participates_in|Signaling by GPCR
+PIK3R6|participates_in|GPCR downstream signalling
+AKT3|participates_in|GPCR downstream signalling
+PIK3R6|participates_in|G-protein beta:gamma signalling
+AKT1|participates_in|G-protein beta:gamma signalling
+PIK3R6|participates_in|Signal Transduction
+PIK3CG|participates_in|Signal Transduction
+PIK3CG|participates_in|Hemostasis
+AKT2|participates_in|Hemostasis
+PIK3CG|participates_in|G beta:gamma signalling through PI3Kgamma
+AKT3|participates_in|G beta:gamma signalling through PI3Kgamma
+PIK3CG|participates_in|Platelet activation, signaling and aggregation
+AKT1|participates_in|Platelet activation, signaling and aggregation
+FOS|participates_in|Immune System
+TWIST1|participates_in|Immune System
+JUN|subClassOf|protein_coding_gene
+valproic acid|interacts with|PIK3CD
+valproic acid|interacts with|PIK3R5
+AKT3|participates_in|Developmental Biology
+AKT2|subClassOf|protein_coding_gene
+EPHB6|participates_in|EPH-ephrin mediated repulsion of cells
+MMP2|participates_in|EPH-ephrin mediated repulsion of cells
+EPHB6|participates_in|Axon guidance
+MMP9 (human)|participates_in|Axon guidance
+TWIST1|subClassOf|protein_coding_gene
+EPHB2|participates_in|EPH-Ephrin signaling
+MMP2|participates_in|EPH-Ephrin signaling
+EPHB2|participates_in|EPH-ephrin mediated repulsion of cells
+MMP9 (human)|participates_in|EPH-ephrin mediated repulsion of cells
+EPHB3|participates_in|EPH-ephrin mediated repulsion of cells
+aflatoxin B1|interacts with|EPHB6
+aflatoxin B1|interacts with|TWIST1
+PIK3CD|participates_in|GPCR downstream signalling
+PIK3CG|participates_in|GPCR downstream signalling
+EPHB6|participates_in|Developmental Biology
+AKT1|participates_in|Developmental Biology
+PAK3|participates_in|Innate Immune System
+MMP8|participates_in|Innate Immune System
+PAK6|subClassOf|protein_coding_gene
+MMP8|subClassOf|protein_coding_gene
+PAK5|subClassOf|protein_coding_gene
+PAK2|subClassOf|protein_coding_gene
+MMP8|causes or contributes to condition|Cutaneous melanoma
+RAC1|causes or contributes to condition|Cutaneous melanoma
+EPHB1|participates_in|EPH-ephrin mediated repulsion of cells
+MMP2|participates_in|Developmental Biology
+aflatoxin B1|interacts with|EPHB1 (human)
+AKT3|subClassOf|protein_coding_gene
+EPHB2|subClassOf|gene
+AKT3|subClassOf|gene
+SORT1|participates_in|Membrane Trafficking
+AKT2|participates_in|Membrane Trafficking
+AKT1|participates_in|Membrane Trafficking
+SORT1|participates_in|Vesicle-mediated transport
+AKT3|participates_in|Vesicle-mediated transport
+BDNF|subClassOf|gene
+AKT2|subClassOf|gene
+BDNF|causes or contributes to condition|Focal sensory seizure
+AKT1|causes or contributes to condition|Focal sensory seizure
+NGFR|participates_in|Signal Transduction
+EPHB2|participates_in|Developmental Biology
+NGFR|causes or contributes to condition|Depression
+AKT1|causes or contributes to condition|Depression
+EPHB3|participates_in|Developmental Biology
+AKT3|participates_in|Signal Transduction
+PIK3CD|participates_in|Regulation of signaling by CBL
+PIK3R3|participates_in|Regulation of signaling by CBL
+EPHB1|participates_in|EPHB-mediated forward signaling
+EPHB2|participates_in|EPHB-mediated forward signaling
+PIK3CD|participates_in|PI3K/AKT activation
+AKT1|causes or contributes to condition|Neoplasm of the breast
+JUN|causes or contributes to condition|Neoplasm of the breast
+PAK2|participates_in|Activation of RAC1
+PAK3|participates_in|Activation of RAC1
+PAK4|participates_in|Activation of RAC1
+PAK6|participates_in|Activation of RAC1
+PAK1 (human)|participates_in|Activation of RAC1
+PAK3|participates_in|Developmental Biology
+PAK4|participates_in|Developmental Biology
+PAK3|participates_in|Signaling by ROBO receptors
+PAK5|participates_in|Signaling by ROBO receptors
+AKT3|participates_in|Generic Transcription Pathway
+JUN|participates_in|Generic Transcription Pathway
+PAK3|subClassOf|protein_coding_gene
+PAK5|participates_in|Activation of RAC1
+PAK4|participates_in|Axon guidance
+PAK6|participates_in|Axon guidance
+PAK5|participates_in|Developmental Biology
+PAK6|participates_in|Developmental Biology
+PAK1 (human)|participates_in|Developmental Biology
+RAC1|participates_in|EPH-ephrin mediated repulsion of cells
+PAK3|participates_in|RHO GTPases activate PAKs
+PAK1 (human)|participates_in|RHO GTPases activate PAKs
+RAC1|participates_in|MAPK6/MAPK4 signaling
+PAK2|participates_in|MAPK6/MAPK4 signaling
+EPHB1|subClassOf|protein_coding_gene
+ARF1|subClassOf|protein_coding_gene
+RAC1|participates_in|Adaptive Immune System
+PAK3|participates_in|Adaptive Immune System
+RAC1|participates_in|Axon guidance
+RAC1|participates_in|Signaling by ROBO receptors
+RAC1|participates_in|Fcgamma receptor (FCGR) dependent phagocytosis
+PAK1 (human)|participates_in|Fcgamma receptor (FCGR) dependent phagocytosis
+RAC1|subClassOf|protein_coding_gene
+TIAM1|subClassOf|protein_coding_gene
+RAC1|participates_in|Netrin-1 signaling
+TRIO (human)|participates_in|Netrin-1 signaling
+BDNF|subClassOf|protein_coding_gene
+NGFR|subClassOf|protein_coding_gene
+AKT2|participates_in|Intrinsic Pathway for Apoptosis
+AKT3|participates_in|Intrinsic Pathway for Apoptosis
+AKT2|participates_in|Costimulation by the CD28 family
+AKT1|participates_in|Costimulation by the CD28 family
+AKT2|causes or contributes to condition|Neoplasm of the breast
+FOS|causes or contributes to condition|Neoplasm of the breast
+AKT2|participates_in|Gene expression (Transcription)
+JUN|participates_in|Gene expression (Transcription)
+AKT3|participates_in|VEGFR2 mediated vascular permeability
+AKT1|participates_in|VEGFR2 mediated vascular permeability
+AKT1|participates_in|Signaling by Interleukins
+FOS|participates_in|Signaling by Interleukins
+AKT3|participates_in|Immune System
+PIK3CA|participates_in|Adaptive Immune System
+AKT2|participates_in|Adaptive Immune System
+PIK3CA|participates_in|Signaling by ERBB2
+AKT3|participates_in|Signaling by ERBB2
+PIK3CA|causes or contributes to condition|cutaneous melanoma
+AKT1|causes or contributes to condition|cutaneous melanoma
+PIK3CA|participates_in|GAB1 signalosome
+PIK3CB|participates_in|GAB1 signalosome
+PIK3CA|participates_in|Interleukin-3, Interleukin-5 and GM-CSF signaling
+PIK3CD|participates_in|Interleukin-3, Interleukin-5 and GM-CSF signaling
+PIK3R3|participates_in|Interleukin-3, Interleukin-5 and GM-CSF signaling
+PIK3CA|participates_in|PI Metabolism
+PIK3R5|participates_in|PI Metabolism
+PIK3CA|participates_in|Signaling by GPCR
+PIK3CA|participates_in|Hemostasis
+PIK3CB|participates_in|IGF1R signaling cascade
+AKT2|participates_in|IGF1R signaling cascade
+PIK3CB|participates_in|Signaling by NTRKs
+AKT3|participates_in|Signaling by NTRKs
+PIK3CB|participates_in|Signaling by VEGF
+AKT1|participates_in|Signaling by VEGF
+PIK3CB|participates_in|Interleukin-2 family signaling
+PIK3CD|participates_in|Interleukin-2 family signaling
+PIK3CB|participates_in|DAP12 interactions
+PIK3R3|participates_in|DAP12 interactions
+PIK3CB|participates_in|PI Metabolism
+PIK3CB|participates_in|Metabolism
+PIK3R6|participates_in|Metabolism
+PIK3CB|participates_in|Signal Transduction
+PIK3CD|participates_in|Downstream signal transduction
+AKT2|participates_in|Downstream signal transduction
+AKT3|participates_in|PI3K/AKT activation
+MMP8|causes or contributes to condition|Melanoma
+PAK1 (human)|causes or contributes to condition|Melanoma
+aflatoxin B1|interacts with|MMP9
+EPHB1|participates_in|EPH-Ephrin signaling
+EPHB3|participates_in|EPH-Ephrin signaling
+EPHB6|participates_in|EPHB-mediated forward signaling
+RAC1|participates_in|EPHB-mediated forward signaling
+F2RL2|participates_in|Signal Transduction
+RAC1|participates_in|Signal Transduction
+MMP2|subClassOf|gene
+TWIST1|subClassOf|gene
+MMP2|causes or contributes to condition|Aortic rupture
+MMP9 (human)|causes or contributes to condition|Aortic rupture
+PAK4|subClassOf|protein_coding_gene

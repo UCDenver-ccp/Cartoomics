@@ -1,0 +1,103 @@
+S|P|O
+BDNF|causes or contributes to condition|Neurodegeneration
+NGFR (human)|causes or contributes to condition|Neurodegeneration
+PIK3R5|participates_in|G beta:gamma signalling through PI3Kgamma
+AKT1|participates_in|G beta:gamma signalling through PI3Kgamma
+AKT3|participates_in|G beta:gamma signalling through PI3Kgamma
+AKT2|participates_in|G beta:gamma signalling through PI3Kgamma
+PIK3R3|participates_in|G beta:gamma signalling through PI3Kgamma
+PIK3CG|participates_in|G beta:gamma signalling through PI3Kgamma
+PIK3R6|participates_in|G beta:gamma signalling through PI3Kgamma
+PIK3R3|participates_in|CD28 dependent PI3K/Akt signaling
+AKT1|participates_in|CD28 dependent PI3K/Akt signaling
+AKT3|participates_in|CD28 dependent PI3K/Akt signaling
+AKT2|participates_in|CD28 dependent PI3K/Akt signaling
+PIK3CD|participates_in|G beta:gamma signalling through PI3Kgamma
+PIK3CB|participates_in|G beta:gamma signalling through PI3Kgamma
+PIK3CB|participates_in|Regulation of signaling by CBL
+PIK3R3|participates_in|Regulation of signaling by CBL
+PIK3CD|participates_in|Regulation of signaling by CBL
+AKT3|causes or contributes to condition|Polydactyly
+TWIST1|causes or contributes to condition|Polydactyly
+AKT1|participates_in|Interleukin-4 and Interleukin-13 signaling
+TWIST1|participates_in|Interleukin-4 and Interleukin-13 signaling
+valproic acid|interacts with|AKT1
+valproic acid|interacts with|CDH11
+AKT2|subClassOf|gene
+TWIST1|subClassOf|gene
+AKT2|subClassOf|protein_coding_gene
+CDH11|subClassOf|protein_coding_gene
+EPHB4|participates_in|EPH-ephrin mediated repulsion of cells
+MMP2|participates_in|EPH-ephrin mediated repulsion of cells
+EPHB4|subClassOf|gene
+EPHB2|participates_in|EPH-ephrin mediated repulsion of cells
+EPHB2|subClassOf|gene
+aflatoxin B1|interacts with|CDH11
+aflatoxin B1|interacts with|TIAM1
+aflatoxin B1|interacts with|NGEF
+aflatoxin B1|interacts with|EPHB1 (human)
+aflatoxin B1|interacts with|TWIST1
+EPHB1|participates_in|EPH-ephrin mediated repulsion of cells
+NGEF|participates_in|NRAGE signals death through JNK
+TIAM1 (human)|participates_in|NRAGE signals death through JNK
+AKT3|subClassOf|protein_coding_gene
+valproic acid|interacts with|FOS
+PAK3|participates_in|Semaphorin interactions
+RHOA (human)|participates_in|Semaphorin interactions
+PAK2|participates_in|Activation of RAC1
+PAK6|participates_in|Activation of RAC1
+PAK5|participates_in|Activation of RAC1
+PAK4|participates_in|Activation of RAC1
+PAK2|participates_in|CD28 dependent Vav1 pathway
+PAK3|participates_in|CD28 dependent Vav1 pathway
+PAK2|participates_in|Semaphorin interactions
+PAK1|participates_in|Activation of RAC1
+PAK1|participates_in|CD28 dependent Vav1 pathway
+PAK3|participates_in|Activation of RAC1
+PAK1|participates_in|EPHB-mediated forward signaling
+RHOA (human)|participates_in|EPHB-mediated forward signaling
+RAC1|participates_in|NRAGE signals death through JNK
+RAC1|participates_in|Cell-Cell communication
+CDH11|participates_in|Cell-Cell communication
+RAC1|participates_in|Activation of RAC1
+RAC1|participates_in|CD28 dependent Vav1 pathway
+RAC1|participates_in|Nef and signal transduction
+PAK2|participates_in|Nef and signal transduction
+RAC1|participates_in|DSCAM interactions
+PAK1|participates_in|DSCAM interactions
+F2RL2|participates_in|Platelet activation, signaling and aggregation
+RAC1|participates_in|Platelet activation, signaling and aggregation
+MMP2|participates_in|Interleukin-4 and Interleukin-13 signaling
+RAC1|participates_in|EPHB-mediated forward signaling
+TIAM1 (human)|participates_in|EPHB-mediated forward signaling
+PAK4|participates_in|Axon guidance
+RHOA (human)|participates_in|Axon guidance
+FOS|participates_in|Interleukin-4 and Interleukin-13 signaling
+AKT3|participates_in|Fc epsilon receptor (FCERI) signaling
+FOS|participates_in|Fc epsilon receptor (FCERI) signaling
+AKT3|participates_in|AKT-mediated inactivation of FOXO1A
+AKT1|participates_in|AKT-mediated inactivation of FOXO1A
+tert-butyl hydroperoxide|interacts with|AKT2
+tert-butyl hydroperoxide|interacts with|FOS
+AKT2|participates_in|AKT-mediated inactivation of FOXO1A
+ARF1|participates_in|Immune System
+MMP8|participates_in|Immune System
+EPHB4|causes or contributes to condition|Breast carcinoma
+ARF1|causes or contributes to condition|Breast carcinoma
+EPHB4|participates_in|EPHB-mediated forward signaling
+EPHB4|subClassOf|protein_coding_gene
+NGFR (human)|subClassOf|protein_coding_gene
+EPHB2|subClassOf|protein_coding_gene
+ARF1|subClassOf|protein_coding_gene
+EPHB2|participates_in|EPHB-mediated forward signaling
+EPHB2|causes or contributes to condition|Prostate cancer
+NGFR (human)|causes or contributes to condition|Prostate cancer
+EPHB1|participates_in|Ephrin signaling
+EPHB4|participates_in|Ephrin signaling
+EPHB2|participates_in|Ephrin signaling
+EPHB1|subClassOf|protein_coding_gene
+EPHB1|participates_in|EPHB-mediated forward signaling
+PAK6|participates_in|Axon guidance
+PAK5|participates_in|Axon guidance
+MMP8|participates_in|Neutrophil degranulation
+RHOA (human)|participates_in|Neutrophil degranulation

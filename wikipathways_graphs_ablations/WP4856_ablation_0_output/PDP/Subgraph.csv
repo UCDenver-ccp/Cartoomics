@@ -1,0 +1,38 @@
+S|P|O
+RAB3A|participates_in|Neurotransmitter release cycle
+Neurotransmitter release cycle|subClassOf|neurotransmitter secretion
+excitatory neuron|capable of|neurotransmitter secretion
+excitatory neuron|subClassOf|Neuron
+SH3TC2|subClassOf|protein_coding_gene
+RAB11B|subClassOf|protein_coding_gene
+RAB25 (human)|subClassOf|protein_coding_gene
+RAB4B|participates_in|RAB geranylgeranylation
+RAB11B|participates_in|RAB geranylgeranylation
+RAB25 (human)|participates_in|RAB geranylgeranylation
+GDAP1|subClassOf|gene
+MFN2|subClassOf|gene
+SH3TC2|subClassOf|gene
+RAB7A|subClassOf|gene
+RAB7A|participates_in|TBC/RABGAPs
+RAB11A|participates_in|TBC/RABGAPs
+RAB7A|participates_in|RAB geranylgeranylation
+RAB11B|participates_in|TBC/RABGAPs
+RAB4B|subClassOf|protein_coding_gene
+RAB4A|participates_in|MET receptor recycling
+RAB4B|participates_in|MET receptor recycling
+RAB3A|participates_in|RAB geranylgeranylation
+RAB3B|participates_in|RAB geranylgeranylation
+RAB3B|participates_in|Post-translational protein modification
+otoancorin (human)|participates_in|Post-translational protein modification
+otoancorin (human)|participates_in|transmission of nerve impulse
+neuron|capable of|transmission of nerve impulse
+RAB4A|participates_in|TBC/RABGAPs
+SBF2|subClassOf|gene
+LITAF|subClassOf|gene
+FIG4 (human)|subClassOf|gene
+MTMR2|subClassOf|gene
+RAB11A|subClassOf|protein_coding_gene
+RAB11A|participates_in|RAB geranylgeranylation
+aflatoxin B1|interacts with|RAB4A
+aflatoxin B1|interacts with|SH3TC2
+RAB4A|participates_in|RAB geranylgeranylation

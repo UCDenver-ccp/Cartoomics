@@ -1,0 +1,161 @@
+S|P|O
+PAK1|participates_in|CD28 dependent Vav1 pathway
+PAK2|participates_in|CD28 dependent Vav1 pathway
+LIMD1|subClassOf|protein_coding_gene
+LATS1|subClassOf|protein_coding_gene
+MAPK8|participates_in|Cellular responses to stress
+LIMD1|participates_in|Cellular responses to stress
+PAK3|subClassOf|protein_coding_gene
+TEAD3|subClassOf|protein_coding_gene
+MAPK8|participates_in|Activation of the AP-1 family of transcription factors
+MAPK9|participates_in|Activation of the AP-1 family of transcription factors
+ITGB5|participates_in|Adaptive Immune System
+SRC|participates_in|Adaptive Immune System
+ITGB5|participates_in|Immune System
+MAPK8|participates_in|Immune System
+valproic acid|interacts with|ITGB2
+valproic acid|interacts with|TEAD3
+MAPK9|participates_in|Immune System
+PAK1|participates_in|Adaptive Immune System
+PAK2|participates_in|Adaptive Immune System
+PAK3|participates_in|Adaptive Immune System
+valproic acid|interacts with|PAK1
+ITGB5|subClassOf|protein_coding_gene
+PAK5|subClassOf|protein_coding_gene
+PAK6|subClassOf|protein_coding_gene
+ITGB5|participates_in|Molecules associated with elastic fibres
+ITGB6|participates_in|Molecules associated with elastic fibres
+MAPK9|participates_in|Cellular responses to stress
+MAP4K1|subClassOf|protein_coding_gene
+ITGB4|subClassOf|protein_coding_gene
+ITGB1|participates_in|Cell-Cell communication
+MAPK8|participates_in|Cell-Cell communication
+PAK5|participates_in|Activation of RAC1
+PAK6|participates_in|Activation of RAC1
+PAK3|participates_in|Activation of RAC1
+PAK2|participates_in|Activation of RAC1
+ITGB5|participates_in|Integrin cell surface interactions
+ITGB2|participates_in|Integrin cell surface interactions
+valproic acid|interacts with|ITGB6
+valproic acid|interacts with|PAK6
+ITGB6|causes or contributes to condition|Spontaneous abortion
+ITGB4|causes or contributes to condition|Spontaneous abortion
+ITGB3|participates_in|Molecules associated with elastic fibres
+ITGB6|participates_in|Integrin cell surface interactions
+ITGB1|participates_in|Molecules associated with elastic fibres
+ITGB4|participates_in|Cell-Cell communication
+SRC|participates_in|Cell-Cell communication
+MAPK9|subClassOf|protein_coding_gene
+ITGB1|participates_in|Immune System
+PAK1|participates_in|Cell-Cell communication
+valproic acid|interacts with|ITGB4
+valproic acid|interacts with|PAK2
+ITGB4|subClassOf|gene
+PAK3|subClassOf|gene
+ITGB5|participates_in|Syndecan interactions
+ITGB3|participates_in|Syndecan interactions
+ITGB4|participates_in|Syndecan interactions
+PAK3|participates_in|CD28 dependent Vav1 pathway
+PAK1|participates_in|Activation of RAC1
+ITGB3|subClassOf|protein_coding_gene
+ITGB1|participates_in|Signal transduction by L1
+PAK1|participates_in|Signal transduction by L1
+ITGB1|participates_in|Semaphorin interactions
+PAK2|participates_in|Semaphorin interactions
+PAK3|participates_in|Semaphorin interactions
+ITGB3|participates_in|FCERI mediated MAPK activation
+MAPK8|participates_in|FCERI mediated MAPK activation
+MAPK9|participates_in|FCERI mediated MAPK activation
+ITGB3|participates_in|Signal transduction by L1
+PAK2|participates_in|FCERI mediated MAPK activation
+valproic acid|interacts with|ITGB1
+ITGB3|participates_in|VEGFA-VEGFR2 Pathway
+PAK3|participates_in|VEGFA-VEGFR2 Pathway
+valproic acid|interacts with|SRC
+ITGB3|participates_in|Axon guidance
+PAK5|participates_in|Axon guidance
+ITGB3|participates_in|Integrin cell surface interactions
+ITGB2|participates_in|Cell surface interactions at the vascular wall
+SRC|participates_in|Cell surface interactions at the vascular wall
+ITGB2|participates_in|Toll Like Receptor 4 (TLR4) Cascade
+MAPK8|participates_in|Toll Like Receptor 4 (TLR4) Cascade
+MAPK9|participates_in|Toll Like Receptor 4 (TLR4) Cascade
+YWHAQ|participates_in|Generic Transcription Pathway
+TEAD3|participates_in|Generic Transcription Pathway
+ITGB2|participates_in|Adaptive Immune System
+ITGB2|subClassOf|protein_coding_gene
+ITGB3|participates_in|PECAM1 interactions
+SRC|participates_in|PECAM1 interactions
+ITGB1|participates_in|Syndecan interactions
+ITGB4|participates_in|Extracellular matrix organization
+ITGB2|participates_in|Extracellular matrix organization
+ITGB1|participates_in|Axon guidance
+PAK6|participates_in|Axon guidance
+MAP4K2|subClassOf|protein_coding_gene
+MAP4K5|subClassOf|protein_coding_gene
+MAP4K3|subClassOf|protein_coding_gene
+ITGB1|participates_in|MET activates PTK2 signaling
+SRC|participates_in|MET activates PTK2 signaling
+valproic acid|interacts with|MAP4K2 (human)
+valproic acid|interacts with|MAP4K4
+LATS1|participates_in|Signaling by Hippo
+WWTR1|participates_in|Signaling by Hippo
+TEAD3|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD1|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+ITGB6|subClassOf|protein_coding_gene
+aflatoxin B1|interacts with|MAP4K5
+aflatoxin B1|interacts with|MAP4K3
+aflatoxin B1|interacts with|MAP4K1
+MAP4K4|subClassOf|protein_coding_gene
+WWTR1|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+valproic acid|interacts with|MAP4K1
+ITGB2|causes or contributes to condition|Calcinosis
+ITGB1|causes or contributes to condition|Calcinosis
+ITGB6|subClassOf|gene
+aflatoxin B1|interacts with|ITGB6
+aflatoxin B1|interacts with|PAK2
+TEAD2|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+STK3|participates_in|Signaling by Hippo
+SAV1|participates_in|Signaling by Hippo
+ACTA1|subClassOf|gene
+ACTA2|subClassOf|gene
+ACTB|subClassOf|gene
+ACTC1|subClassOf|gene
+ACTG1|subClassOf|gene
+ACTG1|subClassOf|protein_coding_gene
+ACTG2 (human)|subClassOf|protein_coding_gene
+TEAD1|subClassOf|protein_coding_gene
+ITGB5|participates_in|Muscle contraction
+WWTR1|participates_in|Muscle contraction
+TEAD2|subClassOf|protein_coding_gene
+PAK1|subClassOf|protein_coding_gene
+PAK1|participates_in|Signal Transduction
+WWTR1|participates_in|Signal Transduction
+LATS1|participates_in|Signal Transduction
+diazinon|interacts with|ITGB2
+diazinon|interacts with|TEAD2
+ITGB2|subClassOf|gene
+TEAD1|subClassOf|gene
+CTNNA1|participates_in|RHO GTPases activate IQGAPs
+CTNNB1 (human)|participates_in|RHO GTPases activate IQGAPs
+WWTR1|subClassOf|protein_coding_gene
+CTNNA1|participates_in|Signal Transduction
+SRC|subClassOf|protein_coding_gene
+TEAD2|participates_in|Generic Transcription Pathway
+TEAD1|participates_in|Generic Transcription Pathway
+ITGB1|subClassOf|protein_coding_gene
+ITGB1|participates_in|Signal Transduction
+aflatoxin B1|interacts with|WWTR1
+SRC|subClassOf|gene
+ITGB3|causes or contributes to condition|Prostate cancer
+PAK6|causes or contributes to condition|Prostate cancer
+PAK2|subClassOf|protein_coding_gene
+PAK2|participates_in|Signal Transduction
+SRC|participates_in|Signal Transduction
+manganese(II) chloride tetrahydrate|interacts with|ITGB6
+manganese(II) chloride tetrahydrate|interacts with|MAPK8
+WWTR1|participates_in|Generic Transcription Pathway
+PAK3|participates_in|Signal Transduction
+valproic acid|interacts with|LIMD1
+ITGB3|subClassOf|gene
+ITGB3|participates_in|Signal Transduction

@@ -1,0 +1,44 @@
+S|P|O
+MERTK|subClassOf|protein_coding_gene
+SKI|subClassOf|protein_coding_gene
+SKI|participates_in|Signal Transduction
+LATS2|participates_in|Signal Transduction
+NF1|subClassOf|gene
+SKI|subClassOf|gene
+diazinon|interacts with|SIN3A
+diazinon|interacts with|SKIL
+SKIL|participates_in|Signal Transduction
+LATS1 (human)|participates_in|Signal Transduction
+SKIL|participates_in|Generic Transcription Pathway
+ING2 (human)|participates_in|Generic Transcription Pathway
+STK3 (human)|participates_in|Signal Transduction
+SKIL|causes or contributes to condition|Pulmonary fibrosis
+MECP2|causes or contributes to condition|Pulmonary fibrosis
+HDAC1|participates_in|Downregulation of SMAD2/3:SMAD4 transcriptional activity
+SKI|participates_in|Downregulation of SMAD2/3:SMAD4 transcriptional activity
+LATS2|subClassOf|protein_coding_gene
+SKIL|subClassOf|protein_coding_gene
+SATB2|subClassOf|gene
+HDAC3|subClassOf|protein_coding_gene
+Mob|has_gene_template|SGMS1 (human)
+valproic acid|interacts with|SGMS1 (human)
+valproic acid|interacts with|SKI
+PRMT5|subClassOf|protein_coding_gene
+TEAD1|subClassOf|protein_coding_gene
+TEAD1|participates_in|Generic Transcription Pathway
+TEAD2|participates_in|Generic Transcription Pathway
+TEAD1|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD3|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD1|participates_in|Metabolism
+TEAD4|participates_in|Metabolism
+SKI|participates_in|Generic Transcription Pathway
+TEAD2|participates_in|Regulation of lipid metabolism by PPARalpha
+TEAD1|participates_in|Regulation of lipid metabolism by PPARalpha
+TEAD3|participates_in|Regulation of lipid metabolism by PPARalpha
+TEAD2|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD4|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD3|subClassOf|protein_coding_gene
+TEAD3|participates_in|Metabolism
+valproic acid|interacts with|TEAD4
+TEAD4|participates_in|PPARA activates gene expression
+TEAD3|participates_in|PPARA activates gene expression

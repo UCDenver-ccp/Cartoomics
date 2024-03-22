@@ -1,0 +1,44 @@
+S|P|O
+RAB3A|participates_in|Neurotransmitter release cycle
+Neurotransmitter release cycle|subClassOf|neurotransmitter secretion
+excitatory neuron|capable of|neurotransmitter secretion
+excitatory neuron|subClassOf|Neuron
+RAB3A|participates_in|RAB geranylgeranylation
+RAB3B|participates_in|RAB geranylgeranylation
+RAB3B|participates_in|Post-translational protein modification
+otoancorin (human)|participates_in|Post-translational protein modification
+otoancorin (human)|participates_in|transmission of nerve impulse
+neuron|capable of|transmission of nerve impulse
+SBF2|subClassOf|gene
+MTMR2|subClassOf|gene
+LITAF|subClassOf|gene
+HSPB1|subClassOf|gene
+FGD4|subClassOf|gene
+FIG4|subClassOf|gene
+RAB11A|subClassOf|protein_coding_gene
+NDRG1|subClassOf|protein_coding_gene
+RAB11A|participates_in|TBC/RABGAPs
+RAB4A|participates_in|TBC/RABGAPs
+SH3TC2|subClassOf|protein_coding_gene
+RAB11A|participates_in|RAB geranylgeranylation
+RAB4B|participates_in|RAB geranylgeranylation
+RAB11B|participates_in|TBC/RABGAPs
+RAB25|participates_in|RAB geranylgeranylation
+RABAC1|subClassOf|protein_coding_gene
+RAB4A|subClassOf|protein_coding_gene
+NDRG1|subClassOf|gene
+SH3TC2|subClassOf|gene
+NDRG1|causes or contributes to condition|Prostate cancer
+RAB4B|causes or contributes to condition|Prostate cancer
+RAB11B|subClassOf|protein_coding_gene
+RAB25|subClassOf|protein_coding_gene
+aflatoxin B1|interacts with|RAB4A
+aflatoxin B1|interacts with|SH3TC2
+RAB4A|participates_in|MET receptor recycling
+RAB4B|participates_in|MET receptor recycling
+RAB4A|participates_in|RAB geranylgeranylation
+RAB4B|subClassOf|protein_coding_gene
+RAB11B|participates_in|RAB geranylgeranylation
+RAB7A|subClassOf|protein_coding_gene
+GDAP1|subClassOf|gene
+MFN2|subClassOf|gene

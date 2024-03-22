@@ -282,41 +282,80 @@ The outputs will be the same as stated above in subgraph generation, within the 
 
 ### Command Line Arguments: compare subgraphs
 
-The compare_subgraph script will calculate the following graph similarity metrics over the original edgelist and the subgraph created:
+
+The wikipathways_graph_evaluations script will output graph similarity metrics and node/edge evaluation metrics. The script will calculate the following graph similarity metrics over the original edgelist and the subgraph created for all pathways specified:
 - Jaccard Similarity
 - Overlap Coefficient
 - Graph Edit Distance 
 
-To run the compare_subgraph script, specify the wikipathway diagrams as a list e.g., '['WP5372']':
+
+Additionally, the script will output the following node and edge metrics for all pathways specified:
+- % of nodes in each ontology
+- % of edge types
+
+To run the wikipathways_graph_evaluations script, specify the wikipathway diagrams as a list e.g., '['WP5372']':
 
 ```
-python compare_subgraphs.py --wikipathway-diagrams WIKIPATHWAYDIAGRAMS 
+python wikipathways_graph_evaluations.py --knowledge-graph pkl --input-type annotated_diagram --wikipathways WIKIPATHWAYS --enable-skipping True
 ```
 
 **Note that all subgraph files (described above) must be generated**
  
 ### Expected Outputs
+
+
+All of the graph similarity files will be output in a graph_similarity subfolder within the wikipathways_graphs subfolder './wikipathways_graphs/graph_similarity'.
   
 #### Graph Similarity Metrics 
   
-A .csv file with the Jaccard, Overlap, and Graph edit distance metrics per Wikipathways diagram per algorithm.
+A .csv file with the Jaccard and Overlap metrics per Wikipathways diagram per algorithm.
 
 ```
-SubgraphType,Pathway,Jaccard,Overlap,Edit Distance
-CosineSimilarity,WP554,0.33,0.66,4.0
-CosineSimilarity,WP5373,0.25,0.66,8.0 
-PDP,WP554,0.25,0.33,6.0
-PDP,WP5373,0.33,0.33,4.0 
+Algorithm,Pathway_ID,Jaccard,Overlap
+CosineSimilarity,WP554,0.33,0.66
+CosineSimilarity,WP5373,0.25,0.66 
+PDP,WP554,0.25,0.33
+PDP,WP5373,0.33,0.33
 ```
   
 ### Jaccard and Overlap Histogram
   
 A .png file of all Jaccard and Overlap scores per Wikipathways diagram per algorithm. 
 
-### Graph Edit Distance Histogram
-  
-A .png file of all Graph Edit Distance per Wikipathways diagram per algorithm. 
 
+### Command Line Arguments: Wikipathways Literature Comparison
+
+The wikipathways_literature_comparison_evaluations script will compare each subgraph specified to a given set of one or more guiding terms extracted from literature using cosine similarity. The intermediate nodes in all subgraphs of the specified algorithms will be compared to each term specified after indexing. 
+
+The following file must exist, where WP_ID corresponds to the wikipathway(s) specified:
+
+```
+~/wikipathways_graphs/<WP_ID>_Literature_Comparison_Terms.csv
+```
+
+To run the wikipathways_literature_comparison_evaluations script, specify the wikipathway diagrams as a list e.g., '['WP5372']':
+
+```
+python wikipathways_literature_comparison_evaluations.py --knowledge-graph pkl --input-type annotated_diagram --wikipathways WIKIPATHWAYS --enable-skipping True
+```
+
+### Expected Outputs
+
+All of the literature comparison files will be output in a literature_comparison subfolder within the wikipathways_graphs subfolder './wikipathways_graphs/literature_comparison'.
+
+**Note that all subgraph files (described above in Wikipathways subgraph generation) will be generated**
+  
+#### Literature Comparison Metrics
+
+All of the literature comparison files will be output in a literature_comparison subfolder within the wikipathways_graphs subfolder './wikipathways_graphs/literature_comparison'.
+
+A .csv file of the average Cosine Similarity scores per term, per subgraph, per algorithm specified will be output.
+
+```
+Term,Average_Cosine_Similarity,Algorithm,Pathway_ID
+Alzheimer's disease,-0.05,CosineSimilarity,WP4565
+Alzheimer's disease,-0.02,PDP,WP4565
+```
 
 ## Output Structure
   

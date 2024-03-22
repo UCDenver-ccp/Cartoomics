@@ -1,0 +1,163 @@
+S|P|O
+STAT1|participates_in|Signaling by Interleukins
+KRAS|participates_in|Signaling by Interleukins
+IFNGR2|participates_in|Immune System
+KRAS|participates_in|Immune System
+IFNGR2|subClassOf|gene
+AKT3|subClassOf|gene
+IFNGR2|participates_in|Cytokine Signaling in Immune system
+STAT5A|participates_in|Cytokine Signaling in Immune system
+NRAS|subClassOf|gene
+AKT1|participates_in|Cytokine Signaling in Immune system
+STAT3|participates_in|Cytokine Signaling in Immune system
+HRAS|subClassOf|gene
+AKT2|subClassOf|gene
+STAT3|participates_in|Interleukin-6 signaling
+STAT1|participates_in|Interleukin-6 signaling
+STAT3|participates_in|Signaling by cytosolic FGFR1 fusion mutants
+STAT5A|participates_in|Signaling by cytosolic FGFR1 fusion mutants
+IL6R|participates_in|Cytokine Signaling in Immune system
+IL6|participates_in|Cytokine Signaling in Immune system
+EPO|causes or contributes to condition|Neoplasm of the thyroid gland
+EPOR|causes or contributes to condition|Neoplasm of the thyroid gland
+CCND2|participates_in|Cell Cycle, Mitotic
+CDK4|participates_in|Cell Cycle, Mitotic
+CCND1|participates_in|Cell Cycle
+CDK4|participates_in|Cell Cycle
+CCND1|subClassOf|protein_coding_gene
+CCND2|subClassOf|protein_coding_gene
+EPOR|subClassOf|protein_coding_gene
+STAT5A|subClassOf|protein_coding_gene
+SOCS3|subClassOf|protein_coding_gene
+AKT2|subClassOf|protein_coding_gene
+SOCS3|participates_in|Signaling by Leptin
+HRAS|participates_in|Signaling by Leptin
+valproic acid|interacts with|SOCS3
+valproic acid|interacts with|AKT1
+SOCS3|participates_in|Signaling by Interleukins
+NRAS|participates_in|Signaling by Interleukins
+IFNGR1|subClassOf|gene
+KRAS|subClassOf|gene
+IFNGR1|participates_in|Immune System
+AKT3|participates_in|Immune System
+IFNGR1|subClassOf|protein_coding_gene
+AKT1|participates_in|Immune System
+STAT3|subClassOf|protein_coding_gene
+IFNGR1|participates_in|Cytokine Signaling in Immune system
+HRAS|participates_in|Cytokine Signaling in Immune system
+IL6R|participates_in|Interleukin-6 signaling
+KRAS|participates_in|Cytokine Signaling in Immune system
+IL6R|subClassOf|protein_coding_gene
+AKT3|subClassOf|protein_coding_gene
+STAT3|participates_in|Disease
+AKT1|participates_in|Disease
+IL6R|participates_in|Signaling by Interleukins
+STAT5A|participates_in|Signaling by Interleukins
+IL6R|participates_in|Immune System
+HRAS|participates_in|Signaling by Interleukins
+IL6R|participates_in|Signal Transduction
+AKT2|participates_in|Signal Transduction
+SOCS1|participates_in|Signaling by Interleukins
+SOCS1|participates_in|Signaling by SCF-KIT
+AKT3|participates_in|Signaling by SCF-KIT
+SOCS1|causes or contributes to condition|B-cell lymphoma
+NRAS|causes or contributes to condition|B-cell lymphoma
+AKT1|participates_in|Signaling by SCF-KIT
+SOCS1|participates_in|Innate Immune System
+HRAS|participates_in|Innate Immune System
+SOCS1|participates_in|Signal Transduction
+SOCS3|participates_in|Signal Transduction
+AKT3|participates_in|Signal Transduction
+IL6R|causes or contributes to condition|Non-small cell lung carcinoma
+NRAS|causes or contributes to condition|Non-small cell lung carcinoma
+STAT1|participates_in|Growth hormone receptor signaling
+STAT5A|participates_in|Growth hormone receptor signaling
+STAT3|subClassOf|gene
+STAT3|causes or contributes to condition|Cervical polyp
+HRAS|causes or contributes to condition|Cervical polyp
+MLST8|participates_in|PI3K/AKT activation
+MTOR|participates_in|PI3K/AKT activation
+MLST8|participates_in|PIP3 activates AKT signaling
+AKT1S1|participates_in|PIP3 activates AKT signaling
+RPTOR|participates_in|Signaling by Insulin receptor
+MTOR|participates_in|Signaling by Insulin receptor
+AKT1S1|participates_in|Signaling by Insulin receptor
+RPTOR|participates_in|Gene expression (Transcription)
+MLST8|participates_in|Gene expression (Transcription)
+AKT2|participates_in|Costimulation by the CD28 family
+AKT1|participates_in|Costimulation by the CD28 family
+AKT2|participates_in|Intrinsic Pathway for Apoptosis
+AKT3|participates_in|Intrinsic Pathway for Apoptosis
+AKT2|participates_in|CD28 co-stimulation
+MTOR|participates_in|CD28 co-stimulation
+AKT2|participates_in|Constitutive Signaling by AKT1 E17K in Cancer
+AKT1S1|participates_in|Constitutive Signaling by AKT1 E17K in Cancer
+AKT2|participates_in|Insulin receptor signalling cascade
+MLST8|participates_in|Insulin receptor signalling cascade
+AKT2|participates_in|IRS-mediated signalling
+RPTOR|participates_in|IRS-mediated signalling
+SOCS3|participates_in|Interleukin-6 family signaling
+STAT3|participates_in|Interleukin-6 family signaling
+SOCS3|participates_in|Cytokine Signaling in Immune system
+SOCS3|participates_in|Growth hormone receptor signaling
+SOCS1|participates_in|Interferon alpha/beta signaling
+SOCS3|participates_in|Interferon alpha/beta signaling
+STAT3|participates_in|Signaling by Interleukins
+STAT1|participates_in|Interferon alpha/beta signaling
+STAT1|participates_in|Downstream signal transduction
+AKT1|participates_in|Downstream signal transduction
+STAT1|participates_in|Signaling by PDGF
+AKT3|participates_in|Signaling by PDGF
+STAT1|participates_in|Signaling by SCF-KIT
+AKT2|participates_in|Signaling by SCF-KIT
+AKT1S1|participates_in|Downstream signal transduction
+MTOR|participates_in|Downstream signal transduction
+AKT3|participates_in|TP53 Regulates Metabolic Genes
+RPTOR|participates_in|TP53 Regulates Metabolic Genes
+AKT3|participates_in|DAP12 signaling
+MLST8|participates_in|DAP12 signaling
+AKT3|participates_in|DAP12 interactions
+AKT1S1|participates_in|DAP12 interactions
+STAT3|participates_in|Signaling by Leptin
+NRAS|participates_in|Signaling by Leptin
+STAT3|participates_in|Diseases of signal transduction by growth factor receptors and second messengers
+KRAS|participates_in|Diseases of signal transduction by growth factor receptors and second messengers
+STAT1|participates_in|Cytokine Signaling in Immune system
+IFNGR2|participates_in|Interferon Signaling
+IFNGR1|participates_in|Interferon Signaling
+IFNGR2|participates_in|Interferon gamma signaling
+STAT1|participates_in|Interferon gamma signaling
+IFNG|participates_in|Interferon gamma signaling
+IFNGR1|participates_in|Interferon gamma signaling
+IFNG|participates_in|Regulation of IFNG signaling
+IFNGR2|participates_in|Regulation of IFNG signaling
+NRAS|participates_in|Signalling to p38 via RIT and RIN
+HRAS|participates_in|Signalling to p38 via RIT and RIN
+KRAS|participates_in|Signaling by SCF-KIT
+HRAS|participates_in|Signaling by SCF-KIT
+NRAS|participates_in|Signaling by SCF-KIT
+PRLR|participates_in|Prolactin receptor signaling
+STAT5A|participates_in|Prolactin receptor signaling
+STAT3|participates_in|Signaling by NTRKs
+AKT2|participates_in|Signaling by NTRKs
+PRL|subClassOf|protein_coding_gene
+PRLR|subClassOf|protein_coding_gene
+GH1|participates_in|Growth hormone receptor signaling
+GHR|participates_in|Growth hormone receptor signaling
+STAT5A|causes or contributes to condition|undifferentiated carcinoma
+CDK4|causes or contributes to condition|undifferentiated carcinoma
+STAT5A|causes or contributes to condition|Neoplasm of the lung
+CCND2|causes or contributes to condition|Neoplasm of the lung
+STAT5A|causes or contributes to condition|Neoplasm of the breast
+CCND1|causes or contributes to condition|Neoplasm of the breast
+AKT1|participates_in|PKB-mediated events
+MTOR|participates_in|PKB-mediated events
+AKT1|participates_in|Constitutive Signaling by AKT1 E17K in Cancer
+MLST8|participates_in|Signaling by SCF-KIT
+AKT1|participates_in|Generic Transcription Pathway
+RPTOR|participates_in|Generic Transcription Pathway
+AKT3|participates_in|VEGFR2 mediated vascular permeability
+AKT1|participates_in|VEGFR2 mediated vascular permeability
+AKT3|causes or contributes to condition|Hemimegalencephaly
+MTOR|causes or contributes to condition|Hemimegalencephaly
+GHR|participates_in|Prolactin receptor signaling

@@ -1,0 +1,55 @@
+S|P|O
+TRPC3|participates_in|Elevation of cytosolic Ca2+ levels
+Ca2+|participates_in|Elevation of cytosolic Ca2+ levels
+PLCB1|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+IP3|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+PLCB1|participates_in|PLC beta mediated events
+DAG|participates_in|PLC beta mediated events
+PLCB2|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+PLCB3|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+PLCB1|participates_in|Synthesis of IP3 and IP4 in the cytosol
+PLCB4|participates_in|Synthesis of IP3 and IP4 in the cytosol
+PLCB2|participates_in|PLC beta mediated events
+PLCB2|participates_in|Synthesis of IP3 and IP4 in the cytosol
+PLCB3|participates_in|PLC beta mediated events
+PLCB3|participates_in|Synthesis of IP3 and IP4 in the cytosol
+GNA11|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+IP3|participates_in|Synthesis of IP3 and IP4 in the cytosol
+PLCB4|participates_in|PLC beta mediated events
+PRKCG|participates_in|Platelet activation, signaling and aggregation
+TRPC3|participates_in|Platelet activation, signaling and aggregation
+PRKCG|participates_in|Trafficking of GluR2-containing AMPA receptors
+GRIA2|participates_in|Trafficking of GluR2-containing AMPA receptors
+GRIA1|participates_in|Trafficking of GluR2-containing AMPA receptors
+GRIA3|participates_in|Trafficking of GluR2-containing AMPA receptors
+GRIA4|participates_in|Trafficking of GluR2-containing AMPA receptors
+PDK1|participates_in|Signal Transduction
+PRKCG|participates_in|Signal Transduction
+PIP2|participates_in|Erythropoietin activates Phospholipase C gamma (PLCG)
+IP3|participates_in|Erythropoietin activates Phospholipase C gamma (PLCG)
+DAG|participates_in|Erythropoietin activates Phospholipase C gamma (PLCG)
+IP3|participates_in|CLEC7A (Dectin-1) induces NFAT activation
+IP3R1|participates_in|CLEC7A (Dectin-1) induces NFAT activation
+Ca2+|participates_in|Disinhibition of SNARE formation
+PRKCG|participates_in|Disinhibition of SNARE formation
+Ca2+|participates_in|CLEC7A (Dectin-1) induces NFAT activation
+CACNA1A|participates_in|Presynaptic depolarization and calcium channel opening
+Ca2+|participates_in|Presynaptic depolarization and calcium channel opening
+RYR3|participates_in|Ion homeostasis
+Ca2+|participates_in|Ion homeostasis
+GRIA2|participates_in|Activation of AMPA receptors
+sodium(1+)|participates_in|Activation of AMPA receptors
+GRIA1|participates_in|Activation of AMPA receptors
+GRIA3|participates_in|Activation of AMPA receptors
+GRIA4|participates_in|Activation of AMPA receptors
+GRM1|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+GNA14|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+ATP2B2|participates_in|Reduction of cytosolic Ca++ levels
+Ca2+|participates_in|Reduction of cytosolic Ca++ levels
+DAG|participates_in|DAG and IP3 signaling
+PRKCG|participates_in|DAG and IP3 signaling
+GNAQ|causes or contributes to condition|Iris melanoma
+GNA11|causes or contributes to condition|Iris melanoma
+GNAQ|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+GNA14|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+GNA15|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion

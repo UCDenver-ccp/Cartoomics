@@ -12,6 +12,8 @@ import glob
 import logging.config
 from pythonjsonlogger import jsonlogger
 from inputs import *
+import seaborn as sns
+import csv
 
 # logging
 log_dir, log, log_config = 'builds/logs', 'cartoomics_log.log', glob.glob('**/logging.ini', recursive=True)
@@ -174,9 +176,9 @@ def get_wikipathways_graph_files(input_dir,kg_type,input_type, guiding_term = Fa
 
 
 #Creates igraph object and a list of nodes
-def create_igraph_graph(edgelist_df,edgelist_type):
+def create_igraph_graph(edgelist_df):
 
-    #Edgelist generation for subgraphs produced with cartoomics
+    '''#Edgelist generation for subgraphs produced with cartoomics
     if edgelist_type == 'subgraph':
         edgelist_df = edgelist_df[['S','O','P']]
         #Remove gene descriptions in parentheses such as " (human)"
@@ -188,11 +190,11 @@ def create_igraph_graph(edgelist_df,edgelist_type):
     #Edgelist generation for wikipathways diagrams
     if edgelist_type == 'wikipathways':
         edgelist_df = edgelist_df[['Source',  'Target', 'edgeID']]
-        edgelist_df = edgelist_df.rename(columns={'Source' : 'S', 'edgeID': 'P','Target': 'O'})
+        edgelist_df = edgelist_df.rename(columns={'Source' : 'S', 'edgeID': 'P','Target': 'O'})'''
 
     g = Graph.DataFrame(edgelist_df,directed=True,use_vids=False)
 
-    g_nodes = g.vs()['name']
+    #g_nodes = g.vs()['name']
 
     return g 
 
@@ -211,94 +213,140 @@ def create_networkx_graph(edgelist_df,edgelist_type):
         edgelist_df = edgelist_df[['Source',  'Target', 'edgeID']]
         edgelist_df = edgelist_df.rename(columns={'Source' : 'S', 'edgeID': 'P','Target': 'O'})
 
-
     g = nx.from_pandas_edgelist(edgelist_df, 'S', 'O')
 
     return g
 
-def jaccard_sim(g1,g2):
+def prepare_subgraphs(wikipathway,algorithm,all_wikipathways_dir):
 
-    g_intersection = intersection([g1,g2],keep_all_vertices=False)
-    g_union = union([g1,g2])
+    wikipathway_dir = all_wikipathways_dir + '/' + wikipathway
+
+    wikipathways_subgraph_file = wikipathway_dir + '/' + wikipathway + '_edgeList.csv'
+    #Subgraph type must be CosineSimilarity, PDP, or GuidingTerm_<specified_term> to match current output structure
+    cartoomics_subgraph_file = wikipathway_dir + '_output/' + algorithm + '/Subgraph.csv'
+
+    wikipathways_df = pd.read_csv(wikipathways_subgraph_file,sep=',')
+    cartoomics_df = pd.read_csv(cartoomics_subgraph_file,sep='|')
+
+    #Edgelist generation for subgraphs produced with cartoomics
+    cartoomics_df = cartoomics_df[['S','O','P']]
+    #Remove gene descriptions in parentheses such as " (human)"
+    cartoomics_df['S'] = cartoomics_df['S'].str.replace(r"\(human\)", "", regex=True).str.strip()
+    cartoomics_df['O'] = cartoomics_df['O'].str.replace(r"\(human\)", "", regex=True).str.strip()
+    #cartoomics_df['S'] = cartoomics_df['S'].str.replace("(human)", "", regex=True).str.strip()
+    #cartoomics_df['O'] = cartoomics_df['O'].str.replace("(human)", "", regex=True).str.strip()
+
+    #Edgelist generation for wikipathways diagrams
+    wikipathways_df = wikipathways_df[['Source',  'Target', 'edgeID']]
+    wikipathways_df = wikipathways_df.rename(columns={'Source' : 'S', 'edgeID': 'P','Target': 'O'})
+
+    return wikipathways_df,cartoomics_df
+
+    wikipathways_graph = create_igraph_graph(wikipathways_df,'wikipathways')
+    cartoomics_graph = create_igraph_graph(cartoomics_df,'subgraph')
+
+    return wikipathways_graph,cartoomics_graph
+
+def jaccard_similarity(wikipathways_graph,cartoomics_graph):
+
+    g_intersection = intersection([wikipathways_graph,cartoomics_graph],keep_all_vertices=False)
+    g_union = union([wikipathways_graph,cartoomics_graph])
 
     j = g_intersection.vcount() / g_union.vcount()
 
     return j
 
-def overlap_sim(g1,g2):
+def overlap_metric(wikipathways_graph,cartoomics_graph):
 
-    g_intersection = intersection([g1,g2], keep_all_vertices=False)
-    g_min = min([g1.vcount(),g2.vcount()])
+    g_intersection = intersection([wikipathways_graph,cartoomics_graph], keep_all_vertices=False)
+    g_min = min([wikipathways_graph.vcount(),cartoomics_graph.vcount()])
 
     o = g_intersection.vcount() / g_min
 
     return o
 
-def compare_wikipathways_subgraphs(wikipathway_diagrams,subgraph_type):
+def edit_distance_metric(wikipathways_graph,cartoomics_graph):
 
-    all_subgraph_types = []
-    pathways = []
-    jaccard = []
-    overlap = []
-    edit = []
-    for p in wikipathway_diagrams:
+    e = nx.graph_edit_distance(wikipathways_graph,cartoomics_graph)
 
-        w_file = os.getcwd() + '/wikipathways_graphs/' + p + '/' + p + '_edgeList.csv'
-        w_dir = os.getcwd() + '/wikipathways_graphs'
+    return e
 
-        #Subgraph type must be CosineSimilarity, PDP, or GuidingTerm_<specified_term> to match current output structure
-        w_subgraph_file = os.getcwd() + '/wikipathways_graphs/' + p + '_output/' + subgraph_type + '/Subgraph.csv'
+def generate_graph_similarity_metrics(all_metrics,wikipathway,algorithm,all_wikipathways_dir):
 
+    wikipathways_df,cartoomics_df = prepare_subgraphs(wikipathway,algorithm,all_wikipathways_dir)
+    wikipathways_graph = create_igraph_graph(wikipathways_df)
+    cartoomics_graph = create_igraph_graph(cartoomics_df)
+    all_metrics.append([algorithm,wikipathway,'Jaccard',jaccard_similarity(wikipathways_graph,cartoomics_graph)])
+    all_metrics.append([algorithm,wikipathway,'Overlap',overlap_metric(wikipathways_graph,cartoomics_graph)])
+    #Graph edit distance not supported yet
+    #all_metrics.append([algorithm,wikipathway,'EditDistance',edit_distance_metric(wikipathways_graph,cartoomics_graph)])
 
-        df_1 = pd.read_csv(w_file,sep=',')
-        df_2 = pd.read_csv(w_subgraph_file,sep='|')
+    return all_metrics
 
-        g_1 = create_igraph_graph(df_1,'wikipathways')
-        g_2 = create_igraph_graph(df_2,'subgraph')
+def output_graph_similarity_metrics(all_wikipathways_dir,all_metrics):
 
-        j = jaccard_sim(g_1,g_2)
+    results_fields = ['Algorithm','Pathway_ID','Metric','Score']
 
-        o = overlap_sim(g_1,g_2)
+    output_folder = all_wikipathways_dir+'/graph_similarity'
+    #Check for existence of output directory
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
 
-        #Calculate graph edit distance, which requires networkx graph
-        g_1 = create_networkx_graph(df_1,'wikipathways')
-        g_2 = create_networkx_graph(df_2,'subgraph')
+    results_file = output_folder + '/Graph_Similarity_Metrics.csv'
 
-        e = nx.graph_edit_distance(g_1,g_2) 
+    with open(results_file, 'w') as f:
+        write = csv.writer(f)
+        write.writerow(results_fields)
+        write.writerows(all_metrics)
 
-        all_subgraph_types.append(subgraph_type)
-        pathways.append(p)
-        jaccard.append(j)
-        overlap.append(o)
-        edit.append(e)
+    return results_file
 
-    results_df = pd.DataFrame(columns=['SubgraphType','Pathway','Jaccard','Overlap','Edit Distance'])
-    results_df['SubgraphType'] = all_subgraph_types
-    results_df['Pathway'] = pathways
-    results_df['Jaccard'] = jaccard
-    results_df['Overlap'] = overlap
-    results_df['Edit Distance'] = edit
+def get_percent_nodes_mapped(wikipathways_df,cartoomics_df):
 
-    results_file = os.getcwd() + '/wikipathways_graphs/'+'Graph_Similarity_Metrics.csv'
-    results_df.to_csv(results_file,sep=',',index=False)
-    logging.info('Created graph similarity metrics csv file: %s',results_file)
+    wikipathways_list = set(wikipathways_df.S.tolist() + wikipathways_df.O.tolist())
+    cartoomics_list = set(cartoomics_df.S.tolist() + cartoomics_df.O.tolist())
+    #Gets all nodes in wikipathways that are in cartoomics subgraph/all nodes in wikipathways
+    percent_nodes_mapped = sum(node in cartoomics_list for node in wikipathways_list)/len(wikipathways_list)
 
-    return results_df,w_dir
+    return percent_nodes_mapped
 
-#Generates histogram with N number of categories by pathway, where lists are the input
-def visualize_graph_metrics(df,w_dir,subgraph_type):
+def get_percent_intermediate_nodes(wikipathways_df,cartoomics_df):
+
+    wikipathways_list = set(wikipathways_df.S.tolist() + wikipathways_df.O.tolist())
+    cartoomics_list = set(cartoomics_df.S.tolist() + cartoomics_df.O.tolist())
+    #Gets all intermediate nodes not in wikipathways/all nodes in the final cartoomics subgraph
+    percent_intermediate_nodes = len(cartoomics_list.difference(wikipathways_list))/len(cartoomics_list) #Change this to divide by length of cartoomics_list
     
-    ax = df.plot(x="Pathway", y=['Jaccard','Overlap'], kind="bar", rot=0)
-    plt.title("Graph Similarity Metrics for Wikipathways Diagrams and "+ subgraph_type,fontsize = 18)
-    plt_file = w_dir + '/' + subgraph_type + '_Graph_Similarity_Metrics_Jaccard_Overlap.png'
-    plt.savefig(plt_file)
+    return percent_intermediate_nodes
 
-    logging.info('Created png: %s',plt_file)
+def generate_graph_mapping_statistics(all_metrics,wikipathway,algorithm,all_wikipathways_dir):
 
-    ax = df.plot(x="Pathway", y=['Edit Distance'], kind="bar", rot=0)
-    plt.title("Graph Similarity Metrics for Wikipathways Diagrams and "+ subgraph_type,fontsize = 18)
-    plt_file = w_dir + '/' + subgraph_type + '_Graph_Similarity_Metrics_Edit_Distance.png'
-    plt.savefig(plt_file)
+    wikipathways_df,cartoomics_df = prepare_subgraphs(wikipathway,algorithm,all_wikipathways_dir)
 
-    logging.info('Created png: %s',plt_file)
+    all_metrics.append([algorithm,wikipathway,'Percent_Nodes_Mapped',get_percent_nodes_mapped(wikipathways_df,cartoomics_df)])
+    all_metrics.append([algorithm,wikipathway,'Percent_Intermediate_Nodes',get_percent_intermediate_nodes(wikipathways_df,cartoomics_df)])
+
+    return all_metrics
+
+def output_graph_node_percentage_metrics(all_wikipathways_dir,all_metrics):
+
+    results_fields = ['Algorithm','Pathway_ID','Metric','Score']
+
+    output_folder = all_wikipathways_dir+'/graph_similarity'
+    #Check for existence of output directory
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+
+    results_file = output_folder + '/Graph_Node_Percentage_Metrics.csv'
+
+    with open(results_file, 'w') as f:
+        write = csv.writer(f)
+        write.writerow(results_fields)
+        write.writerows(all_metrics)
+
+    return results_file
+
+
+
+
 

@@ -1,0 +1,7 @@
+source|target|source_label|target_label|source_id|target_id
+INOS|NO|INOS|NO|http://www.ncbi.nlm.nih.gov/gene/4843|http://purl.obolibrary.org/obo/CHEBI_16480
+NO|NRS|NO|NRS|http://purl.obolibrary.org/obo/CHEBI_16480|http://purl.obolibrary.org/obo/PR_O43776
+e-|ROS|e-|ROS|http://purl.obolibrary.org/obo/CHEBI_10545|http://purl.obolibrary.org/obo/CHEBI_26523
+e-|ATP|e-|ATP|http://purl.obolibrary.org/obo/CHEBI_10545|http://purl.obolibrary.org/obo/CHEBI_15422
+Fructose|AGE|Fructose|AGE|http://purl.obolibrary.org/obo/CHEBI_28757|http://purl.obolibrary.org/obo/CHEBI_84123
+AGE|RAGE|AGE|RAGE|http://purl.obolibrary.org/obo/CHEBI_84123|http://www.ncbi.nlm.nih.gov/gene/177

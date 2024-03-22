@@ -1,0 +1,67 @@
+S|P|O
+PLCB1|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+IP3|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+GRM1|participates_in|Signal Transduction
+GNA14|participates_in|Signal Transduction
+DAG|participates_in|Opioid Signalling
+PRKCG|participates_in|Opioid Signalling
+GNAQ|participates_in|Regulation of insulin secretion
+GNA11|participates_in|Regulation of insulin secretion
+GNAQ|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+GNA14|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+GNAQ|participates_in|Signal amplification
+GNA15 (human)|participates_in|Signal amplification
+GNA11|participates_in|Signal amplification
+GNA14|participates_in|Signal amplification
+GNA11|participates_in|Integration of energy metabolism
+GNA15 (human)|participates_in|Integration of energy metabolism
+GRIA4|participates_in|Activation of NMDA receptors and postsynaptic events
+sodium(1+)|participates_in|Activation of NMDA receptors and postsynaptic events
+GNA14|participates_in|Acetylcholine regulates insulin secretion
+GNA15 (human)|participates_in|Acetylcholine regulates insulin secretion
+CACNA1A|causes or contributes to condition|spinocerebellar ataxia type 5
+PRKCG|causes or contributes to condition|spinocerebellar ataxia type 5
+aflatoxin B1|interacts with|ATP2B2
+aflatoxin B1|interacts with|PRKCG
+IP3R1|participates_in|Opioid Signalling
+PRKCG|participates_in|Neurotransmitter receptors and postsynaptic signal transmission
+sodium(1+)|participates_in|Neurotransmitter receptors and postsynaptic signal transmission
+PRKCG|participates_in|Trafficking of AMPA receptors
+GRIA1|participates_in|Trafficking of AMPA receptors
+GRIA3|participates_in|Neurotransmitter receptors and postsynaptic signal transmission
+GRIA4|participates_in|Neurotransmitter receptors and postsynaptic signal transmission
+GRIA1|participates_in|Trafficking of GluR2-containing AMPA receptors
+GRIA4|participates_in|Trafficking of GluR2-containing AMPA receptors
+PLCB1|participates_in|Inositol phosphate metabolism
+PLCB3|participates_in|Inositol phosphate metabolism
+PLCB1|participates_in|GPCR downstream signalling
+PLCB4|participates_in|GPCR downstream signalling
+IP3|participates_in|Inositol phosphate metabolism
+PLCB3|participates_in|G-protein mediated events
+DAG|participates_in|G-protein mediated events
+PLCB3|participates_in|Signaling by GPCR
+PLCB4|participates_in|Signaling by GPCR
+PLCB3|participates_in|Free fatty acids regulate insulin secretion
+GNA11|participates_in|Free fatty acids regulate insulin secretion
+PLCB4|participates_in|Synthesis of IP3 and IP4 in the cytosol
+IP3|participates_in|Synthesis of IP3 and IP4 in the cytosol
+PLCB1|participates_in|G-protein mediated events
+PLCB4|participates_in|PLC beta mediated events
+DAG|participates_in|PLC beta mediated events
+RYR3|subClassOf|protein_coding_gene
+PRKCG|subClassOf|protein_coding_gene
+GRIA4|participates_in|Trafficking of AMPA receptors
+PDK1|subClassOf|protein_coding_gene
+PIP2|participates_in|Sensory Perception
+IP3|participates_in|Sensory Perception
+PIP2|participates_in|Erythropoietin activates Phospholipase C gamma (PLCG)
+DAG|participates_in|Erythropoietin activates Phospholipase C gamma (PLCG)
+IP3|participates_in|Role of phospholipids in phagocytosis
+IP3R1|participates_in|Role of phospholipids in phagocytosis
+GRIA1|participates_in|Activation of AMPA receptors
+sodium(1+)|participates_in|Activation of AMPA receptors
+GRIA1|participates_in|Neuronal System
+GRIA3|participates_in|Neuronal System
+GRIA3|participates_in|Activation of AMPA receptors
+IP3|participates_in|Metabolism
+PDK1|participates_in|Metabolism

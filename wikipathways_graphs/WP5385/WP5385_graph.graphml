@@ -1,0 +1,1342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d15" for="edge" attr.name="color" attr.type="string"/>
+<key id="d14" for="edge" attr.name="signal" attr.type="string"/>
+<key id="d13" for="edge" attr.name="interaction" attr.type="string"/>
+<key id="d12" for="edge" attr.name="arrow" attr.type="string"/>
+<key id="d11" for="edge" attr.name="edgeID" attr.type="string"/>
+<key id="d10" for="node" attr.name="geometry" attr.type="string"/>
+<key id="d9" for="node" attr.name="databaseID" attr.type="string"/>
+<key id="d8" for="node" attr.name="database" attr.type="string"/>
+<key id="d7" for="node" attr.name="color" attr.type="string"/>
+<key id="d6" for="node" attr.name="height" attr.type="string"/>
+<key id="d5" for="node" attr.name="width" attr.type="string"/>
+<key id="d4" for="node" attr.name="centerY" attr.type="string"/>
+<key id="d3" for="node" attr.name="centerX" attr.type="string"/>
+<key id="d2" for="node" attr.name="groupref" attr.type="string"/>
+<key id="d1" for="node" attr.name="graphid" attr.type="string"/>
+<key id="d0" for="node" attr.name="textlabel" attr.type="string"/>
+<graph edgedefault="directed"><node id="AKT1">
+  <data key="d0">AKT1</data>
+  <data key="d1">c57fe</data>
+  <data key="d2">bbbf7</data>
+  <data key="d3">318.9116973982101</data>
+  <data key="d4">224.4887166403944</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P31749</data>
+  <data key="d10">POINT (318.9116973982101 224.4887166403944)</data>
+</node>
+<node id="Rab43">
+  <data key="d0">Rab43</data>
+  <data key="d1">e9929</data>
+  <data key="d2">None</data>
+  <data key="d3">300.37627437392064</data>
+  <data key="d4">350.0331246964183</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q86YS6</data>
+  <data key="d10">POINT (300.37627437392064 350.0331246964183)</data>
+</node>
+<node id="AKT2">
+  <data key="d0">AKT2</data>
+  <data key="d1">f690b</data>
+  <data key="d2">bbbf7</data>
+  <data key="d3">318.9116973982101</data>
+  <data key="d4">249.4887166403944</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P31751</data>
+  <data key="d10">POINT (318.9116973982101 249.4887166403944)</data>
+</node>
+<node id="AKT3">
+  <data key="d0">AKT3</data>
+  <data key="d1">ccd32</data>
+  <data key="d2">bbbf7</data>
+  <data key="d3">318.9116973982101</data>
+  <data key="d4">274.4887166403944</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q9Y243</data>
+  <data key="d10">POINT (318.9116973982101 274.4887166403944)</data>
+</node>
+<node id="IR">
+  <data key="d0">IR</data>
+  <data key="d1">f5e47</data>
+  <data key="d2">None</data>
+  <data key="d3">871.4294199364554</data>
+  <data key="d4">170.0887078805168</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P06213</data>
+  <data key="d10">POINT (871.4294199364554 170.0887078805168)</data>
+</node>
+<node id="K-Ras">
+  <data key="d0">K-Ras</data>
+  <data key="d1">cf21c</data>
+  <data key="d2">None</data>
+  <data key="d3">797.1145473480412</data>
+  <data key="d4">247.2824272550045</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P01116</data>
+  <data key="d10">POINT (797.1145473480412 247.2824272550045)</data>
+</node>
+<node id="T3">
+  <data key="d0">T3</data>
+  <data key="d1">c2c05</data>
+  <data key="d2">None</data>
+  <data key="d3">627.0342844701652</data>
+  <data key="d4">223.01775706244763</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">18258</data>
+  <data key="d10">POINT (627.0342844701652 223.01775706244763)</data>
+</node>
+<node id="ERK 1">
+  <data key="d0">ERK 1</data>
+  <data key="d1">b6d92</data>
+  <data key="d2">cbe79</data>
+  <data key="d3">537.450846880558</data>
+  <data key="d4">235.160127758408</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P27361</data>
+  <data key="d10">POINT (537.450846880558 235.160127758408)</data>
+</node>
+<node id="ERK 2">
+  <data key="d0">ERK 2</data>
+  <data key="d1">fae92</data>
+  <data key="d2">cbe79</data>
+  <data key="d3">537.450846880558</data>
+  <data key="d4">260.16012775840795</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P28482</data>
+  <data key="d10">POINT (537.450846880558 260.16012775840795)</data>
+</node>
+<node id="PDGFa">
+  <data key="d0">PDGFa</data>
+  <data key="d1">d88b3</data>
+  <data key="d2">None</data>
+  <data key="d3">724.335316185566</data>
+  <data key="d4">106.68756121124409</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P04085</data>
+  <data key="d10">POINT (724.335316185566 106.68756121124409)</data>
+</node>
+<node id="PDGFR-a">
+  <data key="d0">PDGFR-a</data>
+  <data key="d1">bbddc</data>
+  <data key="d2">None</data>
+  <data key="d3">724.1471363515438</data>
+  <data key="d4">169.4020311685432</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">A0A387LBM6</data>
+  <data key="d10">POINT (724.1471363515438 169.4020311685432)</data>
+</node>
+<node id="Cyclin D">
+  <data key="d0">Cyclin D</data>
+  <data key="d1">b1405</data>
+  <data key="d2">c4394</data>
+  <data key="d3">110.54439311743204</data>
+  <data key="d4">355.6558459260798</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Unknown</data>
+  <data key="d9">Cyclin D</data>
+  <data key="d10">POINT (110.54439311743204 355.6558459260798)</data>
+</node>
+<node id="Proliferation">
+  <data key="d0">Proliferation</data>
+  <data key="d1">da9c9</data>
+  <data key="d2">None</data>
+  <data key="d3">425.61594052297437</data>
+  <data key="d4">444.5513716747282</data>
+  <data key="d5">200.0</data>
+  <data key="d6">47.65625</data>
+  <data key="d7">#3366ff</data>
+  <data key="d8">Wikidata</data>
+  <data key="d9">Q189101</data>
+  <data key="d10">POINT (425.61594052297437 444.5513716747282)</data>
+</node>
+<node id="Cyclin A">
+  <data key="d0">Cyclin A</data>
+  <data key="d1">fd00b</data>
+  <data key="d2">c4394</data>
+  <data key="d3">110.54439311743204</data>
+  <data key="d4">330.6558459260798</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Unknown</data>
+  <data key="d9">Cyclin A</data>
+  <data key="d10">POINT (110.54439311743204 330.6558459260798)</data>
+</node>
+<node id="cMyc">
+  <data key="d0">cMyc</data>
+  <data key="d1">ea8cb</data>
+  <data key="d2">c4394</data>
+  <data key="d3">110.54439311743204</data>
+  <data key="d4">380.6558459260798</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P01106</data>
+  <data key="d10">POINT (110.54439311743204 380.6558459260798)</data>
+</node>
+<node id="CDK2">
+  <data key="d0">CDK2</data>
+  <data key="d1">d159b</data>
+  <data key="d2">c4394</data>
+  <data key="d3">110.54439311743204</data>
+  <data key="d4">405.6558459260798</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P24941</data>
+  <data key="d10">POINT (110.54439311743204 405.6558459260798)</data>
+</node>
+<node id="CDK4">
+  <data key="d0">CDK4</data>
+  <data key="d1">fbb2c</data>
+  <data key="d2">c4394</data>
+  <data key="d3">110.54439311743204</data>
+  <data key="d4">430.6558459260798</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P11802</data>
+  <data key="d10">POINT (110.54439311743204 430.6558459260798)</data>
+</node>
+<node id="FOXM1">
+  <data key="d0">FOXM1</data>
+  <data key="d1">b46b1</data>
+  <data key="d2">c4394</data>
+  <data key="d3">110.54439311743204</data>
+  <data key="d4">455.6558459260798</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q08050</data>
+  <data key="d10">POINT (110.54439311743204 455.6558459260798)</data>
+</node>
+<node id="Ca2+">
+  <data key="d0">Ca2+</data>
+  <data key="d1">e1323</data>
+  <data key="d2">None</data>
+  <data key="d3">110.54439311743204</data>
+  <data key="d4">106.68756121124409</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">29108</data>
+  <data key="d10">POINT (110.54439311743204 106.68756121124409)</data>
+</node>
+<node id="CaM">
+  <data key="d0">CaM</data>
+  <data key="d1">aba49</data>
+  <data key="d2">None</data>
+  <data key="d3">110.54439311743204</data>
+  <data key="d4">165.76303753359107</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Unknown</data>
+  <data key="d9">CaM</data>
+  <data key="d10">POINT (110.54439311743204 165.76303753359107)</data>
+</node>
+<node id="IGF-1">
+  <data key="d0">IGF-1</data>
+  <data key="d1">fdcc7</data>
+  <data key="d2">None</data>
+  <data key="d3">797.1145473480412</data>
+  <data key="d4">106.68756121124409</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P05019</data>
+  <data key="d10">POINT (797.1145473480412 106.68756121124409)</data>
+</node>
+<node id="IGF-1R">
+  <data key="d0">IGF-1R</data>
+  <data key="d1">dd178</data>
+  <data key="d2">None</data>
+  <data key="d3">797.1145473480412</data>
+  <data key="d4">170.67032819490615</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P08069</data>
+  <data key="d10">POINT (797.1145473480412 170.67032819490615)</data>
+</node>
+<node id="VEGFR-1">
+  <data key="d0">VEGFR-1</data>
+  <data key="d1">f14e9</data>
+  <data key="d2">None</data>
+  <data key="d3">242.8922878470816</data>
+  <data key="d4">167.92321578593877</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P17948</data>
+  <data key="d10">POINT (242.8922878470816 167.92321578593877)</data>
+</node>
+<node id="TRs">
+  <data key="d0">TRs</data>
+  <data key="d1">ca5cd</data>
+  <data key="d2">None</data>
+  <data key="d3">625.7120718124397</data>
+  <data key="d4">169.6206782649928</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">InterPro</data>
+  <data key="d9">IPR001728</data>
+  <data key="d10">POINT (625.7120718124397 169.6206782649928)</data>
+</node>
+<node id="FOXO1">
+  <data key="d0">FOXO1</data>
+  <data key="d1">f309a</data>
+  <data key="d2">None</data>
+  <data key="d3">425.61594052297437</data>
+  <data key="d4">293.7458046415136</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q12778</data>
+  <data key="d10">POINT (425.61594052297437 293.7458046415136)</data>
+</node>
+<node id="Pdx1">
+  <data key="d0">Pdx1</data>
+  <data key="d1">a73cd</data>
+  <data key="d2">None</data>
+  <data key="d3">425.61594052297437</data>
+  <data key="d4">353.14072109798724</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P52945</data>
+  <data key="d10">POINT (425.61594052297437 353.14072109798724)</data>
+</node>
+<node id="PLGF">
+  <data key="d0">PLGF</data>
+  <data key="d1">e40ea</data>
+  <data key="d2">None</data>
+  <data key="d3">243.25271866868104</data>
+  <data key="d4">106.68756121124409</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P49763</data>
+  <data key="d10">POINT (243.25271866868104 106.68756121124409)</data>
+</node>
+<node id="Pref-1R">
+  <data key="d0">Pref-1R</data>
+  <data key="d1">c85c6</data>
+  <data key="d2">None</data>
+  <data key="d3">538.1987577327639</data>
+  <data key="d4">167.50369747520728</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Unknown</data>
+  <data key="d9">Pref-1R</data>
+  <data key="d10">POINT (538.1987577327639 167.50369747520728)</data>
+</node>
+<node id="NFAT">
+  <data key="d0">NFAT</data>
+  <data key="d1">d3670</data>
+  <data key="d2">fc538</data>
+  <data key="d3">110.54439311743204</data>
+  <data key="d4">235.6942186338166</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">InterPro</data>
+  <data key="d9">IPR008366</data>
+  <data key="d10">POINT (110.54439311743204 235.6942186338166)</data>
+</node>
+<node id="PI3K">
+  <data key="d0">PI3K</data>
+  <data key="d1">a986a</data>
+  <data key="d2">None</data>
+  <data key="d3">211.7538969994755</data>
+  <data key="d4">249.4611590863019</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">InterPro</data>
+  <data key="d9">IPR000403</data>
+  <data key="d10">POINT (211.7538969994755 249.4611590863019)</data>
+</node>
+<node id="CRTC2">
+  <data key="d0">CRTC2</data>
+  <data key="d1">f0f4b</data>
+  <data key="d2">fc538</data>
+  <data key="d3">110.54439311743204</data>
+  <data key="d4">260.6942186338166</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q53ET0</data>
+  <data key="d10">POINT (110.54439311743204 260.6942186338166)</data>
+</node>
+<node id="B-Raf">
+  <data key="d0">B-Raf</data>
+  <data key="d1">dc1ff</data>
+  <data key="d2">None</data>
+  <data key="d3">686.3435806926759</data>
+  <data key="d4">292.71921203039733</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P15056</data>
+  <data key="d10">POINT (686.3435806926759 292.71921203039733)</data>
+</node>
+<node id="P16ink4a">
+  <data key="d0">P16ink4a</data>
+  <data key="d1">d26f3</data>
+  <data key="d2">None</data>
+  <data key="d3">569.4291127904878</data>
+  <data key="d4">376.855428694273</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">R9S252</data>
+  <data key="d10">POINT (569.4291127904878 376.855428694273)</data>
+</node>
+<node id="TGFB1">
+  <data key="d0">TGFB1</data>
+  <data key="d1">c196e</data>
+  <data key="d2">None</data>
+  <data key="d3">421.460096735187</data>
+  <data key="d4">106.68756121124409</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P01137</data>
+  <data key="d10">POINT (421.460096735187 106.68756121124409)</data>
+</node>
+<node id="TGFB1R">
+  <data key="d0">TGFB1R</data>
+  <data key="d1">c8549</data>
+  <data key="d2">None</data>
+  <data key="d3">421.460096735187</data>
+  <data key="d4">165.37787182587653</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P36897</data>
+  <data key="d10">POINT (421.460096735187 165.37787182587653)</data>
+</node>
+<node id="Smad7">
+  <data key="d0">Smad7</data>
+  <data key="d1">e23e5</data>
+  <data key="d2">None</data>
+  <data key="d3">421.460096735187</data>
+  <data key="d4">224.83968329830475</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">O15105</data>
+  <data key="d10">POINT (421.460096735187 224.83968329830475)</data>
+</node>
+<node id="EZH2">
+  <data key="d0">EZH2</data>
+  <data key="d1">dad75</data>
+  <data key="d2">None</data>
+  <data key="d3">570.5386409503526</data>
+  <data key="d4">320.4337891003462</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q75MQ0</data>
+  <data key="d10">POINT (570.5386409503526 320.4337891003462)</data>
+</node>
+<node id="T4">
+  <data key="d0">T4</data>
+  <data key="d1">c3469</data>
+  <data key="d2">cfab6</data>
+  <data key="d3">625.8755104909774</data>
+  <data key="d4">106.5431232560936</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">18332</data>
+  <data key="d10">POINT (625.8755104909774 106.5431232560936)</data>
+</node>
+<node id="Rasf1a">
+  <data key="d0">Rasf1a</data>
+  <data key="d1">ff572</data>
+  <data key="d2">None</data>
+  <data key="d3">813.2447415711815</data>
+  <data key="d4">385.5201215714594</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q9NS23</data>
+  <data key="d10">POINT (813.2447415711815 385.5201215714594)</data>
+</node>
+<node id="Pref-1">
+  <data key="d0">Pref-1</data>
+  <data key="d1">ff12f</data>
+  <data key="d2">None</data>
+  <data key="d3">538.472550803593</data>
+  <data key="d4">106.68756121124409</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P80370</data>
+  <data key="d10">POINT (538.472550803593 106.68756121124409)</data>
+</node>
+<node id="Insulin">
+  <data key="d0">Insulin</data>
+  <data key="d1">d5e77</data>
+  <data key="d2">None</data>
+  <data key="d3">871.797983621791</data>
+  <data key="d4">106.68756121124409</data>
+  <data key="d5">60.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P01308</data>
+  <data key="d10">POINT (871.797983621791 106.68756121124409)</data>
+</node>
+<edge source="AKT1" target="Rab43">
+  <data key="d11">id11c8e5f8</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT1" target="Proliferation">
+  <data key="d11">ide8f8233c</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT1" target="FOXO1">
+  <data key="d11">ide9cccc2a</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT1" target="AKT2">
+  <data key="d11">c57fe_f690b_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="AKT1" target="AKT3">
+  <data key="d11">c57fe_f690b_ccd32_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="Rab43" target="Proliferation">
+  <data key="d11">idc12871cf</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT2" target="Rab43">
+  <data key="d11">id11c8e5f8</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT2" target="Proliferation">
+  <data key="d11">ide8f8233c</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT2" target="FOXO1">
+  <data key="d11">ide9cccc2a</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT2" target="AKT1">
+  <data key="d11">f690b_c57fe_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="AKT2" target="AKT3">
+  <data key="d11">f690b_ccd32_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="AKT3" target="Rab43">
+  <data key="d11">id11c8e5f8</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT3" target="Proliferation">
+  <data key="d11">ide8f8233c</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT3" target="FOXO1">
+  <data key="d11">ide9cccc2a</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT3" target="AKT1">
+  <data key="d11">c57fe_f690b_ccd32_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="AKT3" target="AKT2">
+  <data key="d11">ccd32_f690b_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="IR" target="K-Ras">
+  <data key="d11">id12d019b7</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="K-Ras" target="Rasf1a">
+  <data key="d11">idb6cca23c</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="K-Ras" target="B-Raf">
+  <data key="d11">idbd8469d</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="T3" target="ERK 1">
+  <data key="d11">id17156c19</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="T3" target="ERK 2">
+  <data key="d11">id17156c19</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="T3" target="T4">
+  <data key="d11">f9233_c3469_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="ERK 1" target="FOXO1">
+  <data key="d11">id3eda4dcd</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="ERK 1" target="EZH2">
+  <data key="d11">id9f518d00</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="ERK 1" target="ERK 2">
+  <data key="d11">b6d92_fae92_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="ERK 2" target="FOXO1">
+  <data key="d11">id3eda4dcd</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="ERK 2" target="EZH2">
+  <data key="d11">id9f518d00</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="ERK 2" target="ERK 1">
+  <data key="d11">fae92_b6d92_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="PDGFa" target="PDGFR-a">
+  <data key="d11">id1ee658bd</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="PDGFR-a" target="K-Ras">
+  <data key="d11">id773935ed</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Cyclin D" target="Proliferation">
+  <data key="d11">id23675709</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Cyclin D" target="Cyclin A">
+  <data key="d11">b1405_fd00b_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="Cyclin D" target="cMyc">
+  <data key="d11">b1405_ea8cb_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="Cyclin D" target="CDK2">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="Cyclin D" target="CDK4">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="Cyclin D" target="FOXM1">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="Cyclin A" target="Proliferation">
+  <data key="d11">id23675709</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Cyclin A" target="Cyclin D">
+  <data key="d11">fd00b_b1405_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="Cyclin A" target="cMyc">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="Cyclin A" target="CDK2">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="Cyclin A" target="CDK4">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="Cyclin A" target="FOXM1">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="cMyc" target="Proliferation">
+  <data key="d11">id23675709</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="cMyc" target="Cyclin D">
+  <data key="d11">ea8cb_b1405_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="cMyc" target="Cyclin A">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="cMyc" target="CDK2">
+  <data key="d11">ea8cb_d159b_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="cMyc" target="CDK4">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="cMyc" target="FOXM1">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="CDK2" target="Proliferation">
+  <data key="d11">id23675709</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CDK2" target="Cyclin D">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="CDK2" target="Cyclin A">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="CDK2" target="cMyc">
+  <data key="d11">d159b_ea8cb_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="CDK2" target="CDK4">
+  <data key="d11">d159b_fbb2c_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="CDK2" target="FOXM1">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="CDK4" target="Proliferation">
+  <data key="d11">id23675709</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CDK4" target="Cyclin D">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="CDK4" target="Cyclin A">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="CDK4" target="cMyc">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_5</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="CDK4" target="CDK2">
+  <data key="d11">fbb2c_d159b_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="CDK4" target="FOXM1">
+  <data key="d11">fbb2c_b46b1_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="FOXM1" target="Proliferation">
+  <data key="d11">id23675709</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FOXM1" target="Cyclin D">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOXM1" target="Cyclin A">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOXM1" target="cMyc">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOXM1" target="CDK2">
+  <data key="d11">b1405_fd00b_ea8cb_d159b_fbb2c_b46b1_6</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="FOXM1" target="CDK4">
+  <data key="d11">b46b1_fbb2c_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="Ca2+" target="CaM">
+  <data key="d11">id26e3cb39</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CaM" target="NFAT">
+  <data key="d11">idf33bcfe6</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CaM" target="CRTC2">
+  <data key="d11">idf33bcfe6</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="IGF-1" target="IGF-1R">
+  <data key="d11">id28aeb278</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="IGF-1R" target="K-Ras">
+  <data key="d11">iddc58a8d7</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="VEGFR-1" target="AKT1">
+  <data key="d11">id367f4ecd</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="VEGFR-1" target="AKT2">
+  <data key="d11">id367f4ecd</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="VEGFR-1" target="AKT3">
+  <data key="d11">id367f4ecd</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TRs" target="T3">
+  <data key="d11">id3932fca8</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="FOXO1" target="Pdx1">
+  <data key="d11">id52e30c5c</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Pdx1" target="Proliferation">
+  <data key="d11">ida15bf21f</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="PLGF" target="VEGFR-1">
+  <data key="d11">id6105db16</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Pref-1R" target="ERK 1">
+  <data key="d11">id6efcb2b5</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Pref-1R" target="ERK 2">
+  <data key="d11">id6efcb2b5</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NFAT" target="PI3K">
+  <data key="d11">id73560808</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NFAT" target="Cyclin D">
+  <data key="d11">iddbe138d7</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NFAT" target="Cyclin A">
+  <data key="d11">iddbe138d7</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NFAT" target="cMyc">
+  <data key="d11">iddbe138d7</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NFAT" target="CDK2">
+  <data key="d11">iddbe138d7</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NFAT" target="CDK4">
+  <data key="d11">iddbe138d7</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NFAT" target="FOXM1">
+  <data key="d11">iddbe138d7</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NFAT" target="CRTC2">
+  <data key="d11">d3670_f0f4b_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="PI3K" target="AKT1">
+  <data key="d11">idc3d2ec4b</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="PI3K" target="AKT2">
+  <data key="d11">idc3d2ec4b</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="PI3K" target="AKT3">
+  <data key="d11">idc3d2ec4b</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CRTC2" target="PI3K">
+  <data key="d11">id73560808</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CRTC2" target="Cyclin D">
+  <data key="d11">iddbe138d7</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CRTC2" target="Cyclin A">
+  <data key="d11">iddbe138d7</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CRTC2" target="cMyc">
+  <data key="d11">iddbe138d7</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CRTC2" target="CDK2">
+  <data key="d11">iddbe138d7</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CRTC2" target="CDK4">
+  <data key="d11">iddbe138d7</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CRTC2" target="FOXM1">
+  <data key="d11">iddbe138d7</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CRTC2" target="NFAT">
+  <data key="d11">f0f4b_d3670_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="B-Raf" target="ERK 1">
+  <data key="d11">id8dbbe773</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="B-Raf" target="ERK 2">
+  <data key="d11">id8dbbe773</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="P16ink4a" target="Proliferation">
+  <data key="d11">id8f3efec</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TGFB1" target="TGFB1R">
+  <data key="d11">id98a5e5f</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TGFB1R" target="Smad7">
+  <data key="d11">id9f37ed98</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Smad7" target="AKT1">
+  <data key="d11">idcb6bb4ac</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Smad7" target="AKT2">
+  <data key="d11">idcb6bb4ac</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Smad7" target="AKT3">
+  <data key="d11">idcb6bb4ac</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="EZH2" target="P16ink4a">
+  <data key="d11">ida87ec1a6</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="T4" target="TRs">
+  <data key="d11">idb2e4be81</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="T4" target="T3">
+  <data key="d11">c3469_f9233_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="Rasf1a" target="Proliferation">
+  <data key="d11">idd001a62e</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Pref-1" target="Pref-1R">
+  <data key="d11">idde9852b</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Insulin" target="IR">
+  <data key="d11">ide83591df</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+</graph></graphml>

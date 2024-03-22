@@ -1,0 +1,27 @@
+source|target|source_label|target_label|source_id|target_id
+BDNF|TrkB|BDNF|TrkB|http://www.ncbi.nlm.nih.gov/gene/627|http://www.ncbi.nlm.nih.gov/gene/4915
+TrkB|C/EBP10A𝛽|TrkB|C/EBP10A𝛽|http://www.ncbi.nlm.nih.gov/gene/4915|http://www.ncbi.nlm.nih.gov/gene/1051
+TrkB|AKT 1|TrkB|AKT 1|http://www.ncbi.nlm.nih.gov/gene/4915|http://www.ncbi.nlm.nih.gov/gene/207
+TrkB|AKT 3|TrkB|AKT 3|http://www.ncbi.nlm.nih.gov/gene/4915|http://www.ncbi.nlm.nih.gov/gene/10000
+δ-secretase|δ-secretase|δ-secretase|δ-secretase|http://www.ncbi.nlm.nih.gov/gene/5641|http://www.ncbi.nlm.nih.gov/gene/5641
+δ-secretase|Amyloid-beta|δ-secretase|Amyloid-beta|http://www.ncbi.nlm.nih.gov/gene/5641|http://purl.obolibrary.org/obo/CHEBI_64645
+AKT 1|AKT 1|AKT 1|AKT 1|http://www.ncbi.nlm.nih.gov/gene/207|http://www.ncbi.nlm.nih.gov/gene/207
+AKT 1|AKT 3|AKT 1|AKT 3|http://www.ncbi.nlm.nih.gov/gene/207|http://www.ncbi.nlm.nih.gov/gene/10000
+AKT 1|δ-secretase|AKT 1|δ-secretase|http://www.ncbi.nlm.nih.gov/gene/207|http://www.ncbi.nlm.nih.gov/gene/5641
+AKT 3|AKT 1|AKT 3|AKT 1|http://www.ncbi.nlm.nih.gov/gene/10000|http://www.ncbi.nlm.nih.gov/gene/207
+AKT 3|AKT 3|AKT 3|AKT 3|http://www.ncbi.nlm.nih.gov/gene/10000|http://www.ncbi.nlm.nih.gov/gene/10000
+AKT 3|δ-secretase|AKT 3|δ-secretase|http://www.ncbi.nlm.nih.gov/gene/10000|http://www.ncbi.nlm.nih.gov/gene/5641
+SRPK2|δ-secretase|SRPK2|δ-secretase|http://www.ncbi.nlm.nih.gov/gene/6733|http://www.ncbi.nlm.nih.gov/gene/5641
+APP|Amyloid-beta|APP|Amyloid-beta|http://www.ncbi.nlm.nih.gov/gene/351|http://purl.obolibrary.org/obo/CHEBI_64645
+Amyloid-beta|LGMN|Amyloid-beta|LGMN|http://purl.obolibrary.org/obo/CHEBI_64645|http://www.ncbi.nlm.nih.gov/gene/5641
+Amyloid-beta|Alzheimer's disease|Amyloid-beta|Alzheimer's disease|http://purl.obolibrary.org/obo/CHEBI_64645|http://www.ebi.ac.uk/efo/EFO_0000249
+Dopamine|DOPAL|Dopamine|DOPAL|http://purl.obolibrary.org/obo/CHEBI_18243|http://purl.obolibrary.org/obo/CHEBI_27978
+DOPAL|δ-secretase|DOPAL|δ-secretase|http://purl.obolibrary.org/obo/CHEBI_27978|http://www.ncbi.nlm.nih.gov/gene/5641
+LGMN|Prolegumain|LGMN|Prolegumain|http://www.ncbi.nlm.nih.gov/gene/5641|http://www.ncbi.nlm.nih.gov/gene/5641
+Prolegumain|δ-secretase|Prolegumain|δ-secretase|http://www.ncbi.nlm.nih.gov/gene/5641|http://www.ncbi.nlm.nih.gov/gene/5641
+STAT1|BACE1|STAT1|BACE1|http://www.ncbi.nlm.nih.gov/gene/6772|http://www.ncbi.nlm.nih.gov/gene/23621
+BACE1|Amyloid-beta|BACE1|Amyloid-beta|http://www.ncbi.nlm.nih.gov/gene/23621|http://purl.obolibrary.org/obo/CHEBI_64645
+C/EBP10A𝛽|LGMN|C/EBP10A𝛽|LGMN|http://www.ncbi.nlm.nih.gov/gene/1051|http://www.ncbi.nlm.nih.gov/gene/5641
+Microtubule-associated protein tau|Microtubule-associated protein tau|Microtubule-associated protein tau|Microtubule-associated protein tau|http://www.ncbi.nlm.nih.gov/gene/4137|http://www.ncbi.nlm.nih.gov/gene/4137
+PP2A|PP2A|PP2A|PP2A|http://www.ncbi.nlm.nih.gov/gene/5516|http://www.ncbi.nlm.nih.gov/gene/5516
+PP2A|Microtubule-associated protein tau|PP2A|Microtubule-associated protein tau|http://www.ncbi.nlm.nih.gov/gene/5516|http://www.ncbi.nlm.nih.gov/gene/4137

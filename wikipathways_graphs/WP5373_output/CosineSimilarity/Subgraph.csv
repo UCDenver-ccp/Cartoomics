@@ -1,0 +1,344 @@
+S|P|O
+RUNX2|subClassOf|protein_coding_gene
+COL10A1|subClassOf|protein_coding_gene
+RUNX2|subClassOf|gene
+VEGFA|subClassOf|gene
+MMP13|subClassOf|protein_coding_gene
+valproic acid|interacts with|RUNX2
+valproic acid|interacts with|CEBPB
+COL10A1|subClassOf|gene
+DDR2 (human)|subClassOf|gene
+COL10A1|participates_in|Collagen chain trimerization
+COL3A1|participates_in|Collagen chain trimerization
+COL1A1|participates_in|Collagen chain trimerization
+COL2A1|participates_in|Collagen chain trimerization
+VEGFA|subClassOf|protein_coding_gene
+COL10A1|participates_in|Collagen formation
+MMP13|participates_in|Collagen formation
+CEBPB|subClassOf|protein_coding_gene
+MMP13|subClassOf|gene
+MMP13|participates_in|Extracellular matrix organization
+COL10A1|participates_in|Extracellular matrix organization
+DIO2|has gene product|type II iodothyronine deiodinase (human)
+Triiodothyronine|interacts with|type II iodothyronine deiodinase (human)
+EPAS1|participates_in|Developmental Biology
+CEBPB|participates_in|Developmental Biology
+ARNT|subClassOf|protein_coding_gene
+GANC|subClassOf|protein_coding_gene
+ARNT|causes or contributes to condition|Melanoma
+COL2A1|causes or contributes to condition|Melanoma
+ARNT|participates_in|Metabolism
+ACAN|participates_in|Metabolism
+ARNT|participates_in|Cellular responses to stress
+VEGFA|participates_in|Cellular responses to stress
+ARNT|participates_in|Cellular response to hypoxia
+HIF1A|participates_in|Cellular response to hypoxia
+COL2A1|subClassOf|protein_coding_gene
+ACAN|subClassOf|protein_coding_gene
+DDR2 (human)|subClassOf|protein_coding_gene
+SOX9|subClassOf|protein_coding_gene
+COL2A1|participates_in|Extracellular matrix organization
+aggrecan core protein (human)|participates_in|Extracellular matrix organization
+aggrecan core protein (human)|subClassOf|AGC
+COL2A1|participates_in|Collagen biosynthesis and modifying enzymes
+COL10A1|participates_in|Collagen biosynthesis and modifying enzymes
+COL2A1|participates_in|Assembly of collagen fibrils and other multimeric structures
+COL1A1|participates_in|Assembly of collagen fibrils and other multimeric structures
+COL2A1|causes or contributes to condition|Spondyloepiphyseal dysplasia
+VEGFA|causes or contributes to condition|Spondyloepiphyseal dysplasia
+ACAN|subClassOf|gene
+COL2A1|subClassOf|gene
+VEGFA|causes or contributes to condition|Schwartz-Jampel syndrome
+KDR|causes or contributes to condition|Schwartz-Jampel syndrome
+VEGFA|causes or contributes to condition|Osteosarcoma
+RUNX2|causes or contributes to condition|Osteosarcoma
+VEGFA|causes or contributes to condition|Prostate neoplasm
+MMP13|causes or contributes to condition|Prostate neoplasm
+VEGFA|causes or contributes to condition|Melnick-Needles syndrome
+COL2A1|causes or contributes to condition|Melnick-Needles syndrome
+HIF1A|subClassOf|protein_coding_gene
+HIF1A|causes or contributes to condition|Abnormal lung morphology
+VEGFA|causes or contributes to condition|Abnormal lung morphology
+VHL|participates_in|Cellular response to hypoxia
+Triiodothyronine|molecularly interacts with|regulation of signaling
+aflatoxin B1|molecularly interacts with|regulation of signaling
+aflatoxin B1|interacts with|EPAS1
+valproic acid|interacts with|P4HTM (human)
+valproic acid|interacts with|HIF1A
+CNMD|subClassOf|protein_coding_gene
+EPAS1|subClassOf|protein_coding_gene
+KDR|participates_in|VEGFA-VEGFR2 Pathway
+PIK3CA|participates_in|VEGFA-VEGFR2 Pathway
+KDR|participates_in|Axon guidance
+MAPK3|participates_in|Axon guidance
+MAPK1|participates_in|VEGFA-VEGFR2 Pathway
+KDR|causes or contributes to condition|myocardial ischemia
+JAK2|causes or contributes to condition|myocardial ischemia
+KDR|participates_in|VEGFR2 mediated cell proliferation
+PRKCA (human)|participates_in|VEGFR2 mediated cell proliferation
+KDR|participates_in|Developmental Biology
+RELA|participates_in|Developmental Biology
+KDR|causes or contributes to condition|tubular adenocarcinoma
+NFKB1|causes or contributes to condition|tubular adenocarcinoma
+KDR|subClassOf|protein_coding_gene
+RELB|subClassOf|protein_coding_gene
+JUND|subClassOf|protein_coding_gene
+JUNB|causes or contributes to condition|myocardial ischemia
+FOS|subClassOf|protein_coding_gene
+KDR|causes or contributes to condition|Schizophrenia
+JUN|causes or contributes to condition|Schizophrenia
+FOSL2|subClassOf|protein_coding_gene
+FOSL1|subClassOf|protein_coding_gene
+FOSB|subClassOf|protein_coding_gene
+KDR|participates_in|Signal Transduction
+HIF1A|participates_in|Signal Transduction
+PIK3CA|participates_in|Signaling by Insulin receptor
+AKT1|participates_in|Signaling by Insulin receptor
+PIK3CA|participates_in|Adaptive Immune System
+AKT2|participates_in|Adaptive Immune System
+PIK3CA|participates_in|Signaling by ERBB2
+AKT3|participates_in|Signaling by ERBB2
+NGF|causes or contributes to condition|hereditary sensory and autonomic neuropathy
+NTRK1|causes or contributes to condition|hereditary sensory and autonomic neuropathy
+NGF|causes or contributes to condition|Depression
+trans-resveratrol|is substance that treats|Depression
+trans-resveratrol|molecularly interacts with|Endothelial cell proliferation
+NGF|causes or contributes to condition|Tubulointerstitial nephritis
+steroid|is substance that treats|Tubulointerstitial nephritis
+steroid|molecularly interacts with|Tube formation
+NTRK1|causes or contributes to condition|Lewy bodies
+autosomal dominant Parkinson disease 4|has phenotype|Lewy bodies
+RAS|is substance that treats|autosomal dominant Parkinson disease 4
+oxygen atom|is substance that treats|Hypoxemia
+oxygen atom|interacts with|HIF1A
+desiccated thyroid extract|has part|L-thyroxine
+desiccated thyroid extract|has part|Triiodothyronine
+hydrocarbon|molecularly interacts with|Endothelial cell proliferation
+hydrocarbon|molecularly interacts with|Tube formation
+amide|molecularly interacts with|Tube formation
+amide|molecularly interacts with|Endothelial cell proliferation
+valproic acid|interacts with|JUND
+valproic acid|interacts with|CCN2
+JUND|causes or contributes to condition|Status epilepticus
+NGF|causes or contributes to condition|Status epilepticus
+diazinon|interacts with|JUND
+diazinon|interacts with|JUNB
+valproic acid|interacts with|FOS
+JUN|causes or contributes to condition|Status epilepticus
+valproic acid|interacts with|FOSL2
+JUND|causes or contributes to condition|Neoplasm of the lung
+FOSB|causes or contributes to condition|Neoplasm of the lung
+CCN2|causes or contributes to condition|tubular adenocarcinoma
+sodium arsenite|is substance that treats|tubular adenocarcinoma
+sodium arsenite|molecularly interacts with|Endothelial cell proliferation
+valproic acid|molecularly interacts with|Tube formation
+JUNB|participates_in|Generic Transcription Pathway
+CCN2|participates_in|Generic Transcription Pathway
+JUNB|causes or contributes to condition|Status epilepticus
+JUNB|participates_in|Gene expression (Transcription)
+FOS|participates_in|Gene expression (Transcription)
+JUN|participates_in|Gene expression (Transcription)
+aflatoxin B1|interacts with|JUNB
+aflatoxin B1|interacts with|FOSL2
+JUNB|subClassOf|protein_coding_gene
+CCN2|participates_in|Gene expression (Transcription)
+FOS|causes or contributes to condition|Status epilepticus
+FOS|causes or contributes to condition|Status epilepticus without prominent motor symptoms
+JUNB|causes or contributes to condition|Status epilepticus without prominent motor symptoms
+FOS|participates_in|Toll Like Receptor 3 (TLR3) Cascade
+JUN|participates_in|Toll Like Receptor 3 (TLR3) Cascade
+JUN|causes or contributes to condition|Status epilepticus without prominent motor symptoms
+NGF|causes or contributes to condition|Status epilepticus without prominent motor symptoms
+JUN|subClassOf|protein_coding_gene
+JUN|participates_in|Immune System
+FOS|participates_in|Immune System
+JUN|causes or contributes to condition|Neoplasm of the lung
+aflatoxin B1|interacts with|NGF
+FOSL2|causes or contributes to condition|Neoplasm of the lung
+CCN2|subClassOf|protein_coding_gene
+NGF|subClassOf|protein_coding_gene
+FOSB|causes or contributes to condition|Seizure
+NGF|causes or contributes to condition|Seizure
+JUNB|causes or contributes to condition|Neoplasm of the lung
+FOSB|causes or contributes to condition|Focal sensory seizure
+FOS|causes or contributes to condition|Focal sensory seizure
+FOSB|causes or contributes to condition|Neoplasm of the liver
+JUN|causes or contributes to condition|Neoplasm of the liver
+RELA|causes or contributes to condition|Neoplasm of the breast
+IBSP|causes or contributes to condition|Neoplasm of the breast
+RELA|participates_in|Signal Transduction
+SPP1|participates_in|Signal Transduction
+RELA|participates_in|Cytokine Signaling in Immune system
+VEGFA|participates_in|Cytokine Signaling in Immune system
+RELA|causes or contributes to condition|Extrahepatic cholestasis
+CCN2|causes or contributes to condition|Extrahepatic cholestasis
+RELA|participates_in|NF-kB is activated and signals survival
+NGF|participates_in|NF-kB is activated and signals survival
+RELA|participates_in|Toll Like Receptor 2 (TLR2) Cascade
+NFKB1|participates_in|Toll Like Receptor 2 (TLR2) Cascade
+RELA|participates_in|Innate Immune System
+RELB|participates_in|Innate Immune System
+IBSP|participates_in|Extracellular matrix organization
+matrix metalloproteinase-14 (human)|participates_in|Extracellular matrix organization
+matrix metalloproteinase-14 (human)|participates_in|Endothelial cell proliferation
+polycyclic arene|is substance that treats|Neoplasm of the breast
+polycyclic arene|molecularly interacts with|Tube formation
+IBSP|causes or contributes to condition|Osteolysis
+SPP1|causes or contributes to condition|Osteolysis
+SPP1|causes or contributes to condition|adenocarcinoma
+sodium arsenite|is substance that treats|adenocarcinoma
+SPP1|causes or contributes to condition|Cerebral hemorrhage
+valproic acid|is substance that treats|Cerebral hemorrhage
+SPP1|participates_in|Extracellular matrix organization
+NFKB1|subClassOf|protein_coding_gene
+IBSP|subClassOf|protein_coding_gene
+SPP1|causes or contributes to condition|tubular adenocarcinoma
+NFKB1|participates_in|Developmental Biology
+VEGFA|participates_in|Developmental Biology
+NFKB1|causes or contributes to condition|adenocarcinoma
+CCN2|causes or contributes to condition|adenocarcinoma
+NFKB1|participates_in|p75NTR signals via NF-kB
+NGF|participates_in|p75NTR signals via NF-kB
+valproic acid|interacts with|NFKB1
+valproic acid|interacts with|RELA
+NFKB1|participates_in|CLEC7A (Dectin-1) signaling
+RELB|participates_in|CLEC7A (Dectin-1) signaling
+SPP1|subClassOf|protein_coding_gene
+RELB|participates_in|Cytokine Signaling in Immune system
+RELB|participates_in|CD209 (DC-SIGN) signaling
+NFKB1|participates_in|CD209 (DC-SIGN) signaling
+MAPK3|subClassOf|protein_coding_gene
+MAPK3|participates_in|Disease
+aggrecan core protein (human)|participates_in|Disease
+valproic acid|interacts with|MAPK3
+valproic acid|interacts with|COL2A1
+MAPK3|participates_in|Gene expression (Transcription)
+RUNX2|participates_in|Gene expression (Transcription)
+MAPK3|participates_in|VEGFR2 mediated cell proliferation
+VEGFA|participates_in|VEGFR2 mediated cell proliferation
+MAPK3|causes or contributes to condition|Prostate cancer
+MMP13|causes or contributes to condition|Prostate cancer
+MAPK3|participates_in|Interleukin receptor SHC signaling
+MAPK1|participates_in|Interleukin receptor SHC signaling
+valproic acid|interacts with|MAPK1
+valproic acid|interacts with|SOX9
+MAPK1|participates_in|Disease
+MAPK1|subClassOf|protein_coding_gene
+VEGFA|participates_in|VEGFA-VEGFR2 Pathway
+MAPK1|participates_in|MAP2K and MAPK activation
+MAPK3|participates_in|MAP2K and MAPK activation
+JAK2|participates_in|Interleukin-6 signaling
+STAT3|participates_in|Interleukin-6 signaling
+FGFR1|participates_in|Role of LAT2/NTAL/LAB on calcium mobilization
+PIK3CA|participates_in|Role of LAT2/NTAL/LAB on calcium mobilization
+FGFR1|participates_in|Signal Transduction
+glial cell line-derived neurotrophic factor (human)|participates_in|Signal Transduction
+RAS|interacts with|glial cell line-derived neurotrophic factor (human)
+FGFR1|causes or contributes to condition|Beare-Stevenson cutis gyrata syndrome
+Beare-Stevenson cutis gyrata syndrome|disease has basis in dysfunction of|FGFR2
+FGFR1|participates_in|VEGFA-VEGFR2 Pathway
+FGFR3|participates_in|VEGFA-VEGFR2 Pathway
+FGFR1|participates_in|Interleukin-3, Interleukin-5 and GM-CSF signaling
+FGFR4|participates_in|Interleukin-3, Interleukin-5 and GM-CSF signaling
+FGFR1|participates_in|Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+LAMTOR1|participates_in|Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+FGFR2|participates_in|Interleukin-2 family signaling
+PIK3CA|participates_in|Interleukin-2 family signaling
+FGFR2|participates_in|NCAM signaling for neurite out-growth
+glial cell line-derived neurotrophic factor (human)|participates_in|NCAM signaling for neurite out-growth
+FGFR2|participates_in|Fc epsilon receptor (FCERI) signaling
+FGFR1|participates_in|Fc epsilon receptor (FCERI) signaling
+FGFR2|participates_in|Signaling by GPCR
+FGFR3|participates_in|Signaling by GPCR
+FGFR4|participates_in|Interleukin-2 family signaling
+FGFR2|participates_in|Signaling by Insulin receptor
+LAMTOR1|participates_in|Signaling by Insulin receptor
+FGFR3|participates_in|Signaling by FGFR3 in disease
+PIK3CA|participates_in|Signaling by FGFR3 in disease
+valproic acid|interacts with|FGFR3
+valproic acid|is substance that treats|Memory impairment
+RAS|is substance that treats|Memory impairment
+FGFR3|participates_in|Prolonged ERK activation events
+FGFR1|participates_in|Prolonged ERK activation events
+FGFR3|causes or contributes to condition|Saethre-Chotzen syndrome
+FGFR2|causes or contributes to condition|Saethre-Chotzen syndrome
+FGFR3|participates_in|Interleukin receptor SHC signaling
+FGFR4|participates_in|Interleukin receptor SHC signaling
+FGFR3|participates_in|IRS-related events triggered by IGF1R
+LAMTOR1|participates_in|IRS-related events triggered by IGF1R
+FGFR4|participates_in|RET signaling
+glial cell line-derived neurotrophic factor (human)|participates_in|RET signaling
+FGFR4|participates_in|Signalling to p38 via RIT and RIN
+FGFR1|participates_in|Signalling to p38 via RIT and RIN
+FGFR4|participates_in|Prolonged ERK activation events
+FGFR2|participates_in|Prolonged ERK activation events
+FGFR3|participates_in|Interleukin-2 family signaling
+FGFR4|participates_in|Insulin receptor signalling cascade
+LAMTOR1|participates_in|Insulin receptor signalling cascade
+PIK3CA|participates_in|Insulin receptor signalling cascade
+LAMTOR1|participates_in|Innate Immune System
+transcription factor p65 (human)|participates_in|Innate Immune System
+RAS|interacts with|transcription factor p65 (human)
+FGFR1|participates_in|Signaling by Insulin receptor
+FGFR2|participates_in|Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+FGFR3|participates_in|Signaling by Insulin receptor
+FGFR4|participates_in|Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+transcription factor p65 (human)|participates_in|Toll Like Receptor 9 (TLR9) Cascade
+MAPK1|participates_in|Toll Like Receptor 9 (TLR9) Cascade
+RAS|is substance that treats|amnestic disorder
+genistein(1-)|is substance that treats|amnestic disorder
+genistein(1-)|interacts with|MAPK3
+AKT1|subClassOf|gene
+AKT1|subClassOf|protein_coding_gene
+AKT1|participates_in|Cytokine Signaling in Immune system
+AKT1|participates_in|Signal Transduction
+SOX9|participates_in|Signal Transduction
+AKT1|participates_in|Metabolism
+aggrecan core protein (human)|participates_in|Metabolism
+AKT1|participates_in|IRS-related events triggered by IGF1R
+AKT2|participates_in|IRS-related events triggered by IGF1R
+AKT1|participates_in|CD28 co-stimulation
+AKT3|participates_in|CD28 co-stimulation
+AKT2|participates_in|Gene expression (Transcription)
+AKT2|subClassOf|protein_coding_gene
+AKT2|participates_in|Signal Transduction
+VEGFA|participates_in|Signal Transduction
+AKT2|subClassOf|gene
+AKT2|participates_in|Disease
+AKT2|participates_in|Costimulation by the CD28 family
+AKT1|participates_in|Costimulation by the CD28 family
+AKT2|participates_in|Intrinsic Pathway for Apoptosis
+AKT3|participates_in|Intrinsic Pathway for Apoptosis
+AKT3|participates_in|Gene expression (Transcription)
+AKT3|subClassOf|protein_coding_gene
+AKT3|participates_in|Generic Transcription Pathway
+VEGFA|participates_in|Generic Transcription Pathway
+AKT3|subClassOf|gene
+AKT3|participates_in|Signal Transduction
+AKT3|participates_in|Disease
+AKT3|participates_in|VEGFR2 mediated vascular permeability
+AKT1|participates_in|VEGFR2 mediated vascular permeability
+AKT3|participates_in|Transcriptional Regulation by TP53
+AKT2|participates_in|Transcriptional Regulation by TP53
+SOX9|has gene product|transcription factor SOX-9 (human)
+transcription factor SOX-9 (human)|molecularly interacts with|aggrecan core protein (human)
+aggrecan core protein (human)|molecularly interacts with|transcription factor SOX-9 (human)
+transcription factor SOX-9 (human)|has_gene_template|SOX9
+FGF23|participates_in|VEGFA-VEGFR2 Pathway
+FGF23|participates_in|Negative regulation of the PI3K/AKT network
+FGFR2|participates_in|Negative regulation of the PI3K/AKT network
+FGF23|participates_in|Signalling to p38 via RIT and RIN
+FGFR3|participates_in|Signalling to p38 via RIT and RIN
+FGF23|participates_in|IRS-related events triggered by IGF1R
+FGFR4|participates_in|IRS-related events triggered by IGF1R
+FGF23|participates_in|Insulin receptor signalling cascade
+COL3A1|subClassOf|gene
+COL3A1|participates_in|Collagen biosynthesis and modifying enzymes
+COL3A1|participates_in|Extracellular matrix organization
+COL1A1|participates_in|Extracellular matrix organization
+COL3A1|participates_in|Collagen formation
+COL2A1|participates_in|Collagen formation
+COL1A1|subClassOf|protein_coding_gene
+COL1A1|causes or contributes to condition|Extrahepatic cholestasis
+COL3A1|causes or contributes to condition|Extrahepatic cholestasis
+COL1A1|participates_in|Collagen biosynthesis and modifying enzymes

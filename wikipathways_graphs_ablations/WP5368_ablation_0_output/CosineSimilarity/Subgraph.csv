@@ -1,0 +1,74 @@
+S|P|O
+HSD17B1|participates_in|Estrogen biosynthesis
+Estradiol-17beta|participates_in|Estrogen biosynthesis
+SLCO1B3|has gene product|solute carrier organic anion transporter family member 1B3 (human)
+estrone 3-sulfate|interacts with|solute carrier organic anion transporter family member 1B3 (human)
+dehydroepiandrosterone sulfate|interacts with|solute carrier organic anion transporter family member 1B3 (human)
+aflatoxin B1|interacts with|SLCO1B3
+aflatoxin B1|interacts with|SLCO1A2
+aflatoxin B1|interacts with|SLCO2B1
+SLCO1B3|participates_in|Transport of organic anions
+SLCO4A1|participates_in|Transport of organic anions
+SLCO1B3|participates_in|Transport of small molecules
+SLCO4C1|participates_in|Transport of small molecules
+estrone 3-sulfate|participates_in|Transport of organic anions
+SLCO4A1|participates_in|SLC-mediated transmembrane transport
+SLCO2B1|participates_in|SLC-mediated transmembrane transport
+SLCO4C1|participates_in|Transport of organic anions
+SLCO4A1|subClassOf|protein_coding_gene
+SLCO1A2|subClassOf|protein_coding_gene
+SLCO2B1|participates_in|Transport of organic anions
+SLCO2B1|participates_in|Transport of vitamins, nucleosides, and related molecules
+dehydroepiandrosterone sulfate|participates_in|Transport of vitamins, nucleosides, and related molecules
+SLCO1A2|participates_in|Transport of organic anions
+SLCO2B1|participates_in|Transport of small molecules
+SLCO4C1|subClassOf|protein_coding_gene
+SLCO1A2|has gene product|solute carrier organic anion transporter family member 1A2 (human)
+estrone 3-sulfate|interacts with|solute carrier organic anion transporter family member 1A2 (human)
+dehydroepiandrosterone sulfate|participates_in|Transport of organic anions
+SULT1E1|participates_in|Cytosolic sulfonation of small molecules
+estrone 3-sulfate|participates_in|Cytosolic sulfonation of small molecules
+estrone|interacts with|sulfotransferase 1E1 (human)
+sulfotransferase 1E1 (human)|molecularly interacts with|DHEA
+DHEA|interacts with|17-beta-hydroxysteroid dehydrogenase type 1 (human)
+17-beta-hydroxysteroid dehydrogenase type 1 (human)|molecularly interacts with|Estradiol-17beta
+HSD17B1|has gene product|17-beta-hydroxysteroid dehydrogenase type 1 (human)
+17-beta-hydroxysteroid dehydrogenase type 1 (human)|molecularly interacts with|estrone
+SLCO1B1|participates_in|Transport of small molecules
+SLCO1B1|participates_in|Transport of organic anions
+HSD17B1|participates_in|Visual phototransduction
+NADH(2-)|participates_in|Visual phototransduction
+17-beta-hydroxysteroid dehydrogenase type 6 (human)|molecularly interacts with|testosterone
+17-beta-hydroxysteroid dehydrogenase type 6 (human)|molecularly interacts with|Estradiol-17beta
+Estradiol-17beta|interacts with|estrogen receptor beta (human)
+estrogen receptor beta (human)|has_gene_template|ESR2
+Estradiol-17beta|is substance that treats|Glomerulonephritis
+ESR1 (human)|causes or contributes to condition|Glomerulonephritis
+cytochrome P450 2C8 (human)|molecularly interacts with|Estradiol-17beta
+cytochrome P450 2C8 (human)|molecularly interacts with|estrone
+estrone 3-sulfate|has functional parent|estrone
+SULT1E1|participates_in|Biological oxidations
+dehydroepiandrosterone sulfate|participates_in|Biological oxidations
+SULT1E1|has gene product|sulfotransferase 1E1 (human)
+sulfotransferase 1E1 (human)|molecularly interacts with|PAP
+dehydroepiandrosterone sulfate|has functional parent|DHEA
+valproic acid|interacts with|SLCO1B1
+valproic acid|interacts with|SLCO4A1
+DHEA|interacts with|steroid 17-alpha-hydroxylase/17,20 lyase (human)
+steroid 17-alpha-hydroxylase/17,20 lyase (human)|molecularly interacts with|Androstenedione
+HSD17B2|has gene product|17-beta-hydroxysteroid dehydrogenase type 2 (human)
+17-beta-hydroxysteroid dehydrogenase type 2 (human)|molecularly interacts with|NADH dianion
+HSD17B3|participates_in|Androgen biosynthesis
+testosterone|participates_in|Androgen biosynthesis
+HSD17B3|has gene product|testosterone 17-beta-dehydrogenase 3 (human)
+testosterone 17-beta-dehydrogenase 3 (human)|molecularly interacts with|NADPH tetraanion
+NADP(3-)|participates_in|Androgen biosynthesis
+HSD3B1|has gene product|3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1 (human)
+3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1 (human)|molecularly interacts with|Androstenedione
+ESR2|causes or contributes to condition|diffuse astrocytoma
+ESR1 (human)|causes or contributes to condition|diffuse astrocytoma
+Androstenedione|interacts with|3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1 (human)
+3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1 (human)|molecularly interacts with|testosterone
+SLCO1B1|has gene product|solute carrier organic anion transporter family member 1B1 (human)
+estrone 3-sulfate|interacts with|solute carrier organic anion transporter family member 1B1 (human)
+sulfotransferase 1E1 (human)|molecularly interacts with|Estradiol-17beta

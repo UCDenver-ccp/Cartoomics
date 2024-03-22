@@ -1,0 +1,63 @@
+S|P|O
+NF2|participates_in|Signal Transduction
+STK3|participates_in|Signal Transduction
+NF2|subClassOf|protein_coding_gene
+CXCL10|subClassOf|protein_coding_gene
+LATS1|subClassOf|protein_coding_gene
+TEAD2|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD4 (human)|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD1|participates_in|Metabolism
+TEAD4 (human)|participates_in|Metabolism
+TEAD1|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD3|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD1|participates_in|Generic Transcription Pathway
+TEAD2|participates_in|Generic Transcription Pathway
+RASSF1|subClassOf|protein_coding_gene
+STK4|subClassOf|protein_coding_gene
+STK3|subClassOf|protein_coding_gene
+LATS1|participates_in|Signaling by Hippo
+WWTR1|participates_in|Signaling by Hippo
+YAP1|participates_in|Signaling by Hippo
+STK38L (human)|subClassOf|protein_coding_gene
+YAP1|subClassOf|protein_coding_gene
+aflatoxin B1|interacts with|MAP4K1
+aflatoxin B1|interacts with|WWTR1
+MAP4K1|subClassOf|protein_coding_gene
+STK4|participates_in|Signal Transduction
+WWTR1|participates_in|Signal Transduction
+STK4|causes or contributes to condition|Neoplasm of the breast
+YAP1|causes or contributes to condition|Neoplasm of the breast
+MAP4K2|subClassOf|protein_coding_gene
+WWTR1|subClassOf|protein_coding_gene
+TEAD4 (human)|subClassOf|protein_coding_gene
+TEAD2|participates_in|Regulation of lipid metabolism by PPARalpha
+TEAD3|participates_in|Regulation of lipid metabolism by PPARalpha
+TNIK|subClassOf|protein_coding_gene
+YAP1|participates_in|Signal Transduction
+MAP4K4|subClassOf|protein_coding_gene
+aflatoxin B1|interacts with|MAP4K3
+MAP4K3|subClassOf|protein_coding_gene
+TNIK|subClassOf|gene
+YAP1|subClassOf|gene
+WWTR1|participates_in|Metabolism
+TEAD3|participates_in|Metabolism
+WWTR1|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+WWTR1|participates_in|Regulation of lipid metabolism by PPARalpha
+TEAD1|participates_in|Regulation of lipid metabolism by PPARalpha
+TNIK|participates_in|Cellular responses to stress
+MAP4K4|participates_in|Cellular responses to stress
+valproic acid|interacts with|MAP4K2
+valproic acid|interacts with|STK38L
+LATS1|participates_in|Signal Transduction
+CXCL10|participates_in|Signal Transduction
+STK3|participates_in|Signaling by Hippo
+valproic acid|interacts with|MAP4K1
+YAP1|participates_in|Metabolism
+YAP1|participates_in|PPARA activates gene expression
+TEAD4 (human)|participates_in|PPARA activates gene expression
+YAP1|participates_in|Generic Transcription Pathway
+TEAD3|participates_in|Generic Transcription Pathway
+YAP1|participates_in|Gene expression (Transcription)
+TEAD2|participates_in|Gene expression (Transcription)
+YAP1|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+valproic acid|interacts with|MAP4K4

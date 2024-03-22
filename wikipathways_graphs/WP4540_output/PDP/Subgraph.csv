@@ -1,0 +1,544 @@
+S|P|O
+FGFR2|participates_in|VEGFR2 mediated cell proliferation
+KDR|participates_in|VEGFR2 mediated cell proliferation
+FGFR2|participates_in|PI3K/AKT activation
+INSR|participates_in|PI3K/AKT activation
+FGFR2|causes or contributes to condition|LADD syndrome
+FGFR3|causes or contributes to condition|LADD syndrome
+FGFR2|participates_in|IRS-related events triggered by IGF1R
+IGF1R|participates_in|IRS-related events triggered by IGF1R
+KIT|participates_in|PI3K/AKT activation
+FGFR2|causes or contributes to condition|Jackson-Weiss syndrome
+FGFR1|causes or contributes to condition|Jackson-Weiss syndrome
+FGFR2|participates_in|Axon guidance
+EPHA2|participates_in|Axon guidance
+FGFR2|causes or contributes to condition|endometrium adenocarcinoma
+EGFR|causes or contributes to condition|endometrium adenocarcinoma
+FGFR2|participates_in|Signaling by Interleukins
+CSF1R|participates_in|Signaling by Interleukins
+FGFR2|participates_in|PI3K Cascade
+FGFR4|participates_in|PI3K Cascade
+FGFR2|participates_in|Signaling by VEGF
+FLT1|participates_in|Signaling by VEGF
+FLT4|participates_in|Signaling by VEGF
+FGFR2|participates_in|Signaling by NTRKs
+NGFR|participates_in|Signaling by NTRKs
+MET|participates_in|PI3K/AKT activation
+PDGFRA|participates_in|PI3K/AKT activation
+PDGFRB|participates_in|PI3K/AKT activation
+FGFR2|participates_in|SOS-mediated signalling
+TEK|participates_in|SOS-mediated signalling
+FLT3|participates_in|Signaling by Interleukins
+NTRK1|participates_in|PI3K/AKT activation
+FGFR2|participates_in|Signaling by NTRK1 (TRKA)
+NTRK2|participates_in|Signaling by NTRK1 (TRKA)
+KDR|subClassOf|gene
+INSR|subClassOf|gene
+KDR|causes or contributes to condition|Lung adenocarcinoma
+FGFR3|causes or contributes to condition|Lung adenocarcinoma
+IGF1R|subClassOf|gene
+KIT|participates_in|VEGFR2 mediated cell proliferation
+FGFR1|participates_in|VEGFR2 mediated cell proliferation
+KDR|participates_in|EPHA-mediated growth cone collapse
+EPHA2|participates_in|EPHA-mediated growth cone collapse
+KDR|causes or contributes to condition|Esophageal neoplasm
+EGFR|causes or contributes to condition|Esophageal neoplasm
+CSF1R|subClassOf|gene
+FGFR4|causes or contributes to condition|Lung adenocarcinoma
+KDR|participates_in|Neurophilin interactions with VEGF and VEGFR
+FLT1|participates_in|Neurophilin interactions with VEGF and VEGFR
+KDR|causes or contributes to condition|capillary infantile hemangioma
+FLT4|causes or contributes to condition|capillary infantile hemangioma
+KDR|causes or contributes to condition|Schizophrenia
+NGFR|causes or contributes to condition|Schizophrenia
+MET|causes or contributes to condition|Esophageal neoplasm
+PDGFRA|participates_in|VEGFR2 mediated cell proliferation
+PDGFRB|participates_in|VEGFR2 mediated cell proliferation
+KDR|causes or contributes to condition|temporal lobe epilepsy
+TEK|causes or contributes to condition|temporal lobe epilepsy
+FLT3|subClassOf|gene
+NTRK1|causes or contributes to condition|Schizophrenia
+NTRK2|causes or contributes to condition|Lung adenocarcinoma
+FGFR3|participates_in|PI3K/AKT activation
+INSR|causes or contributes to condition|Morgagni diaphragmatic hernia
+IGF1R|causes or contributes to condition|Morgagni diaphragmatic hernia
+FGFR1|participates_in|PI3K/AKT activation
+EPHA2|subClassOf|gene
+EGFR|participates_in|PI3K/AKT activation
+FGFR4|participates_in|PI3K/AKT activation
+INSR|participates_in|Signal Transduction
+FLT1|participates_in|Signal Transduction
+FLT4|subClassOf|gene
+INSR|participates_in|Signaling by NTRKs
+INSR|participates_in|Insulin receptor signalling cascade
+TEK|participates_in|Insulin receptor signalling cascade
+INSR|causes or contributes to condition|Lewy bodies
+NTRK1|causes or contributes to condition|Lewy bodies
+NTRK2|causes or contributes to condition|Lewy bodies
+FGFR3|participates_in|IGF1R signaling cascade
+IGF1R|participates_in|IGF1R signaling cascade
+FGFR3|causes or contributes to condition|testicular germ cell tumor
+KIT|causes or contributes to condition|testicular germ cell tumor
+FGFR3|causes or contributes to condition|gliosarcoma
+FGFR1|causes or contributes to condition|gliosarcoma
+FGFR3|participates_in|Axon guidance
+EGFR|causes or contributes to condition|gliosarcoma
+FGFR3|participates_in|Signaling by Interleukins
+FGFR3|participates_in|PI3K Cascade
+FLT1|causes or contributes to condition|Lung adenocarcinoma
+FGFR3|participates_in|Signaling by VEGF
+FGFR3|participates_in|Signaling by NTRKs
+FGFR3|participates_in|SOS-mediated signalling
+FGFR3|participates_in|IRS-related events triggered by IGF1R
+IGF1R|causes or contributes to condition|Abnormal lung morphology
+KIT|causes or contributes to condition|Abnormal lung morphology
+FGFR1|participates_in|IGF1R signaling cascade
+IGF1R|causes or contributes to condition|Squamous cell lung carcinoma
+EPHA2|causes or contributes to condition|Squamous cell lung carcinoma
+IGF1R|causes or contributes to condition|Adrenocortical carcinoma
+EGFR|causes or contributes to condition|Adrenocortical carcinoma
+IGF1R|causes or contributes to condition|Breast carcinoma
+CSF1R|causes or contributes to condition|Breast carcinoma
+FGFR4|participates_in|IRS-related events triggered by IGF1R
+IGF1R|causes or contributes to condition|Neoplasm of the skin
+FLT1|causes or contributes to condition|Neoplasm of the skin
+pesticide|interacts with|IGF1R
+pesticide|interacts with|NGFR
+MET|participates_in|IRS-related events triggered by IGF1R
+PDGFRA|causes or contributes to condition|Abnormal lung morphology
+PDGFRB|participates_in|IGF1R signaling cascade
+TEK|participates_in|IRS-related events triggered by IGF1R
+IGF1R|causes or contributes to condition|Lewy bodies
+KIT|participates_in|Axon guidance
+KIT|participates_in|TFAP2 (AP-2) family regulates transcription of growth factors and their receptors
+EGFR|participates_in|TFAP2 (AP-2) family regulates transcription of growth factors and their receptors
+KIT|causes or contributes to condition|Breast carcinoma
+KIT|causes or contributes to condition|Neoplasm of the skin
+KIT|participates_in|Signaling by VEGF
+KIT|participates_in|Signaling by NTRKs
+KIT|causes or contributes to condition|cutaneous melanoma
+PDGFRA|causes or contributes to condition|cutaneous melanoma
+KIT|participates_in|SOS-mediated signalling
+KIT|causes or contributes to condition|Acute myelomonocytic leukemia
+FLT3|causes or contributes to condition|Acute myelomonocytic leukemia
+KIT|participates_in|Signaling by NTRK1 (TRKA)
+FGFR1|participates_in|Axon guidance
+FGFR1|participates_in|Signal transduction by L1
+EGFR|participates_in|Signal transduction by L1
+FGFR1|causes or contributes to condition|Neoplasm of the breast
+CSF1R|causes or contributes to condition|Neoplasm of the breast
+FGFR1|participates_in|PI3K Cascade
+FGFR1|participates_in|Signaling by VEGF
+FGFR1|participates_in|Signaling by NTRKs
+FGFR1|causes or contributes to condition|gemistocytic astrocytoma
+MET|causes or contributes to condition|gemistocytic astrocytoma
+FGFR1|participates_in|SOS-mediated signalling
+FGFR1|participates_in|Signaling by Interleukins
+FGFR1|causes or contributes to condition|pilomyxoid astrocytoma
+NTRK2|causes or contributes to condition|pilomyxoid astrocytoma
+EGFR|participates_in|Axon guidance
+EPHA2|causes or contributes to condition|Neoplasm
+CSF1R|causes or contributes to condition|Neoplasm
+FGFR4|participates_in|Axon guidance
+EPHA2|subClassOf|protein_coding_gene
+FLT1|subClassOf|protein_coding_gene
+NGFR|subClassOf|protein_coding_gene
+MET|participates_in|Axon guidance
+PDGFRA|participates_in|Axon guidance
+PDGFRB|participates_in|Axon guidance
+TEK|participates_in|Axon guidance
+NTRK1|subClassOf|gene
+NTRK2|subClassOf|gene
+EGFR|participates_in|Signaling by Interleukins
+EGFR|participates_in|Signaling by VEGF
+pesticide|interacts with|EGFR
+EGFR|participates_in|SOS-mediated signalling
+EGFR|causes or contributes to condition|Alcoholism
+NTRK2|causes or contributes to condition|Alcoholism
+FGFR4|participates_in|Signaling by Interleukins
+FLT1|causes or contributes to condition|Breast carcinoma
+CSF1R|subClassOf|protein_coding_gene
+CSF1R|causes or contributes to condition|Acute megakaryocytic leukemia
+MET|causes or contributes to condition|Acute megakaryocytic leukemia
+PDGFRA|participates_in|Signaling by Interleukins
+PDGFRB|participates_in|Signaling by Interleukins
+TEK|participates_in|Signaling by Interleukins
+FGFR4|participates_in|IGF1R signaling cascade
+FGFR4|participates_in|Signaling by VEGF
+FGFR4|participates_in|Signaling by NTRKs
+FGFR4|participates_in|SOS-mediated signalling
+FLT1|participates_in|VEGF binds to VEGFR leading to receptor dimerization
+FLT4|participates_in|VEGF binds to VEGFR leading to receptor dimerization
+NGFR|participates_in|Signal Transduction
+FLT1|causes or contributes to condition|sarcomatoid renal cell carcinoma
+MET|causes or contributes to condition|sarcomatoid renal cell carcinoma
+PDGFRA|participates_in|Signaling by VEGF
+PDGFRB|participates_in|Signaling by VEGF
+FLT1|causes or contributes to condition|Clear cell renal cell carcinoma
+TEK|causes or contributes to condition|Clear cell renal cell carcinoma
+FLT3|subClassOf|protein_coding_gene
+NTRK1|participates_in|Signal Transduction
+FLT4|participates_in|Signal Transduction
+MET|participates_in|Signaling by VEGF
+FLT4|causes or contributes to condition|Clear cell renal cell carcinoma
+MET|participates_in|Signaling by NTRKs
+PDGFRA|participates_in|Signaling by NTRKs
+PDGFRB|participates_in|Signaling by NTRKs
+TEK|participates_in|Signaling by NTRKs
+NTRK1|participates_in|Signaling by NTRKs
+NTRK2|participates_in|Signaling by NTRKs
+MET|participates_in|SOS-mediated signalling
+MET|participates_in|Signaling by Interleukins
+MET|causes or contributes to condition|Neuroblastoma
+NTRK1|causes or contributes to condition|Neuroblastoma
+NTRK2|causes or contributes to condition|gemistocytic astrocytoma
+PDGFRA|participates_in|SOS-mediated signalling
+PDGFRA|causes or contributes to condition|Burkitt lymphoma
+FLT3|causes or contributes to condition|Burkitt lymphoma
+PDGFRA|participates_in|Signaling by NTRK1 (TRKA)
+PDGFRB|participates_in|IRS-related events triggered by IGF1R
+PDGFRB|participates_in|SOS-mediated signalling
+PDGFRB|participates_in|Signaling by NTRK1 (TRKA)
+TEK|participates_in|IGF1R signaling cascade
+TEK|participates_in|Signalling to p38 via RIT and RIN
+NTRK1|participates_in|Signalling to p38 via RIT and RIN
+TEK|participates_in|Signaling by NTRK1 (TRKA)
+NTRK1|participates_in|NGF-independant TRKA activation
+NTRK2|participates_in|NGF-independant TRKA activation
+GNAI2|causes or contributes to condition|Carcinoma
+CDC42|causes or contributes to condition|Carcinoma
+RHOA|causes or contributes to condition|Carcinoma
+GNAI2|participates_in|Platelet activation, signaling and aggregation
+RAC1|participates_in|Platelet activation, signaling and aggregation
+GNAI2|participates_in|Adenylate cyclase inhibitory pathway
+GNAI3|participates_in|Adenylate cyclase inhibitory pathway
+aflatoxin B1|interacts with|CDC42
+aflatoxin B1|molecularly interacts with|macromolecular complex
+F-actin|subClassOf|macromolecular complex
+CDC42|participates_in|RHO GTPases activate KTN1
+RHOA|participates_in|RHO GTPases activate KTN1
+CDC42|participates_in|Inactivation of CDC42 and RAC1
+RAC1|participates_in|Inactivation of CDC42 and RAC1
+valproic acid|interacts with|RHOA
+valproic acid|molecularly interacts with|macromolecular complex
+RHOA|participates_in|Sema4D mediated inhibition of cell attachment and migration
+RAC1|participates_in|Sema4D mediated inhibition of cell attachment and migration
+RAC1|causes or contributes to condition|dilated cardiomyopathy 1A
+hydralazine|is substance that treats|dilated cardiomyopathy 1A
+hydralazine|molecularly interacts with|macromolecular complex
+RAC1|participates_in|RHO GTPases activate KTN1
+GNAI3|participates_in|Platelet activation, signaling and aggregation
+CDC42|participates_in|Platelet activation, signaling and aggregation
+RHOA|participates_in|Platelet activation, signaling and aggregation
+PRKACA|causes or contributes to condition|Neoplasm of the adrenal gland
+CDC42|causes or contributes to condition|Neoplasm of the adrenal gland
+PRKACA|participates_in|VEGFA-VEGFR2 Pathway
+RHOA|participates_in|VEGFA-VEGFR2 Pathway
+PRKACA|participates_in|MAPK6/MAPK4 signaling
+RAC1|participates_in|MAPK6/MAPK4 signaling
+PRKACA|participates_in|PKA-mediated phosphorylation of key metabolic factors
+PRKACB|participates_in|PKA-mediated phosphorylation of key metabolic factors
+PRKACG|participates_in|PKA-mediated phosphorylation of key metabolic factors
+PRKACA|participates_in|PKA activation
+PRKAR1A|participates_in|PKA activation
+PRKAR1B|participates_in|PKA activation
+PRKAR2A|participates_in|PKA activation
+PRKAR2B|participates_in|PKA activation
+PRKACB|participates_in|MAPK6/MAPK4 signaling
+CDC42|participates_in|MAPK6/MAPK4 signaling
+PRKACB|participates_in|VEGFA-VEGFR2 Pathway
+PRKACB|participates_in|PKA activation in glucagon signalling
+PRKAR1A|participates_in|PKA activation in glucagon signalling
+PRKAR1B|participates_in|PKA activation in glucagon signalling
+PRKAR2A|participates_in|PKA activation in glucagon signalling
+PRKACB|participates_in|PKA activation
+PRKACG|participates_in|MAPK6/MAPK4 signaling
+PRKACG|participates_in|VEGFA-VEGFR2 Pathway
+PRKACG|participates_in|PKA activation in glucagon signalling
+PRKAR2B|participates_in|PKA activation in glucagon signalling
+PRKAR1A|participates_in|Factors involved in megakaryocyte development and platelet production
+CDC42|participates_in|Factors involved in megakaryocyte development and platelet production
+PRKAR1A|causes or contributes to condition|Frontal balding
+RHOA|causes or contributes to condition|Frontal balding
+RAC1|participates_in|Factors involved in megakaryocyte development and platelet production
+PRKAR1B|participates_in|Factors involved in megakaryocyte development and platelet production
+PRKAR1B|participates_in|Signaling by NTRK1 (TRKA)
+RHOA|participates_in|Signaling by NTRK1 (TRKA)
+PRKACA|participates_in|PKA activation in glucagon signalling
+PRKACG|participates_in|PKA activation
+PRKAR2A|participates_in|Factors involved in megakaryocyte development and platelet production
+PRKAR2A|participates_in|Signaling by NTRK1 (TRKA)
+PRKAR2B|participates_in|Factors involved in megakaryocyte development and platelet production
+PRKAR2B|participates_in|Signaling by NTRK1 (TRKA)
+CDH1|causes or contributes to condition|mesothelioma
+NF2|causes or contributes to condition|mesothelioma
+CDH1|participates_in|Adherens junctions interactions
+CDH10|participates_in|Adherens junctions interactions
+CDH11|participates_in|Adherens junctions interactions
+CDH12|participates_in|Adherens junctions interactions
+CDH13|participates_in|Adherens junctions interactions
+CDH15|participates_in|Adherens junctions interactions
+CDH1|subClassOf|protein_coding_gene
+CDH16|subClassOf|protein_coding_gene
+CDH17|participates_in|Adherens junctions interactions
+CDH18|participates_in|Adherens junctions interactions
+CDH19|subClassOf|protein_coding_gene
+CDH2|participates_in|Adherens junctions interactions
+CDH20|subClassOf|protein_coding_gene
+CDH22|subClassOf|protein_coding_gene
+CDH24|participates_in|Adherens junctions interactions
+CDH3|participates_in|Adherens junctions interactions
+CDH4|participates_in|Adherens junctions interactions
+CDH5|participates_in|Adherens junctions interactions
+CDH6|participates_in|Adherens junctions interactions
+CDH7|participates_in|Adherens junctions interactions
+CDH8|participates_in|Adherens junctions interactions
+CDH9|participates_in|Adherens junctions interactions
+MTOR|causes or contributes to condition|mesothelioma
+NF2|participates_in|Signal Transduction
+STK3|participates_in|Signal Transduction
+STK4|participates_in|Signal Transduction
+CDH10|subClassOf|protein_coding_gene
+NF2|subClassOf|protein_coding_gene
+aflatoxin B1|interacts with|CDH10
+aflatoxin B1|interacts with|CDH19
+aflatoxin B1|interacts with|CDH20
+aflatoxin B1|interacts with|CDH22
+CDH11|subClassOf|protein_coding_gene
+aflatoxin B1|interacts with|CDH11
+CDH12|subClassOf|protein_coding_gene
+aflatoxin B1|interacts with|CDH12
+CDH13|subClassOf|protein_coding_gene
+CDH15|subClassOf|gene
+NF2|subClassOf|gene
+CDH15|subClassOf|protein_coding_gene
+valproic acid|interacts with|CDH15
+valproic acid|interacts with|CDH19
+CDH15|participates_in|Myogenesis
+CDH2|participates_in|Myogenesis
+CDH4|participates_in|Myogenesis
+CDH17|subClassOf|protein_coding_gene
+CDH18|subClassOf|protein_coding_gene
+CDH2|subClassOf|protein_coding_gene
+CDH24|subClassOf|protein_coding_gene
+CDH3|subClassOf|protein_coding_gene
+CDH4|subClassOf|protein_coding_gene
+CDH5|subClassOf|protein_coding_gene
+CDH6|subClassOf|protein_coding_gene
+CDH7|subClassOf|protein_coding_gene
+CDH8|subClassOf|protein_coding_gene
+CDH9|subClassOf|protein_coding_gene
+aflatoxin B1|interacts with|CDH18
+valproic acid|interacts with|CDH2
+valproic acid|interacts with|CDH4
+aflatoxin B1|interacts with|CDH5
+aflatoxin B1|interacts with|CDH6
+aflatoxin B1|interacts with|CDH7
+aflatoxin B1|interacts with|CDH8
+valproic acid|interacts with|CDH9
+CDH2|subClassOf|gene
+CDH22|causes or contributes to condition|Neoplasm of the large intestine
+CDH5|causes or contributes to condition|Neoplasm of the large intestine
+CDH7|causes or contributes to condition|Neoplasm of the large intestine
+CDH3|subClassOf|gene
+CDH5|participates_in|Signal Transduction
+temozolomide|molecularly interacts with|macromolecular complex
+temozolomide|is substance that treats|gemistocytic astrocytoma
+LATS2|causes or contributes to condition|gemistocytic astrocytoma
+diethylstilbestrol|molecularly interacts with|macromolecular complex
+diethylstilbestrol|is substance that treats|Epithelial neoplasm
+LATS1|causes or contributes to condition|Epithelial neoplasm
+GNA11|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+PLCB1|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+PLCB2|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+PLCB3|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+GNA11|causes or contributes to condition|Cutaneous melanoma
+PLCB4|causes or contributes to condition|Cutaneous melanoma
+GNA11|causes or contributes to condition|Iris melanoma
+GNAQ|causes or contributes to condition|Iris melanoma
+PLCB1|participates_in|Acetylcholine regulates insulin secretion
+PRKCA|participates_in|Acetylcholine regulates insulin secretion
+PLCB1|participates_in|Beta-catenin independent WNT signaling
+PRKCB|participates_in|Beta-catenin independent WNT signaling
+PLCB1|participates_in|PLC beta mediated events
+PRKCD|participates_in|PLC beta mediated events
+PLCB1|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+PRKCE|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+PRKCG|participates_in|PLC beta mediated events
+PRKCH|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+PLCB1|causes or contributes to condition|Bipolar affective disorder
+PRKCI|causes or contributes to condition|Bipolar affective disorder
+PRKCQ|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+PRKCZ|causes or contributes to condition|Bipolar affective disorder
+PLCB1|participates_in|Metabolism
+PRKD3|participates_in|Metabolism
+PLCB1|participates_in|Synthesis of IP3 and IP4 in the cytosol
+PLCB4|participates_in|Synthesis of IP3 and IP4 in the cytosol
+PLCB2|participates_in|Acetylcholine regulates insulin secretion
+PLCB2|participates_in|Beta-catenin independent WNT signaling
+PLCB2|participates_in|PLC beta mediated events
+PLCB2|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+PLCB2|participates_in|Signal Transduction
+PRKCI|participates_in|Signal Transduction
+PRKCZ|participates_in|Signal Transduction
+PLCB2|participates_in|Metabolism
+PLCB2|participates_in|Synthesis of IP3 and IP4 in the cytosol
+PLCB3|participates_in|Acetylcholine regulates insulin secretion
+PLCB3|participates_in|Beta-catenin independent WNT signaling
+PLCB3|participates_in|PLC beta mediated events
+PLCB3|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+PLCB3|participates_in|Signal Transduction
+PLCB3|participates_in|Metabolism
+PLCB3|participates_in|Synthesis of IP3 and IP4 in the cytosol
+PLCB4|participates_in|PLC beta mediated events
+PRKCA|participates_in|PLC beta mediated events
+PLCB4|participates_in|GPCR downstream signalling
+PRKCB|participates_in|GPCR downstream signalling
+PLCB4|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+PLCB4|participates_in|Signal Transduction
+PLCB4|participates_in|Metabolism
+GNAQ|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+GNAQ|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK
+PRKAA1|participates_in|Generic Transcription Pathway
+WWTR1|participates_in|Generic Transcription Pathway
+YAP1|participates_in|Generic Transcription Pathway
+PRKAA1|participates_in|PKB-mediated events
+PRKAA2|participates_in|PKB-mediated events
+PRKAB1|participates_in|PKB-mediated events
+PRKAB2|participates_in|PKB-mediated events
+PRKAG1|participates_in|PKB-mediated events
+PRKAG2|participates_in|PKB-mediated events
+PRKAG3|participates_in|PKB-mediated events
+WWTR1|causes or contributes to condition|epithelioid hemangioendothelioma
+YAP1|causes or contributes to condition|epithelioid hemangioendothelioma
+PRKAA2|participates_in|Generic Transcription Pathway
+PRKAA2|participates_in|Activation of PPARGC1A (PGC-1alpha) by phosphorylation
+PRKAB1|participates_in|Activation of PPARGC1A (PGC-1alpha) by phosphorylation
+PRKAA2|participates_in|AMPK inhibits chREBP transcriptional activation activity
+PRKAB2|participates_in|AMPK inhibits chREBP transcriptional activation activity
+PRKAG1|participates_in|Activation of PPARGC1A (PGC-1alpha) by phosphorylation
+PRKAG2|participates_in|AMPK inhibits chREBP transcriptional activation activity
+PRKAG3|participates_in|Activation of PPARGC1A (PGC-1alpha) by phosphorylation
+PRKAB1|participates_in|Generic Transcription Pathway
+PRKAB2|participates_in|Activation of PPARGC1A (PGC-1alpha) by phosphorylation
+PRKAG2|participates_in|Activation of PPARGC1A (PGC-1alpha) by phosphorylation
+PRKAB2|participates_in|Generic Transcription Pathway
+PRKAG1|participates_in|Generic Transcription Pathway
+PRKAG2|participates_in|Generic Transcription Pathway
+PRKAG3|participates_in|Generic Transcription Pathway
+LEF1|participates_in|Binding of TCF/LEF:CTNNB1 to target gene promoters
+TCF7L1|participates_in|Binding of TCF/LEF:CTNNB1 to target gene promoters
+TCF7L2|participates_in|Binding of TCF/LEF:CTNNB1 to target gene promoters
+TCF7|participates_in|Binding of TCF/LEF:CTNNB1 to target gene promoters
+CTNNB1|participates_in|Binding of TCF/LEF:CTNNB1 to target gene promoters
+SMAD3|participates_in|SMAD4 MH2 Domain Mutants in Cancer
+SMAD2|participates_in|SMAD4 MH2 Domain Mutants in Cancer
+PRKCA|participates_in|Signaling by EGFR
+CDC42|participates_in|Signaling by EGFR
+PRKCA|participates_in|Signaling by ERBB2
+RHOA|participates_in|Signaling by ERBB2
+PRKCA|participates_in|PCP/CE pathway
+RAC1|participates_in|PCP/CE pathway
+PRKCA|participates_in|Disinhibition of SNARE formation
+PRKCB|participates_in|Disinhibition of SNARE formation
+PRKCA|participates_in|HuR (ELAVL1) binds and stabilizes mRNA
+PRKCD|participates_in|HuR (ELAVL1) binds and stabilizes mRNA
+PRKCA|participates_in|PLC-gamma1 signalling
+PRKCE|participates_in|PLC-gamma1 signalling
+PRKCG|participates_in|Disinhibition of SNARE formation
+PRKCA|participates_in|G alpha (z) signalling events
+PRKCH|participates_in|G alpha (z) signalling events
+PRKCA|participates_in|Signaling by NTRKs
+PRKCI|participates_in|Signaling by NTRKs
+PRKCA|participates_in|Inactivation, recovery and regulation of the phototransduction cascade
+PRKCQ|participates_in|Inactivation, recovery and regulation of the phototransduction cascade
+PRKCA|participates_in|VEGFR2 mediated cell proliferation
+PRKCZ|participates_in|VEGFR2 mediated cell proliferation
+PRKCA|participates_in|Metabolism
+PRKCB|participates_in|VEGFA-VEGFR2 Pathway
+CDC42|participates_in|VEGFA-VEGFR2 Pathway
+PRKCB|participates_in|PCP/CE pathway
+RHOA|participates_in|PCP/CE pathway
+PRKCB|participates_in|G alpha (z) signalling events
+PRKCD|participates_in|G alpha (z) signalling events
+PRKCE|participates_in|G alpha (z) signalling events
+PRKCB|participates_in|Signal Transduction
+PRKCQ|participates_in|G alpha (z) signalling events
+PRKCB|participates_in|VEGFR2 mediated cell proliferation
+PRKCB|subClassOf|protein_coding_gene
+PRKD3|subClassOf|protein_coding_gene
+PRKCD|participates_in|Fcgamma receptor (FCGR) dependent phagocytosis
+CDC42|participates_in|Fcgamma receptor (FCGR) dependent phagocytosis
+PRKCD|participates_in|Signaling by ERBB2
+RAC1|participates_in|Fcgamma receptor (FCGR) dependent phagocytosis
+PRKCD|participates_in|PLC-gamma1 signalling
+PRKCG|participates_in|PLC-gamma1 signalling
+PRKCD|participates_in|Effects of PIP2 hydrolysis
+PRKCH|participates_in|Effects of PIP2 hydrolysis
+PRKCD|participates_in|Signaling by NTRKs
+PRKCQ|participates_in|Effects of PIP2 hydrolysis
+PRKCD|participates_in|VEGFR2 mediated cell proliferation
+PRKCD|subClassOf|protein_coding_gene
+PRKCE|participates_in|Fcgamma receptor (FCGR) dependent phagocytosis
+PRKCE|participates_in|Signaling by ERBB2
+PRKCE|participates_in|Effects of PIP2 hydrolysis
+PRKCE|participates_in|Signaling by NTRKs
+PRKCE|causes or contributes to condition|Allodynia
+PRKCZ|causes or contributes to condition|Allodynia
+PRKCE|subClassOf|protein_coding_gene
+PRKCG|participates_in|Signaling by EGFR
+PRKCG|participates_in|PCP/CE pathway
+PRKCG|participates_in|G alpha (z) signalling events
+PRKCG|participates_in|Signaling by NTRKs
+PRKCG|causes or contributes to condition|Allodynia
+valproic acid|interacts with|PRKCG
+valproic acid|interacts with|PRKD3
+PRKCH|participates_in|Platelet activation, signaling and aggregation
+PRKCH|participates_in|Signal Transduction
+PRKCZ|participates_in|Platelet activation, signaling and aggregation
+PRKCH|subClassOf|protein_coding_gene
+CDC42|participates_in|Signal Transduction
+PRKCI|participates_in|p75 NTR receptor-mediated signalling
+RHOA|participates_in|p75 NTR receptor-mediated signalling
+RAC1|participates_in|p75 NTR receptor-mediated signalling
+PRKCQ|participates_in|Signal Transduction
+PRKCI|subClassOf|protein_coding_gene
+PRKCQ|participates_in|Netrin-1 signaling
+CDC42|participates_in|Netrin-1 signaling
+PRKCQ|causes or contributes to condition|Cutaneous T-cell lymphoma
+RHOA|causes or contributes to condition|Cutaneous T-cell lymphoma
+RAC1|participates_in|Netrin-1 signaling
+PRKCQ|participates_in|Platelet activation, signaling and aggregation
+PRKCQ|subClassOf|protein_coding_gene
+PRKCZ|participates_in|GPVI-mediated activation cascade
+CDC42|participates_in|GPVI-mediated activation cascade
+PRKCZ|participates_in|TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)
+RHOA|participates_in|TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)
+RAC1|participates_in|GPVI-mediated activation cascade
+valproic acid|interacts with|PRKCZ
+CDC42|subClassOf|protein_coding_gene
+RAC1|subClassOf|protein_coding_gene
+LATS2|participates_in|Signaling by Hippo
+WWTR1|participates_in|Signaling by Hippo
+YAP1|participates_in|Signaling by Hippo
+LATS1|causes or contributes to condition|gemistocytic astrocytoma
+LATS1|participates_in|Signaling by Hippo
+GNAL|participates_in|G-protein mediated events
+PRKACA|participates_in|G-protein mediated events
+PRKACB|participates_in|G-protein mediated events
+PRKACG|participates_in|G-protein mediated events
+PRKAR1A|participates_in|G-protein mediated events
+PRKAR1B|participates_in|G-protein mediated events
+PRKAR2A|participates_in|G-protein mediated events
+PRKAR2B|participates_in|G-protein mediated events
+GNAL|causes or contributes to condition|Schizophrenia
+GNAS|causes or contributes to condition|Schizophrenia
+GNAS|causes or contributes to condition|Neoplasm of the adrenal gland
+GNAS|participates_in|PKA activation in glucagon signalling
+STK3|participates_in|Signaling by Hippo
+LATS2|participates_in|Signal Transduction
+LATS1|participates_in|Signal Transduction
+TEAD1|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD2|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD3|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression
+TEAD4|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression

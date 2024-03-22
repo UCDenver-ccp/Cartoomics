@@ -1,0 +1,502 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d15" for="edge" attr.name="color" attr.type="string"/>
+<key id="d14" for="edge" attr.name="signal" attr.type="string"/>
+<key id="d13" for="edge" attr.name="interaction" attr.type="string"/>
+<key id="d12" for="edge" attr.name="arrow" attr.type="string"/>
+<key id="d11" for="edge" attr.name="edgeID" attr.type="string"/>
+<key id="d10" for="node" attr.name="geometry" attr.type="string"/>
+<key id="d9" for="node" attr.name="databaseID" attr.type="string"/>
+<key id="d8" for="node" attr.name="database" attr.type="string"/>
+<key id="d7" for="node" attr.name="color" attr.type="string"/>
+<key id="d6" for="node" attr.name="height" attr.type="string"/>
+<key id="d5" for="node" attr.name="width" attr.type="string"/>
+<key id="d4" for="node" attr.name="centerY" attr.type="string"/>
+<key id="d3" for="node" attr.name="centerX" attr.type="string"/>
+<key id="d2" for="node" attr.name="groupref" attr.type="string"/>
+<key id="d1" for="node" attr.name="graphid" attr.type="string"/>
+<key id="d0" for="node" attr.name="textlabel" attr.type="string"/>
+<graph edgedefault="directed"><node id="MERTK">
+  <data key="d0">MERTK</data>
+  <data key="d1">b8838</data>
+  <data key="d2">None</data>
+  <data key="d3">545.3625</data>
+  <data key="d4">164.05249999999975</data>
+  <data key="d5">90.00000000000004</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">10461</data>
+  <data key="d10">POINT (545.3625 164.05249999999975)</data>
+</node>
+<node id="SKI">
+  <data key="d0">SKI</data>
+  <data key="d1">e7b6b</data>
+  <data key="d2">None</data>
+  <data key="d3">353.97500000000025</data>
+  <data key="d4">264.2074999999994</data>
+  <data key="d5">90.00000000000007</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">6497</data>
+  <data key="d10">POINT (353.97500000000025 264.2074999999994)</data>
+</node>
+<node id="NF1">
+  <data key="d0">NF1</data>
+  <data key="d1">d0c4b</data>
+  <data key="d2">None</data>
+  <data key="d3">500.9350000000003</data>
+  <data key="d4">120.12500000000044</data>
+  <data key="d5">90.00000000000004</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">4763</data>
+  <data key="d10">POINT (500.9350000000003 120.12500000000044)</data>
+</node>
+<node id="SIN3A">
+  <data key="d0">SIN3A</data>
+  <data key="d1">fdf41</data>
+  <data key="d2">None</data>
+  <data key="d3">153.24749999999997</data>
+  <data key="d4">396.9000000000001</data>
+  <data key="d5">90.00000000000004</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000169375</data>
+  <data key="d10">POINT (153.24749999999997 396.9000000000001)</data>
+</node>
+<node id="SKIL">
+  <data key="d0">SKIL</data>
+  <data key="d1">ad85d</data>
+  <data key="d2">None</data>
+  <data key="d3">357.28249999999946</data>
+  <data key="d4">364.4749999999998</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">6498</data>
+  <data key="d10">POINT (357.28249999999946 364.4749999999998)</data>
+</node>
+<node id="HDAC1">
+  <data key="d0">HDAC1</data>
+  <data key="d1">e9f73</data>
+  <data key="d2">None</data>
+  <data key="d3">456.38749999999976</data>
+  <data key="d4">82.0625000000001</data>
+  <data key="d5">90.00000000000004</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">3065</data>
+  <data key="d10">POINT (456.38749999999976 82.0625000000001)</data>
+</node>
+<node id="LATS2">
+  <data key="d0">LATS2</data>
+  <data key="d1">ac9e5</data>
+  <data key="d2">None</data>
+  <data key="d3">206.89500000000004</data>
+  <data key="d4">311.3224999999993</data>
+  <data key="d5">90.00000000000004</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">26524</data>
+  <data key="d10">POINT (206.89500000000004 311.3224999999993)</data>
+</node>
+<node id="LATS1">
+  <data key="d0">LATS1</data>
+  <data key="d1">a52d0</data>
+  <data key="d2">None</data>
+  <data key="d3">493.54499999999973</data>
+  <data key="d4">469.84999999999997</data>
+  <data key="d5">90.00000000000004</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">9113</data>
+  <data key="d10">POINT (493.54499999999973 469.84999999999997)</data>
+</node>
+<node id="SATB2">
+  <data key="d0">SATB2</data>
+  <data key="d1">b720f</data>
+  <data key="d2">None</data>
+  <data key="d3">188.9274999999999</data>
+  <data key="d4">118.21250000000036</data>
+  <data key="d5">90.00000000000004</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">23314</data>
+  <data key="d10">POINT (188.9274999999999 118.21250000000036)</data>
+</node>
+<node id="HDAC3">
+  <data key="d0">HDAC3</data>
+  <data key="d1">f1226</data>
+  <data key="d2">None</data>
+  <data key="d3">352.80000000000035</data>
+  <data key="d4">82.68749999999982</data>
+  <data key="d5">90.00000000000007</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000171720</data>
+  <data key="d10">POINT (352.80000000000035 82.68749999999982)</data>
+</node>
+<node id="Sav">
+  <data key="d0">Sav</data>
+  <data key="d1">b36d6</data>
+  <data key="d2">None</data>
+  <data key="d3">511.5600000000001</data>
+  <data key="d4">310.9049999999992</data>
+  <data key="d5">90.00000000000004</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Unknown</data>
+  <data key="d9">Sav</data>
+  <data key="d10">POINT (511.5600000000001 310.9049999999992)</data>
+</node>
+<node id="ING2">
+  <data key="d0">ING2</data>
+  <data key="d1">e685d</data>
+  <data key="d2">None</data>
+  <data key="d3">532.4600000000002</data>
+  <data key="d4">400.0474999999997</data>
+  <data key="d5">90.00000000000004</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">3622</data>
+  <data key="d10">POINT (532.4600000000002 400.0474999999997)</data>
+</node>
+<node id="Mob">
+  <data key="d0">Mob</data>
+  <data key="d1">a7b38</data>
+  <data key="d2">None</data>
+  <data key="d3">525.8925000000004</data>
+  <data key="d4">226.01249999999956</data>
+  <data key="d5">90.00000000000004</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Unknown</data>
+  <data key="d9">Mob</data>
+  <data key="d10">POINT (525.8925000000004 226.01249999999956)</data>
+</node>
+<node id="PRMT5">
+  <data key="d0">PRMT5</data>
+  <data key="d1">ecb2f</data>
+  <data key="d2">None</data>
+  <data key="d3">245.15500000000023</data>
+  <data key="d4">80.26250000000049</data>
+  <data key="d5">90.00000000000007</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">10419</data>
+  <data key="d10">POINT (245.15500000000023 80.26250000000049)</data>
+</node>
+<node id="STK3">
+  <data key="d0">STK3</data>
+  <data key="d1">fad5c</data>
+  <data key="d2">None</data>
+  <data key="d3">357.2824999999994</data>
+  <data key="d4">505.1900000000001</data>
+  <data key="d5">90.00000000000004</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">6788</data>
+  <data key="d10">POINT (357.2824999999994 505.1900000000001)</data>
+</node>
+<node id="TEAD1">
+  <data key="d0">TEAD1</data>
+  <data key="d1">BKB29</data>
+  <data key="d2">f29cb</data>
+  <data key="d3">119.1424999999999</data>
+  <data key="d4">166.2575000000002</data>
+  <data key="d5">90.00000000000004</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">7003</data>
+  <data key="d10">POINT (119.1424999999999 166.2575000000002)</data>
+</node>
+<node id="TEAD2">
+  <data key="d0">TEAD2</data>
+  <data key="d1">R0NV4</data>
+  <data key="d2">f29cb</data>
+  <data key="d3">119.1424999999999</data>
+  <data key="d4">191.25750000000022</data>
+  <data key="d5">90.00000000000004</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">8463</data>
+  <data key="d10">POINT (119.1424999999999 191.25750000000022)</data>
+</node>
+<node id="TEAD3">
+  <data key="d0">TEAD3</data>
+  <data key="d1">1Z4ZS</data>
+  <data key="d2">f29cb</data>
+  <data key="d3">119.1424999999999</data>
+  <data key="d4">216.25750000000025</data>
+  <data key="d5">90.00000000000004</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">7005</data>
+  <data key="d10">POINT (119.1424999999999 216.25750000000025)</data>
+</node>
+<node id="TEAD4">
+  <data key="d0">TEAD4</data>
+  <data key="d1">4JRY9</data>
+  <data key="d2">f29cb</data>
+  <data key="d3">119.1424999999999</data>
+  <data key="d4">241.25750000000028</data>
+  <data key="d5">90.00000000000004</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">7004</data>
+  <data key="d10">POINT (119.1424999999999 241.25750000000028)</data>
+</node>
+<node id="MECP2">
+  <data key="d0">MECP2</data>
+  <data key="d1">af362</data>
+  <data key="d2">None</data>
+  <data key="d3">248.78999999999988</data>
+  <data key="d4">485.74999999999983</data>
+  <data key="d5">90.00000000000004</data>
+  <data key="d6">25.00000000000002</data>
+  <data key="d7">#None</data>
+  <data key="d8">Entrez Gene</data>
+  <data key="d9">4204</data>
+  <data key="d10">POINT (248.78999999999988 485.74999999999983)</data>
+</node>
+<edge source="MERTK" target="SKI">
+  <data key="d11">id12e0f27c</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SKI" target="LATS2">
+  <data key="d11">id2b1d4225</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SKI" target="Sav">
+  <data key="d11">id50f6b260</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="NF1" target="SKI">
+  <data key="d11">id18736120</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SIN3A" target="SKIL">
+  <data key="d11">id1a948f4b</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SKIL" target="LATS1">
+  <data key="d11">id38a7607</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SKIL" target="ING2">
+  <data key="d11">id64a4e4</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SKIL" target="STK3">
+  <data key="d11">idc75073d</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SKIL" target="MECP2">
+  <data key="d11">idfb7d0dd</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="HDAC1" target="SKI">
+  <data key="d11">id23dc9a9</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="LATS2" target="SKIL">
+  <data key="d11">idfba5aff2</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SATB2" target="SKI">
+  <data key="d11">id43debf3d</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="HDAC3" target="SKI">
+  <data key="d11">id4c89264b</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Sav" target="SKIL">
+  <data key="d11">idd9d0bd08</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Mob" target="SKI">
+  <data key="d11">id826e3e30</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="PRMT5" target="SKI">
+  <data key="d11">idb103a7e8</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TEAD1" target="SKI">
+  <data key="d11">idf897efcd</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TEAD1" target="TEAD2">
+  <data key="d11">BKB29_R0NV4_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="TEAD1" target="TEAD3">
+  <data key="d11">BKB29_R0NV4_1Z4ZS_4JRY9_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="TEAD1" target="TEAD4">
+  <data key="d11">BKB29_R0NV4_1Z4ZS_4JRY9_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="TEAD2" target="SKI">
+  <data key="d11">idf897efcd</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TEAD2" target="TEAD1">
+  <data key="d11">R0NV4_BKB29_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="TEAD2" target="TEAD3">
+  <data key="d11">R0NV4_1Z4ZS_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="TEAD2" target="TEAD4">
+  <data key="d11">BKB29_R0NV4_1Z4ZS_4JRY9_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="TEAD3" target="SKI">
+  <data key="d11">idf897efcd</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TEAD3" target="TEAD1">
+  <data key="d11">BKB29_R0NV4_1Z4ZS_4JRY9_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="TEAD3" target="TEAD2">
+  <data key="d11">1Z4ZS_R0NV4_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="TEAD3" target="TEAD4">
+  <data key="d11">1Z4ZS_4JRY9_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="TEAD4" target="SKI">
+  <data key="d11">idf897efcd</data>
+  <data key="d12">undefined</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TEAD4" target="TEAD1">
+  <data key="d11">BKB29_R0NV4_1Z4ZS_4JRY9_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="TEAD4" target="TEAD2">
+  <data key="d11">BKB29_R0NV4_1Z4ZS_4JRY9_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="TEAD4" target="TEAD3">
+  <data key="d11">4JRY9_1Z4ZS_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,6 @@
+T1	PR:000017466 125 171	WW domain containing transcription regulator 1
+T2	UBERON:0000479 295 301	tissue
+T3	GO_BP:0009790 335 356	embryonic development
+T4	UBERON:0000062 358 363	organ
+T5	GO_CC:0005634 693 700	nucleus
+T6	MONDO:0004992 867 873	cancer
