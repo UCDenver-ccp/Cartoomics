@@ -1,0 +1,34 @@
+source_node,target_node,num_paths
+TrkB,C/EBP10A𝛽,21
+δ-secretase,Amyloid-beta,4
+PP2A,Microtubule-associated protein tau,4
+Microtubule-associated protein tau,Alzheimer's disease,241
+Microtubule-associated protein tau,TrkB,47
+δ-secretase,Alzheimer's disease,453
+α-synuclein,DOPAL,1
+Amyloid-beta,LGMN,4
+DOPAL,δ-secretase,164
+δ-secretase,STAT1,1
+SET,Microtubule-associated protein tau,2
+δ-secretase,PP2A,5
+δ-secretase,Parkinson's disease,7293
+α-synuclein,Parkinson's disease,161005
+TrkB,AKT 3,3
+C/EBP10A𝛽,LGMN,8072
+AKT 3,δ-secretase,3
+α-synuclein,TrkB,1
+TrkB,AKT 1,7
+δ-secretase,TrkB,1
+SRPK2,δ-secretase,2968
+BDNF,TrkB,5
+STAT1,BACE1,7494
+AKT 1,δ-secretase,4
+AKT 1,AKT 3,69
+δ-secretase,Microtubule-associated protein tau,5961
+SET,PP2A,5
+Amyloid-beta,Alzheimer's disease,1621
+Dopamine,DOPAL,1
+Microtubule-associated protein tau,STAT1,1
+BACE1,Amyloid-beta,1
+APP,Amyloid-beta,4
+TDP-43,δ-secretase,30

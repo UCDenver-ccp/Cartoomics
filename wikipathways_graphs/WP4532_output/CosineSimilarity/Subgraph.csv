@@ -1,0 +1,282 @@
+S|P|O|S_ID|P_ID|O_ID
+TCTEX1D2|causes or contributes to condition|short rib-polydactyly syndrome|http://www.ncbi.nlm.nih.gov/gene/255758|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0015461
+WDR35|causes or contributes to condition|short rib-polydactyly syndrome|http://www.ncbi.nlm.nih.gov/gene/57539|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0015461
+TCTEX1D2|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/255758|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+IFT122|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/55764|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+TCTEX1D2|participates_in|Intraflagellar transport|http://www.ncbi.nlm.nih.gov/gene/255758|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+IFT140|participates_in|Intraflagellar transport|http://www.ncbi.nlm.nih.gov/gene/9742|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+WDR19|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/57728|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+IFT22|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/64792|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+HSPB11|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/51668|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+TCTEX1D2|causes or contributes to condition|Polydactyly|http://www.ncbi.nlm.nih.gov/gene/255758|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0010442
+IFT27|causes or contributes to condition|Polydactyly|http://www.ncbi.nlm.nih.gov/gene/11020|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0010442
+IFT43|causes or contributes to condition|Polydactyly|http://www.ncbi.nlm.nih.gov/gene/112752|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0010442
+IFT46|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/56912|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+IFT80|causes or contributes to condition|Polydactyly|http://www.ncbi.nlm.nih.gov/gene/57560|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0010442
+IFT81|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/28981|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+WDR34|causes or contributes to condition|short rib-polydactyly syndrome|http://www.ncbi.nlm.nih.gov/gene/89891|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0015461
+DYNC2H1|causes or contributes to condition|short rib-polydactyly syndrome|http://www.ncbi.nlm.nih.gov/gene/79659|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0015461
+DYNC2LI1|causes or contributes to condition|short rib-polydactyly syndrome|http://www.ncbi.nlm.nih.gov/gene/51626|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0015461
+WDR60|causes or contributes to condition|short rib-polydactyly syndrome|http://www.ncbi.nlm.nih.gov/gene/55112|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0015461
+DYNLL2|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/140735|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+TCTEX1D2|has gene product|dynein light chain Tctex-type protein 2B (human)|http://www.ncbi.nlm.nih.gov/gene/255758|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_Q8WW35
+dynein light chain Tctex-type protein 2B (human)|molecularly interacts with|dynein light chain Tctex-type 1 (human)|http://purl.obolibrary.org/obo/PR_Q8WW35|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P63172
+dynein light chain Tctex-type 1 (human)|has_gene_template|DYNLT1|http://purl.obolibrary.org/obo/PR_P63172|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/6993
+DYNLRB1|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/83658|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+DYNLL1|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/8655|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+DYNLRB2|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/83657|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+dynein light chain Tctex-type protein 2B (human)|molecularly interacts with|dynein light chain Tctex-type 3 (human)|http://purl.obolibrary.org/obo/PR_Q8WW35|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P51808
+dynein light chain Tctex-type 3 (human)|has_gene_template|DYNLT3|http://purl.obolibrary.org/obo/PR_P51808|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/6990
+WDR35|causes or contributes to condition|Trigonocephaly|http://www.ncbi.nlm.nih.gov/gene/57539|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0000243
+IFT122|causes or contributes to condition|Trigonocephaly|http://www.ncbi.nlm.nih.gov/gene/55764|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0000243
+WDR35|participates_in|Intraflagellar transport|http://www.ncbi.nlm.nih.gov/gene/57539|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+WDR35|causes or contributes to condition|cranioectodermal dysplasia|http://www.ncbi.nlm.nih.gov/gene/57539|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0009032
+WDR19|causes or contributes to condition|cranioectodermal dysplasia|http://www.ncbi.nlm.nih.gov/gene/57728|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0009032
+WDR35|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/57539|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+IFT27|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/11020|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+IFT43|causes or contributes to condition|cranioectodermal dysplasia|http://www.ncbi.nlm.nih.gov/gene/112752|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0009032
+IFT46|participates_in|Intraflagellar transport|http://www.ncbi.nlm.nih.gov/gene/56912|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+WDR35|causes or contributes to condition|short rib-polydactyly syndrome, Verma-Naumoff type|http://www.ncbi.nlm.nih.gov/gene/57539|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0019664
+IFT80|causes or contributes to condition|short rib-polydactyly syndrome, Verma-Naumoff type|http://www.ncbi.nlm.nih.gov/gene/57560|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0019664
+valproic acid|interacts with|IFT122|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/55764
+valproic acid|interacts with|IFT140|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/9742
+valproic acid|interacts with|WDR19|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/57728
+IFT122|causes or contributes to condition|cranioectodermal dysplasia|http://www.ncbi.nlm.nih.gov/gene/55764|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0009032
+IFT122|participates_in|Intraflagellar transport|http://www.ncbi.nlm.nih.gov/gene/55764|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+IFT80|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/57560|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+IFT140|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/9742|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+WDR35|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/57539|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+IFT140|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/9742|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+IFT43|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/112752|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+valproic acid|interacts with|IFT80|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/57560
+WDR19|participates_in|Intraflagellar transport|http://www.ncbi.nlm.nih.gov/gene/57728|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+HSPB11|participates_in|Intraflagellar transport|http://www.ncbi.nlm.nih.gov/gene/51668|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+IFT27|participates_in|Intraflagellar transport|http://www.ncbi.nlm.nih.gov/gene/11020|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+IFT43|participates_in|Intraflagellar transport|http://www.ncbi.nlm.nih.gov/gene/112752|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+IFT80|participates_in|Intraflagellar transport|http://www.ncbi.nlm.nih.gov/gene/57560|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+WDR34|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/89891|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+WDR34|causes or contributes to condition|Jeune syndrome|http://www.ncbi.nlm.nih.gov/gene/89891|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0018770
+IFT140|causes or contributes to condition|Jeune syndrome|http://www.ncbi.nlm.nih.gov/gene/9742|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0018770
+WDR19|causes or contributes to condition|Jeune syndrome|http://www.ncbi.nlm.nih.gov/gene/57728|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0018770
+IFT80|causes or contributes to condition|Jeune syndrome|http://www.ncbi.nlm.nih.gov/gene/57560|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0018770
+WDR34|has gene product|cytoplasmic dynein 2 intermediate chain 2 (human)|http://www.ncbi.nlm.nih.gov/gene/89891|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_Q96EX3
+cytoplasmic dynein 2 intermediate chain 2 (human)|molecularly interacts with|dynein light chain Tctex-type 1 (human)|http://purl.obolibrary.org/obo/PR_Q96EX3|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P63172
+cytoplasmic dynein 2 intermediate chain 2 (human)|molecularly interacts with|dynein light chain Tctex-type 3 (human)|http://purl.obolibrary.org/obo/PR_Q96EX3|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P51808
+DYNC2H1|participates_in|Intraflagellar transport|http://www.ncbi.nlm.nih.gov/gene/79659|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+DYNC2H1|causes or contributes to condition|Jeune syndrome|http://www.ncbi.nlm.nih.gov/gene/79659|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0018770
+DYNC2H1|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/79659|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+DYNC2H1|causes or contributes to condition|Polydactyly|http://www.ncbi.nlm.nih.gov/gene/79659|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0010442
+WDR60|causes or contributes to condition|Jeune syndrome|http://www.ncbi.nlm.nih.gov/gene/55112|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0018770
+DYNC2H1|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/79659|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+GRIN2D|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/2906|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+GRIN2D|participates_in|Innate Immune System|http://www.ncbi.nlm.nih.gov/gene/2906|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168249
+DYNLT1|participates_in|Innate Immune System|http://www.ncbi.nlm.nih.gov/gene/6993|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168249
+aflatoxin B1|interacts with|DYNC2H1|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/79659
+aflatoxin B1|interacts with|DYNLL1|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/8655
+cytoplasmic dynein 1 intermediate chain 2 (human)|participates_in|Organelle biogenesis and maintenance|http://purl.obolibrary.org/obo/PR_Q13409|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+cytoplasmic dynein 1 intermediate chain 2 (human)|molecularly interacts with|dynein light chain Tctex-type 3 (human)|http://purl.obolibrary.org/obo/PR_Q13409|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P51808
+DYNC2LI1|participates_in|Intraflagellar transport|http://www.ncbi.nlm.nih.gov/gene/51626|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+DYNC2LI1|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/51626|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+DYNC2LI1|causes or contributes to condition|Jeune syndrome|http://www.ncbi.nlm.nih.gov/gene/51626|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0018770
+valproic acid|interacts with|DYNC2LI1|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/51626
+valproic acid|interacts with|MAPK12 (human)|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/6300
+MAPK12 (human)|participates_in|Innate Immune System|http://www.ncbi.nlm.nih.gov/gene/6300|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168249
+valproic acid|interacts with|DYNLL1|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/8655
+dynein light chain Tctex-type protein 2B (human)|participates_in|Organelle biogenesis and maintenance|http://purl.obolibrary.org/obo/PR_Q8WW35|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+aflatoxin B1|interacts with|WDR60|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/55112
+aflatoxin B1|interacts with|IFT122|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/55764
+WDR60|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/55112|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+WDR60|causes or contributes to condition|Polydactyly|http://www.ncbi.nlm.nih.gov/gene/55112|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0010442
+WDR60|participates_in|Intraflagellar transport|http://www.ncbi.nlm.nih.gov/gene/55112|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+WDR60|has gene product|cytoplasmic dynein 2 intermediate chain 1 (human)|http://www.ncbi.nlm.nih.gov/gene/55112|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_Q8WVS4
+cytoplasmic dynein 2 intermediate chain 1 (human)|molecularly interacts with|dynein light chain Tctex-type 1 (human)|http://purl.obolibrary.org/obo/PR_Q8WVS4|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P63172
+cytoplasmic dynein 2 intermediate chain 1 (human)|molecularly interacts with|dynein light chain Tctex-type 3 (human)|http://purl.obolibrary.org/obo/PR_Q8WVS4|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P51808
+DYNLL2|participates_in|Intraflagellar transport|http://www.ncbi.nlm.nih.gov/gene/140735|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+WDR34|participates_in|Intraflagellar transport|http://www.ncbi.nlm.nih.gov/gene/89891|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+DYNLL2|participates_in|Immune System|http://www.ncbi.nlm.nih.gov/gene/140735|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168256
+DYNLT1|participates_in|Immune System|http://www.ncbi.nlm.nih.gov/gene/6993|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168256
+DYNLL2|participates_in|Apoptosis|http://www.ncbi.nlm.nih.gov/gene/140735|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-109581
+DYNLL1|participates_in|Apoptosis|http://www.ncbi.nlm.nih.gov/gene/8655|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-109581
+DYNLL2|has gene product|dynein light chain 2, cytoplasmic (human)|http://www.ncbi.nlm.nih.gov/gene/140735|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_Q96FJ2
+dynein light chain 2, cytoplasmic (human)|molecularly interacts with|dynein light chain Tctex-type 3 (human)|http://purl.obolibrary.org/obo/PR_Q96FJ2|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P51808
+DYNLL2|participates_in|Adaptive Immune System|http://www.ncbi.nlm.nih.gov/gene/140735|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1280218
+DYNC1LI1|participates_in|Adaptive Immune System|http://www.ncbi.nlm.nih.gov/gene/51143|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1280218
+DYNLL2|participates_in|Golgi-to-ER retrograde transport|http://www.ncbi.nlm.nih.gov/gene/140735|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-8856688
+DYNC1H1|participates_in|Golgi-to-ER retrograde transport|http://www.ncbi.nlm.nih.gov/gene/1778|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-8856688
+DYNC1I2|participates_in|Adaptive Immune System|http://www.ncbi.nlm.nih.gov/gene/1781|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1280218
+DYNC1I1|participates_in|Golgi-to-ER retrograde transport|http://www.ncbi.nlm.nih.gov/gene/1780|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-8856688
+DYNC1LI2|participates_in|Golgi-to-ER retrograde transport|http://www.ncbi.nlm.nih.gov/gene/1783|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-8856688
+proteasome activator complex subunit 3 (human)|participates_in|Immune System|http://purl.obolibrary.org/obo/PR_P61289|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168256
+proteasome activator complex subunit 3 (human)|participates_in|Hedgehog 'off' state|http://purl.obolibrary.org/obo/PR_P61289|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5610787
+WDR35|participates_in|Hedgehog 'off' state|http://www.ncbi.nlm.nih.gov/gene/57539|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5610787
+26S proteasome regulatory subunit 8 (human)|participates_in|Innate Immune System|http://purl.obolibrary.org/obo/PR_P62195|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168249
+26S proteasome regulatory subunit 8 (human)|participates_in|Hedgehog 'off' state|http://purl.obolibrary.org/obo/PR_P62195|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5610787
+IFT122|participates_in|Hedgehog 'off' state|http://www.ncbi.nlm.nih.gov/gene/55764|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5610787
+CTSZ (human)|participates_in|Immune System|http://www.ncbi.nlm.nih.gov/gene/1522|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168256
+valproic acid|interacts with|CTSZ (human)|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/1522
+PSMD13 (human)|participates_in|Innate Immune System|http://www.ncbi.nlm.nih.gov/gene/5719|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168249
+PSMD13 (human)|participates_in|Hedgehog 'off' state|http://www.ncbi.nlm.nih.gov/gene/5719|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5610787
+WDR19|participates_in|Hedgehog 'off' state|http://www.ncbi.nlm.nih.gov/gene/57728|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5610787
+DYNLT1|has gene product|dynein light chain Tctex-type 1 (human)|http://www.ncbi.nlm.nih.gov/gene/6993|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_P63172
+dynein light chain Tctex-type 1 (human)|molecularly interacts with|dynein light chain Tctex-type protein 2B (human)|http://purl.obolibrary.org/obo/PR_P63172|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q8WW35
+tubulin beta chain (human)|participates_in|Immune System|http://purl.obolibrary.org/obo/PR_P07437|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168256
+tubulin beta chain (human)|participates_in|Organelle biogenesis and maintenance|http://purl.obolibrary.org/obo/PR_P07437|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+MBL2 (human)|participates_in|Immune System|http://www.ncbi.nlm.nih.gov/gene/4153|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168256
+MBL2 (human)|causes or contributes to condition|Bipolar affective disorder|http://www.ncbi.nlm.nih.gov/gene/4153|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0007302
+IFT27|causes or contributes to condition|Bipolar affective disorder|http://www.ncbi.nlm.nih.gov/gene/11020|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0007302
+dynein light chain Tctex-type 1 (human)|molecularly interacts with|cytoplasmic dynein 2 intermediate chain 2 (human)|http://purl.obolibrary.org/obo/PR_P63172|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q96EX3
+cytoplasmic dynein 2 intermediate chain 2 (human)|participates_in|Cilium Assembly|http://purl.obolibrary.org/obo/PR_Q96EX3|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5617833
+IFT43|participates_in|Cilium Assembly|http://www.ncbi.nlm.nih.gov/gene/112752|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5617833
+IFT46|participates_in|Cilium Assembly|http://www.ncbi.nlm.nih.gov/gene/56912|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5617833
+DYNLL1|participates_in|Innate Immune System|http://www.ncbi.nlm.nih.gov/gene/8655|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168249
+hydrogenphosphate|participates_in|Innate Immune System|http://purl.obolibrary.org/obo/CHEBI_43474|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168249
+hydrogenphosphate|participates_in|Organelle biogenesis and maintenance|http://purl.obolibrary.org/obo/CHEBI_43474|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+dynein light chain Tctex-type protein 2B (human)|has_gene_template|TCTEX1D2|http://purl.obolibrary.org/obo/PR_Q8WW35|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/255758
+cytoplasmic dynein 2 intermediate chain 2 (human)|has_gene_template|WDR34|http://purl.obolibrary.org/obo/PR_Q96EX3|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/89891
+TNF receptor-associated factor 6 (human)|participates_in|Immune System|http://purl.obolibrary.org/obo/PR_Q9Y4K3|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168256
+TNF receptor-associated factor 6 (human)|participates_in|Signal Transduction|http://purl.obolibrary.org/obo/PR_Q9Y4K3|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+cytoplasmic dynein 2 intermediate chain 2 (human)|participates_in|Intraflagellar transport|http://purl.obolibrary.org/obo/PR_Q96EX3|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+dynein light chain Tctex-type 1 (human)|molecularly interacts with|cytoplasmic dynein 2 intermediate chain 1 (human)|http://purl.obolibrary.org/obo/PR_P63172|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q8WVS4
+cytoplasmic dynein 2 intermediate chain 1 (human)|has_gene_template|WDR60|http://purl.obolibrary.org/obo/PR_Q8WVS4|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/55112
+dynein light chain Tctex-type 1 (human)|molecularly interacts with|dynein light chain roadblock-type 1 (human)|http://purl.obolibrary.org/obo/PR_P63172|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q9NP97
+dynein light chain roadblock-type 1 (human)|has_gene_template|DYNLRB1|http://purl.obolibrary.org/obo/PR_Q9NP97|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/83658
+dynein light chain Tctex-type 1 (human)|molecularly interacts with|dynein light chain roadblock-type 2 (human)|http://purl.obolibrary.org/obo/PR_P63172|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q8TF09
+dynein light chain roadblock-type 2 (human)|has_gene_template|DYNLRB2|http://purl.obolibrary.org/obo/PR_Q8TF09|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/83657
+dynein light chain Tctex-type 1 (human)|molecularly interacts with|dynein light chain Tctex-type 3 (human)|http://purl.obolibrary.org/obo/PR_P63172|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P51808
+DYNC1LI1|participates_in|Innate Immune System|http://www.ncbi.nlm.nih.gov/gene/51143|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168249
+DYNC1H1|participates_in|Innate Immune System|http://www.ncbi.nlm.nih.gov/gene/1778|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168249
+DYNC1I2|participates_in|Immune System|http://www.ncbi.nlm.nih.gov/gene/1781|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168256
+DYNC1I1|participates_in|Immune System|http://www.ncbi.nlm.nih.gov/gene/1780|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168256
+DYNC1LI2|participates_in|Immune System|http://www.ncbi.nlm.nih.gov/gene/1783|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168256
+DYNLRB1|participates_in|Intraflagellar transport|http://www.ncbi.nlm.nih.gov/gene/83658|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+DYNLRB1|has gene product|dynein light chain roadblock-type 1 (human)|http://www.ncbi.nlm.nih.gov/gene/83658|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_Q9NP97
+dynein light chain roadblock-type 1 (human)|molecularly interacts with|dynein light chain Tctex-type 1 (human)|http://purl.obolibrary.org/obo/PR_Q9NP97|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P63172
+dynein light chain roadblock-type 1 (human)|molecularly interacts with|dynein light chain Tctex-type 3 (human)|http://purl.obolibrary.org/obo/PR_Q9NP97|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P51808
+dynein light chain roadblock-type 1 (human)|molecularly interacts with|cytoplasmic dynein 1 light intermediate chain 1 (human)|http://purl.obolibrary.org/obo/PR_Q9NP97|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q9Y6G9
+cytoplasmic dynein 1 light intermediate chain 1 (human)|has_gene_template|DYNC1LI1|http://purl.obolibrary.org/obo/PR_Q9Y6G9|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/51143
+DYNC1H1|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/1778|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+DYNC1I2|participates_in|Organelle biogenesis and maintenance|http://www.ncbi.nlm.nih.gov/gene/1781|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+dynein light chain roadblock-type 1 (human)|molecularly interacts with|cytoplasmic dynein 1 intermediate chain 1 (human)|http://purl.obolibrary.org/obo/PR_Q9NP97|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_O14576
+cytoplasmic dynein 1 intermediate chain 1 (human)|has_gene_template|DYNC1I1|http://purl.obolibrary.org/obo/PR_O14576|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/1780
+dynein light chain roadblock-type 1 (human)|molecularly interacts with|cytoplasmic dynein 1 light intermediate chain 2 (human)|http://purl.obolibrary.org/obo/PR_Q9NP97|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_O43237
+cytoplasmic dynein 1 light intermediate chain 2 (human)|has_gene_template|DYNC1LI2|http://purl.obolibrary.org/obo/PR_O43237|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/1783
+DYNLL1|participates_in|Intraflagellar transport|http://www.ncbi.nlm.nih.gov/gene/8655|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+DYNLL1|has gene product|dynein light chain 1, cytoplasmic (human)|http://www.ncbi.nlm.nih.gov/gene/8655|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_P63167
+dynein light chain 1, cytoplasmic (human)|molecularly interacts with|dynein light chain Tctex-type 3 (human)|http://purl.obolibrary.org/obo/PR_P63167|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P51808
+DYNLL1|participates_in|Adaptive Immune System|http://www.ncbi.nlm.nih.gov/gene/8655|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1280218
+DYNLL1|participates_in|Golgi-to-ER retrograde transport|http://www.ncbi.nlm.nih.gov/gene/8655|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-8856688
+valproic acid|interacts with|DYNC1I2|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/1781
+DYNLRB2|participates_in|Intraflagellar transport|http://www.ncbi.nlm.nih.gov/gene/83657|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+DYNLRB2|has gene product|dynein light chain roadblock-type 2 (human)|http://www.ncbi.nlm.nih.gov/gene/83657|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_Q8TF09
+dynein light chain roadblock-type 2 (human)|molecularly interacts with|dynein light chain Tctex-type 1 (human)|http://purl.obolibrary.org/obo/PR_Q8TF09|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P63172
+dynein light chain roadblock-type 2 (human)|molecularly interacts with|dynein light chain Tctex-type 3 (human)|http://purl.obolibrary.org/obo/PR_Q8TF09|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P51808
+dynein light chain roadblock-type 2 (human)|molecularly interacts with|cytoplasmic dynein 1 light intermediate chain 1 (human)|http://purl.obolibrary.org/obo/PR_Q8TF09|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q9Y6G9
+dynein light chain roadblock-type 2 (human)|molecularly interacts with|cytoplasmic dynein 1 intermediate chain 1 (human)|http://purl.obolibrary.org/obo/PR_Q8TF09|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_O14576
+dynein light chain roadblock-type 2 (human)|molecularly interacts with|cytoplasmic dynein 1 light intermediate chain 2 (human)|http://purl.obolibrary.org/obo/PR_Q8TF09|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_O43237
+DYNLT3|has gene product|dynein light chain Tctex-type 3 (human)|http://www.ncbi.nlm.nih.gov/gene/6990|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_P51808
+dynein light chain Tctex-type 3 (human)|molecularly interacts with|cytoplasmic dynein 2 intermediate chain 1 (human)|http://purl.obolibrary.org/obo/PR_P51808|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q8WVS4
+cytoplasmic dynein 2 intermediate chain 1 (human)|participates_in|Organelle biogenesis and maintenance|http://purl.obolibrary.org/obo/PR_Q8WVS4|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+dynein light chain Tctex-type 3 (human)|molecularly interacts with|dynein light chain roadblock-type 2 (human)|http://purl.obolibrary.org/obo/PR_P51808|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q8TF09
+dynein light chain roadblock-type 2 (human)|participates_in|Organelle biogenesis and maintenance|http://purl.obolibrary.org/obo/PR_Q8TF09|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+dynein light chain Tctex-type 3 (human)|molecularly interacts with|dynein light chain 2, cytoplasmic (human)|http://purl.obolibrary.org/obo/PR_P51808|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q96FJ2
+dynein light chain 2, cytoplasmic (human)|molecularly interacts with|intraflagellar transport protein 140 homolog (human)|http://purl.obolibrary.org/obo/PR_Q96FJ2|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q96RY7
+intraflagellar transport protein 140 homolog (human)|has_gene_template|IFT140|http://purl.obolibrary.org/obo/PR_Q96RY7|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/9742
+dynein light chain Tctex-type 3 (human)|molecularly interacts with|dynein light chain roadblock-type 1 (human)|http://purl.obolibrary.org/obo/PR_P51808|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q9NP97
+dynein light chain roadblock-type 1 (human)|participates_in|Intraflagellar transport|http://purl.obolibrary.org/obo/PR_Q9NP97|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+dynein light chain roadblock-type 2 (human)|molecularly interacts with|intraflagellar transport protein 22 homolog (human)|http://purl.obolibrary.org/obo/PR_Q8TF09|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q9H7X7
+intraflagellar transport protein 22 homolog (human)|has_gene_template|IFT22|http://purl.obolibrary.org/obo/PR_Q9H7X7|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/64792
+dynein light chain Tctex-type 3 (human)|molecularly interacts with|dynein light chain Tctex-type 5 (human)|http://purl.obolibrary.org/obo/PR_P51808|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q8N7M0
+dynein light chain Tctex-type 5 (human)|participates_in|Intraflagellar transport|http://purl.obolibrary.org/obo/PR_Q8N7M0|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+dynein light chain Tctex-type 5 (human)|participates_in|Cilium Assembly|http://purl.obolibrary.org/obo/PR_Q8N7M0|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5617833
+IFT27|participates_in|Cilium Assembly|http://www.ncbi.nlm.nih.gov/gene/11020|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5617833
+dynein light chain roadblock-type 1 (human)|participates_in|Cilium Assembly|http://purl.obolibrary.org/obo/PR_Q9NP97|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5617833
+dynein light chain Tctex-type 3 (human)|molecularly interacts with|cytoplasmic dynein 2 intermediate chain 2 (human)|http://purl.obolibrary.org/obo/PR_P51808|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q96EX3
+cytoplasmic dynein 2 intermediate chain 2 (human)|molecularly interacts with|intraflagellar transport protein 80 homolog (human)|http://purl.obolibrary.org/obo/PR_Q96EX3|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q9P2H3
+intraflagellar transport protein 80 homolog (human)|has_gene_template|IFT80|http://purl.obolibrary.org/obo/PR_Q9P2H3|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/57560
+cytoplasmic dynein 2 intermediate chain 2 (human)|participates_in|Organelle biogenesis and maintenance|http://purl.obolibrary.org/obo/PR_Q96EX3|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+dynein light chain Tctex-type 3 (human)|molecularly interacts with|dynein light chain Tctex-type protein 2B (human)|http://purl.obolibrary.org/obo/PR_P51808|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q8WW35
+dynein light chain Tctex-type 3 (human)|molecularly interacts with|cytoplasmic dynein 1 heavy chain 1 (human)|http://purl.obolibrary.org/obo/PR_P51808|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q14204
+cytoplasmic dynein 1 heavy chain 1 (human)|participates_in|Organelle biogenesis and maintenance|http://purl.obolibrary.org/obo/PR_Q14204|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+DYNC2LI1|participates_in|Cilium Assembly|http://www.ncbi.nlm.nih.gov/gene/51626|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5617833
+dynein light chain 2, cytoplasmic (human)|has_gene_template|DYNLL2|http://purl.obolibrary.org/obo/PR_Q96FJ2|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/140735
+dynein light chain Tctex-type 3 (human)|molecularly interacts with|dynein light chain Tctex-type 1 (human)|http://purl.obolibrary.org/obo/PR_P51808|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P63172
+dynein light chain Tctex-type 3 (human)|molecularly interacts with|dynein light chain 1, cytoplasmic (human)|http://purl.obolibrary.org/obo/PR_P51808|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P63167
+dynein light chain 1, cytoplasmic (human)|has_gene_template|DYNLL1|http://purl.obolibrary.org/obo/PR_P63167|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/8655
+dynein light chain Tctex-type 3 (human)|molecularly interacts with|cytoplasmic dynein 1 light intermediate chain 1 (human)|http://purl.obolibrary.org/obo/PR_P51808|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q9Y6G9
+cytoplasmic dynein 1 heavy chain 1 (human)|has_gene_template|DYNC1H1|http://purl.obolibrary.org/obo/PR_Q14204|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/1778
+dynein light chain Tctex-type 3 (human)|molecularly interacts with|cytoplasmic dynein 1 intermediate chain 2 (human)|http://purl.obolibrary.org/obo/PR_P51808|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q13409
+cytoplasmic dynein 1 intermediate chain 2 (human)|has_gene_template|DYNC1I2|http://purl.obolibrary.org/obo/PR_Q13409|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/1781
+dynein light chain Tctex-type 3 (human)|molecularly interacts with|cytoplasmic dynein 1 intermediate chain 1 (human)|http://purl.obolibrary.org/obo/PR_P51808|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_O14576
+dynein light chain Tctex-type 3 (human)|molecularly interacts with|cytoplasmic dynein 1 light intermediate chain 2 (human)|http://purl.obolibrary.org/obo/PR_P51808|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_O43237
+DYNC1LI1|has gene product|cytoplasmic dynein 1 light intermediate chain 1 (human)|http://www.ncbi.nlm.nih.gov/gene/51143|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_Q9Y6G9
+cytoplasmic dynein 1 light intermediate chain 1 (human)|participates_in|Signal Transduction|http://purl.obolibrary.org/obo/PR_Q9Y6G9|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+IFT122|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/55764|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+WDR19|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/57728|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+cytoplasmic dynein 1 light intermediate chain 1 (human)|molecularly interacts with|B9 domain-containing protein 2 (human)|http://purl.obolibrary.org/obo/PR_Q9Y6G9|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q9BPU9
+B9 domain-containing protein 2 (human)|participates_in|Organelle biogenesis and maintenance|http://purl.obolibrary.org/obo/PR_Q9BPU9|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+DYNC1LI1|participates_in|Membrane Trafficking|http://www.ncbi.nlm.nih.gov/gene/51143|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-199991
+tubulin beta-2A chain (human)|participates_in|Membrane Trafficking|http://purl.obolibrary.org/obo/PR_Q13885|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-199991
+tubulin beta-2A chain (human)|participates_in|Organelle biogenesis and maintenance|http://purl.obolibrary.org/obo/PR_Q13885|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+DYNC1LI1|participates_in|Metabolism of proteins|http://www.ncbi.nlm.nih.gov/gene/51143|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392499
+tubulin beta-3 chain (human)|participates_in|Metabolism of proteins|http://purl.obolibrary.org/obo/PR_Q13509|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392499
+tubulin beta-3 chain (human)|participates_in|Intraflagellar transport|http://purl.obolibrary.org/obo/PR_Q13509|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5620924
+cytoplasmic dynein 1 heavy chain 1 (human)|participates_in|Membrane Trafficking|http://purl.obolibrary.org/obo/PR_Q14204|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-199991
+cytoplasmic dynein 1 heavy chain 1 (human)|participates_in|Cilium Assembly|http://purl.obolibrary.org/obo/PR_Q14204|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5617833
+ADP-ribosylation factor 4 (human)|participates_in|Membrane Trafficking|http://purl.obolibrary.org/obo/PR_P18085|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-199991
+ADP-ribosylation factor 4 (human)|participates_in|Cilium Assembly|http://purl.obolibrary.org/obo/PR_P18085|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5617833
+SEC22C (human)|participates_in|Membrane Trafficking|http://www.ncbi.nlm.nih.gov/gene/9117|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-199991
+aflatoxin B1|interacts with|SEC22C (human)|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/9117
+aflatoxin B1|interacts with|IFT80|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/57560
+tubulin beta-2B chain (human)|participates_in|Membrane Trafficking|http://purl.obolibrary.org/obo/PR_Q9BVA1|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-199991
+tubulin beta-2B chain (human)|participates_in|Cilium Assembly|http://purl.obolibrary.org/obo/PR_Q9BVA1|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5617833
+IFT81|participates_in|Cilium Assembly|http://www.ncbi.nlm.nih.gov/gene/28981|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5617833
+DYNC1LI1|participates_in|Golgi-to-ER retrograde transport|http://www.ncbi.nlm.nih.gov/gene/51143|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-8856688
+cytoplasmic dynein 1 light intermediate chain 1 (human)|molecularly interacts with|dynein light chain roadblock-type 1 (human)|http://purl.obolibrary.org/obo/PR_Q9Y6G9|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q9NP97
+cytoplasmic dynein 1 light intermediate chain 1 (human)|molecularly interacts with|dynein light chain roadblock-type 2 (human)|http://purl.obolibrary.org/obo/PR_Q9Y6G9|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q8TF09
+cytoplasmic dynein 1 light intermediate chain 1 (human)|molecularly interacts with|dynein light chain Tctex-type 3 (human)|http://purl.obolibrary.org/obo/PR_Q9Y6G9|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P51808
+DYNC1H1|participates_in|Adaptive Immune System|http://www.ncbi.nlm.nih.gov/gene/1778|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1280218
+DYNC1H1|causes or contributes to condition|Intellectual disability|http://www.ncbi.nlm.nih.gov/gene/1778|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0001249
+DYNC1I2|causes or contributes to condition|Intellectual disability|http://www.ncbi.nlm.nih.gov/gene/1781|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0001249
+DYNC1H1|has gene product|cytoplasmic dynein 1 heavy chain 1 (human)|http://www.ncbi.nlm.nih.gov/gene/1778|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_Q14204
+cytoplasmic dynein 1 heavy chain 1 (human)|molecularly interacts with|dynein light chain Tctex-type 3 (human)|http://purl.obolibrary.org/obo/PR_Q14204|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P51808
+DYNC1I2|participates_in|Golgi-to-ER retrograde transport|http://www.ncbi.nlm.nih.gov/gene/1781|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-8856688
+DYNC1I2|has gene product|cytoplasmic dynein 1 intermediate chain 2 (human)|http://www.ncbi.nlm.nih.gov/gene/1781|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_Q13409
+DYNC1I1|has gene product|cytoplasmic dynein 1 intermediate chain 1 (human)|http://www.ncbi.nlm.nih.gov/gene/1780|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_O14576
+cytoplasmic dynein 1 intermediate chain 1 (human)|participates_in|Signal Transduction|http://purl.obolibrary.org/obo/PR_O14576|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+cytoplasmic dynein 1 intermediate chain 1 (human)|molecularly interacts with|dynein light chain Tctex-type protein 2 (human)|http://purl.obolibrary.org/obo/PR_O14576|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q8IZS6
+dynein light chain Tctex-type protein 2 (human)|participates_in|Organelle biogenesis and maintenance|http://purl.obolibrary.org/obo/PR_Q8IZS6|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+DYNC1I1|participates_in|Membrane Trafficking|http://www.ncbi.nlm.nih.gov/gene/1780|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-199991
+tubulin beta-6 chain (human)|participates_in|Membrane Trafficking|http://purl.obolibrary.org/obo/PR_Q9BUF5|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-199991
+tubulin beta-6 chain (human)|participates_in|Organelle biogenesis and maintenance|http://purl.obolibrary.org/obo/PR_Q9BUF5|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+tubulin beta-2A chain (human)|participates_in|Cilium Assembly|http://purl.obolibrary.org/obo/PR_Q13885|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5617833
+casein kinase I isoform delta (human)|participates_in|Membrane Trafficking|http://purl.obolibrary.org/obo/PR_P48730|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-199991
+casein kinase I isoform delta (human)|participates_in|Organelle biogenesis and maintenance|http://purl.obolibrary.org/obo/PR_P48730|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+TAB3 (human)|participates_in|Immune System|http://www.ncbi.nlm.nih.gov/gene/257397|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168256
+valproic acid|interacts with|TAB3 (human)|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/257397
+ATP(4-)|participates_in|Membrane Trafficking|http://purl.obolibrary.org/obo/CHEBI_30616|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-199991
+ATP(4-)|participates_in|Organelle biogenesis and maintenance|http://purl.obolibrary.org/obo/CHEBI_30616|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+DYNC1I1|participates_in|Adaptive Immune System|http://www.ncbi.nlm.nih.gov/gene/1780|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1280218
+cytoplasmic dynein 1 intermediate chain 1 (human)|molecularly interacts with|dynein light chain roadblock-type 1 (human)|http://purl.obolibrary.org/obo/PR_O14576|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q9NP97
+cytoplasmic dynein 1 intermediate chain 1 (human)|molecularly interacts with|dynein light chain roadblock-type 2 (human)|http://purl.obolibrary.org/obo/PR_O14576|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q8TF09
+cytoplasmic dynein 1 intermediate chain 1 (human)|molecularly interacts with|dynein light chain Tctex-type 3 (human)|http://purl.obolibrary.org/obo/PR_O14576|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P51808
+DYNC1LI2|participates_in|Adaptive Immune System|http://www.ncbi.nlm.nih.gov/gene/1783|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1280218
+DYNC1LI2|has gene product|cytoplasmic dynein 1 light intermediate chain 2 (human)|http://www.ncbi.nlm.nih.gov/gene/1783|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_O43237
+cytoplasmic dynein 1 light intermediate chain 2 (human)|participates_in|Signal Transduction|http://purl.obolibrary.org/obo/PR_O43237|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+DYNC1LI2|causes or contributes to condition|Increased body weight|http://www.ncbi.nlm.nih.gov/gene/1783|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0004324
+valproic acid|is substance that treats|Increased body weight|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0004324
+cytoplasmic dynein 1 light intermediate chain 2 (human)|molecularly interacts with|kinesin-like protein KIF3B (human)|http://purl.obolibrary.org/obo/PR_O43237|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_O15066
+kinesin-like protein KIF3B (human)|molecularly interacts with|intraflagellar transport protein 22 homolog (human)|http://purl.obolibrary.org/obo/PR_O15066|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q9H7X7
+DYNC1LI2|participates_in|Membrane Trafficking|http://www.ncbi.nlm.nih.gov/gene/1783|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-199991
+dynein light chain 1, cytoplasmic (human)|participates_in|Membrane Trafficking|http://purl.obolibrary.org/obo/PR_P63167|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-199991
+dynein light chain 1, cytoplasmic (human)|participates_in|Organelle biogenesis and maintenance|http://purl.obolibrary.org/obo/PR_P63167|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+diazinon|is substance that treats|Increased body weight|http://purl.obolibrary.org/obo/CHEBI_34682|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0004324
+diazinon|interacts with|IFT27|http://purl.obolibrary.org/obo/CHEBI_34682|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/11020
+tubulin alpha-8 chain (human)|participates_in|Membrane Trafficking|http://purl.obolibrary.org/obo/PR_Q9NY65|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-199991
+tubulin alpha-8 chain (human)|participates_in|Cilium Assembly|http://purl.obolibrary.org/obo/PR_Q9NY65|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5617833
+kinesin-like protein KIF3C (human)|participates_in|Membrane Trafficking|http://purl.obolibrary.org/obo/PR_O14782|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-199991
+kinesin-like protein KIF3C (human)|participates_in|Organelle biogenesis and maintenance|http://purl.obolibrary.org/obo/PR_O14782|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1852241
+putative tubulin-like protein alpha-4B (human)|participates_in|Membrane Trafficking|http://purl.obolibrary.org/obo/PR_Q9H853|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-199991
+putative tubulin-like protein alpha-4B (human)|participates_in|Cilium Assembly|http://purl.obolibrary.org/obo/PR_Q9H853|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5617833
+cytoplasmic dynein 1 light intermediate chain 2 (human)|molecularly interacts with|dynein light chain roadblock-type 1 (human)|http://purl.obolibrary.org/obo/PR_O43237|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q9NP97
+cytoplasmic dynein 1 light intermediate chain 2 (human)|molecularly interacts with|dynein light chain roadblock-type 2 (human)|http://purl.obolibrary.org/obo/PR_O43237|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q8TF09
+cytoplasmic dynein 1 light intermediate chain 2 (human)|molecularly interacts with|dynein light chain Tctex-type 3 (human)|http://purl.obolibrary.org/obo/PR_O43237|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P51808

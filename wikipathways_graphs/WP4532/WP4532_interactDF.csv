@@ -1,0 +1,1699 @@
+,anchor,arrow,Color,comments,edgeGroup,edgeID,geometry,node1_coords,node1_graphref,node1_x,node1_y,node2_coords,node2_graphref,node2_x,node2_y,matched_Node1_dist,matched_Node1,matched_Node2_dist,matched_Node2,matched_Node1_cat,matched_Node2_cat,matched_Node1_textlabel,matched_Node2_textlabel
+0,[],['mim-binding'],#000000,[],,,"LINESTRING (368.5 317.5, 368.5 287.5)",POINT (368.5 317.5),b428a,368.5,317.5,POINT (368.5 287.5),a09fd,368.5,287.5,0.0,b428a,0.0,a09fd,,,"['TCTEX1D2', 'WDR34', 'DYNC2H1', 'DYNC2LI1', 'WDR60', 'DYNLL2', 'DYNLT1', 'DYNLRB1', 'DYNLL1', 'DYNLRB2', 'DYNLT3']","['WDR35', 'IFT122', 'IFT140', 'WDR19', 'IFT22', 'HSPB11', 'IFT27', 'IFT43', 'IFT46', 'IFT80', 'IFT81']"
+1,[],['mim-binding'],#000000,[],,,"LINESTRING (215.5 316.5, 215.5 287.5)",POINT (215.5 316.5),be024,215.5,316.5,POINT (215.5 287.5),a09fd,215.5,287.5,0.0,be024,0.0,a09fd,,,"['DYNLL2', 'DYNLT1', 'DYNC1LI1', 'DYNC1H1', 'DYNLRB1', 'DYNLL1', 'DYNC1I2', 'DYNC1I1', 'DYNLRB2', 'DYNLT3', 'DYNC1LI2']","['WDR35', 'IFT122', 'IFT140', 'WDR19', 'IFT22', 'HSPB11', 'IFT27', 'IFT43', 'IFT46', 'IFT80', 'IFT81']"
+2,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_1,"MULTIPOINT (397 687, 397 420)",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",0.0,b77ca,0.0,c77cf,datanodeDF,datanodeDF,TCTEX1D2,WDR34
+3,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_1,"MULTIPOINT (397 687, 397 342)",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",0.0,b77ca,0.0,ce425,datanodeDF,datanodeDF,TCTEX1D2,DYNC2H1
+4,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_1,"MULTIPOINT (397 687, 397 459)",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",0.0,b77ca,0.0,ce63c,datanodeDF,datanodeDF,TCTEX1D2,DYNC2LI1
+5,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_1,"MULTIPOINT (397 687, 397 395)",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",0.0,b77ca,0.0,f5372,datanodeDF,datanodeDF,TCTEX1D2,WDR60
+6,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_1,"MULTIPOINT (397 687, 397 612)",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",0.0,b77ca,0.0,f0701,datanodeDF,datanodeDF,TCTEX1D2,DYNLL2
+7,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_1,"MULTIPOINT (397 687, 397 637)",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",0.0,b77ca,0.0,ac44f,datanodeDF,datanodeDF,TCTEX1D2,DYNLT1
+8,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_1,"MULTIPOINT (397 687, 397 537)",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",0.0,b77ca,0.0,ef11b,datanodeDF,datanodeDF,TCTEX1D2,DYNLRB1
+9,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_1,"MULTIPOINT (397 687, 397 587)",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",0.0,b77ca,0.0,b53fe,datanodeDF,datanodeDF,TCTEX1D2,DYNLL1
+10,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_1,"MULTIPOINT (397 687, 397 562)",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",0.0,b77ca,0.0,d6173,datanodeDF,datanodeDF,TCTEX1D2,DYNLRB2
+11,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_1,"MULTIPOINT (397 687, 397 662)",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",0.0,b77ca,0.0,ed6f7,datanodeDF,datanodeDF,TCTEX1D2,DYNLT3
+12,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_2,"MULTIPOINT (397 420, 397 687)",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",0.0,c77cf,0.0,b77ca,datanodeDF,datanodeDF,WDR34,TCTEX1D2
+13,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_2,"MULTIPOINT (397 420, 397 342)",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",0.0,c77cf,0.0,ce425,datanodeDF,datanodeDF,WDR34,DYNC2H1
+14,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_2,"MULTIPOINT (397 420, 397 459)",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",0.0,c77cf,0.0,ce63c,datanodeDF,datanodeDF,WDR34,DYNC2LI1
+15,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_2,"MULTIPOINT (397 420, 397 395)",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",0.0,c77cf,0.0,f5372,datanodeDF,datanodeDF,WDR34,WDR60
+16,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_2,"MULTIPOINT (397 420, 397 612)",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",0.0,c77cf,0.0,f0701,datanodeDF,datanodeDF,WDR34,DYNLL2
+17,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_2,"MULTIPOINT (397 420, 397 637)",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",0.0,c77cf,0.0,ac44f,datanodeDF,datanodeDF,WDR34,DYNLT1
+18,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_2,"MULTIPOINT (397 420, 397 537)",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",0.0,c77cf,0.0,ef11b,datanodeDF,datanodeDF,WDR34,DYNLRB1
+19,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_2,"MULTIPOINT (397 420, 397 587)",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",0.0,c77cf,0.0,b53fe,datanodeDF,datanodeDF,WDR34,DYNLL1
+20,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_2,"MULTIPOINT (397 420, 397 562)",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",0.0,c77cf,0.0,d6173,datanodeDF,datanodeDF,WDR34,DYNLRB2
+21,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_2,"MULTIPOINT (397 420, 397 662)",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",0.0,c77cf,0.0,ed6f7,datanodeDF,datanodeDF,WDR34,DYNLT3
+22,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3,"MULTIPOINT (397 342, 397 687)",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",0.0,ce425,0.0,b77ca,datanodeDF,datanodeDF,DYNC2H1,TCTEX1D2
+23,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3,"MULTIPOINT (397 342, 397 420)",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",0.0,ce425,0.0,c77cf,datanodeDF,datanodeDF,DYNC2H1,WDR34
+24,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3,"MULTIPOINT (397 342, 397 459)",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",0.0,ce425,0.0,ce63c,datanodeDF,datanodeDF,DYNC2H1,DYNC2LI1
+25,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3,"MULTIPOINT (397 342, 397 395)",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",0.0,ce425,0.0,f5372,datanodeDF,datanodeDF,DYNC2H1,WDR60
+26,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3,"MULTIPOINT (397 342, 397 612)",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",0.0,ce425,0.0,f0701,datanodeDF,datanodeDF,DYNC2H1,DYNLL2
+27,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3,"MULTIPOINT (397 342, 397 637)",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",0.0,ce425,0.0,ac44f,datanodeDF,datanodeDF,DYNC2H1,DYNLT1
+28,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3,"MULTIPOINT (397 342, 397 537)",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",0.0,ce425,0.0,ef11b,datanodeDF,datanodeDF,DYNC2H1,DYNLRB1
+29,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3,"MULTIPOINT (397 342, 397 587)",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",0.0,ce425,0.0,b53fe,datanodeDF,datanodeDF,DYNC2H1,DYNLL1
+30,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3,"MULTIPOINT (397 342, 397 562)",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",0.0,ce425,0.0,d6173,datanodeDF,datanodeDF,DYNC2H1,DYNLRB2
+31,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_3,"MULTIPOINT (397 342, 397 662)",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",0.0,ce425,0.0,ed6f7,datanodeDF,datanodeDF,DYNC2H1,DYNLT3
+32,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4,"MULTIPOINT (397 459, 397 687)",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",0.0,ce63c,0.0,b77ca,datanodeDF,datanodeDF,DYNC2LI1,TCTEX1D2
+33,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4,"MULTIPOINT (397 459, 397 420)",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",0.0,ce63c,0.0,c77cf,datanodeDF,datanodeDF,DYNC2LI1,WDR34
+34,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4,"MULTIPOINT (397 459, 397 342)",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",0.0,ce63c,0.0,ce425,datanodeDF,datanodeDF,DYNC2LI1,DYNC2H1
+35,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4,"MULTIPOINT (397 459, 397 395)",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",0.0,ce63c,0.0,f5372,datanodeDF,datanodeDF,DYNC2LI1,WDR60
+36,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4,"MULTIPOINT (397 459, 397 612)",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",0.0,ce63c,0.0,f0701,datanodeDF,datanodeDF,DYNC2LI1,DYNLL2
+37,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4,"MULTIPOINT (397 459, 397 637)",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",0.0,ce63c,0.0,ac44f,datanodeDF,datanodeDF,DYNC2LI1,DYNLT1
+38,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4,"MULTIPOINT (397 459, 397 537)",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",0.0,ce63c,0.0,ef11b,datanodeDF,datanodeDF,DYNC2LI1,DYNLRB1
+39,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4,"MULTIPOINT (397 459, 397 587)",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",0.0,ce63c,0.0,b53fe,datanodeDF,datanodeDF,DYNC2LI1,DYNLL1
+40,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4,"MULTIPOINT (397 459, 397 562)",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",0.0,ce63c,0.0,d6173,datanodeDF,datanodeDF,DYNC2LI1,DYNLRB2
+41,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_4,"MULTIPOINT (397 459, 397 662)",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",0.0,ce63c,0.0,ed6f7,datanodeDF,datanodeDF,DYNC2LI1,DYNLT3
+42,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_5,"MULTIPOINT (397 395, 397 687)",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",0.0,f5372,0.0,b77ca,datanodeDF,datanodeDF,WDR60,TCTEX1D2
+43,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_5,"MULTIPOINT (397 395, 397 420)",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",0.0,f5372,0.0,c77cf,datanodeDF,datanodeDF,WDR60,WDR34
+44,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_5,"MULTIPOINT (397 395, 397 342)",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",0.0,f5372,0.0,ce425,datanodeDF,datanodeDF,WDR60,DYNC2H1
+45,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_5,"MULTIPOINT (397 395, 397 459)",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",0.0,f5372,0.0,ce63c,datanodeDF,datanodeDF,WDR60,DYNC2LI1
+46,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_5,"MULTIPOINT (397 395, 397 612)",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",0.0,f5372,0.0,f0701,datanodeDF,datanodeDF,WDR60,DYNLL2
+47,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_5,"MULTIPOINT (397 395, 397 637)",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",0.0,f5372,0.0,ac44f,datanodeDF,datanodeDF,WDR60,DYNLT1
+48,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_5,"MULTIPOINT (397 395, 397 537)",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",0.0,f5372,0.0,ef11b,datanodeDF,datanodeDF,WDR60,DYNLRB1
+49,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_5,"MULTIPOINT (397 395, 397 587)",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",0.0,f5372,0.0,b53fe,datanodeDF,datanodeDF,WDR60,DYNLL1
+50,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_5,"MULTIPOINT (397 395, 397 562)",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",0.0,f5372,0.0,d6173,datanodeDF,datanodeDF,WDR60,DYNLRB2
+51,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_5,"MULTIPOINT (397 395, 397 662)",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",0.0,f5372,0.0,ed6f7,datanodeDF,datanodeDF,WDR60,DYNLT3
+52,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_6,"MULTIPOINT (397 612, 397 687)",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",0.0,f0701,0.0,b77ca,datanodeDF,datanodeDF,DYNLL2,TCTEX1D2
+53,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_6,"MULTIPOINT (397 612, 397 420)",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",0.0,f0701,0.0,c77cf,datanodeDF,datanodeDF,DYNLL2,WDR34
+54,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_6,"MULTIPOINT (397 612, 397 342)",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",0.0,f0701,0.0,ce425,datanodeDF,datanodeDF,DYNLL2,DYNC2H1
+55,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_6,"MULTIPOINT (397 612, 397 459)",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",0.0,f0701,0.0,ce63c,datanodeDF,datanodeDF,DYNLL2,DYNC2LI1
+56,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_6,"MULTIPOINT (397 612, 397 395)",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",0.0,f0701,0.0,f5372,datanodeDF,datanodeDF,DYNLL2,WDR60
+57,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_6,"MULTIPOINT (397 612, 397 637)",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",0.0,f0701,0.0,ac44f,datanodeDF,datanodeDF,DYNLL2,DYNLT1
+58,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_6,"MULTIPOINT (397 612, 397 537)",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",0.0,f0701,0.0,ef11b,datanodeDF,datanodeDF,DYNLL2,DYNLRB1
+59,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_6,"MULTIPOINT (397 612, 397 587)",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",0.0,f0701,0.0,b53fe,datanodeDF,datanodeDF,DYNLL2,DYNLL1
+60,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_6,"MULTIPOINT (397 612, 397 562)",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",0.0,f0701,0.0,d6173,datanodeDF,datanodeDF,DYNLL2,DYNLRB2
+61,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_6,"MULTIPOINT (397 612, 397 662)",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",0.0,f0701,0.0,ed6f7,datanodeDF,datanodeDF,DYNLL2,DYNLT3
+62,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_7,"MULTIPOINT (397 637, 397 687)",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",0.0,ac44f,0.0,b77ca,datanodeDF,datanodeDF,DYNLT1,TCTEX1D2
+63,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_7,"MULTIPOINT (397 637, 397 420)",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",0.0,ac44f,0.0,c77cf,datanodeDF,datanodeDF,DYNLT1,WDR34
+64,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_7,"MULTIPOINT (397 637, 397 342)",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",0.0,ac44f,0.0,ce425,datanodeDF,datanodeDF,DYNLT1,DYNC2H1
+65,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_7,"MULTIPOINT (397 637, 397 459)",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",0.0,ac44f,0.0,ce63c,datanodeDF,datanodeDF,DYNLT1,DYNC2LI1
+66,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_7,"MULTIPOINT (397 637, 397 395)",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",0.0,ac44f,0.0,f5372,datanodeDF,datanodeDF,DYNLT1,WDR60
+67,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_7,"MULTIPOINT (397 637, 397 612)",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",0.0,ac44f,0.0,f0701,datanodeDF,datanodeDF,DYNLT1,DYNLL2
+68,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_7,"MULTIPOINT (397 637, 397 537)",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",0.0,ac44f,0.0,ef11b,datanodeDF,datanodeDF,DYNLT1,DYNLRB1
+69,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_7,"MULTIPOINT (397 637, 397 587)",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",0.0,ac44f,0.0,b53fe,datanodeDF,datanodeDF,DYNLT1,DYNLL1
+70,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_7,"MULTIPOINT (397 637, 397 562)",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",0.0,ac44f,0.0,d6173,datanodeDF,datanodeDF,DYNLT1,DYNLRB2
+71,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_7,"MULTIPOINT (397 637, 397 662)",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",0.0,ac44f,0.0,ed6f7,datanodeDF,datanodeDF,DYNLT1,DYNLT3
+72,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_8,"MULTIPOINT (397 537, 397 687)",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",0.0,ef11b,0.0,b77ca,datanodeDF,datanodeDF,DYNLRB1,TCTEX1D2
+73,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_8,"MULTIPOINT (397 537, 397 420)",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",0.0,ef11b,0.0,c77cf,datanodeDF,datanodeDF,DYNLRB1,WDR34
+74,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_8,"MULTIPOINT (397 537, 397 342)",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",0.0,ef11b,0.0,ce425,datanodeDF,datanodeDF,DYNLRB1,DYNC2H1
+75,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_8,"MULTIPOINT (397 537, 397 459)",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",0.0,ef11b,0.0,ce63c,datanodeDF,datanodeDF,DYNLRB1,DYNC2LI1
+76,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_8,"MULTIPOINT (397 537, 397 395)",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",0.0,ef11b,0.0,f5372,datanodeDF,datanodeDF,DYNLRB1,WDR60
+77,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_8,"MULTIPOINT (397 537, 397 612)",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",0.0,ef11b,0.0,f0701,datanodeDF,datanodeDF,DYNLRB1,DYNLL2
+78,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_8,"MULTIPOINT (397 537, 397 637)",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",0.0,ef11b,0.0,ac44f,datanodeDF,datanodeDF,DYNLRB1,DYNLT1
+79,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_8,"MULTIPOINT (397 537, 397 587)",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",0.0,ef11b,0.0,b53fe,datanodeDF,datanodeDF,DYNLRB1,DYNLL1
+80,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_8,"MULTIPOINT (397 537, 397 562)",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",0.0,ef11b,0.0,d6173,datanodeDF,datanodeDF,DYNLRB1,DYNLRB2
+81,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_8,"MULTIPOINT (397 537, 397 662)",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",0.0,ef11b,0.0,ed6f7,datanodeDF,datanodeDF,DYNLRB1,DYNLT3
+82,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_9,"MULTIPOINT (397 587, 397 687)",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",0.0,b53fe,0.0,b77ca,datanodeDF,datanodeDF,DYNLL1,TCTEX1D2
+83,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_9,"MULTIPOINT (397 587, 397 420)",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",0.0,b53fe,0.0,c77cf,datanodeDF,datanodeDF,DYNLL1,WDR34
+84,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_9,"MULTIPOINT (397 587, 397 342)",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",0.0,b53fe,0.0,ce425,datanodeDF,datanodeDF,DYNLL1,DYNC2H1
+85,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_9,"MULTIPOINT (397 587, 397 459)",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",0.0,b53fe,0.0,ce63c,datanodeDF,datanodeDF,DYNLL1,DYNC2LI1
+86,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_9,"MULTIPOINT (397 587, 397 395)",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",0.0,b53fe,0.0,f5372,datanodeDF,datanodeDF,DYNLL1,WDR60
+87,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_9,"MULTIPOINT (397 587, 397 612)",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",0.0,b53fe,0.0,f0701,datanodeDF,datanodeDF,DYNLL1,DYNLL2
+88,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_9,"MULTIPOINT (397 587, 397 637)",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",0.0,b53fe,0.0,ac44f,datanodeDF,datanodeDF,DYNLL1,DYNLT1
+89,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_9,"MULTIPOINT (397 587, 397 537)",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",0.0,b53fe,0.0,ef11b,datanodeDF,datanodeDF,DYNLL1,DYNLRB1
+90,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_9,"MULTIPOINT (397 587, 397 562)",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",0.0,b53fe,0.0,d6173,datanodeDF,datanodeDF,DYNLL1,DYNLRB2
+91,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_9,"MULTIPOINT (397 587, 397 662)",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",0.0,b53fe,0.0,ed6f7,datanodeDF,datanodeDF,DYNLL1,DYNLT3
+92,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_10,"MULTIPOINT (397 562, 397 687)",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",0.0,d6173,0.0,b77ca,datanodeDF,datanodeDF,DYNLRB2,TCTEX1D2
+93,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_10,"MULTIPOINT (397 562, 397 420)",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",0.0,d6173,0.0,c77cf,datanodeDF,datanodeDF,DYNLRB2,WDR34
+94,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_10,"MULTIPOINT (397 562, 397 342)",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",0.0,d6173,0.0,ce425,datanodeDF,datanodeDF,DYNLRB2,DYNC2H1
+95,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_10,"MULTIPOINT (397 562, 397 459)",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",0.0,d6173,0.0,ce63c,datanodeDF,datanodeDF,DYNLRB2,DYNC2LI1
+96,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_10,"MULTIPOINT (397 562, 397 395)",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",0.0,d6173,0.0,f5372,datanodeDF,datanodeDF,DYNLRB2,WDR60
+97,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_10,"MULTIPOINT (397 562, 397 612)",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",0.0,d6173,0.0,f0701,datanodeDF,datanodeDF,DYNLRB2,DYNLL2
+98,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_10,"MULTIPOINT (397 562, 397 637)",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",0.0,d6173,0.0,ac44f,datanodeDF,datanodeDF,DYNLRB2,DYNLT1
+99,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_10,"MULTIPOINT (397 562, 397 537)",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",0.0,d6173,0.0,ef11b,datanodeDF,datanodeDF,DYNLRB2,DYNLRB1
+100,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_10,"MULTIPOINT (397 562, 397 587)",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",0.0,d6173,0.0,b53fe,datanodeDF,datanodeDF,DYNLRB2,DYNLL1
+101,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_10,"MULTIPOINT (397 562, 397 662)",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",0.0,d6173,0.0,ed6f7,datanodeDF,datanodeDF,DYNLRB2,DYNLT3
+102,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_11,"MULTIPOINT (397 662, 397 687)",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",POINT (397 687),b77ca,"12    397.0
+Name: centerX, dtype: float64","12    687.0
+Name: centerY, dtype: float64",0.0,ed6f7,0.0,b77ca,datanodeDF,datanodeDF,DYNLT3,TCTEX1D2
+103,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_11,"MULTIPOINT (397 662, 397 420)",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",POINT (397 420),c77cf,"15    397.0
+Name: centerX, dtype: float64","15    420.0
+Name: centerY, dtype: float64",0.0,ed6f7,0.0,c77cf,datanodeDF,datanodeDF,DYNLT3,WDR34
+104,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_11,"MULTIPOINT (397 662, 397 342)",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",POINT (397 342),ce425,"18    397.0
+Name: centerX, dtype: float64","18    342.0
+Name: centerY, dtype: float64",0.0,ed6f7,0.0,ce425,datanodeDF,datanodeDF,DYNLT3,DYNC2H1
+105,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_11,"MULTIPOINT (397 662, 397 459)",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",POINT (397 459),ce63c,"19    397.0
+Name: centerX, dtype: float64","19    459.0
+Name: centerY, dtype: float64",0.0,ed6f7,0.0,ce63c,datanodeDF,datanodeDF,DYNLT3,DYNC2LI1
+106,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_11,"MULTIPOINT (397 662, 397 395)",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",POINT (397 395),f5372,"24    397.0
+Name: centerX, dtype: float64","24    395.0
+Name: centerY, dtype: float64",0.0,ed6f7,0.0,f5372,datanodeDF,datanodeDF,DYNLT3,WDR60
+107,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_11,"MULTIPOINT (397 662, 397 612)",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",POINT (397 612),f0701,"26    397.0
+Name: centerX, dtype: float64","26    612.0
+Name: centerY, dtype: float64",0.0,ed6f7,0.0,f0701,datanodeDF,datanodeDF,DYNLT3,DYNLL2
+108,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_11,"MULTIPOINT (397 662, 397 637)",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",POINT (397 637),ac44f,"27    397.0
+Name: centerX, dtype: float64","27    637.0
+Name: centerY, dtype: float64",0.0,ed6f7,0.0,ac44f,datanodeDF,datanodeDF,DYNLT3,DYNLT1
+109,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_11,"MULTIPOINT (397 662, 397 537)",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",POINT (397 537),ef11b,"28    397.0
+Name: centerX, dtype: float64","28    537.0
+Name: centerY, dtype: float64",0.0,ed6f7,0.0,ef11b,datanodeDF,datanodeDF,DYNLT3,DYNLRB1
+110,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_11,"MULTIPOINT (397 662, 397 587)",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",POINT (397 587),b53fe,"29    397.0
+Name: centerX, dtype: float64","29    587.0
+Name: centerY, dtype: float64",0.0,ed6f7,0.0,b53fe,datanodeDF,datanodeDF,DYNLT3,DYNLL1
+111,,group,#nan,,b7eae,b77ca_c77cf_ce425_ce63c_f5372_f0701_ac44f_ef11b_b53fe_d6173_ed6f7_11,"MULTIPOINT (397 662, 397 562)",POINT (397 662),ed6f7,"31    397.0
+Name: centerX, dtype: float64","31    662.0
+Name: centerY, dtype: float64",POINT (397 562),d6173,"30    397.0
+Name: centerX, dtype: float64","30    562.0
+Name: centerY, dtype: float64",0.0,ed6f7,0.0,d6173,datanodeDF,datanodeDF,DYNLT3,DYNLRB2
+112,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_1,"MULTIPOINT (187 187.5, 187 207.5)",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",0.0,27NUM,0.0,DH7K1,datanodeDF,datanodeDF,WDR35,IFT122
+113,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_1,"MULTIPOINT (187 187.5, 187 227.5)",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",0.0,27NUM,0.0,P4CV2,datanodeDF,datanodeDF,WDR35,IFT140
+114,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_1,"MULTIPOINT (187 187.5, 187 247.5)",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",0.0,27NUM,0.0,4HY5Z,datanodeDF,datanodeDF,WDR35,WDR19
+115,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_1,"MULTIPOINT (187 187.5, 295 189.5)",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",0.0,27NUM,0.0,FN265,datanodeDF,datanodeDF,WDR35,IFT22
+116,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_1,"MULTIPOINT (187 187.5, 295 209.5)",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",0.0,27NUM,0.0,YRKXS,datanodeDF,datanodeDF,WDR35,HSPB11
+117,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_1,"MULTIPOINT (187 187.5, 295 229.5)",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",0.0,27NUM,0.0,OEIU2,datanodeDF,datanodeDF,WDR35,IFT27
+118,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_1,"MULTIPOINT (187 187.5, 187 267.5)",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",0.0,27NUM,0.0,D68KU,datanodeDF,datanodeDF,WDR35,IFT43
+119,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_1,"MULTIPOINT (187 187.5, 295 249.5)",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",0.0,27NUM,0.0,6XJCO,datanodeDF,datanodeDF,WDR35,IFT46
+120,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_1,"MULTIPOINT (187 187.5, 397 190.5)",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",0.0,27NUM,0.0,S03GR,datanodeDF,datanodeDF,WDR35,IFT80
+121,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_1,"MULTIPOINT (187 187.5, 295 269.5)",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",0.0,27NUM,0.0,TBJMV,datanodeDF,datanodeDF,WDR35,IFT81
+122,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_2,"MULTIPOINT (187 207.5, 187 187.5)",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",0.0,DH7K1,0.0,27NUM,datanodeDF,datanodeDF,IFT122,WDR35
+123,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_2,"MULTIPOINT (187 207.5, 187 227.5)",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",0.0,DH7K1,0.0,P4CV2,datanodeDF,datanodeDF,IFT122,IFT140
+124,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_2,"MULTIPOINT (187 207.5, 187 247.5)",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",0.0,DH7K1,0.0,4HY5Z,datanodeDF,datanodeDF,IFT122,WDR19
+125,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_2,"MULTIPOINT (187 207.5, 295 189.5)",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",0.0,DH7K1,0.0,FN265,datanodeDF,datanodeDF,IFT122,IFT22
+126,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_2,"MULTIPOINT (187 207.5, 295 209.5)",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",0.0,DH7K1,0.0,YRKXS,datanodeDF,datanodeDF,IFT122,HSPB11
+127,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_2,"MULTIPOINT (187 207.5, 295 229.5)",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",0.0,DH7K1,0.0,OEIU2,datanodeDF,datanodeDF,IFT122,IFT27
+128,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_2,"MULTIPOINT (187 207.5, 187 267.5)",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",0.0,DH7K1,0.0,D68KU,datanodeDF,datanodeDF,IFT122,IFT43
+129,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_2,"MULTIPOINT (187 207.5, 295 249.5)",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",0.0,DH7K1,0.0,6XJCO,datanodeDF,datanodeDF,IFT122,IFT46
+130,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_2,"MULTIPOINT (187 207.5, 397 190.5)",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",0.0,DH7K1,0.0,S03GR,datanodeDF,datanodeDF,IFT122,IFT80
+131,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_2,"MULTIPOINT (187 207.5, 295 269.5)",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",0.0,DH7K1,0.0,TBJMV,datanodeDF,datanodeDF,IFT122,IFT81
+132,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_3,"MULTIPOINT (187 227.5, 187 187.5)",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",0.0,P4CV2,0.0,27NUM,datanodeDF,datanodeDF,IFT140,WDR35
+133,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_3,"MULTIPOINT (187 227.5, 187 207.5)",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",0.0,P4CV2,0.0,DH7K1,datanodeDF,datanodeDF,IFT140,IFT122
+134,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_3,"MULTIPOINT (187 227.5, 187 247.5)",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",0.0,P4CV2,0.0,4HY5Z,datanodeDF,datanodeDF,IFT140,WDR19
+135,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_3,"MULTIPOINT (187 227.5, 295 189.5)",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",0.0,P4CV2,0.0,FN265,datanodeDF,datanodeDF,IFT140,IFT22
+136,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_3,"MULTIPOINT (187 227.5, 295 209.5)",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",0.0,P4CV2,0.0,YRKXS,datanodeDF,datanodeDF,IFT140,HSPB11
+137,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_3,"MULTIPOINT (187 227.5, 295 229.5)",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",0.0,P4CV2,0.0,OEIU2,datanodeDF,datanodeDF,IFT140,IFT27
+138,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_3,"MULTIPOINT (187 227.5, 187 267.5)",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",0.0,P4CV2,0.0,D68KU,datanodeDF,datanodeDF,IFT140,IFT43
+139,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_3,"MULTIPOINT (187 227.5, 295 249.5)",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",0.0,P4CV2,0.0,6XJCO,datanodeDF,datanodeDF,IFT140,IFT46
+140,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_3,"MULTIPOINT (187 227.5, 397 190.5)",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",0.0,P4CV2,0.0,S03GR,datanodeDF,datanodeDF,IFT140,IFT80
+141,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_3,"MULTIPOINT (187 227.5, 295 269.5)",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",0.0,P4CV2,0.0,TBJMV,datanodeDF,datanodeDF,IFT140,IFT81
+142,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_4,"MULTIPOINT (187 247.5, 187 187.5)",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",0.0,4HY5Z,0.0,27NUM,datanodeDF,datanodeDF,WDR19,WDR35
+143,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_4,"MULTIPOINT (187 247.5, 187 207.5)",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",0.0,4HY5Z,0.0,DH7K1,datanodeDF,datanodeDF,WDR19,IFT122
+144,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_4,"MULTIPOINT (187 247.5, 187 227.5)",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",0.0,4HY5Z,0.0,P4CV2,datanodeDF,datanodeDF,WDR19,IFT140
+145,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_4,"MULTIPOINT (187 247.5, 295 189.5)",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",0.0,4HY5Z,0.0,FN265,datanodeDF,datanodeDF,WDR19,IFT22
+146,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_4,"MULTIPOINT (187 247.5, 295 209.5)",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",0.0,4HY5Z,0.0,YRKXS,datanodeDF,datanodeDF,WDR19,HSPB11
+147,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_4,"MULTIPOINT (187 247.5, 295 229.5)",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",0.0,4HY5Z,0.0,OEIU2,datanodeDF,datanodeDF,WDR19,IFT27
+148,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_4,"MULTIPOINT (187 247.5, 187 267.5)",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",0.0,4HY5Z,0.0,D68KU,datanodeDF,datanodeDF,WDR19,IFT43
+149,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_4,"MULTIPOINT (187 247.5, 295 249.5)",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",0.0,4HY5Z,0.0,6XJCO,datanodeDF,datanodeDF,WDR19,IFT46
+150,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_4,"MULTIPOINT (187 247.5, 397 190.5)",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",0.0,4HY5Z,0.0,S03GR,datanodeDF,datanodeDF,WDR19,IFT80
+151,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_4,"MULTIPOINT (187 247.5, 295 269.5)",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",0.0,4HY5Z,0.0,TBJMV,datanodeDF,datanodeDF,WDR19,IFT81
+152,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_5,"MULTIPOINT (295 189.5, 187 187.5)",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",0.0,FN265,0.0,27NUM,datanodeDF,datanodeDF,IFT22,WDR35
+153,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_5,"MULTIPOINT (295 189.5, 187 207.5)",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",0.0,FN265,0.0,DH7K1,datanodeDF,datanodeDF,IFT22,IFT122
+154,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_5,"MULTIPOINT (295 189.5, 187 227.5)",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",0.0,FN265,0.0,P4CV2,datanodeDF,datanodeDF,IFT22,IFT140
+155,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_5,"MULTIPOINT (295 189.5, 187 247.5)",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",0.0,FN265,0.0,4HY5Z,datanodeDF,datanodeDF,IFT22,WDR19
+156,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_5,"MULTIPOINT (295 189.5, 295 209.5)",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",0.0,FN265,0.0,YRKXS,datanodeDF,datanodeDF,IFT22,HSPB11
+157,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_5,"MULTIPOINT (295 189.5, 295 229.5)",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",0.0,FN265,0.0,OEIU2,datanodeDF,datanodeDF,IFT22,IFT27
+158,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_5,"MULTIPOINT (295 189.5, 187 267.5)",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",0.0,FN265,0.0,D68KU,datanodeDF,datanodeDF,IFT22,IFT43
+159,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_5,"MULTIPOINT (295 189.5, 295 249.5)",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",0.0,FN265,0.0,6XJCO,datanodeDF,datanodeDF,IFT22,IFT46
+160,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_5,"MULTIPOINT (295 189.5, 397 190.5)",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",0.0,FN265,0.0,S03GR,datanodeDF,datanodeDF,IFT22,IFT80
+161,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_5,"MULTIPOINT (295 189.5, 295 269.5)",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",0.0,FN265,0.0,TBJMV,datanodeDF,datanodeDF,IFT22,IFT81
+162,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_6,"MULTIPOINT (295 209.5, 187 187.5)",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",0.0,YRKXS,0.0,27NUM,datanodeDF,datanodeDF,HSPB11,WDR35
+163,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_6,"MULTIPOINT (295 209.5, 187 207.5)",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",0.0,YRKXS,0.0,DH7K1,datanodeDF,datanodeDF,HSPB11,IFT122
+164,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_6,"MULTIPOINT (295 209.5, 187 227.5)",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",0.0,YRKXS,0.0,P4CV2,datanodeDF,datanodeDF,HSPB11,IFT140
+165,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_6,"MULTIPOINT (295 209.5, 187 247.5)",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",0.0,YRKXS,0.0,4HY5Z,datanodeDF,datanodeDF,HSPB11,WDR19
+166,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_6,"MULTIPOINT (295 209.5, 295 189.5)",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",0.0,YRKXS,0.0,FN265,datanodeDF,datanodeDF,HSPB11,IFT22
+167,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_6,"MULTIPOINT (295 209.5, 295 229.5)",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",0.0,YRKXS,0.0,OEIU2,datanodeDF,datanodeDF,HSPB11,IFT27
+168,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_6,"MULTIPOINT (295 209.5, 187 267.5)",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",0.0,YRKXS,0.0,D68KU,datanodeDF,datanodeDF,HSPB11,IFT43
+169,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_6,"MULTIPOINT (295 209.5, 295 249.5)",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",0.0,YRKXS,0.0,6XJCO,datanodeDF,datanodeDF,HSPB11,IFT46
+170,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_6,"MULTIPOINT (295 209.5, 397 190.5)",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",0.0,YRKXS,0.0,S03GR,datanodeDF,datanodeDF,HSPB11,IFT80
+171,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_6,"MULTIPOINT (295 209.5, 295 269.5)",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",0.0,YRKXS,0.0,TBJMV,datanodeDF,datanodeDF,HSPB11,IFT81
+172,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_7,"MULTIPOINT (295 229.5, 187 187.5)",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",0.0,OEIU2,0.0,27NUM,datanodeDF,datanodeDF,IFT27,WDR35
+173,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_7,"MULTIPOINT (295 229.5, 187 207.5)",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",0.0,OEIU2,0.0,DH7K1,datanodeDF,datanodeDF,IFT27,IFT122
+174,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_7,"MULTIPOINT (295 229.5, 187 227.5)",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",0.0,OEIU2,0.0,P4CV2,datanodeDF,datanodeDF,IFT27,IFT140
+175,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_7,"MULTIPOINT (295 229.5, 187 247.5)",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",0.0,OEIU2,0.0,4HY5Z,datanodeDF,datanodeDF,IFT27,WDR19
+176,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_7,"MULTIPOINT (295 229.5, 295 189.5)",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",0.0,OEIU2,0.0,FN265,datanodeDF,datanodeDF,IFT27,IFT22
+177,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_7,"MULTIPOINT (295 229.5, 295 209.5)",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",0.0,OEIU2,0.0,YRKXS,datanodeDF,datanodeDF,IFT27,HSPB11
+178,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_7,"MULTIPOINT (295 229.5, 187 267.5)",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",0.0,OEIU2,0.0,D68KU,datanodeDF,datanodeDF,IFT27,IFT43
+179,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_7,"MULTIPOINT (295 229.5, 295 249.5)",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",0.0,OEIU2,0.0,6XJCO,datanodeDF,datanodeDF,IFT27,IFT46
+180,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_7,"MULTIPOINT (295 229.5, 397 190.5)",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",0.0,OEIU2,0.0,S03GR,datanodeDF,datanodeDF,IFT27,IFT80
+181,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_7,"MULTIPOINT (295 229.5, 295 269.5)",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",0.0,OEIU2,0.0,TBJMV,datanodeDF,datanodeDF,IFT27,IFT81
+182,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_8,"MULTIPOINT (187 267.5, 187 187.5)",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",0.0,D68KU,0.0,27NUM,datanodeDF,datanodeDF,IFT43,WDR35
+183,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_8,"MULTIPOINT (187 267.5, 187 207.5)",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",0.0,D68KU,0.0,DH7K1,datanodeDF,datanodeDF,IFT43,IFT122
+184,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_8,"MULTIPOINT (187 267.5, 187 227.5)",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",0.0,D68KU,0.0,P4CV2,datanodeDF,datanodeDF,IFT43,IFT140
+185,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_8,"MULTIPOINT (187 267.5, 187 247.5)",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",0.0,D68KU,0.0,4HY5Z,datanodeDF,datanodeDF,IFT43,WDR19
+186,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_8,"MULTIPOINT (187 267.5, 295 189.5)",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",0.0,D68KU,0.0,FN265,datanodeDF,datanodeDF,IFT43,IFT22
+187,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_8,"MULTIPOINT (187 267.5, 295 209.5)",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",0.0,D68KU,0.0,YRKXS,datanodeDF,datanodeDF,IFT43,HSPB11
+188,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_8,"MULTIPOINT (187 267.5, 295 229.5)",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",0.0,D68KU,0.0,OEIU2,datanodeDF,datanodeDF,IFT43,IFT27
+189,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_8,"MULTIPOINT (187 267.5, 295 249.5)",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",0.0,D68KU,0.0,6XJCO,datanodeDF,datanodeDF,IFT43,IFT46
+190,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_8,"MULTIPOINT (187 267.5, 397 190.5)",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",0.0,D68KU,0.0,S03GR,datanodeDF,datanodeDF,IFT43,IFT80
+191,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_8,"MULTIPOINT (187 267.5, 295 269.5)",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",0.0,D68KU,0.0,TBJMV,datanodeDF,datanodeDF,IFT43,IFT81
+192,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_9,"MULTIPOINT (295 249.5, 187 187.5)",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",0.0,6XJCO,0.0,27NUM,datanodeDF,datanodeDF,IFT46,WDR35
+193,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_9,"MULTIPOINT (295 249.5, 187 207.5)",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",0.0,6XJCO,0.0,DH7K1,datanodeDF,datanodeDF,IFT46,IFT122
+194,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_9,"MULTIPOINT (295 249.5, 187 227.5)",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",0.0,6XJCO,0.0,P4CV2,datanodeDF,datanodeDF,IFT46,IFT140
+195,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_9,"MULTIPOINT (295 249.5, 187 247.5)",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",0.0,6XJCO,0.0,4HY5Z,datanodeDF,datanodeDF,IFT46,WDR19
+196,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_9,"MULTIPOINT (295 249.5, 295 189.5)",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",0.0,6XJCO,0.0,FN265,datanodeDF,datanodeDF,IFT46,IFT22
+197,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_9,"MULTIPOINT (295 249.5, 295 209.5)",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",0.0,6XJCO,0.0,YRKXS,datanodeDF,datanodeDF,IFT46,HSPB11
+198,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_9,"MULTIPOINT (295 249.5, 295 229.5)",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",0.0,6XJCO,0.0,OEIU2,datanodeDF,datanodeDF,IFT46,IFT27
+199,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_9,"MULTIPOINT (295 249.5, 187 267.5)",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",0.0,6XJCO,0.0,D68KU,datanodeDF,datanodeDF,IFT46,IFT43
+200,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_9,"MULTIPOINT (295 249.5, 397 190.5)",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",0.0,6XJCO,0.0,S03GR,datanodeDF,datanodeDF,IFT46,IFT80
+201,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_9,"MULTIPOINT (295 249.5, 295 269.5)",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",0.0,6XJCO,0.0,TBJMV,datanodeDF,datanodeDF,IFT46,IFT81
+202,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_10,"MULTIPOINT (397 190.5, 187 187.5)",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",0.0,S03GR,0.0,27NUM,datanodeDF,datanodeDF,IFT80,WDR35
+203,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_10,"MULTIPOINT (397 190.5, 187 207.5)",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",0.0,S03GR,0.0,DH7K1,datanodeDF,datanodeDF,IFT80,IFT122
+204,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_10,"MULTIPOINT (397 190.5, 187 227.5)",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",0.0,S03GR,0.0,P4CV2,datanodeDF,datanodeDF,IFT80,IFT140
+205,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_10,"MULTIPOINT (397 190.5, 187 247.5)",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",0.0,S03GR,0.0,4HY5Z,datanodeDF,datanodeDF,IFT80,WDR19
+206,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_10,"MULTIPOINT (397 190.5, 295 189.5)",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",0.0,S03GR,0.0,FN265,datanodeDF,datanodeDF,IFT80,IFT22
+207,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_10,"MULTIPOINT (397 190.5, 295 209.5)",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",0.0,S03GR,0.0,YRKXS,datanodeDF,datanodeDF,IFT80,HSPB11
+208,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_10,"MULTIPOINT (397 190.5, 295 229.5)",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",0.0,S03GR,0.0,OEIU2,datanodeDF,datanodeDF,IFT80,IFT27
+209,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_10,"MULTIPOINT (397 190.5, 187 267.5)",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",0.0,S03GR,0.0,D68KU,datanodeDF,datanodeDF,IFT80,IFT43
+210,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_10,"MULTIPOINT (397 190.5, 295 249.5)",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",0.0,S03GR,0.0,6XJCO,datanodeDF,datanodeDF,IFT80,IFT46
+211,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_10,"MULTIPOINT (397 190.5, 295 269.5)",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",0.0,S03GR,0.0,TBJMV,datanodeDF,datanodeDF,IFT80,IFT81
+212,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_11,"MULTIPOINT (295 269.5, 187 187.5)",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",POINT (187 187.5),27NUM,"0    187.0
+Name: centerX, dtype: float64","0    187.5
+Name: centerY, dtype: float64",0.0,TBJMV,0.0,27NUM,datanodeDF,datanodeDF,IFT81,WDR35
+213,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_11,"MULTIPOINT (295 269.5, 187 207.5)",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",POINT (187 207.5),DH7K1,"1    187.0
+Name: centerX, dtype: float64","1    207.5
+Name: centerY, dtype: float64",0.0,TBJMV,0.0,DH7K1,datanodeDF,datanodeDF,IFT81,IFT122
+214,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_11,"MULTIPOINT (295 269.5, 187 227.5)",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",POINT (187 227.5),P4CV2,"2    187.0
+Name: centerX, dtype: float64","2    227.5
+Name: centerY, dtype: float64",0.0,TBJMV,0.0,P4CV2,datanodeDF,datanodeDF,IFT81,IFT140
+215,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_11,"MULTIPOINT (295 269.5, 187 247.5)",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",POINT (187 247.5),4HY5Z,"3    187.0
+Name: centerX, dtype: float64","3    247.5
+Name: centerY, dtype: float64",0.0,TBJMV,0.0,4HY5Z,datanodeDF,datanodeDF,IFT81,WDR19
+216,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_11,"MULTIPOINT (295 269.5, 295 189.5)",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",POINT (295 189.5),FN265,"4    295.0
+Name: centerX, dtype: float64","4    189.5
+Name: centerY, dtype: float64",0.0,TBJMV,0.0,FN265,datanodeDF,datanodeDF,IFT81,IFT22
+217,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_11,"MULTIPOINT (295 269.5, 295 209.5)",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",POINT (295 209.5),YRKXS,"5    295.0
+Name: centerX, dtype: float64","5    209.5
+Name: centerY, dtype: float64",0.0,TBJMV,0.0,YRKXS,datanodeDF,datanodeDF,IFT81,HSPB11
+218,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_11,"MULTIPOINT (295 269.5, 295 229.5)",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",POINT (295 229.5),OEIU2,"6    295.0
+Name: centerX, dtype: float64","6    229.5
+Name: centerY, dtype: float64",0.0,TBJMV,0.0,OEIU2,datanodeDF,datanodeDF,IFT81,IFT27
+219,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_11,"MULTIPOINT (295 269.5, 187 267.5)",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",POINT (187 267.5),D68KU,"7    187.0
+Name: centerX, dtype: float64","7    267.5
+Name: centerY, dtype: float64",0.0,TBJMV,0.0,D68KU,datanodeDF,datanodeDF,IFT81,IFT43
+220,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_11,"MULTIPOINT (295 269.5, 295 249.5)",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",POINT (295 249.5),6XJCO,"8    295.0
+Name: centerX, dtype: float64","8    249.5
+Name: centerY, dtype: float64",0.0,TBJMV,0.0,6XJCO,datanodeDF,datanodeDF,IFT81,IFT46
+221,,group,#nan,,da860,27NUM_DH7K1_P4CV2_4HY5Z_FN265_YRKXS_OEIU2_D68KU_6XJCO_S03GR_TBJMV_11,"MULTIPOINT (295 269.5, 397 190.5)",POINT (295 269.5),TBJMV,"10    295.0
+Name: centerX, dtype: float64","10    269.5
+Name: centerY, dtype: float64",POINT (397 190.5),S03GR,"9    397.0
+Name: centerX, dtype: float64","9    190.5
+Name: centerY, dtype: float64",0.0,TBJMV,0.0,S03GR,datanodeDF,datanodeDF,IFT81,IFT80
+222,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_1,"MULTIPOINT (187 611, 187 636)",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",0.0,a0505,0.0,b88b3,datanodeDF,datanodeDF,DYNLL2,DYNLT1
+223,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_1,"MULTIPOINT (187 611, 187 457)",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",0.0,a0505,0.0,bd605,datanodeDF,datanodeDF,DYNLL2,DYNC1LI1
+224,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_1,"MULTIPOINT (187 611, 187 341)",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",0.0,a0505,0.0,c9eb2,datanodeDF,datanodeDF,DYNLL2,DYNC1H1
+225,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_1,"MULTIPOINT (187 611, 187 536)",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",0.0,a0505,0.0,cd250,datanodeDF,datanodeDF,DYNLL2,DYNLRB1
+226,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_1,"MULTIPOINT (187 611, 187 586)",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",0.0,a0505,0.0,dc81d,datanodeDF,datanodeDF,DYNLL2,DYNLL1
+227,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_1,"MULTIPOINT (187 611, 187 420)",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",0.0,a0505,0.0,dde0a,datanodeDF,datanodeDF,DYNLL2,DYNC1I2
+228,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_1,"MULTIPOINT (187 611, 187 395)",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",0.0,a0505,0.0,e4767,datanodeDF,datanodeDF,DYNLL2,DYNC1I1
+229,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_1,"MULTIPOINT (187 611, 187 561)",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",0.0,a0505,0.0,e9601,datanodeDF,datanodeDF,DYNLL2,DYNLRB2
+230,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_1,"MULTIPOINT (187 611, 187 661)",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",0.0,a0505,0.0,f24c0,datanodeDF,datanodeDF,DYNLL2,DYNLT3
+231,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_1,"MULTIPOINT (187 611, 187 482)",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",0.0,a0505,0.0,e084a,datanodeDF,datanodeDF,DYNLL2,DYNC1LI2
+232,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_2,"MULTIPOINT (187 636, 187 611)",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",0.0,b88b3,0.0,a0505,datanodeDF,datanodeDF,DYNLT1,DYNLL2
+233,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_2,"MULTIPOINT (187 636, 187 457)",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",0.0,b88b3,0.0,bd605,datanodeDF,datanodeDF,DYNLT1,DYNC1LI1
+234,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_2,"MULTIPOINT (187 636, 187 341)",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",0.0,b88b3,0.0,c9eb2,datanodeDF,datanodeDF,DYNLT1,DYNC1H1
+235,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_2,"MULTIPOINT (187 636, 187 536)",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",0.0,b88b3,0.0,cd250,datanodeDF,datanodeDF,DYNLT1,DYNLRB1
+236,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_2,"MULTIPOINT (187 636, 187 586)",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",0.0,b88b3,0.0,dc81d,datanodeDF,datanodeDF,DYNLT1,DYNLL1
+237,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_2,"MULTIPOINT (187 636, 187 420)",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",0.0,b88b3,0.0,dde0a,datanodeDF,datanodeDF,DYNLT1,DYNC1I2
+238,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_2,"MULTIPOINT (187 636, 187 395)",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",0.0,b88b3,0.0,e4767,datanodeDF,datanodeDF,DYNLT1,DYNC1I1
+239,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_2,"MULTIPOINT (187 636, 187 561)",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",0.0,b88b3,0.0,e9601,datanodeDF,datanodeDF,DYNLT1,DYNLRB2
+240,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_2,"MULTIPOINT (187 636, 187 661)",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",0.0,b88b3,0.0,f24c0,datanodeDF,datanodeDF,DYNLT1,DYNLT3
+241,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_2,"MULTIPOINT (187 636, 187 482)",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",0.0,b88b3,0.0,e084a,datanodeDF,datanodeDF,DYNLT1,DYNC1LI2
+242,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_3,"MULTIPOINT (187 457, 187 611)",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",0.0,bd605,0.0,a0505,datanodeDF,datanodeDF,DYNC1LI1,DYNLL2
+243,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_3,"MULTIPOINT (187 457, 187 636)",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",0.0,bd605,0.0,b88b3,datanodeDF,datanodeDF,DYNC1LI1,DYNLT1
+244,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_3,"MULTIPOINT (187 457, 187 341)",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",0.0,bd605,0.0,c9eb2,datanodeDF,datanodeDF,DYNC1LI1,DYNC1H1
+245,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_3,"MULTIPOINT (187 457, 187 536)",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",0.0,bd605,0.0,cd250,datanodeDF,datanodeDF,DYNC1LI1,DYNLRB1
+246,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_3,"MULTIPOINT (187 457, 187 586)",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",0.0,bd605,0.0,dc81d,datanodeDF,datanodeDF,DYNC1LI1,DYNLL1
+247,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_3,"MULTIPOINT (187 457, 187 420)",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",0.0,bd605,0.0,dde0a,datanodeDF,datanodeDF,DYNC1LI1,DYNC1I2
+248,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_3,"MULTIPOINT (187 457, 187 395)",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",0.0,bd605,0.0,e4767,datanodeDF,datanodeDF,DYNC1LI1,DYNC1I1
+249,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_3,"MULTIPOINT (187 457, 187 561)",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",0.0,bd605,0.0,e9601,datanodeDF,datanodeDF,DYNC1LI1,DYNLRB2
+250,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_3,"MULTIPOINT (187 457, 187 661)",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",0.0,bd605,0.0,f24c0,datanodeDF,datanodeDF,DYNC1LI1,DYNLT3
+251,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_3,"MULTIPOINT (187 457, 187 482)",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",0.0,bd605,0.0,e084a,datanodeDF,datanodeDF,DYNC1LI1,DYNC1LI2
+252,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4,"MULTIPOINT (187 341, 187 611)",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",0.0,c9eb2,0.0,a0505,datanodeDF,datanodeDF,DYNC1H1,DYNLL2
+253,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4,"MULTIPOINT (187 341, 187 636)",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",0.0,c9eb2,0.0,b88b3,datanodeDF,datanodeDF,DYNC1H1,DYNLT1
+254,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4,"MULTIPOINT (187 341, 187 457)",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",0.0,c9eb2,0.0,bd605,datanodeDF,datanodeDF,DYNC1H1,DYNC1LI1
+255,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4,"MULTIPOINT (187 341, 187 536)",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",0.0,c9eb2,0.0,cd250,datanodeDF,datanodeDF,DYNC1H1,DYNLRB1
+256,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4,"MULTIPOINT (187 341, 187 586)",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",0.0,c9eb2,0.0,dc81d,datanodeDF,datanodeDF,DYNC1H1,DYNLL1
+257,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4,"MULTIPOINT (187 341, 187 420)",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",0.0,c9eb2,0.0,dde0a,datanodeDF,datanodeDF,DYNC1H1,DYNC1I2
+258,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4,"MULTIPOINT (187 341, 187 395)",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",0.0,c9eb2,0.0,e4767,datanodeDF,datanodeDF,DYNC1H1,DYNC1I1
+259,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4,"MULTIPOINT (187 341, 187 561)",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",0.0,c9eb2,0.0,e9601,datanodeDF,datanodeDF,DYNC1H1,DYNLRB2
+260,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4,"MULTIPOINT (187 341, 187 661)",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",0.0,c9eb2,0.0,f24c0,datanodeDF,datanodeDF,DYNC1H1,DYNLT3
+261,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_4,"MULTIPOINT (187 341, 187 482)",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",0.0,c9eb2,0.0,e084a,datanodeDF,datanodeDF,DYNC1H1,DYNC1LI2
+262,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_5,"MULTIPOINT (187 536, 187 611)",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",0.0,cd250,0.0,a0505,datanodeDF,datanodeDF,DYNLRB1,DYNLL2
+263,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_5,"MULTIPOINT (187 536, 187 636)",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",0.0,cd250,0.0,b88b3,datanodeDF,datanodeDF,DYNLRB1,DYNLT1
+264,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_5,"MULTIPOINT (187 536, 187 457)",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",0.0,cd250,0.0,bd605,datanodeDF,datanodeDF,DYNLRB1,DYNC1LI1
+265,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_5,"MULTIPOINT (187 536, 187 341)",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",0.0,cd250,0.0,c9eb2,datanodeDF,datanodeDF,DYNLRB1,DYNC1H1
+266,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_5,"MULTIPOINT (187 536, 187 586)",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",0.0,cd250,0.0,dc81d,datanodeDF,datanodeDF,DYNLRB1,DYNLL1
+267,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_5,"MULTIPOINT (187 536, 187 420)",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",0.0,cd250,0.0,dde0a,datanodeDF,datanodeDF,DYNLRB1,DYNC1I2
+268,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_5,"MULTIPOINT (187 536, 187 395)",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",0.0,cd250,0.0,e4767,datanodeDF,datanodeDF,DYNLRB1,DYNC1I1
+269,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_5,"MULTIPOINT (187 536, 187 561)",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",0.0,cd250,0.0,e9601,datanodeDF,datanodeDF,DYNLRB1,DYNLRB2
+270,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_5,"MULTIPOINT (187 536, 187 661)",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",0.0,cd250,0.0,f24c0,datanodeDF,datanodeDF,DYNLRB1,DYNLT3
+271,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_5,"MULTIPOINT (187 536, 187 482)",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",0.0,cd250,0.0,e084a,datanodeDF,datanodeDF,DYNLRB1,DYNC1LI2
+272,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_6,"MULTIPOINT (187 586, 187 611)",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",0.0,dc81d,0.0,a0505,datanodeDF,datanodeDF,DYNLL1,DYNLL2
+273,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_6,"MULTIPOINT (187 586, 187 636)",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",0.0,dc81d,0.0,b88b3,datanodeDF,datanodeDF,DYNLL1,DYNLT1
+274,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_6,"MULTIPOINT (187 586, 187 457)",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",0.0,dc81d,0.0,bd605,datanodeDF,datanodeDF,DYNLL1,DYNC1LI1
+275,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_6,"MULTIPOINT (187 586, 187 341)",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",0.0,dc81d,0.0,c9eb2,datanodeDF,datanodeDF,DYNLL1,DYNC1H1
+276,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_6,"MULTIPOINT (187 586, 187 536)",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",0.0,dc81d,0.0,cd250,datanodeDF,datanodeDF,DYNLL1,DYNLRB1
+277,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_6,"MULTIPOINT (187 586, 187 420)",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",0.0,dc81d,0.0,dde0a,datanodeDF,datanodeDF,DYNLL1,DYNC1I2
+278,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_6,"MULTIPOINT (187 586, 187 395)",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",0.0,dc81d,0.0,e4767,datanodeDF,datanodeDF,DYNLL1,DYNC1I1
+279,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_6,"MULTIPOINT (187 586, 187 561)",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",0.0,dc81d,0.0,e9601,datanodeDF,datanodeDF,DYNLL1,DYNLRB2
+280,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_6,"MULTIPOINT (187 586, 187 661)",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",0.0,dc81d,0.0,f24c0,datanodeDF,datanodeDF,DYNLL1,DYNLT3
+281,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_6,"MULTIPOINT (187 586, 187 482)",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",0.0,dc81d,0.0,e084a,datanodeDF,datanodeDF,DYNLL1,DYNC1LI2
+282,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_7,"MULTIPOINT (187 420, 187 611)",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",0.0,dde0a,0.0,a0505,datanodeDF,datanodeDF,DYNC1I2,DYNLL2
+283,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_7,"MULTIPOINT (187 420, 187 636)",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",0.0,dde0a,0.0,b88b3,datanodeDF,datanodeDF,DYNC1I2,DYNLT1
+284,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_7,"MULTIPOINT (187 420, 187 457)",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",0.0,dde0a,0.0,bd605,datanodeDF,datanodeDF,DYNC1I2,DYNC1LI1
+285,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_7,"MULTIPOINT (187 420, 187 341)",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",0.0,dde0a,0.0,c9eb2,datanodeDF,datanodeDF,DYNC1I2,DYNC1H1
+286,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_7,"MULTIPOINT (187 420, 187 536)",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",0.0,dde0a,0.0,cd250,datanodeDF,datanodeDF,DYNC1I2,DYNLRB1
+287,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_7,"MULTIPOINT (187 420, 187 586)",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",0.0,dde0a,0.0,dc81d,datanodeDF,datanodeDF,DYNC1I2,DYNLL1
+288,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_7,"MULTIPOINT (187 420, 187 395)",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",0.0,dde0a,0.0,e4767,datanodeDF,datanodeDF,DYNC1I2,DYNC1I1
+289,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_7,"MULTIPOINT (187 420, 187 561)",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",0.0,dde0a,0.0,e9601,datanodeDF,datanodeDF,DYNC1I2,DYNLRB2
+290,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_7,"MULTIPOINT (187 420, 187 661)",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",0.0,dde0a,0.0,f24c0,datanodeDF,datanodeDF,DYNC1I2,DYNLT3
+291,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_7,"MULTIPOINT (187 420, 187 482)",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",0.0,dde0a,0.0,e084a,datanodeDF,datanodeDF,DYNC1I2,DYNC1LI2
+292,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_8,"MULTIPOINT (187 395, 187 611)",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",0.0,e4767,0.0,a0505,datanodeDF,datanodeDF,DYNC1I1,DYNLL2
+293,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_8,"MULTIPOINT (187 395, 187 636)",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",0.0,e4767,0.0,b88b3,datanodeDF,datanodeDF,DYNC1I1,DYNLT1
+294,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_8,"MULTIPOINT (187 395, 187 457)",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",0.0,e4767,0.0,bd605,datanodeDF,datanodeDF,DYNC1I1,DYNC1LI1
+295,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_8,"MULTIPOINT (187 395, 187 341)",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",0.0,e4767,0.0,c9eb2,datanodeDF,datanodeDF,DYNC1I1,DYNC1H1
+296,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_8,"MULTIPOINT (187 395, 187 536)",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",0.0,e4767,0.0,cd250,datanodeDF,datanodeDF,DYNC1I1,DYNLRB1
+297,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_8,"MULTIPOINT (187 395, 187 586)",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",0.0,e4767,0.0,dc81d,datanodeDF,datanodeDF,DYNC1I1,DYNLL1
+298,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_8,"MULTIPOINT (187 395, 187 420)",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",0.0,e4767,0.0,dde0a,datanodeDF,datanodeDF,DYNC1I1,DYNC1I2
+299,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_8,"MULTIPOINT (187 395, 187 561)",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",0.0,e4767,0.0,e9601,datanodeDF,datanodeDF,DYNC1I1,DYNLRB2
+300,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_8,"MULTIPOINT (187 395, 187 661)",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",0.0,e4767,0.0,f24c0,datanodeDF,datanodeDF,DYNC1I1,DYNLT3
+301,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_8,"MULTIPOINT (187 395, 187 482)",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",0.0,e4767,0.0,e084a,datanodeDF,datanodeDF,DYNC1I1,DYNC1LI2
+302,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_9,"MULTIPOINT (187 561, 187 611)",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",0.0,e9601,0.0,a0505,datanodeDF,datanodeDF,DYNLRB2,DYNLL2
+303,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_9,"MULTIPOINT (187 561, 187 636)",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",0.0,e9601,0.0,b88b3,datanodeDF,datanodeDF,DYNLRB2,DYNLT1
+304,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_9,"MULTIPOINT (187 561, 187 457)",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",0.0,e9601,0.0,bd605,datanodeDF,datanodeDF,DYNLRB2,DYNC1LI1
+305,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_9,"MULTIPOINT (187 561, 187 341)",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",0.0,e9601,0.0,c9eb2,datanodeDF,datanodeDF,DYNLRB2,DYNC1H1
+306,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_9,"MULTIPOINT (187 561, 187 536)",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",0.0,e9601,0.0,cd250,datanodeDF,datanodeDF,DYNLRB2,DYNLRB1
+307,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_9,"MULTIPOINT (187 561, 187 586)",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",0.0,e9601,0.0,dc81d,datanodeDF,datanodeDF,DYNLRB2,DYNLL1
+308,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_9,"MULTIPOINT (187 561, 187 420)",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",0.0,e9601,0.0,dde0a,datanodeDF,datanodeDF,DYNLRB2,DYNC1I2
+309,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_9,"MULTIPOINT (187 561, 187 395)",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",0.0,e9601,0.0,e4767,datanodeDF,datanodeDF,DYNLRB2,DYNC1I1
+310,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_9,"MULTIPOINT (187 561, 187 661)",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",0.0,e9601,0.0,f24c0,datanodeDF,datanodeDF,DYNLRB2,DYNLT3
+311,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_9,"MULTIPOINT (187 561, 187 482)",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",0.0,e9601,0.0,e084a,datanodeDF,datanodeDF,DYNLRB2,DYNC1LI2
+312,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_10,"MULTIPOINT (187 661, 187 611)",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",0.0,f24c0,0.0,a0505,datanodeDF,datanodeDF,DYNLT3,DYNLL2
+313,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_10,"MULTIPOINT (187 661, 187 636)",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",0.0,f24c0,0.0,b88b3,datanodeDF,datanodeDF,DYNLT3,DYNLT1
+314,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_10,"MULTIPOINT (187 661, 187 457)",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",0.0,f24c0,0.0,bd605,datanodeDF,datanodeDF,DYNLT3,DYNC1LI1
+315,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_10,"MULTIPOINT (187 661, 187 341)",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",0.0,f24c0,0.0,c9eb2,datanodeDF,datanodeDF,DYNLT3,DYNC1H1
+316,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_10,"MULTIPOINT (187 661, 187 536)",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",0.0,f24c0,0.0,cd250,datanodeDF,datanodeDF,DYNLT3,DYNLRB1
+317,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_10,"MULTIPOINT (187 661, 187 586)",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",0.0,f24c0,0.0,dc81d,datanodeDF,datanodeDF,DYNLT3,DYNLL1
+318,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_10,"MULTIPOINT (187 661, 187 420)",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",0.0,f24c0,0.0,dde0a,datanodeDF,datanodeDF,DYNLT3,DYNC1I2
+319,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_10,"MULTIPOINT (187 661, 187 395)",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",0.0,f24c0,0.0,e4767,datanodeDF,datanodeDF,DYNLT3,DYNC1I1
+320,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_10,"MULTIPOINT (187 661, 187 561)",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",0.0,f24c0,0.0,e9601,datanodeDF,datanodeDF,DYNLT3,DYNLRB2
+321,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_10,"MULTIPOINT (187 661, 187 482)",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",0.0,f24c0,0.0,e084a,datanodeDF,datanodeDF,DYNLT3,DYNC1LI2
+322,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_11,"MULTIPOINT (187 482, 187 611)",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",POINT (187 611),a0505,"11    187.0
+Name: centerX, dtype: float64","11    611.0
+Name: centerY, dtype: float64",0.0,e084a,0.0,a0505,datanodeDF,datanodeDF,DYNC1LI2,DYNLL2
+323,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_11,"MULTIPOINT (187 482, 187 636)",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",POINT (187 636),b88b3,"13    187.0
+Name: centerX, dtype: float64","13    636.0
+Name: centerY, dtype: float64",0.0,e084a,0.0,b88b3,datanodeDF,datanodeDF,DYNC1LI2,DYNLT1
+324,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_11,"MULTIPOINT (187 482, 187 457)",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",POINT (187 457),bd605,"14    187.0
+Name: centerX, dtype: float64","14    457.0
+Name: centerY, dtype: float64",0.0,e084a,0.0,bd605,datanodeDF,datanodeDF,DYNC1LI2,DYNC1LI1
+325,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_11,"MULTIPOINT (187 482, 187 341)",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",POINT (187 341),c9eb2,"16    187.0
+Name: centerX, dtype: float64","16    341.0
+Name: centerY, dtype: float64",0.0,e084a,0.0,c9eb2,datanodeDF,datanodeDF,DYNC1LI2,DYNC1H1
+326,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_11,"MULTIPOINT (187 482, 187 536)",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",POINT (187 536),cd250,"17    187.0
+Name: centerX, dtype: float64","17    536.0
+Name: centerY, dtype: float64",0.0,e084a,0.0,cd250,datanodeDF,datanodeDF,DYNC1LI2,DYNLRB1
+327,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_11,"MULTIPOINT (187 482, 187 586)",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",POINT (187 586),dc81d,"20    187.0
+Name: centerX, dtype: float64","20    586.0
+Name: centerY, dtype: float64",0.0,e084a,0.0,dc81d,datanodeDF,datanodeDF,DYNC1LI2,DYNLL1
+328,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_11,"MULTIPOINT (187 482, 187 420)",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",POINT (187 420),dde0a,"21    187.0
+Name: centerX, dtype: float64","21    420.0
+Name: centerY, dtype: float64",0.0,e084a,0.0,dde0a,datanodeDF,datanodeDF,DYNC1LI2,DYNC1I2
+329,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_11,"MULTIPOINT (187 482, 187 395)",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",POINT (187 395),e4767,"22    187.0
+Name: centerX, dtype: float64","22    395.0
+Name: centerY, dtype: float64",0.0,e084a,0.0,e4767,datanodeDF,datanodeDF,DYNC1LI2,DYNC1I1
+330,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_11,"MULTIPOINT (187 482, 187 561)",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",POINT (187 561),e9601,"23    187.0
+Name: centerX, dtype: float64","23    561.0
+Name: centerY, dtype: float64",0.0,e084a,0.0,e9601,datanodeDF,datanodeDF,DYNC1LI2,DYNLRB2
+331,,group,#nan,,f17ff,a0505_b88b3_bd605_c9eb2_cd250_dc81d_dde0a_e4767_e9601_f24c0_e084a_11,"MULTIPOINT (187 482, 187 661)",POINT (187 482),e084a,"32    187.0
+Name: centerX, dtype: float64","32    482.0
+Name: centerY, dtype: float64",POINT (187 661),f24c0,"25    187.0
+Name: centerX, dtype: float64","25    661.0
+Name: centerY, dtype: float64",0.0,e084a,0.0,f24c0,datanodeDF,datanodeDF,DYNC1LI2,DYNLT3
+332,,group,#unlabeled,unlabeled,27NUM_DH7K1_unlabeled,27NUM_DH7K1_unlabeled,"LINESTRING (187 187.5, 187 207.5)",POINT (187 187.5),27NUM,187.0,187.5,POINT (187 207.5),DH7K1,187.0,207.5,0.0,27NUM,0.0,DH7K1,datanodeDF,datanodeDF,WDR35,IFT122
+333,,group,#unlabeled,unlabeled,DH7K1_27NUM_unlabeled,DH7K1_27NUM_unlabeled,"LINESTRING (187 207.5, 187 187.5)",POINT (187 207.5),DH7K1,187.0,207.5,POINT (187 187.5),27NUM,187.0,187.5,0.0,DH7K1,0.0,27NUM,datanodeDF,datanodeDF,IFT122,WDR35
+334,,group,#unlabeled,unlabeled,DH7K1_P4CV2_unlabeled,DH7K1_P4CV2_unlabeled,"LINESTRING (187 207.5, 187 227.5)",POINT (187 207.5),DH7K1,187.0,207.5,POINT (187 227.5),P4CV2,187.0,227.5,0.0,DH7K1,0.0,P4CV2,datanodeDF,datanodeDF,IFT122,IFT140
+335,,group,#unlabeled,unlabeled,P4CV2_DH7K1_unlabeled,P4CV2_DH7K1_unlabeled,"LINESTRING (187 227.5, 187 207.5)",POINT (187 227.5),P4CV2,187.0,227.5,POINT (187 207.5),DH7K1,187.0,207.5,0.0,P4CV2,0.0,DH7K1,datanodeDF,datanodeDF,IFT140,IFT122
+336,,group,#unlabeled,unlabeled,P4CV2_4HY5Z_unlabeled,P4CV2_4HY5Z_unlabeled,"LINESTRING (187 227.5, 187 247.5)",POINT (187 227.5),P4CV2,187.0,227.5,POINT (187 247.5),4HY5Z,187.0,247.5,0.0,P4CV2,0.0,4HY5Z,datanodeDF,datanodeDF,IFT140,WDR19
+337,,group,#unlabeled,unlabeled,4HY5Z_P4CV2_unlabeled,4HY5Z_P4CV2_unlabeled,"LINESTRING (187 247.5, 187 227.5)",POINT (187 247.5),4HY5Z,187.0,247.5,POINT (187 227.5),P4CV2,187.0,227.5,0.0,4HY5Z,0.0,P4CV2,datanodeDF,datanodeDF,WDR19,IFT140
+338,,group,#unlabeled,unlabeled,4HY5Z_D68KU_unlabeled,4HY5Z_D68KU_unlabeled,"LINESTRING (187 247.5, 187 267.5)",POINT (187 247.5),4HY5Z,187.0,247.5,POINT (187 267.5),D68KU,187.0,267.5,0.0,4HY5Z,0.0,D68KU,datanodeDF,datanodeDF,WDR19,IFT43
+339,,group,#unlabeled,unlabeled,FN265_YRKXS_unlabeled,FN265_YRKXS_unlabeled,"LINESTRING (295 189.5, 295 209.5)",POINT (295 189.5),FN265,295.0,189.5,POINT (295 209.5),YRKXS,295.0,209.5,0.0,FN265,0.0,YRKXS,datanodeDF,datanodeDF,IFT22,HSPB11
+340,,group,#unlabeled,unlabeled,YRKXS_FN265_unlabeled,YRKXS_FN265_unlabeled,"LINESTRING (295 209.5, 295 189.5)",POINT (295 209.5),YRKXS,295.0,209.5,POINT (295 189.5),FN265,295.0,189.5,0.0,YRKXS,0.0,FN265,datanodeDF,datanodeDF,HSPB11,IFT22
+341,,group,#unlabeled,unlabeled,YRKXS_OEIU2_unlabeled,YRKXS_OEIU2_unlabeled,"LINESTRING (295 209.5, 295 229.5)",POINT (295 209.5),YRKXS,295.0,209.5,POINT (295 229.5),OEIU2,295.0,229.5,0.0,YRKXS,0.0,OEIU2,datanodeDF,datanodeDF,HSPB11,IFT27
+342,,group,#unlabeled,unlabeled,OEIU2_YRKXS_unlabeled,OEIU2_YRKXS_unlabeled,"LINESTRING (295 229.5, 295 209.5)",POINT (295 229.5),OEIU2,295.0,229.5,POINT (295 209.5),YRKXS,295.0,209.5,0.0,OEIU2,0.0,YRKXS,datanodeDF,datanodeDF,IFT27,HSPB11
+343,,group,#unlabeled,unlabeled,OEIU2_6XJCO_unlabeled,OEIU2_6XJCO_unlabeled,"LINESTRING (295 229.5, 295 249.5)",POINT (295 229.5),OEIU2,295.0,229.5,POINT (295 249.5),6XJCO,295.0,249.5,0.0,OEIU2,0.0,6XJCO,datanodeDF,datanodeDF,IFT27,IFT46
+344,,group,#unlabeled,unlabeled,D68KU_4HY5Z_unlabeled,D68KU_4HY5Z_unlabeled,"LINESTRING (187 267.5, 187 247.5)",POINT (187 267.5),D68KU,187.0,267.5,POINT (187 247.5),4HY5Z,187.0,247.5,0.0,D68KU,0.0,4HY5Z,datanodeDF,datanodeDF,IFT43,WDR19
+345,,group,#unlabeled,unlabeled,6XJCO_OEIU2_unlabeled,6XJCO_OEIU2_unlabeled,"LINESTRING (295 249.5, 295 229.5)",POINT (295 249.5),6XJCO,295.0,249.5,POINT (295 229.5),OEIU2,295.0,229.5,0.0,6XJCO,0.0,OEIU2,datanodeDF,datanodeDF,IFT46,IFT27
+346,,group,#unlabeled,unlabeled,6XJCO_TBJMV_unlabeled,6XJCO_TBJMV_unlabeled,"LINESTRING (295 249.5, 295 269.5)",POINT (295 249.5),6XJCO,295.0,249.5,POINT (295 269.5),TBJMV,295.0,269.5,0.0,6XJCO,0.0,TBJMV,datanodeDF,datanodeDF,IFT46,IFT81
+347,,group,#unlabeled,unlabeled,TBJMV_6XJCO_unlabeled,TBJMV_6XJCO_unlabeled,"LINESTRING (295 269.5, 295 249.5)",POINT (295 269.5),TBJMV,295.0,269.5,POINT (295 249.5),6XJCO,295.0,249.5,0.0,TBJMV,0.0,6XJCO,datanodeDF,datanodeDF,IFT81,IFT46
+348,,group,#unlabeled,unlabeled,a0505_b88b3_unlabeled,a0505_b88b3_unlabeled,"LINESTRING (187 611, 187 636)",POINT (187 611),a0505,187.0,611.0,POINT (187 636),b88b3,187.0,636.0,0.0,a0505,0.0,b88b3,datanodeDF,datanodeDF,DYNLL2,DYNLT1
+349,,group,#unlabeled,unlabeled,a0505_dc81d_unlabeled,a0505_dc81d_unlabeled,"LINESTRING (187 611, 187 586)",POINT (187 611),a0505,187.0,611.0,POINT (187 586),dc81d,187.0,586.0,0.0,a0505,0.0,dc81d,datanodeDF,datanodeDF,DYNLL2,DYNLL1
+350,,group,#unlabeled,unlabeled,b77ca_ed6f7_unlabeled,b77ca_ed6f7_unlabeled,"LINESTRING (397 687, 397 662)",POINT (397 687),b77ca,397.0,687.0,POINT (397 662),ed6f7,397.0,662.0,0.0,b77ca,0.0,ed6f7,datanodeDF,datanodeDF,TCTEX1D2,DYNLT3
+351,,group,#unlabeled,unlabeled,b88b3_a0505_unlabeled,b88b3_a0505_unlabeled,"LINESTRING (187 636, 187 611)",POINT (187 636),b88b3,187.0,636.0,POINT (187 611),a0505,187.0,611.0,0.0,b88b3,0.0,a0505,datanodeDF,datanodeDF,DYNLT1,DYNLL2
+352,,group,#unlabeled,unlabeled,b88b3_f24c0_unlabeled,b88b3_f24c0_unlabeled,"LINESTRING (187 636, 187 661)",POINT (187 636),b88b3,187.0,636.0,POINT (187 661),f24c0,187.0,661.0,0.0,b88b3,0.0,f24c0,datanodeDF,datanodeDF,DYNLT1,DYNLT3
+353,,group,#unlabeled,unlabeled,bd605_dde0a_unlabeled,bd605_dde0a_unlabeled,"LINESTRING (187 457, 187 420)",POINT (187 457),bd605,187.0,457.0,POINT (187 420),dde0a,187.0,420.0,0.0,bd605,0.0,dde0a,datanodeDF,datanodeDF,DYNC1LI1,DYNC1I2
+354,,group,#unlabeled,unlabeled,bd605_e084a_unlabeled,bd605_e084a_unlabeled,"LINESTRING (187 457, 187 482)",POINT (187 457),bd605,187.0,457.0,POINT (187 482),e084a,187.0,482.0,0.0,bd605,0.0,e084a,datanodeDF,datanodeDF,DYNC1LI1,DYNC1LI2
+355,,group,#unlabeled,unlabeled,c77cf_f5372_unlabeled,c77cf_f5372_unlabeled,"LINESTRING (397 420, 397 395)",POINT (397 420),c77cf,397.0,420.0,POINT (397 395),f5372,397.0,395.0,0.0,c77cf,0.0,f5372,datanodeDF,datanodeDF,WDR34,WDR60
+356,,group,#unlabeled,unlabeled,cd250_e9601_unlabeled,cd250_e9601_unlabeled,"LINESTRING (187 536, 187 561)",POINT (187 536),cd250,187.0,536.0,POINT (187 561),e9601,187.0,561.0,0.0,cd250,0.0,e9601,datanodeDF,datanodeDF,DYNLRB1,DYNLRB2
+357,,group,#unlabeled,unlabeled,dc81d_a0505_unlabeled,dc81d_a0505_unlabeled,"LINESTRING (187 586, 187 611)",POINT (187 586),dc81d,187.0,586.0,POINT (187 611),a0505,187.0,611.0,0.0,dc81d,0.0,a0505,datanodeDF,datanodeDF,DYNLL1,DYNLL2
+358,,group,#unlabeled,unlabeled,dc81d_e9601_unlabeled,dc81d_e9601_unlabeled,"LINESTRING (187 586, 187 561)",POINT (187 586),dc81d,187.0,586.0,POINT (187 561),e9601,187.0,561.0,0.0,dc81d,0.0,e9601,datanodeDF,datanodeDF,DYNLL1,DYNLRB2
+359,,group,#unlabeled,unlabeled,dde0a_bd605_unlabeled,dde0a_bd605_unlabeled,"LINESTRING (187 420, 187 457)",POINT (187 420),dde0a,187.0,420.0,POINT (187 457),bd605,187.0,457.0,0.0,dde0a,0.0,bd605,datanodeDF,datanodeDF,DYNC1I2,DYNC1LI1
+360,,group,#unlabeled,unlabeled,dde0a_e4767_unlabeled,dde0a_e4767_unlabeled,"LINESTRING (187 420, 187 395)",POINT (187 420),dde0a,187.0,420.0,POINT (187 395),e4767,187.0,395.0,0.0,dde0a,0.0,e4767,datanodeDF,datanodeDF,DYNC1I2,DYNC1I1
+361,,group,#unlabeled,unlabeled,e4767_dde0a_unlabeled,e4767_dde0a_unlabeled,"LINESTRING (187 395, 187 420)",POINT (187 395),e4767,187.0,395.0,POINT (187 420),dde0a,187.0,420.0,0.0,e4767,0.0,dde0a,datanodeDF,datanodeDF,DYNC1I1,DYNC1I2
+362,,group,#unlabeled,unlabeled,e9601_cd250_unlabeled,e9601_cd250_unlabeled,"LINESTRING (187 561, 187 536)",POINT (187 561),e9601,187.0,561.0,POINT (187 536),cd250,187.0,536.0,0.0,e9601,0.0,cd250,datanodeDF,datanodeDF,DYNLRB2,DYNLRB1
+363,,group,#unlabeled,unlabeled,e9601_dc81d_unlabeled,e9601_dc81d_unlabeled,"LINESTRING (187 561, 187 586)",POINT (187 561),e9601,187.0,561.0,POINT (187 586),dc81d,187.0,586.0,0.0,e9601,0.0,dc81d,datanodeDF,datanodeDF,DYNLRB2,DYNLL1
+364,,group,#unlabeled,unlabeled,f5372_c77cf_unlabeled,f5372_c77cf_unlabeled,"LINESTRING (397 395, 397 420)",POINT (397 395),f5372,397.0,395.0,POINT (397 420),c77cf,397.0,420.0,0.0,f5372,0.0,c77cf,datanodeDF,datanodeDF,WDR60,WDR34
+365,,group,#unlabeled,unlabeled,f24c0_b88b3_unlabeled,f24c0_b88b3_unlabeled,"LINESTRING (187 661, 187 636)",POINT (187 661),f24c0,187.0,661.0,POINT (187 636),b88b3,187.0,636.0,0.0,f24c0,0.0,b88b3,datanodeDF,datanodeDF,DYNLT3,DYNLT1
+366,,group,#unlabeled,unlabeled,f0701_ac44f_unlabeled,f0701_ac44f_unlabeled,"LINESTRING (397 612, 397 637)",POINT (397 612),f0701,397.0,612.0,POINT (397 637),ac44f,397.0,637.0,0.0,f0701,0.0,ac44f,datanodeDF,datanodeDF,DYNLL2,DYNLT1
+367,,group,#unlabeled,unlabeled,f0701_b53fe_unlabeled,f0701_b53fe_unlabeled,"LINESTRING (397 612, 397 587)",POINT (397 612),f0701,397.0,612.0,POINT (397 587),b53fe,397.0,587.0,0.0,f0701,0.0,b53fe,datanodeDF,datanodeDF,DYNLL2,DYNLL1
+368,,group,#unlabeled,unlabeled,ac44f_f0701_unlabeled,ac44f_f0701_unlabeled,"LINESTRING (397 637, 397 612)",POINT (397 637),ac44f,397.0,637.0,POINT (397 612),f0701,397.0,612.0,0.0,ac44f,0.0,f0701,datanodeDF,datanodeDF,DYNLT1,DYNLL2
+369,,group,#unlabeled,unlabeled,ac44f_ed6f7_unlabeled,ac44f_ed6f7_unlabeled,"LINESTRING (397 637, 397 662)",POINT (397 637),ac44f,397.0,637.0,POINT (397 662),ed6f7,397.0,662.0,0.0,ac44f,0.0,ed6f7,datanodeDF,datanodeDF,DYNLT1,DYNLT3
+370,,group,#unlabeled,unlabeled,ef11b_d6173_unlabeled,ef11b_d6173_unlabeled,"LINESTRING (397 537, 397 562)",POINT (397 537),ef11b,397.0,537.0,POINT (397 562),d6173,397.0,562.0,0.0,ef11b,0.0,d6173,datanodeDF,datanodeDF,DYNLRB1,DYNLRB2
+371,,group,#unlabeled,unlabeled,b53fe_f0701_unlabeled,b53fe_f0701_unlabeled,"LINESTRING (397 587, 397 612)",POINT (397 587),b53fe,397.0,587.0,POINT (397 612),f0701,397.0,612.0,0.0,b53fe,0.0,f0701,datanodeDF,datanodeDF,DYNLL1,DYNLL2
+372,,group,#unlabeled,unlabeled,b53fe_d6173_unlabeled,b53fe_d6173_unlabeled,"LINESTRING (397 587, 397 562)",POINT (397 587),b53fe,397.0,587.0,POINT (397 562),d6173,397.0,562.0,0.0,b53fe,0.0,d6173,datanodeDF,datanodeDF,DYNLL1,DYNLRB2
+373,,group,#unlabeled,unlabeled,d6173_ef11b_unlabeled,d6173_ef11b_unlabeled,"LINESTRING (397 562, 397 537)",POINT (397 562),d6173,397.0,562.0,POINT (397 537),ef11b,397.0,537.0,0.0,d6173,0.0,ef11b,datanodeDF,datanodeDF,DYNLRB2,DYNLRB1
+374,,group,#unlabeled,unlabeled,d6173_b53fe_unlabeled,d6173_b53fe_unlabeled,"LINESTRING (397 562, 397 587)",POINT (397 562),d6173,397.0,562.0,POINT (397 587),b53fe,397.0,587.0,0.0,d6173,0.0,b53fe,datanodeDF,datanodeDF,DYNLRB2,DYNLL1
+375,,group,#unlabeled,unlabeled,ed6f7_b77ca_unlabeled,ed6f7_b77ca_unlabeled,"LINESTRING (397 662, 397 687)",POINT (397 662),ed6f7,397.0,662.0,POINT (397 687),b77ca,397.0,687.0,0.0,ed6f7,0.0,b77ca,datanodeDF,datanodeDF,DYNLT3,TCTEX1D2
+376,,group,#unlabeled,unlabeled,ed6f7_ac44f_unlabeled,ed6f7_ac44f_unlabeled,"LINESTRING (397 662, 397 637)",POINT (397 662),ed6f7,397.0,662.0,POINT (397 637),ac44f,397.0,637.0,0.0,ed6f7,0.0,ac44f,datanodeDF,datanodeDF,DYNLT3,DYNLT1
+377,,group,#unlabeled,unlabeled,e084a_bd605_unlabeled,e084a_bd605_unlabeled,"LINESTRING (187 482, 187 457)",POINT (187 482),e084a,187.0,482.0,POINT (187 457),bd605,187.0,457.0,0.0,e084a,0.0,bd605,datanodeDF,datanodeDF,DYNC1LI2,DYNC1LI1

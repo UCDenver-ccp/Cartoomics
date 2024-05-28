@@ -1,0 +1,690 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d15" for="edge" attr.name="color" attr.type="string"/>
+<key id="d14" for="edge" attr.name="signal" attr.type="string"/>
+<key id="d13" for="edge" attr.name="interaction" attr.type="string"/>
+<key id="d12" for="edge" attr.name="arrow" attr.type="string"/>
+<key id="d11" for="edge" attr.name="edgeID" attr.type="string"/>
+<key id="d10" for="node" attr.name="geometry" attr.type="string"/>
+<key id="d9" for="node" attr.name="databaseID" attr.type="string"/>
+<key id="d8" for="node" attr.name="database" attr.type="string"/>
+<key id="d7" for="node" attr.name="color" attr.type="string"/>
+<key id="d6" for="node" attr.name="height" attr.type="string"/>
+<key id="d5" for="node" attr.name="width" attr.type="string"/>
+<key id="d4" for="node" attr.name="centerY" attr.type="string"/>
+<key id="d3" for="node" attr.name="centerX" attr.type="string"/>
+<key id="d2" for="node" attr.name="groupref" attr.type="string"/>
+<key id="d1" for="node" attr.name="graphid" attr.type="string"/>
+<key id="d0" for="node" attr.name="textlabel" attr.type="string"/>
+<graph edgedefault="directed"><node id="Sparc">
+  <data key="d0">Sparc</data>
+  <data key="d1">e26ca</data>
+  <data key="d2">None</data>
+  <data key="d3">1013.9655572772332</data>
+  <data key="d4">876.7033810869057</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P09486</data>
+  <data key="d10">POINT (1013.9655572772332 876.7033810869057)</data>
+</node>
+<node id="Cell adhesion"/>
+<node id="POSTN">
+  <data key="d0">POSTN</data>
+  <data key="d1">eafdd</data>
+  <data key="d2">None</data>
+  <data key="d3">825.1850630390657</data>
+  <data key="d4">839.174252866475</data>
+  <data key="d5">80.0</data>
+  <data key="d6">20.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q15063</data>
+  <data key="d10">POINT (825.1850630390657 839.174252866475)</data>
+</node>
+<node id="Periostin">
+  <data key="d0">Periostin</data>
+  <data key="d1">f6176</data>
+  <data key="d2">None</data>
+  <data key="d3">1014.5800116102708</data>
+  <data key="d4">843.5228471028717</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q15063</data>
+  <data key="d10">POINT (1014.5800116102708 843.5228471028717)</data>
+</node>
+<node id="14-3-3">
+  <data key="d0">14-3-3</data>
+  <data key="d1">e8267</data>
+  <data key="d2">None</data>
+  <data key="d3">267.0507223767213</data>
+  <data key="d4">422.77959299525196</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P61981</data>
+  <data key="d10">POINT (267.0507223767213 422.77959299525196)</data>
+</node>
+<node id="TAZ">
+  <data key="d0">TAZ</data>
+  <data key="d1">aba83</data>
+  <data key="d2">None</data>
+  <data key="d3">564.9387339624514</data>
+  <data key="d4">421.6041040246678</data>
+  <data key="d5">90.0</data>
+  <data key="d6">60.8336336993998</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q9GZV5</data>
+  <data key="d10">POINT (564.9387339624514 421.6041040246678)</data>
+</node>
+<node id="Smad2">
+  <data key="d0">Smad2</data>
+  <data key="d1">ba3a1</data>
+  <data key="d2">None</data>
+  <data key="d3">520.9238034809841</data>
+  <data key="d4">301.385576030444</data>
+  <data key="d5">80.0</data>
+  <data key="d6">20.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q15796</data>
+  <data key="d10">POINT (520.9238034809841 301.385576030444)</data>
+</node>
+<node id="Smad3">
+  <data key="d0">Smad3</data>
+  <data key="d1">b9c95</data>
+  <data key="d2">None</data>
+  <data key="d3">520.9238034809841</data>
+  <data key="d4">322.5571121829117</data>
+  <data key="d5">80.0</data>
+  <data key="d6">20.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P84022</data>
+  <data key="d10">POINT (520.9238034809841 322.5571121829117)</data>
+</node>
+<node id="Smad4">
+  <data key="d0">Smad4</data>
+  <data key="d1">d6126</data>
+  <data key="d2">None</data>
+  <data key="d3">856.4522295320231</data>
+  <data key="d4">312.79105560645</data>
+  <data key="d5">80.0</data>
+  <data key="d6">20.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q13485</data>
+  <data key="d10">POINT (856.4522295320231 312.79105560645)</data>
+</node>
+<node id="CNN2">
+  <data key="d0">CNN2</data>
+  <data key="d1">e1e11</data>
+  <data key="d2">None</data>
+  <data key="d3">824.3006248885312</data>
+  <data key="d4">943.2556549379482</data>
+  <data key="d5">80.0</data>
+  <data key="d6">20.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P29279</data>
+  <data key="d10">POINT (824.3006248885312 943.2556549379482)</data>
+</node>
+<node id="ECM proteins">
+  <data key="d0">ECM proteins</data>
+  <data key="d1">cb0bb</data>
+  <data key="d2">None</data>
+  <data key="d3">1727.242390463061</data>
+  <data key="d4">826.161268918668</data>
+  <data key="d5">90.0</data>
+  <data key="d6">37.345070422533404</data>
+  <data key="d7">#None</data>
+  <data key="d8">Wikidata</data>
+  <data key="d9">Q193825</data>
+  <data key="d10">POINT (1727.242390463061 826.161268918668)</data>
+</node>
+<node id="SERPINE1">
+  <data key="d0">SERPINE1</data>
+  <data key="d1">c6cd9</data>
+  <data key="d2">None</data>
+  <data key="d3">824.6314475720992</data>
+  <data key="d4">905.6466287375159</data>
+  <data key="d5">80.0</data>
+  <data key="d6">20.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P05121</data>
+  <data key="d10">POINT (824.6314475720992 905.6466287375159)</data>
+</node>
+<node id="SPARC">
+  <data key="d0">SPARC</data>
+  <data key="d1">db83b</data>
+  <data key="d2">None</data>
+  <data key="d3">824.1503307405296</data>
+  <data key="d4">872.2630389001014</data>
+  <data key="d5">80.0</data>
+  <data key="d6">20.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P09486</data>
+  <data key="d10">POINT (824.1503307405296 872.2630389001014)</data>
+</node>
+<node id="PAI-1">
+  <data key="d0">PAI-1</data>
+  <data key="d1">a8e65</data>
+  <data key="d2">None</data>
+  <data key="d3">1015.1944659433085</data>
+  <data key="d4">909.8839150709396</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P05121</data>
+  <data key="d10">POINT (1015.1944659433085 909.8839150709396)</data>
+</node>
+<node id="Proliferation"/>
+<node id="ECM degradation"/>
+<node id="CTFG">
+  <data key="d0">CTFG</data>
+  <data key="d1">d3ed3</data>
+  <data key="d2">None</data>
+  <data key="d3">1015.1944659433085</data>
+  <data key="d4">949.20899238535</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P29279</data>
+  <data key="d10">POINT (1015.1944659433085 949.20899238535)</data>
+</node>
+<node id="Migration"/>
+<node id="TGFβ-I-R">
+  <data key="d0">TGFβ-I-R</data>
+  <data key="d1">bff42</data>
+  <data key="d2">None</data>
+  <data key="d3">581.4907661922672</data>
+  <data key="d4">169.82344162409584</data>
+  <data key="d5">68.182</data>
+  <data key="d6">170.69214635937493</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P36897</data>
+  <data key="d10">POINT (581.4907661922672 169.82344162409584)</data>
+</node>
+<node id="TGF-β">
+  <data key="d0">TGF-β</data>
+  <data key="d1">f9fcd</data>
+  <data key="d2">None</data>
+  <data key="d3">492.16184225721514</data>
+  <data key="d4">49.340183715225294</data>
+  <data key="d5">56.918</data>
+  <data key="d6">27.241052046874966</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P01137</data>
+  <data key="d10">POINT (492.16184225721514 49.340183715225294)</data>
+</node>
+<node id="TGFβ-II-R">
+  <data key="d0">TGFβ-II-R</data>
+  <data key="d1">de268</data>
+  <data key="d2">None</data>
+  <data key="d3">492.1563045884015</data>
+  <data key="d4">168.0489927803455</data>
+  <data key="d5">68.182</data>
+  <data key="d6">170.69214635937493</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P37173</data>
+  <data key="d10">POINT (492.1563045884015 168.0489927803455)</data>
+</node>
+<node id="TGFβ-III-R">
+  <data key="d0">TGFβ-III-R</data>
+  <data key="d1">a70c6</data>
+  <data key="d2">None</data>
+  <data key="d3">370.0911558463806</data>
+  <data key="d4">169.7844953563217</data>
+  <data key="d5">68.18231169276123</data>
+  <data key="d6">170.69214635937493</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q03167</data>
+  <data key="d10">POINT (370.0911558463806 169.7844953563217)</data>
+</node>
+<edge source="Sparc" target="Cell adhesion">
+  <data key="d11">id11203eaa</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Sparc" target="PAI-1">
+  <data key="d11">e26ca_a8e65_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="Sparc" target="Periostin">
+  <data key="d11">e26ca_f6176_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="POSTN" target="Periostin">
+  <data key="d11">id1e336d19</data>
+  <data key="d12">mim-transcription-translation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Periostin" target="ECM degradation">
+  <data key="d11">idbf86c2c7</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Periostin" target="Sparc">
+  <data key="d11">f6176_e26ca_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="14-3-3" target="TAZ">
+  <data key="d11">af70b_ea681_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="14-3-3" target="Smad2">
+  <data key="d11">id244012a6</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="14-3-3" target="Smad3">
+  <data key="d11">id244012a6</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="14-3-3" target="Smad4">
+  <data key="d11">id244012a6</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TAZ" target="CNN2">
+  <data key="d11">id3662a204</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TAZ" target="POSTN">
+  <data key="d11">id459b8697</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TAZ" target="SERPINE1">
+  <data key="d11">id54715f69</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TAZ" target="SPARC">
+  <data key="d11">id595c7362</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TAZ" target="TAZ">
+  <data key="d11">id244012a6</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TAZ" target="Smad2">
+  <data key="d11">cbcbc_a8b49_e8a92_ecec5_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="TAZ" target="Smad3">
+  <data key="d11">cbcbc_a8b49_e8a92_ecec5_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="TAZ" target="Smad4">
+  <data key="d11">cbcbc_a8b49_e8a92_ecec5_1</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="TAZ" target="14-3-3">
+  <data key="d11">af70b_ea681_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="Smad2" target="CNN2">
+  <data key="d11">id3662a204</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Smad2" target="POSTN">
+  <data key="d11">id459b8697</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Smad2" target="SERPINE1">
+  <data key="d11">id54715f69</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Smad2" target="SPARC">
+  <data key="d11">id595c7362</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Smad2" target="TAZ">
+  <data key="d11">cbcbc_a8b49_e8a92_ecec5_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="Smad2" target="Smad2">
+  <data key="d11">id6df88176</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Smad2" target="Smad3">
+  <data key="d11">f6eb0_c7605_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="Smad2" target="Smad4">
+  <data key="d11">cbcbc_a8b49_e8a92_ecec5_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="Smad2" target="TGFβ-II-R">
+  <data key="d11">ba3a1_de268_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="Smad3" target="CNN2">
+  <data key="d11">id3662a204</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Smad3" target="POSTN">
+  <data key="d11">id459b8697</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Smad3" target="SERPINE1">
+  <data key="d11">id54715f69</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Smad3" target="SPARC">
+  <data key="d11">id595c7362</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Smad3" target="TAZ">
+  <data key="d11">cbcbc_a8b49_e8a92_ecec5_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="Smad3" target="Smad2">
+  <data key="d11">c7605_f6eb0_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="Smad3" target="Smad3">
+  <data key="d11">f0eaa</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Smad3" target="Smad4">
+  <data key="d11">c7605_ffc09_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="Smad4" target="CNN2">
+  <data key="d11">id3662a204</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Smad4" target="POSTN">
+  <data key="d11">id459b8697</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Smad4" target="SERPINE1">
+  <data key="d11">id54715f69</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Smad4" target="SPARC">
+  <data key="d11">id595c7362</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Smad4" target="TAZ">
+  <data key="d11">cbcbc_a8b49_e8a92_ecec5_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="Smad4" target="Smad2">
+  <data key="d11">cbcbc_a8b49_e8a92_ecec5_4</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="Smad4" target="Smad3">
+  <data key="d11">ffc09_c7605_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="Smad4" target="Smad4">
+  <data key="d11">id6df88176</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="CNN2" target="CTFG">
+  <data key="d11">d13e3</data>
+  <data key="d12">mim-transcription-translation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="ECM proteins" target="ECM proteins">
+  <data key="d11">idec455bcc</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SERPINE1" target="PAI-1">
+  <data key="d11">d7f3c</data>
+  <data key="d12">mim-transcription-translation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SPARC" target="Sparc">
+  <data key="d11">b6200</data>
+  <data key="d12">mim-transcription-translation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="PAI-1" target="Proliferation">
+  <data key="d11">id608d119a</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="PAI-1" target="Sparc">
+  <data key="d11">a8e65_e26ca_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="CTFG" target="Migration">
+  <data key="d11">iddba125bb</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TGFβ-I-R" target="Smad2">
+  <data key="d11">f0eaa</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TGFβ-I-R" target="Smad3">
+  <data key="d11">f0eaa</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TGFβ-I-R" target="TGFβ-II-R">
+  <data key="d11">bff42_de268_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="TGFβ-I-R" target="TGFβ-III-R">
+  <data key="d11">bff42_a70c6_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="TGF-β" target="TGFβ-II-R">
+  <data key="d11">f9fcd_de268_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="TGFβ-II-R" target="TGFβ-I-R">
+  <data key="d11">de268_bff42_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="TGFβ-II-R" target="Smad2">
+  <data key="d11">de268_ba3a1_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="TGFβ-II-R" target="TGF-β">
+  <data key="d11">de268_f9fcd_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="TGFβ-II-R" target="TGFβ-III-R">
+  <data key="d11">de268_a70c6_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="TGFβ-III-R" target="TGFβ-I-R">
+  <data key="d11">a70c6_bff42_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="TGFβ-III-R" target="TGFβ-II-R">
+  <data key="d11">a70c6_de268_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+</graph></graphml>

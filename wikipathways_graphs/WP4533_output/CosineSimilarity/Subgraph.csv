@@ -1,0 +1,33 @@
+S|P|O|S_ID|P_ID|O_ID
+benzo[a]pyrene|interacts with|MERTK (human)|http://purl.obolibrary.org/obo/CHEBI_29865|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/10461
+benzo[a]pyrene|is substance that treats|Acrania|http://purl.obolibrary.org/obo/CHEBI_29865|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0030716
+SKI|causes or contributes to condition|Acrania|http://www.ncbi.nlm.nih.gov/gene/6497|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0030716
+valproic acid|interacts with|TEAD3|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/7005
+valproic acid|interacts with|TEAD4|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/7004
+valproic acid|interacts with|SKI|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/6497
+TEAD2|participates_in|Metabolism|http://www.ncbi.nlm.nih.gov/gene/8463|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1430728
+TEAD4|participates_in|Metabolism|http://www.ncbi.nlm.nih.gov/gene/7004|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1430728
+TEAD3|participates_in|Metabolism|http://www.ncbi.nlm.nih.gov/gene/7005|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1430728
+TEAD2|participates_in|Generic Transcription Pathway|http://www.ncbi.nlm.nih.gov/gene/8463|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-212436
+SKI|participates_in|Generic Transcription Pathway|http://www.ncbi.nlm.nih.gov/gene/6497|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-212436
+TEAD1|participates_in|Metabolism|http://www.ncbi.nlm.nih.gov/gene/7003|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1430728
+TEAD1|participates_in|Generic Transcription Pathway|http://www.ncbi.nlm.nih.gov/gene/7003|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-212436
+PRMT5|participates_in|Generic Transcription Pathway|http://www.ncbi.nlm.nih.gov/gene/10419|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-212436
+Mob|has_gene_template|SGMS1 (human)|http://purl.obolibrary.org/obo/PR_Q86VZ5|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/259230
+valproic acid|interacts with|SGMS1 (human)|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/259230
+valproic acid|interacts with|SATB2|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/23314
+LATS2|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/26524|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+SKIL|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/6498|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+HDAC1|participates_in|Downregulation of SMAD2/3:SMAD4 transcriptional activity|http://www.ncbi.nlm.nih.gov/gene/3065|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2173795
+SKI|participates_in|Downregulation of SMAD2/3:SMAD4 transcriptional activity|http://www.ncbi.nlm.nih.gov/gene/6497|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2173795
+SKIL|causes or contributes to condition|Pulmonary fibrosis|http://www.ncbi.nlm.nih.gov/gene/6498|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0002206
+MECP2|causes or contributes to condition|Pulmonary fibrosis|http://www.ncbi.nlm.nih.gov/gene/4204|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0002206
+STK3 (human)|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/6788|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+SKIL|participates_in|Generic Transcription Pathway|http://www.ncbi.nlm.nih.gov/gene/6498|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-212436
+ING2 (human)|participates_in|Generic Transcription Pathway|http://www.ncbi.nlm.nih.gov/gene/3622|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-212436
+LATS1 (human)|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/9113|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+diazinon|interacts with|SIN3A|http://purl.obolibrary.org/obo/CHEBI_34682|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/25942
+diazinon|interacts with|SKIL|http://purl.obolibrary.org/obo/CHEBI_34682|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/6498
+valproic acid|interacts with|NF1 (human)|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/4763
+SKI|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/6497|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+HDAC3|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/8841|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582

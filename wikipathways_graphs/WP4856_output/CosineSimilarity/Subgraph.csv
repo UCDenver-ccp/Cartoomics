@@ -1,0 +1,76 @@
+S|P|O|S_ID|P_ID|O_ID
+RAB3A|participates_in|Transmission across Chemical Synapses|http://www.ncbi.nlm.nih.gov/gene/5864|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112315
+voltage-dependent calcium channel gamma-3 subunit (human)|participates_in|Transmission across Chemical Synapses|http://purl.obolibrary.org/obo/PR_O60359|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112315
+voltage-dependent calcium channel gamma-3 subunit (human)|participates_in|transmission of nerve impulse|http://purl.obolibrary.org/obo/PR_O60359|http://purl.obolibrary.org/obo/RO_0000056|http://purl.obolibrary.org/obo/GO_0019226
+neuron|capable of|transmission of nerve impulse|http://purl.obolibrary.org/obo/CL_0000540|http://purl.obolibrary.org/obo/RO_0002215|http://purl.obolibrary.org/obo/GO_0019226
+sodium arsenite|interacts with|NDRG1|http://purl.obolibrary.org/obo/CHEBI_29678|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/10397
+sodium arsenite|is substance that treats|Intellectual disability|http://purl.obolibrary.org/obo/CHEBI_29678|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0001249
+RAB11B|causes or contributes to condition|Intellectual disability|http://www.ncbi.nlm.nih.gov/gene/9230|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0001249
+NDRG1|participates_in|Gene expression (Transcription)|http://www.ncbi.nlm.nih.gov/gene/10397|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-74160
+CDKN2A|participates_in|Gene expression (Transcription)|http://www.ncbi.nlm.nih.gov/gene/1029|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-74160
+CDKN2A|participates_in|Metabolism of proteins|http://www.ncbi.nlm.nih.gov/gene/1029|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392499
+RAB25|participates_in|Metabolism of proteins|http://www.ncbi.nlm.nih.gov/gene/57111|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392499
+sodium arsenite|molecularly interacts with|identical protein binding|http://purl.obolibrary.org/obo/CHEBI_29678|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/GO_0042802
+prenylated Rab acceptor protein 1 (human)|has function|identical protein binding|http://purl.obolibrary.org/obo/PR_Q9UI14|http://purl.obolibrary.org/obo/RO_0000085|http://purl.obolibrary.org/obo/GO_0042802
+prenylated Rab acceptor protein 1 (human)|has_gene_template|RABAC1|http://purl.obolibrary.org/obo/PR_Q9UI14|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/10567
+aflatoxin B1|interacts with|RAB4A|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5867
+aflatoxin B1|interacts with|SH3TC2|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/79628
+RAB4A|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/5867|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+RAB4B|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/53916|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+valproic acid|interacts with|RAB4A|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5867
+valproic acid|interacts with|RAB11B|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/9230
+RAB4A|participates_in|Metabolism of proteins|http://www.ncbi.nlm.nih.gov/gene/5867|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392499
+reticulon-4 (human)|participates_in|Signal Transduction|http://purl.obolibrary.org/obo/PR_Q9NQC3|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+reticulon-4 (human)|molecularly interacts with|prenylated Rab acceptor protein 1 (human)|http://purl.obolibrary.org/obo/PR_Q9NQC3|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q9UI14
+aflatoxin B1|interacts with|RHOJ (human)|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/57381
+RHOJ (human)|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/57381|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+SH3TC2|causes or contributes to condition|Charcot-Marie-Tooth disease type 4C|http://www.ncbi.nlm.nih.gov/gene/79628|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0011113
+Charcot-Marie-Tooth disease type 4C|has phenotype|Intellectual disability|http://purl.obolibrary.org/obo/MONDO_0011113|http://purl.obolibrary.org/obo/RO_0002200|http://purl.obolibrary.org/obo/HP_0001249
+aflatoxin B1|interacts with|CANX (human)|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/821
+CANX (human)|participates_in|Metabolism of proteins|http://www.ncbi.nlm.nih.gov/gene/821|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392499
+aflatoxin B1|molecularly interacts with|protein binding|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/GO_0005515
+prenylated Rab acceptor protein 1 (human)|has function|protein binding|http://purl.obolibrary.org/obo/PR_Q9UI14|http://purl.obolibrary.org/obo/RO_0000085|http://purl.obolibrary.org/obo/GO_0005515
+RAB4B|participates_in|Metabolism of proteins|http://www.ncbi.nlm.nih.gov/gene/53916|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392499
+RAB11B|participates_in|Metabolism of proteins|http://www.ncbi.nlm.nih.gov/gene/9230|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392499
+RAB4B|has gene product|Ras-related protein Rab-4B (human)|http://www.ncbi.nlm.nih.gov/gene/53916|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_P61018
+Ras-related protein Rab-4B (human)|molecularly interacts with|Ras-related protein Rab-7a (human)|http://purl.obolibrary.org/obo/PR_P61018|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P51149
+Ras-related protein Rab-7a (human)|molecularly interacts with|prenylated Rab acceptor protein 1 (human)|http://purl.obolibrary.org/obo/PR_P51149|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q9UI14
+perfluorooctanoic acid|is substance that treats|Intellectual disability|http://purl.obolibrary.org/obo/CHEBI_35549|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0001249
+perfluorooctanoic acid|interacts with|prenylated Rab acceptor protein 1 (human)|http://purl.obolibrary.org/obo/CHEBI_35549|http://purl.obolibrary.org/obo/RO_0002434|http://purl.obolibrary.org/obo/PR_Q9UI14
+RAB25|has gene product|Ras-related protein Rab-25 (human)|http://www.ncbi.nlm.nih.gov/gene/57111|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_P57735
+Ras-related protein Rab-25 (human)|molecularly interacts with|Ras-related protein Rab-1A (human)|http://purl.obolibrary.org/obo/PR_P57735|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P62820
+Ras-related protein Rab-1A (human)|molecularly interacts with|prenylated Rab acceptor protein 1 (human)|http://purl.obolibrary.org/obo/PR_P62820|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q9UI14
+RABAC1|has gene product|prenylated Rab acceptor protein 1 (human)|http://www.ncbi.nlm.nih.gov/gene/10567|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_Q9UI14
+prenylated Rab acceptor protein 1 (human)|molecularly interacts with|Ras-related protein Rab-7a (human)|http://purl.obolibrary.org/obo/PR_Q9UI14|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P51149
+Ras-related protein Rab-7a (human)|has_gene_template|RAB7A|http://purl.obolibrary.org/obo/PR_P51149|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/7879
+NDRG1|causes or contributes to condition|Prostate cancer|http://www.ncbi.nlm.nih.gov/gene/10397|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0012125
+RAB4B|causes or contributes to condition|Prostate cancer|http://www.ncbi.nlm.nih.gov/gene/53916|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0012125
+valproic acid|interacts with|GDAP1 (human)|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/54332
+valproic acid|interacts with|mitofusin-2 (human)|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://purl.obolibrary.org/obo/PR_O95140
+mitofusin-2 (human)|has_gene_template|MFN2|http://purl.obolibrary.org/obo/PR_O95140|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/9927
+NDRG1|causes or contributes to condition|Charcot-Marie-Tooth disease type 4D|http://www.ncbi.nlm.nih.gov/gene/10397|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0011085
+NM_024577.4(SH3TC2):c.3511C>T|causes or contributes to condition|Charcot-Marie-Tooth disease type 4D|https://www.ncbi.nlm.nih.gov/snp/rs759785462|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0011085
+NM_024577.4(SH3TC2):c.3511C>T|causally influences|SH3TC2|https://www.ncbi.nlm.nih.gov/snp/rs759785462|http://purl.obolibrary.org/obo/RO_0002566|http://www.ncbi.nlm.nih.gov/gene/79628
+RAB11A|causes or contributes to condition|Intellectual disability|http://www.ncbi.nlm.nih.gov/gene/8766|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0001249
+RAB3A|participates_in|Metabolism of proteins|http://www.ncbi.nlm.nih.gov/gene/5864|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392499
+RAB3B|participates_in|Metabolism of proteins|http://www.ncbi.nlm.nih.gov/gene/5865|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392499
+spectrin beta chain, non-erythrocytic 4 (human)|participates_in|Metabolism of proteins|http://purl.obolibrary.org/obo/PR_Q9H254|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392499
+spectrin beta chain, non-erythrocytic 4 (human)|participates_in|transmission of nerve impulse|http://purl.obolibrary.org/obo/PR_Q9H254|http://purl.obolibrary.org/obo/RO_0000056|http://purl.obolibrary.org/obo/GO_0019226
+SBF2|has gene product|myotubularin-related protein 13 (human)|http://www.ncbi.nlm.nih.gov/gene/81846|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_Q86WG5
+myotubularin-related protein 13 (human)|participates_in|Metabolism of lipids|http://purl.obolibrary.org/obo/PR_Q86WG5|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-556833
+MTMR2|participates_in|Metabolism of lipids|http://www.ncbi.nlm.nih.gov/gene/8898|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-556833
+valproic acid|interacts with|SBF2|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/81846
+valproic acid|interacts with|LITAF|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/9516
+aflatoxin B1|interacts with|MTMR2|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/8898
+aflatoxin B1|interacts with|LITAF|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/9516
+HSPB1|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/3315|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+FGD4 (human)|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/121512|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+valproic acid|interacts with|FIG4|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/9896
+glioblastoma|has phenotype|Intellectual disability|http://purl.obolibrary.org/obo/MONDO_0018177|http://purl.obolibrary.org/obo/RO_0002200|http://purl.obolibrary.org/obo/HP_0001249
+NDRG1|causes or contributes to condition|glioblastoma|http://www.ncbi.nlm.nih.gov/gene/10397|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0018177
+RAB11A|participates_in|Translocation of SLC2A4 (GLUT4) to the plasma membrane|http://www.ncbi.nlm.nih.gov/gene/8766|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1445148
+RAB4A|participates_in|Translocation of SLC2A4 (GLUT4) to the plasma membrane|http://www.ncbi.nlm.nih.gov/gene/5867|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1445148
+Charcot-Marie-Tooth disease type 4C|disease has basis in dysfunction of|SH3TC2|http://purl.obolibrary.org/obo/MONDO_0011113|http://purl.obolibrary.org/obo/RO_0004020|http://www.ncbi.nlm.nih.gov/gene/79628
+RAB11A|participates_in|Metabolism of proteins|http://www.ncbi.nlm.nih.gov/gene/8766|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392499
+NDRG1|causes or contributes to condition|Neoplasm of the liver|http://www.ncbi.nlm.nih.gov/gene/10397|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0002896
+aflatoxin B1|is substance that treats|Neoplasm of the liver|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0002896

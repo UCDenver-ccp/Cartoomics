@@ -1,0 +1,164 @@
+S|P|O|S_ID|P_ID|O_ID
+H3F3B|genetically interacts with|HIST2H3A|http://www.ncbi.nlm.nih.gov/gene/3021|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/333932
+H3F3B|genetically interacts with|HIST2H3C|http://www.ncbi.nlm.nih.gov/gene/3021|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/126961
+H3F3B|genetically interacts with|HIST2H3D|http://www.ncbi.nlm.nih.gov/gene/3021|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/653604
+EZH2|causes or contributes to condition|Weaver syndrome|http://www.ncbi.nlm.nih.gov/gene/2146|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0010193
+SUZ12|causes or contributes to condition|Weaver syndrome|http://www.ncbi.nlm.nih.gov/gene/23512|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0010193
+DUSP6|participates_in|ERKs are inactivated|http://www.ncbi.nlm.nih.gov/gene/1848|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-202670
+MAPK3|participates_in|ERKs are inactivated|http://www.ncbi.nlm.nih.gov/gene/5595|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-202670
+H3F3A|genetically interacts with|HIST1H3F|http://www.ncbi.nlm.nih.gov/gene/3020|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8968
+MAPK1|participates_in|ERKs are inactivated|http://www.ncbi.nlm.nih.gov/gene/5594|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-202670
+RNF2|has gene product|E3 ubiquitin-protein ligase RING2 (human)|http://www.ncbi.nlm.nih.gov/gene/6045|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_Q99496
+E3 ubiquitin-protein ligase RING2 (human)|molecularly interacts with|Polycomb group RING finger protein 1 (human)|http://purl.obolibrary.org/obo/PR_Q99496|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q9BSM1
+Polycomb group RING finger protein 1 (human)|has_gene_template|PCGF1|http://purl.obolibrary.org/obo/PR_Q9BSM1|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/84759
+H3F3B|genetically interacts with|HIST1H3D|http://www.ncbi.nlm.nih.gov/gene/3021|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8351
+H3F3A|genetically interacts with|HIST1H3E|http://www.ncbi.nlm.nih.gov/gene/3020|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8353
+H3F3A|genetically interacts with|HIST1H3I|http://www.ncbi.nlm.nih.gov/gene/3020|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8354
+H2AFX|causes or contributes to condition|giant cell glioblastoma|http://www.ncbi.nlm.nih.gov/gene/3014|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0016682
+valproic acid|is substance that treats|giant cell glioblastoma|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/MONDO_0016682
+valproic acid|interacts with|H2AFY|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/9555
+HIST1H3A|genetically interacts with|HIST1H3H|http://www.ncbi.nlm.nih.gov/gene/8350|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8357
+MAPK1|participates_in|Negative feedback regulation of MAPK pathway|http://www.ncbi.nlm.nih.gov/gene/5594|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5674499
+MAPK3|participates_in|Negative feedback regulation of MAPK pathway|http://www.ncbi.nlm.nih.gov/gene/5595|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5674499
+valproic acid|interacts with|H2AFY2|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/55506
+H3F3B|genetically interacts with|HIST1H3I|http://www.ncbi.nlm.nih.gov/gene/3021|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8354
+H2AFX|participates_in|Packaging Of Telomere Ends|http://www.ncbi.nlm.nih.gov/gene/3014|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-171306
+H2AZ1 (human)|participates_in|Packaging Of Telomere Ends|http://www.ncbi.nlm.nih.gov/gene/3015|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-171306
+valproic acid|interacts with|H2AFJ|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/55766
+HIST2H3C|genetically interacts with|HIST1H3E|http://www.ncbi.nlm.nih.gov/gene/126961|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8353
+HIST2H3C|genetically interacts with|HIST1H3F|http://www.ncbi.nlm.nih.gov/gene/126961|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8968
+H3F3B|genetically interacts with|H3F3A (human)|http://www.ncbi.nlm.nih.gov/gene/3021|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/3020
+H3F3A|genetically interacts with|HIST1H3D|http://www.ncbi.nlm.nih.gov/gene/3020|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8351
+H3F3A|genetically interacts with|HIST2H3A|http://www.ncbi.nlm.nih.gov/gene/3020|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/333932
+H3F3A|genetically interacts with|HIST2H3C|http://www.ncbi.nlm.nih.gov/gene/3020|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/126961
+H3F3A|genetically interacts with|HIST2H3D|http://www.ncbi.nlm.nih.gov/gene/3020|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/653604
+H3F3A|genetically interacts with|HIST1H3E (human)|http://www.ncbi.nlm.nih.gov/gene/3020|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8352
+HIST1H3E (human)|has gene product|HIST1H3C|http://www.ncbi.nlm.nih.gov/gene/8352|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_P68431
+H3F3A|genetically interacts with|HIST1H3G|http://www.ncbi.nlm.nih.gov/gene/3020|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8355
+H3F3A|genetically interacts with|HIST1H3H|http://www.ncbi.nlm.nih.gov/gene/3020|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8357
+H3F3A|genetically interacts with|HIST1H3A|http://www.ncbi.nlm.nih.gov/gene/3020|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8350
+valproic acid|interacts with|RNF2 (human)|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/6045
+valproic acid|interacts with|BCOR|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/54880
+H2AFV|participates_in|Packaging Of Telomere Ends|http://www.ncbi.nlm.nih.gov/gene/94239|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-171306
+valproic acid|interacts with|FBXL10|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/84678
+H3F3B|genetically interacts with|HIST1H3A|http://www.ncbi.nlm.nih.gov/gene/3021|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8350
+H3F3B|genetically interacts with|HIST1H3F|http://www.ncbi.nlm.nih.gov/gene/3021|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8968
+H3F3B|genetically interacts with|HIST1H3E|http://www.ncbi.nlm.nih.gov/gene/3021|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8353
+HIST1H3D|genetically interacts with|HIST2H3C|http://www.ncbi.nlm.nih.gov/gene/8351|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/126961
+HIST2H3A|genetically interacts with|HIST1H3G|http://www.ncbi.nlm.nih.gov/gene/333932|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8355
+HIST2H3A|genetically interacts with|HIST1H3H|http://www.ncbi.nlm.nih.gov/gene/333932|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8357
+HIST1H3D|has gene product|HIST1H3C|http://www.ncbi.nlm.nih.gov/gene/8351|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_P68431
+HIST1H3D|genetically interacts with|HIST1H3H|http://www.ncbi.nlm.nih.gov/gene/8351|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8357
+HIST1H3D|genetically interacts with|HIST1H3A|http://www.ncbi.nlm.nih.gov/gene/8351|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8350
+HIST1H3D|genetically interacts with|HIST1H3F|http://www.ncbi.nlm.nih.gov/gene/8351|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8968
+HIST1H3D|genetically interacts with|HIST1H3I|http://www.ncbi.nlm.nih.gov/gene/8351|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8354
+HIST1H3D|genetically interacts with|HIST1H3E|http://www.ncbi.nlm.nih.gov/gene/8351|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8353
+HIST1H3D|genetically interacts with|HIST1H3G|http://www.ncbi.nlm.nih.gov/gene/8351|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8355
+HIST2H3C|genetically interacts with|HIST1H3A|http://www.ncbi.nlm.nih.gov/gene/126961|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8350
+HIST2H3C|genetically interacts with|HIST1H3H|http://www.ncbi.nlm.nih.gov/gene/126961|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8357
+HIST2H3C|genetically interacts with|HIST1H3G|http://www.ncbi.nlm.nih.gov/gene/126961|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8355
+HIST2H3C|participates_in|Interleukin-7 signaling|http://www.ncbi.nlm.nih.gov/gene/126961|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1266695
+HIST1H3C|participates_in|Interleukin-7 signaling|http://purl.obolibrary.org/obo/PR_P68431|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1266695
+EED|causes or contributes to condition|Weaver syndrome|http://www.ncbi.nlm.nih.gov/gene/8726|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0010193
+Weaver syndrome|disease has basis in dysfunction of|EZH2|http://purl.obolibrary.org/obo/MONDO_0010193|http://purl.obolibrary.org/obo/RO_0004020|http://www.ncbi.nlm.nih.gov/gene/2146
+EED|causes or contributes to condition|perineurioma|http://www.ncbi.nlm.nih.gov/gene/8726|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0019404
+SUZ12|causes or contributes to condition|perineurioma|http://www.ncbi.nlm.nih.gov/gene/23512|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0019404
+H3F3B|genetically interacts with|HIST1H3E (human)|http://www.ncbi.nlm.nih.gov/gene/3021|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8352
+H3F3B|genetically interacts with|HIST1H3G|http://www.ncbi.nlm.nih.gov/gene/3021|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8355
+HIST2H3C|genetically interacts with|HIST2H3A|http://www.ncbi.nlm.nih.gov/gene/126961|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/333932
+SUZ12|causes or contributes to condition|giant cell glioblastoma|http://www.ncbi.nlm.nih.gov/gene/23512|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0016682
+DUSP6|causes or contributes to condition|giant cell glioblastoma|http://www.ncbi.nlm.nih.gov/gene/1848|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0016682
+HIST2H3C|genetically interacts with|HIST1H3I|http://www.ncbi.nlm.nih.gov/gene/126961|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8354
+HIST1H3I|genetically interacts with|HIST1H3H|http://www.ncbi.nlm.nih.gov/gene/8354|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8357
+HIST2H3D|genetically interacts with|HIST1H3D|http://www.ncbi.nlm.nih.gov/gene/653604|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8351
+E3 ubiquitin-protein ligase RING2 (human)|participates_in|Generic Transcription Pathway|http://purl.obolibrary.org/obo/PR_Q99496|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-212436
+BCL6 (human)|participates_in|Generic Transcription Pathway|http://www.ncbi.nlm.nih.gov/gene/604|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-212436
+HIST2H3A|genetically interacts with|HIST1H3A|http://www.ncbi.nlm.nih.gov/gene/333932|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8350
+HIST2H3A|genetically interacts with|HIST1H3F|http://www.ncbi.nlm.nih.gov/gene/333932|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8968
+HIST2H3A|genetically interacts with|HIST1H3I|http://www.ncbi.nlm.nih.gov/gene/333932|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8354
+HIST2H3A|genetically interacts with|HIST1H3E|http://www.ncbi.nlm.nih.gov/gene/333932|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8353
+HIST2H3D|genetically interacts with|HIST2H3C|http://www.ncbi.nlm.nih.gov/gene/653604|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/126961
+HIST2H3A|participates_in|Interleukin-7 signaling|http://www.ncbi.nlm.nih.gov/gene/333932|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1266695
+H2AFV|participates_in|PRC2 methylates histones and DNA|http://www.ncbi.nlm.nih.gov/gene/94239|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-212300
+PRC2 methylates histones and DNA|subClassOf|negative regulation of gene expression, epigenetic|https://reactome.org/content/detail/R-HSA-212300|http://www.w3.org/2000/01/rdf-schema#subClassOf|http://purl.obolibrary.org/obo/GO_0045814
+core histone macro-H2A.2 (human)|participates_in|negative regulation of gene expression, epigenetic|http://purl.obolibrary.org/obo/PR_Q9P0M6|http://purl.obolibrary.org/obo/RO_0000056|http://purl.obolibrary.org/obo/GO_0045814
+core histone macro-H2A.2 (human)|has_gene_template|H2AFY2|http://purl.obolibrary.org/obo/PR_Q9P0M6|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/55506
+HIST1H3J|genetically interacts with|HIST1H3H|http://www.ncbi.nlm.nih.gov/gene/8356|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8357
+HIST1H3J|genetically interacts with|HIST1H3A|http://www.ncbi.nlm.nih.gov/gene/8356|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8350
+valproic acid|interacts with|H2AFB2|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/474381
+HIST1H2AK (human)|genetically interacts with|H2AFB2|http://www.ncbi.nlm.nih.gov/gene/8329|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/474381
+HIST1H2AK (human)|participates_in|RMTs methylate histone arginines|http://www.ncbi.nlm.nih.gov/gene/8329|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3214858
+H2AFV|participates_in|RMTs methylate histone arginines|http://www.ncbi.nlm.nih.gov/gene/94239|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3214858
+HIST1H3I (human)|genetically interacts with|HIST1H3H|http://www.ncbi.nlm.nih.gov/gene/8353|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8357
+H2AFX|participates_in|RMTs methylate histone arginines|http://www.ncbi.nlm.nih.gov/gene/3014|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3214858
+HIST2H3D|genetically interacts with|HIST2H3A|http://www.ncbi.nlm.nih.gov/gene/653604|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/333932
+HIST1H3D|genetically interacts with|HIST2H3A|http://www.ncbi.nlm.nih.gov/gene/8351|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/333932
+H3F3B|genetically interacts with|HIST1H3H|http://www.ncbi.nlm.nih.gov/gene/3021|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8357
+HIST2H3D|genetically interacts with|HIST1H3G|http://www.ncbi.nlm.nih.gov/gene/653604|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8355
+EED|participates_in|Developmental Biology|http://www.ncbi.nlm.nih.gov/gene/8726|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1266738
+DUSP6|participates_in|Developmental Biology|http://www.ncbi.nlm.nih.gov/gene/1848|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1266738
+HIST1H3G|genetically interacts with|HIST1H3F|http://www.ncbi.nlm.nih.gov/gene/8355|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8968
+HIST2H3D|genetically interacts with|HIST1H3A|http://www.ncbi.nlm.nih.gov/gene/653604|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8350
+HIST2H3D|genetically interacts with|HIST1H3F|http://www.ncbi.nlm.nih.gov/gene/653604|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8968
+HIST2H3D|genetically interacts with|HIST1H3I|http://www.ncbi.nlm.nih.gov/gene/653604|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8354
+HIST2H3D|genetically interacts with|HIST1H3E|http://www.ncbi.nlm.nih.gov/gene/653604|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8353
+HIST1H3G|has gene product|HIST1H3C|http://www.ncbi.nlm.nih.gov/gene/8355|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_P68431
+HIST1H3C|has_gene_template|HIST1H3H|http://purl.obolibrary.org/obo/PR_P68431|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/8357
+HIST1H3J|genetically interacts with|HIST1H3E|http://www.ncbi.nlm.nih.gov/gene/8356|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8353
+HIST1H3J|genetically interacts with|HIST1H3I|http://www.ncbi.nlm.nih.gov/gene/8356|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8354
+HIST1H3J|genetically interacts with|HIST1H3F|http://www.ncbi.nlm.nih.gov/gene/8356|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8968
+HIST1H3J|genetically interacts with|HIST1H3G|http://www.ncbi.nlm.nih.gov/gene/8356|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8355
+HIST1H3J|has gene product|HIST1H3C|http://www.ncbi.nlm.nih.gov/gene/8356|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_P68431
+H2AFB3|genetically interacts with|H2AFB2|http://www.ncbi.nlm.nih.gov/gene/83740|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/474381
+HIST1H3A|genetically interacts with|HIST1H3F|http://www.ncbi.nlm.nih.gov/gene/8350|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8968
+HIST2H3D|genetically interacts with|HIST1H3J|http://www.ncbi.nlm.nih.gov/gene/653604|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8356
+HIST1H3J|genetically interacts with|HIST2H3C|http://www.ncbi.nlm.nih.gov/gene/8356|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/126961
+HIST1H3I|genetically interacts with|HIST1H3A|http://www.ncbi.nlm.nih.gov/gene/8354|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8350
+HIST1H3I|genetically interacts with|HIST1H3F|http://www.ncbi.nlm.nih.gov/gene/8354|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8968
+aflatoxin B1|interacts with|PCGF1|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/84759
+aflatoxin B1|interacts with|BCOR|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/54880
+HIST1H3I (human)|genetically interacts with|HIST1H3F|http://www.ncbi.nlm.nih.gov/gene/8353|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8968
+HIST1H3I (human)|genetically interacts with|HIST1H3I|http://www.ncbi.nlm.nih.gov/gene/8353|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8354
+valproic acid|interacts with|H2AB1 (human)|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/474382
+valproic acid|interacts with|H2AFB3|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/83740
+H2AFB1|participates_in|Packaging Of Telomere Ends|http://www.ncbi.nlm.nih.gov/gene/474382|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-171306
+H2AFJ|participates_in|Packaging Of Telomere Ends|http://www.ncbi.nlm.nih.gov/gene/55766|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-171306
+HIST1H3J|genetically interacts with|HIST1H3D|http://www.ncbi.nlm.nih.gov/gene/8356|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8351
+HIST1H3J|genetically interacts with|HIST2H3A|http://www.ncbi.nlm.nih.gov/gene/8356|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/333932
+HIST1H3A|has gene product|HIST1H3C|http://www.ncbi.nlm.nih.gov/gene/8350|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_P68431
+HIST1H3F|has gene product|HIST1H3C|http://www.ncbi.nlm.nih.gov/gene/8968|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_P68431
+HIST1H3C|has_gene_template|HIST1H3E|http://purl.obolibrary.org/obo/PR_P68431|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/8353
+core histone macro-H2A.1 (human)|participates_in|negative regulation of gene expression, epigenetic|http://purl.obolibrary.org/obo/PR_O75367|http://purl.obolibrary.org/obo/RO_0000056|http://purl.obolibrary.org/obo/GO_0045814
+core histone macro-H2A.1 (human)|has_gene_template|H2AFY|http://purl.obolibrary.org/obo/PR_O75367|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/9555
+HIST1H3I (human)|genetically interacts with|HIST1H3A|http://www.ncbi.nlm.nih.gov/gene/8353|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8350
+HIST2H3D|genetically interacts with|HIST1H3H|http://www.ncbi.nlm.nih.gov/gene/653604|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8357
+H2AFY2|has gene product|core histone macro-H2A.2 (human)|http://www.ncbi.nlm.nih.gov/gene/55506|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_Q9P0M6
+negative regulation of gene expression, epigenetic|realized in response to|PRC2 methylates histones and DNA|http://purl.obolibrary.org/obo/GO_0045814|http://purl.obolibrary.org/obo/RO_0009501|https://reactome.org/content/detail/R-HSA-212300
+H2AZ1 (human)|participates_in|PRC2 methylates histones and DNA|http://www.ncbi.nlm.nih.gov/gene/3015|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-212300
+HIST1H2AK (human)|genetically interacts with|H2AFB3|http://www.ncbi.nlm.nih.gov/gene/8329|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/83740
+H3F3A|genetically interacts with|HIST1H3J|http://www.ncbi.nlm.nih.gov/gene/3020|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8356
+H2AZ1 (human)|participates_in|RMTs methylate histone arginines|http://www.ncbi.nlm.nih.gov/gene/3015|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3214858
+HIST1H3G|genetically interacts with|HIST1H3A|http://www.ncbi.nlm.nih.gov/gene/8355|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8350
+HIST2H3D|participates_in|Interleukin-7 signaling|http://www.ncbi.nlm.nih.gov/gene/653604|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1266695
+H3F3B|genetically interacts with|HIST1H3J|http://www.ncbi.nlm.nih.gov/gene/3021|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8356
+HIST1H3G|genetically interacts with|HIST1H3H|http://www.ncbi.nlm.nih.gov/gene/8355|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8357
+HIST1H3G|genetically interacts with|HIST1H3I|http://www.ncbi.nlm.nih.gov/gene/8355|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8354
+H2AFY|has gene product|core histone macro-H2A.1 (human)|http://www.ncbi.nlm.nih.gov/gene/9555|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_O75367
+HIST1H3G|genetically interacts with|HIST1H3E|http://www.ncbi.nlm.nih.gov/gene/8355|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8353
+HIST1H3F|genetically interacts with|HIST1H3H|http://www.ncbi.nlm.nih.gov/gene/8968|http://purl.obolibrary.org/obo/RO_0002435|http://www.ncbi.nlm.nih.gov/gene/8357
+PCGF1|has gene product|Polycomb group RING finger protein 1 (human)|http://www.ncbi.nlm.nih.gov/gene/84759|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_Q9BSM1
+Polycomb group RING finger protein 1 (human)|molecularly interacts with|lysine-specific demethylase 2B (human)|http://purl.obolibrary.org/obo/PR_Q9BSM1|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q8NHM5
+lysine-specific demethylase 2B (human)|has_gene_template|FBXL10|http://purl.obolibrary.org/obo/PR_Q8NHM5|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/84678
+aflatoxin B1|interacts with|BCL6|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/604
+FBXL10|participates_in|HDMs demethylate histones|http://www.ncbi.nlm.nih.gov/gene/84678|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3214842
+KDM1A (human)|participates_in|HDMs demethylate histones|http://www.ncbi.nlm.nih.gov/gene/23028|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3214842
+KDM1A (human)|causes or contributes to condition|T-cell lymphoma|http://www.ncbi.nlm.nih.gov/gene/23028|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0012190
+BCL6 (human)|causes or contributes to condition|T-cell lymphoma|http://www.ncbi.nlm.nih.gov/gene/604|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0012190
+HIST1H3I|has gene product|HIST1H3C|http://www.ncbi.nlm.nih.gov/gene/8354|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_P68431
+E3 ubiquitin-protein ligase RING2 (human)|participates_in|Signal Transduction|http://purl.obolibrary.org/obo/PR_Q99496|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+DUSP6|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/1848|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+EZH2|participates_in|Developmental Biology|http://www.ncbi.nlm.nih.gov/gene/2146|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1266738
+valproic acid|interacts with|MAPK1|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5594
+valproic acid|molecularly interacts with|Cell proliferation|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/GO_0008283
+genistein(1-)|interacts with|MAPK3|http://purl.obolibrary.org/obo/CHEBI_74224|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5595
+genistein(1-)|molecularly interacts with|Cell proliferation|http://purl.obolibrary.org/obo/CHEBI_74224|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/GO_0008283

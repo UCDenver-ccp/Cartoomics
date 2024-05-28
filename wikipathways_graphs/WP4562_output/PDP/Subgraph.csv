@@ -1,0 +1,19 @@
+S|P|O|S_ID|P_ID|O_ID
+IKBKG|participates_in|Activation of NF-kappaB in B cells|http://www.ncbi.nlm.nih.gov/gene/8517|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1169091
+REL|participates_in|Activation of NF-kappaB in B cells|http://www.ncbi.nlm.nih.gov/gene/5966|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1169091
+IKBKG|participates_in|IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR)|http://www.ncbi.nlm.nih.gov/gene/8517|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5603027
+NFKBIA|participates_in|IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR)|http://www.ncbi.nlm.nih.gov/gene/4792|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5603027
+RELA|participates_in|IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR)|http://www.ncbi.nlm.nih.gov/gene/5970|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5603027
+IKBKB|participates_in|IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR)|http://www.ncbi.nlm.nih.gov/gene/3551|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5603027
+IKBKB|participates_in|Activation of NF-kappaB in B cells|http://www.ncbi.nlm.nih.gov/gene/3551|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1169091
+NFKBIE (human)|participates_in|Activation of NF-kappaB in B cells|http://www.ncbi.nlm.nih.gov/gene/4794|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1169091
+NFKB1|participates_in|IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR)|http://www.ncbi.nlm.nih.gov/gene/4790|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5603027
+CHUK|participates_in|IKBKB deficiency causes SCID|http://www.ncbi.nlm.nih.gov/gene/1147|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5602636
+IKBKG|participates_in|IKBKB deficiency causes SCID|http://www.ncbi.nlm.nih.gov/gene/8517|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5602636
+CHUK|participates_in|IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR)|http://www.ncbi.nlm.nih.gov/gene/1147|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5603027
+CHUK|participates_in|Activation of NF-kappaB in B cells|http://www.ncbi.nlm.nih.gov/gene/1147|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1169091
+NFKBIA|participates_in|Activation of NF-kappaB in B cells|http://www.ncbi.nlm.nih.gov/gene/4792|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1169091
+NFKB1|participates_in|Activation of NF-kappaB in B cells|http://www.ncbi.nlm.nih.gov/gene/4790|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1169091
+REL|causes or contributes to condition|Hodgkin lymphoma|http://www.ncbi.nlm.nih.gov/gene/5966|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0012189
+NFKBIA|causes or contributes to condition|Hodgkin lymphoma|http://www.ncbi.nlm.nih.gov/gene/4792|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0012189
+RELA|participates_in|Activation of NF-kappaB in B cells|http://www.ncbi.nlm.nih.gov/gene/5970|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1169091

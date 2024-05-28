@@ -1,0 +1,26 @@
+S|P|O|S_ID|P_ID|O_ID
+IKBKG|participates_in|Downstream signaling events of B Cell Receptor (BCR)|http://www.ncbi.nlm.nih.gov/gene/8517|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1168372
+REL|participates_in|Downstream signaling events of B Cell Receptor (BCR)|http://www.ncbi.nlm.nih.gov/gene/5966|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1168372
+NFKBIA|participates_in|Downstream signaling events of B Cell Receptor (BCR)|http://www.ncbi.nlm.nih.gov/gene/4792|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1168372
+valproic acid|interacts with|IKBKG|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/8517
+valproic acid|interacts with|RELA|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5970
+aflatoxin B1|interacts with|IKBKB|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/3551
+aflatoxin B1|interacts with|IKBKG|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/8517
+IKBKB|participates_in|Downstream signaling events of B Cell Receptor (BCR)|http://www.ncbi.nlm.nih.gov/gene/3551|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1168372
+NFKBIE (human)|participates_in|Downstream signaling events of B Cell Receptor (BCR)|http://www.ncbi.nlm.nih.gov/gene/4794|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1168372
+IKBKB|participates_in|MyD88:MAL(TIRAP) cascade initiated on plasma membrane|http://www.ncbi.nlm.nih.gov/gene/3551|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-166058
+NFKB1|participates_in|MyD88:MAL(TIRAP) cascade initiated on plasma membrane|http://www.ncbi.nlm.nih.gov/gene/4790|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-166058
+NFKBIA|participates_in|MyD88:MAL(TIRAP) cascade initiated on plasma membrane|http://www.ncbi.nlm.nih.gov/gene/4792|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-166058
+IKBKB|participates_in|Toll Like Receptor 2 (TLR2) Cascade|http://www.ncbi.nlm.nih.gov/gene/3551|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-181438
+RELA|participates_in|Toll Like Receptor 2 (TLR2) Cascade|http://www.ncbi.nlm.nih.gov/gene/5970|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-181438
+CHUK|participates_in|Downstream signaling events of B Cell Receptor (BCR)|http://www.ncbi.nlm.nih.gov/gene/1147|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1168372
+CHUK|participates_in|MyD88:MAL(TIRAP) cascade initiated on plasma membrane|http://www.ncbi.nlm.nih.gov/gene/1147|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-166058
+RELA|participates_in|Downstream signaling events of B Cell Receptor (BCR)|http://www.ncbi.nlm.nih.gov/gene/5970|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1168372
+NFKB1|participates_in|Downstream signaling events of B Cell Receptor (BCR)|http://www.ncbi.nlm.nih.gov/gene/4790|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1168372
+aflatoxin B1|interacts with|NFKB1|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/4790
+aflatoxin B1|interacts with|NFKBIA|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/4792
+REL|causes or contributes to condition|Hodgkin lymphoma|http://www.ncbi.nlm.nih.gov/gene/5966|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0012189
+NFKBIA|causes or contributes to condition|Hodgkin lymphoma|http://www.ncbi.nlm.nih.gov/gene/4792|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0012189
+RELA|participates_in|MyD88:MAL(TIRAP) cascade initiated on plasma membrane|http://www.ncbi.nlm.nih.gov/gene/5970|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-166058
+IKBKG|participates_in|Toll Like Receptor 9 (TLR9) Cascade|http://www.ncbi.nlm.nih.gov/gene/8517|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168138
+NFKB1|participates_in|Toll Like Receptor 9 (TLR9) Cascade|http://www.ncbi.nlm.nih.gov/gene/4790|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168138

@@ -12,7 +12,6 @@ https://pfocr.wikipathways.org/figures/PMC6085908__BRB3-8-e00978-g001.html
 https://pfocr.wikipathways.org/figures/PMC6027339__biomedicines-06-00038-g005.html
 https://pfocr.wikipathways.org/figures/PMC5992185__41392_2018_15_Fig4_HTML.html
 https://pfocr.wikipathways.org/figures/PMC5923349__cancers-10-00094-g004.html
-https://pfocr.wikipathways.org/figures/PMC5923345__cancers-10-00090-g002.html
 https://pfocr.wikipathways.org/figures/PMC5923345__cancers-10-00090-g001.html
 https://pfocr.wikipathways.org/figures/PMC5883377__CN-16-151_F1B.html
 https://pfocr.wikipathways.org/figures/PMC5867295__fbioe-06-00018-g005.html

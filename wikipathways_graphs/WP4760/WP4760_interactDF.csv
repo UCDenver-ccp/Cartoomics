@@ -1,0 +1,230 @@
+,anchor,arrow,Color,comments,edgeGroup,edgeID,geometry,node1_coords,node1_graphref,node1_x,node1_y,node2_coords,node2_graphref,node2_x,node2_y,matched_Node1_dist,matched_Node1,matched_Node2_dist,matched_Node2,matched_Node1_cat,matched_Node2_cat,matched_Node1_textlabel,matched_Node2_textlabel
+0,[],['mim-catalysis'],#000000,[],,id17eea993,"LINESTRING (930 161, 896.5 155.7)",POINT (930 161),b6716,930.0,161.0,POINT (896.5 155.7),d1267,896.5,155.7,0.0,b6716,0.0,d1267,,,TRPC3,d1267
+1,[],['mim-catalysis'],#000000,[],,id1afa65cc,"LINESTRING (459 246.5, 448.42272174099793 212.22779010666477)",POINT (459 246.5),f2216,459.0,246.5,POINT (448.42272174099793 212.22779010666477),c7697,448.42272174099793,212.22779010666477,0.0,f2216,0.0,c7697,,,"['PLCB1', 'PLCB2', 'PLCB3', 'PLCB4']",c7697
+2,[],['mim-inhibition'],#000000,[],,id260d1bcd,"LINESTRING (268.0952059419311 511.7754895340986, 913.75 173.5)",POINT (268.0952059419311 511.7754895340986),ffa74,268.0952059419311,511.7754895340986,POINT (913.75 173.5),b6716,913.75,173.5,0.0,ffa74,0.0,b6716,,,PRKCG,TRPC3
+3,[],['Arrow'],#000000,[],,id27f2f437,"LINESTRING (393.0952059419311 454.7754895340986, 302.1904118838622 499.2754895340986)",POINT (393.0952059419311 454.7754895340986),cd3f6,393.0952059419311,454.7754895340986,POINT (302.1904118838622 499.2754895340986),ffa74,302.1904118838622,499.2754895340986,0.0,cd3f6,0.0,ffa74,,,PDK1,PRKCG
+4,['c7697'],['mim-conversion'],#000000,[],,id28dc777a,"LINESTRING (473 185.5, 393 272.5)",POINT (473 185.5),ffaf0,473.0,185.5,POINT (393 272.5),abdec,393.0,272.5,0.0,ffaf0,0.0,abdec,,,PIP2,IP3
+5,['d96b8'],['Arrow'],#000000,[],,id429faaf0,"LINESTRING (566.5 466.5, 566.5 382.5)",POINT (566.5 466.5),a0082,566.5,466.5,POINT (566.5 382.5),f0daa,566.5,382.5,0.0,a0082,0.0,f0daa,,,Ca2+,Ca2+
+6,[],['Arrow'],#000000,[],,id6132aad7,"LINESTRING (393 387.5, 393.0952059419311 429.7754895340986)",POINT (393 387.5),b02a3,393.0,387.5,POINT (393.0952059419311 429.7754895340986),cd3f6,393.0952059419311,429.7754895340986,0.0,b02a3,0.0,cd3f6,,,"PI(3,4,5)P3",PDK1
+7,['d6d04'],['mim-conversion'],#000000,[],,id623da65f,"LINESTRING (188.5 88.5, 188.5 229.5)",POINT (188.5 88.5),a25ca,188.5,88.5,POINT (188.5 229.5),a0dc5,188.5,229.5,0.0,a25ca,0.0,a0dc5,,,Na+,Na+
+8,[],['mim-catalysis'],#000000,[],,id62b656b,"LINESTRING (593 420, 566.5 421)",POINT (593 420),e9662,593.0,420.0,POINT (566.5 421),d96b8,566.5,421.0,0.0,e9662,0.0,d96b8,,,IP3R1,d96b8
+9,[],['mim-catalysis'],#000000,[],,id679f2479,"LINESTRING (755 160, 787.5 158.1)",POINT (755 160),e7abb,755.0,160.0,POINT (787.5 158.1),f4ca0,787.5,158.1,0.0,e7abb,0.0,f4ca0,,,CACNA1A,f4ca0
+10,[],['mim-catalysis'],#000000,[],,id773af94,"LINESTRING (717 423, 747.5 430.9)",POINT (717 423),ab132,717.0,423.0,POINT (747.5 430.9),dca4e,747.5,430.9,0.0,ab132,0.0,dca4e,,,RYR3,dca4e
+11,[],['mim-catalysis'],#000000,[],,id7cd2d4a4,"LINESTRING (123 167.5, 188.5 158)",POINT (123 167.5),da83e,123.0,167.5,POINT (188.5 158),d6d04,188.5,158.0,0.0,da83e,0.0,d6d04,,,"['GRIA2', 'GRIA1', 'GRIA3', 'GRIA4']",d6d04
+12,['d1267'],['Arrow'],#000000,[],,id85267e47,"LINESTRING (896.5 118.5, 896.5 211.5)",POINT (896.5 118.5),a6d3e,896.5,118.5,POINT (896.5 211.5),c2920,896.5,211.5,0.0,a6d3e,0.0,c2920,,,Ca2+,Ca2+
+13,[],['Arrow'],#000000,[],,id8f552a9d,"LINESTRING (234 499.2754895340986, 155.5 200.5)",POINT (234 499.2754895340986),ffa74,234.0,499.2754895340986,POINT (155.5 200.5),da83e,155.5,200.5,0.0,ffa74,0.0,da83e,,,PRKCG,"['GRIA2', 'GRIA1', 'GRIA3', 'GRIA4']"
+14,[],['mim-binding'],#000000,[],,id9e106184,"LINESTRING (608 89.5, 608 147.5)",POINT (608 89.5),ee795,608.0,89.5,POINT (608 147.5),e086b,608.0,147.5,0.0,ee795,0.0,e086b,,,['Ligands'],GRM1
+15,[],['mim-catalysis'],#000000,[],,id9fc3a8b7,"LINESTRING (996 161, 1024.5 161)",POINT (996 161),cdf25,996.0,161.0,POINT (1024.5 161),f7fe9,1024.5,161.0,0.0,cdf25,0.0,f7fe9,,,ATP2B2,f7fe9
+16,[],['mim-conversion'],#000000,[],,idd9f23de1,"LINESTRING (393 297.5, 393 362.5)",POINT (393 297.5),abdec,393.0,297.5,POINT (393 362.5),b02a3,393.0,362.5,0.0,abdec,0.0,b02a3,,,IP3,"PI(3,4,5)P3"
+17,[],['mim-binding'],#000000,[],,ide992403f,"LINESTRING (421 285, 553.25 407.5)",POINT (421 285),abdec,421.0,285.0,POINT (553.25 407.5),e9662,553.25,407.5,0.0,abdec,0.0,e9662,,,IP3,IP3R1
+18,['f7fe9'],['Arrow'],#000000,[],,idea6ec642,"LINESTRING (1024.5 220.5, 1024.5 104.5)",POINT (1024.5 220.5),c2b4e,1024.5,220.5,POINT (1024.5 104.5),e50db,1024.5,104.5,0.0,c2b4e,0.0,e50db,,,Ca2+,Ca2+
+19,[],['mim-binding'],#000000,[],,idead2e18b,"LINESTRING (341.75 185.5, 285.14280891289667 486.7754895340986)",POINT (341.75 185.5),f3f5a,341.75,185.5,POINT (285.14280891289667 486.7754895340986),ffa74,285.14280891289667,486.7754895340986,0.0,f3f5a,0.0,ffa74,,,DAG,PRKCG
+20,['a8517'],['mim-conversion'],#000000,[],,ideccc9f9a,"LINESTRING (441 173, 386 173)",POINT (441 173),ffaf0,441.0,173.0,POINT (386 173),f3f5a,386.0,173.0,0.0,ffaf0,0.0,f3f5a,,,PIP2,DAG
+21,['dca4e'],['Arrow'],#000000,[],,idf041b7be,"LINESTRING (747.5 464.5, 747.5 380.5)",POINT (747.5 464.5),cfc2d,747.5,464.5,POINT (747.5 380.5),ac242,747.5,380.5,0.0,cfc2d,0.0,ac242,,,Ca2+,Ca2+
+22,['f4ca0'],['Arrow'],#000000,[],,idf24b07ad,"LINESTRING (787.5 116.5, 787.5 220.5)",POINT (787.5 116.5),c91c9,787.5,116.5,POINT (787.5 220.5),d01a5,787.5,220.5,0.0,c91c9,0.0,d01a5,,,Ca2+,Ca2+
+23,[],['mim-binding'],#000000,[],,idf46fe30a,"LINESTRING (260.5 421.5, 268.0952059419311 486.7754895340986)",POINT (260.5 421.5),b5b82,260.5,421.5,POINT (268.0952059419311 486.7754895340986),ffa74,268.0952059419311,486.7754895340986,0.0,b5b82,0.0,ffa74,,,Ca2+,PRKCG
+24,[],['mim-catalysis'],#000000,[],,c87db,"LINESTRING (459 246.5, 409.72549019607845 173)",POINT (459 246.5),f2216,459.0,246.5,POINT (409.72549019607845 173),a8517,409.72549019607845,173.0,0.0,f2216,0.0,a8517,,,"['PLCB1', 'PLCB2', 'PLCB3', 'PLCB4']",a8517
+25,['c7697'],['mim-conversion'],#000000,[],,id28dc777a,"LINESTRING (473 185.5, 393 272.5)",POINT (473 185.5),f2216,473.0,185.5,POINT (393 272.5),abdec,393.0,272.5,0.0,f2216,0.0,abdec,,,"['PLCB1', 'PLCB2', 'PLCB3', 'PLCB4']",IP3
+26,['d96b8'],['Arrow'],#000000,[],,id429faaf0,"LINESTRING (566.5 466.5, 566.5 382.5)",POINT (566.5 466.5),e9662,566.5,466.5,POINT (566.5 382.5),f0daa,566.5,382.5,0.0,e9662,0.0,f0daa,,,IP3R1,Ca2+
+27,['d6d04'],['mim-conversion'],#000000,[],,id623da65f,"LINESTRING (188.5 88.5, 188.5 229.5)",POINT (188.5 88.5),da83e,188.5,88.5,POINT (188.5 229.5),a0dc5,188.5,229.5,0.0,da83e,0.0,a0dc5,,,"['GRIA2', 'GRIA1', 'GRIA3', 'GRIA4']",Na+
+28,['d1267'],['Arrow'],#000000,[],,id85267e47,"LINESTRING (896.5 118.5, 896.5 211.5)",POINT (896.5 118.5),b6716,896.5,118.5,POINT (896.5 211.5),c2920,896.5,211.5,0.0,b6716,0.0,c2920,,,TRPC3,Ca2+
+29,['f7fe9'],['Arrow'],#000000,[],,idea6ec642,"LINESTRING (1024.5 220.5, 1024.5 104.5)",POINT (1024.5 220.5),cdf25,1024.5,220.5,POINT (1024.5 104.5),e50db,1024.5,104.5,0.0,cdf25,0.0,e50db,,,ATP2B2,Ca2+
+30,['a8517'],['mim-conversion'],#000000,[],,ideccc9f9a,"LINESTRING (441 173, 386 173)",POINT (441 173),f2216,441.0,173.0,POINT (386 173),f3f5a,386.0,173.0,0.0,f2216,0.0,f3f5a,,,"['PLCB1', 'PLCB2', 'PLCB3', 'PLCB4']",DAG
+31,['dca4e'],['Arrow'],#000000,[],,idf041b7be,"LINESTRING (747.5 464.5, 747.5 380.5)",POINT (747.5 464.5),ab132,747.5,464.5,POINT (747.5 380.5),ac242,747.5,380.5,0.0,ab132,0.0,ac242,,,RYR3,Ca2+
+32,['f4ca0'],['Arrow'],#000000,[],,idf24b07ad,"LINESTRING (787.5 116.5, 787.5 220.5)",POINT (787.5 116.5),e7abb,787.5,116.5,POINT (787.5 220.5),d01a5,787.5,220.5,0.0,e7abb,0.0,d01a5,,,CACNA1A,Ca2+
+33,,group,#nan,,a1bf3,f87de_ec722_ab5af_f90a2_1,"MULTIPOINT (494.5 234, 494.5 259)",POINT (494.5 234),f87de,"14    494.5
+Name: centerX, dtype: float64","14    234.0
+Name: centerY, dtype: float64",POINT (494.5 259),ec722,"19    494.5
+Name: centerX, dtype: float64","19    259.0
+Name: centerY, dtype: float64",0.0,f87de,0.0,ec722,datanodeDF,datanodeDF,PLCB1,PLCB2
+34,,group,#nan,,a1bf3,f87de_ec722_ab5af_f90a2_1,"MULTIPOINT (494.5 234, 547.5 234)",POINT (494.5 234),f87de,"14    494.5
+Name: centerX, dtype: float64","14    234.0
+Name: centerY, dtype: float64",POINT (547.5 234),ab5af,"20    547.5
+Name: centerX, dtype: float64","20    234.0
+Name: centerY, dtype: float64",0.0,f87de,0.0,ab5af,datanodeDF,datanodeDF,PLCB1,PLCB3
+35,,group,#nan,,a1bf3,f87de_ec722_ab5af_f90a2_1,"MULTIPOINT (494.5 234, 547.5 259)",POINT (494.5 234),f87de,"14    494.5
+Name: centerX, dtype: float64","14    234.0
+Name: centerY, dtype: float64",POINT (547.5 259),f90a2,"21    547.5
+Name: centerX, dtype: float64","21    259.0
+Name: centerY, dtype: float64",0.0,f87de,0.0,f90a2,datanodeDF,datanodeDF,PLCB1,PLCB4
+36,,group,#nan,,a1bf3,f87de_ec722_ab5af_f90a2_2,"MULTIPOINT (494.5 259, 494.5 234)",POINT (494.5 259),ec722,"19    494.5
+Name: centerX, dtype: float64","19    259.0
+Name: centerY, dtype: float64",POINT (494.5 234),f87de,"14    494.5
+Name: centerX, dtype: float64","14    234.0
+Name: centerY, dtype: float64",0.0,ec722,0.0,f87de,datanodeDF,datanodeDF,PLCB2,PLCB1
+37,,group,#nan,,a1bf3,f87de_ec722_ab5af_f90a2_2,"MULTIPOINT (494.5 259, 547.5 234)",POINT (494.5 259),ec722,"19    494.5
+Name: centerX, dtype: float64","19    259.0
+Name: centerY, dtype: float64",POINT (547.5 234),ab5af,"20    547.5
+Name: centerX, dtype: float64","20    234.0
+Name: centerY, dtype: float64",0.0,ec722,0.0,ab5af,datanodeDF,datanodeDF,PLCB2,PLCB3
+38,,group,#nan,,a1bf3,f87de_ec722_ab5af_f90a2_2,"MULTIPOINT (494.5 259, 547.5 259)",POINT (494.5 259),ec722,"19    494.5
+Name: centerX, dtype: float64","19    259.0
+Name: centerY, dtype: float64",POINT (547.5 259),f90a2,"21    547.5
+Name: centerX, dtype: float64","21    259.0
+Name: centerY, dtype: float64",0.0,ec722,0.0,f90a2,datanodeDF,datanodeDF,PLCB2,PLCB4
+39,,group,#nan,,a1bf3,f87de_ec722_ab5af_f90a2_3,"MULTIPOINT (547.5 234, 494.5 234)",POINT (547.5 234),ab5af,"20    547.5
+Name: centerX, dtype: float64","20    234.0
+Name: centerY, dtype: float64",POINT (494.5 234),f87de,"14    494.5
+Name: centerX, dtype: float64","14    234.0
+Name: centerY, dtype: float64",0.0,ab5af,0.0,f87de,datanodeDF,datanodeDF,PLCB3,PLCB1
+40,,group,#nan,,a1bf3,f87de_ec722_ab5af_f90a2_3,"MULTIPOINT (547.5 234, 494.5 259)",POINT (547.5 234),ab5af,"20    547.5
+Name: centerX, dtype: float64","20    234.0
+Name: centerY, dtype: float64",POINT (494.5 259),ec722,"19    494.5
+Name: centerX, dtype: float64","19    259.0
+Name: centerY, dtype: float64",0.0,ab5af,0.0,ec722,datanodeDF,datanodeDF,PLCB3,PLCB2
+41,,group,#nan,,a1bf3,f87de_ec722_ab5af_f90a2_3,"MULTIPOINT (547.5 234, 547.5 259)",POINT (547.5 234),ab5af,"20    547.5
+Name: centerX, dtype: float64","20    234.0
+Name: centerY, dtype: float64",POINT (547.5 259),f90a2,"21    547.5
+Name: centerX, dtype: float64","21    259.0
+Name: centerY, dtype: float64",0.0,ab5af,0.0,f90a2,datanodeDF,datanodeDF,PLCB3,PLCB4
+42,,group,#nan,,a1bf3,f87de_ec722_ab5af_f90a2_4,"MULTIPOINT (547.5 259, 494.5 234)",POINT (547.5 259),f90a2,"21    547.5
+Name: centerX, dtype: float64","21    259.0
+Name: centerY, dtype: float64",POINT (494.5 234),f87de,"14    494.5
+Name: centerX, dtype: float64","14    234.0
+Name: centerY, dtype: float64",0.0,f90a2,0.0,f87de,datanodeDF,datanodeDF,PLCB4,PLCB1
+43,,group,#nan,,a1bf3,f87de_ec722_ab5af_f90a2_4,"MULTIPOINT (547.5 259, 494.5 259)",POINT (547.5 259),f90a2,"21    547.5
+Name: centerX, dtype: float64","21    259.0
+Name: centerY, dtype: float64",POINT (494.5 259),ec722,"19    494.5
+Name: centerX, dtype: float64","19    259.0
+Name: centerY, dtype: float64",0.0,f90a2,0.0,ec722,datanodeDF,datanodeDF,PLCB4,PLCB2
+44,,group,#nan,,a1bf3,f87de_ec722_ab5af_f90a2_4,"MULTIPOINT (547.5 259, 547.5 234)",POINT (547.5 259),f90a2,"21    547.5
+Name: centerX, dtype: float64","21    259.0
+Name: centerY, dtype: float64",POINT (547.5 234),ab5af,"20    547.5
+Name: centerX, dtype: float64","20    234.0
+Name: centerY, dtype: float64",0.0,f90a2,0.0,ab5af,datanodeDF,datanodeDF,PLCB4,PLCB3
+45,,group,#nan,,a5a0d,caa86_f5c4e_a9461_e0846_1,"MULTIPOINT (535.5 184, 535.5 209)",POINT (535.5 184),caa86,"8    535.5
+Name: centerX, dtype: float64","8    184.0
+Name: centerY, dtype: float64",POINT (535.5 209),f5c4e,"22    535.5
+Name: centerX, dtype: float64","22    209.0
+Name: centerY, dtype: float64",0.0,caa86,0.0,f5c4e,datanodeDF,datanodeDF,GNAQ,GNA11
+46,,group,#nan,,a5a0d,caa86_f5c4e_a9461_e0846_1,"MULTIPOINT (535.5 184, 586.5 184)",POINT (535.5 184),caa86,"8    535.5
+Name: centerX, dtype: float64","8    184.0
+Name: centerY, dtype: float64",POINT (586.5 184),a9461,"23    586.5
+Name: centerX, dtype: float64","23    184.0
+Name: centerY, dtype: float64",0.0,caa86,0.0,a9461,datanodeDF,datanodeDF,GNAQ,GNA14
+47,,group,#nan,,a5a0d,caa86_f5c4e_a9461_e0846_1,"MULTIPOINT (535.5 184, 586.5 209)",POINT (535.5 184),caa86,"8    535.5
+Name: centerX, dtype: float64","8    184.0
+Name: centerY, dtype: float64",POINT (586.5 209),e0846,"24    586.5
+Name: centerX, dtype: float64","24    209.0
+Name: centerY, dtype: float64",0.0,caa86,0.0,e0846,datanodeDF,datanodeDF,GNAQ,GNA15
+48,,group,#nan,,a5a0d,caa86_f5c4e_a9461_e0846_2,"MULTIPOINT (535.5 209, 535.5 184)",POINT (535.5 209),f5c4e,"22    535.5
+Name: centerX, dtype: float64","22    209.0
+Name: centerY, dtype: float64",POINT (535.5 184),caa86,"8    535.5
+Name: centerX, dtype: float64","8    184.0
+Name: centerY, dtype: float64",0.0,f5c4e,0.0,caa86,datanodeDF,datanodeDF,GNA11,GNAQ
+49,,group,#nan,,a5a0d,caa86_f5c4e_a9461_e0846_2,"MULTIPOINT (535.5 209, 586.5 184)",POINT (535.5 209),f5c4e,"22    535.5
+Name: centerX, dtype: float64","22    209.0
+Name: centerY, dtype: float64",POINT (586.5 184),a9461,"23    586.5
+Name: centerX, dtype: float64","23    184.0
+Name: centerY, dtype: float64",0.0,f5c4e,0.0,a9461,datanodeDF,datanodeDF,GNA11,GNA14
+50,,group,#nan,,a5a0d,caa86_f5c4e_a9461_e0846_2,"MULTIPOINT (535.5 209, 586.5 209)",POINT (535.5 209),f5c4e,"22    535.5
+Name: centerX, dtype: float64","22    209.0
+Name: centerY, dtype: float64",POINT (586.5 209),e0846,"24    586.5
+Name: centerX, dtype: float64","24    209.0
+Name: centerY, dtype: float64",0.0,f5c4e,0.0,e0846,datanodeDF,datanodeDF,GNA11,GNA15
+51,,group,#nan,,a5a0d,caa86_f5c4e_a9461_e0846_3,"MULTIPOINT (586.5 184, 535.5 184)",POINT (586.5 184),a9461,"23    586.5
+Name: centerX, dtype: float64","23    184.0
+Name: centerY, dtype: float64",POINT (535.5 184),caa86,"8    535.5
+Name: centerX, dtype: float64","8    184.0
+Name: centerY, dtype: float64",0.0,a9461,0.0,caa86,datanodeDF,datanodeDF,GNA14,GNAQ
+52,,group,#nan,,a5a0d,caa86_f5c4e_a9461_e0846_3,"MULTIPOINT (586.5 184, 535.5 209)",POINT (586.5 184),a9461,"23    586.5
+Name: centerX, dtype: float64","23    184.0
+Name: centerY, dtype: float64",POINT (535.5 209),f5c4e,"22    535.5
+Name: centerX, dtype: float64","22    209.0
+Name: centerY, dtype: float64",0.0,a9461,0.0,f5c4e,datanodeDF,datanodeDF,GNA14,GNA11
+53,,group,#nan,,a5a0d,caa86_f5c4e_a9461_e0846_3,"MULTIPOINT (586.5 184, 586.5 209)",POINT (586.5 184),a9461,"23    586.5
+Name: centerX, dtype: float64","23    184.0
+Name: centerY, dtype: float64",POINT (586.5 209),e0846,"24    586.5
+Name: centerX, dtype: float64","24    209.0
+Name: centerY, dtype: float64",0.0,a9461,0.0,e0846,datanodeDF,datanodeDF,GNA14,GNA15
+54,,group,#nan,,a5a0d,caa86_f5c4e_a9461_e0846_4,"MULTIPOINT (586.5 209, 535.5 184)",POINT (586.5 209),e0846,"24    586.5
+Name: centerX, dtype: float64","24    209.0
+Name: centerY, dtype: float64",POINT (535.5 184),caa86,"8    535.5
+Name: centerX, dtype: float64","8    184.0
+Name: centerY, dtype: float64",0.0,e0846,0.0,caa86,datanodeDF,datanodeDF,GNA15,GNAQ
+55,,group,#nan,,a5a0d,caa86_f5c4e_a9461_e0846_4,"MULTIPOINT (586.5 209, 535.5 209)",POINT (586.5 209),e0846,"24    586.5
+Name: centerX, dtype: float64","24    209.0
+Name: centerY, dtype: float64",POINT (535.5 209),f5c4e,"22    535.5
+Name: centerX, dtype: float64","22    209.0
+Name: centerY, dtype: float64",0.0,e0846,0.0,f5c4e,datanodeDF,datanodeDF,GNA15,GNA11
+56,,group,#nan,,a5a0d,caa86_f5c4e_a9461_e0846_4,"MULTIPOINT (586.5 209, 586.5 184)",POINT (586.5 209),e0846,"24    586.5
+Name: centerX, dtype: float64","24    209.0
+Name: centerY, dtype: float64",POINT (586.5 184),a9461,"23    586.5
+Name: centerX, dtype: float64","23    184.0
+Name: centerY, dtype: float64",0.0,e0846,0.0,a9461,datanodeDF,datanodeDF,GNA15,GNA14
+57,,group,#nan,,d8818,e57b7_e704b_bd2be_d5c9b_1,"MULTIPOINT (159.5 180, 159.5 155)",POINT (159.5 180),e57b7,"0    159.5
+Name: centerX, dtype: float64","0    180.0
+Name: centerY, dtype: float64",POINT (159.5 155),e704b,"10    159.5
+Name: centerX, dtype: float64","10    155.0
+Name: centerY, dtype: float64",0.0,e57b7,0.0,e704b,datanodeDF,datanodeDF,GRIA2,GRIA1
+58,,group,#nan,,d8818,e57b7_e704b_bd2be_d5c9b_1,"MULTIPOINT (159.5 180, 216.5 155)",POINT (159.5 180),e57b7,"0    159.5
+Name: centerX, dtype: float64","0    180.0
+Name: centerY, dtype: float64",POINT (216.5 155),bd2be,"25    216.5
+Name: centerX, dtype: float64","25    155.0
+Name: centerY, dtype: float64",0.0,e57b7,0.0,bd2be,datanodeDF,datanodeDF,GRIA2,GRIA3
+59,,group,#nan,,d8818,e57b7_e704b_bd2be_d5c9b_1,"MULTIPOINT (159.5 180, 216.5 180)",POINT (159.5 180),e57b7,"0    159.5
+Name: centerX, dtype: float64","0    180.0
+Name: centerY, dtype: float64",POINT (216.5 180),d5c9b,"26    216.5
+Name: centerX, dtype: float64","26    180.0
+Name: centerY, dtype: float64",0.0,e57b7,0.0,d5c9b,datanodeDF,datanodeDF,GRIA2,GRIA4
+60,,group,#nan,,d8818,e57b7_e704b_bd2be_d5c9b_2,"MULTIPOINT (159.5 155, 159.5 180)",POINT (159.5 155),e704b,"10    159.5
+Name: centerX, dtype: float64","10    155.0
+Name: centerY, dtype: float64",POINT (159.5 180),e57b7,"0    159.5
+Name: centerX, dtype: float64","0    180.0
+Name: centerY, dtype: float64",0.0,e704b,0.0,e57b7,datanodeDF,datanodeDF,GRIA1,GRIA2
+61,,group,#nan,,d8818,e57b7_e704b_bd2be_d5c9b_2,"MULTIPOINT (159.5 155, 216.5 155)",POINT (159.5 155),e704b,"10    159.5
+Name: centerX, dtype: float64","10    155.0
+Name: centerY, dtype: float64",POINT (216.5 155),bd2be,"25    216.5
+Name: centerX, dtype: float64","25    155.0
+Name: centerY, dtype: float64",0.0,e704b,0.0,bd2be,datanodeDF,datanodeDF,GRIA1,GRIA3
+62,,group,#nan,,d8818,e57b7_e704b_bd2be_d5c9b_2,"MULTIPOINT (159.5 155, 216.5 180)",POINT (159.5 155),e704b,"10    159.5
+Name: centerX, dtype: float64","10    155.0
+Name: centerY, dtype: float64",POINT (216.5 180),d5c9b,"26    216.5
+Name: centerX, dtype: float64","26    180.0
+Name: centerY, dtype: float64",0.0,e704b,0.0,d5c9b,datanodeDF,datanodeDF,GRIA1,GRIA4
+63,,group,#nan,,d8818,e57b7_e704b_bd2be_d5c9b_3,"MULTIPOINT (216.5 155, 159.5 180)",POINT (216.5 155),bd2be,"25    216.5
+Name: centerX, dtype: float64","25    155.0
+Name: centerY, dtype: float64",POINT (159.5 180),e57b7,"0    159.5
+Name: centerX, dtype: float64","0    180.0
+Name: centerY, dtype: float64",0.0,bd2be,0.0,e57b7,datanodeDF,datanodeDF,GRIA3,GRIA2
+64,,group,#nan,,d8818,e57b7_e704b_bd2be_d5c9b_3,"MULTIPOINT (216.5 155, 159.5 155)",POINT (216.5 155),bd2be,"25    216.5
+Name: centerX, dtype: float64","25    155.0
+Name: centerY, dtype: float64",POINT (159.5 155),e704b,"10    159.5
+Name: centerX, dtype: float64","10    155.0
+Name: centerY, dtype: float64",0.0,bd2be,0.0,e704b,datanodeDF,datanodeDF,GRIA3,GRIA1
+65,,group,#nan,,d8818,e57b7_e704b_bd2be_d5c9b_3,"MULTIPOINT (216.5 155, 216.5 180)",POINT (216.5 155),bd2be,"25    216.5
+Name: centerX, dtype: float64","25    155.0
+Name: centerY, dtype: float64",POINT (216.5 180),d5c9b,"26    216.5
+Name: centerX, dtype: float64","26    180.0
+Name: centerY, dtype: float64",0.0,bd2be,0.0,d5c9b,datanodeDF,datanodeDF,GRIA3,GRIA4
+66,,group,#nan,,d8818,e57b7_e704b_bd2be_d5c9b_4,"MULTIPOINT (216.5 180, 159.5 180)",POINT (216.5 180),d5c9b,"26    216.5
+Name: centerX, dtype: float64","26    180.0
+Name: centerY, dtype: float64",POINT (159.5 180),e57b7,"0    159.5
+Name: centerX, dtype: float64","0    180.0
+Name: centerY, dtype: float64",0.0,d5c9b,0.0,e57b7,datanodeDF,datanodeDF,GRIA4,GRIA2
+67,,group,#nan,,d8818,e57b7_e704b_bd2be_d5c9b_4,"MULTIPOINT (216.5 180, 159.5 155)",POINT (216.5 180),d5c9b,"26    216.5
+Name: centerX, dtype: float64","26    180.0
+Name: centerY, dtype: float64",POINT (159.5 155),e704b,"10    159.5
+Name: centerX, dtype: float64","10    155.0
+Name: centerY, dtype: float64",0.0,d5c9b,0.0,e704b,datanodeDF,datanodeDF,GRIA4,GRIA1
+68,,group,#nan,,d8818,e57b7_e704b_bd2be_d5c9b_4,"MULTIPOINT (216.5 180, 216.5 155)",POINT (216.5 180),d5c9b,"26    216.5
+Name: centerX, dtype: float64","26    180.0
+Name: centerY, dtype: float64",POINT (216.5 155),bd2be,"25    216.5
+Name: centerX, dtype: float64","25    155.0
+Name: centerY, dtype: float64",0.0,d5c9b,0.0,bd2be,datanodeDF,datanodeDF,GRIA4,GRIA3
+69,,group,#unlabeled,unlabeled,e57b7_e704b_unlabeled,e57b7_e704b_unlabeled,"LINESTRING (159.5 180, 159.5 155)",POINT (159.5 180),e57b7,159.5,180.0,POINT (159.5 155),e704b,159.5,155.0,0.0,e57b7,0.0,e704b,datanodeDF,datanodeDF,GRIA2,GRIA1
+70,,group,#unlabeled,unlabeled,caa86_f5c4e_unlabeled,caa86_f5c4e_unlabeled,"LINESTRING (535.5 184, 535.5 209)",POINT (535.5 184),caa86,535.5,184.0,POINT (535.5 209),f5c4e,535.5,209.0,0.0,caa86,0.0,f5c4e,datanodeDF,datanodeDF,GNAQ,GNA11
+71,,group,#unlabeled,unlabeled,e086b_a9461_unlabeled,e086b_a9461_unlabeled,"LINESTRING (608 160, 586.5 184)",POINT (608 160),e086b,608.0,160.0,POINT (586.5 184),a9461,586.5,184.0,0.0,e086b,0.0,a9461,datanodeDF,datanodeDF,GRM1,GNA14
+72,,group,#unlabeled,unlabeled,e704b_e57b7_unlabeled,e704b_e57b7_unlabeled,"LINESTRING (159.5 155, 159.5 180)",POINT (159.5 155),e704b,159.5,155.0,POINT (159.5 180),e57b7,159.5,180.0,0.0,e704b,0.0,e57b7,datanodeDF,datanodeDF,GRIA1,GRIA2
+73,,group,#unlabeled,unlabeled,f87de_ec722_unlabeled,f87de_ec722_unlabeled,"LINESTRING (494.5 234, 494.5 259)",POINT (494.5 234),f87de,494.5,234.0,POINT (494.5 259),ec722,494.5,259.0,0.0,f87de,0.0,ec722,datanodeDF,datanodeDF,PLCB1,PLCB2
+74,,group,#unlabeled,unlabeled,ec722_f87de_unlabeled,ec722_f87de_unlabeled,"LINESTRING (494.5 259, 494.5 234)",POINT (494.5 259),ec722,494.5,259.0,POINT (494.5 234),f87de,494.5,234.0,0.0,ec722,0.0,f87de,datanodeDF,datanodeDF,PLCB2,PLCB1
+75,,group,#unlabeled,unlabeled,ab5af_f90a2_unlabeled,ab5af_f90a2_unlabeled,"LINESTRING (547.5 234, 547.5 259)",POINT (547.5 234),ab5af,547.5,234.0,POINT (547.5 259),f90a2,547.5,259.0,0.0,ab5af,0.0,f90a2,datanodeDF,datanodeDF,PLCB3,PLCB4
+76,,group,#unlabeled,unlabeled,ab5af_f5c4e_unlabeled,ab5af_f5c4e_unlabeled,"LINESTRING (547.5 234, 535.5 209)",POINT (547.5 234),ab5af,547.5,234.0,POINT (535.5 209),f5c4e,535.5,209.0,0.0,ab5af,0.0,f5c4e,datanodeDF,datanodeDF,PLCB3,GNA11
+77,,group,#unlabeled,unlabeled,f90a2_ab5af_unlabeled,f90a2_ab5af_unlabeled,"LINESTRING (547.5 259, 547.5 234)",POINT (547.5 259),f90a2,547.5,259.0,POINT (547.5 234),ab5af,547.5,234.0,0.0,f90a2,0.0,ab5af,datanodeDF,datanodeDF,PLCB4,PLCB3
+78,,group,#unlabeled,unlabeled,f5c4e_caa86_unlabeled,f5c4e_caa86_unlabeled,"LINESTRING (535.5 209, 535.5 184)",POINT (535.5 209),f5c4e,535.5,209.0,POINT (535.5 184),caa86,535.5,184.0,0.0,f5c4e,0.0,caa86,datanodeDF,datanodeDF,GNA11,GNAQ
+79,,group,#unlabeled,unlabeled,f5c4e_ab5af_unlabeled,f5c4e_ab5af_unlabeled,"LINESTRING (535.5 209, 547.5 234)",POINT (535.5 209),f5c4e,535.5,209.0,POINT (547.5 234),ab5af,547.5,234.0,0.0,f5c4e,0.0,ab5af,datanodeDF,datanodeDF,GNA11,PLCB3
+80,,group,#unlabeled,unlabeled,a9461_e086b_unlabeled,a9461_e086b_unlabeled,"LINESTRING (586.5 184, 608 160)",POINT (586.5 184),a9461,586.5,184.0,POINT (608 160),e086b,608.0,160.0,0.0,a9461,0.0,e086b,datanodeDF,datanodeDF,GNA14,GRM1
+81,,group,#unlabeled,unlabeled,a9461_e0846_unlabeled,a9461_e0846_unlabeled,"LINESTRING (586.5 184, 586.5 209)",POINT (586.5 184),a9461,586.5,184.0,POINT (586.5 209),e0846,586.5,209.0,0.0,a9461,0.0,e0846,datanodeDF,datanodeDF,GNA14,GNA15
+82,,group,#unlabeled,unlabeled,e0846_a9461_unlabeled,e0846_a9461_unlabeled,"LINESTRING (586.5 209, 586.5 184)",POINT (586.5 209),e0846,586.5,209.0,POINT (586.5 184),a9461,586.5,184.0,0.0,e0846,0.0,a9461,datanodeDF,datanodeDF,GNA15,GNA14
+83,,group,#unlabeled,unlabeled,bd2be_d5c9b_unlabeled,bd2be_d5c9b_unlabeled,"LINESTRING (216.5 155, 216.5 180)",POINT (216.5 155),bd2be,216.5,155.0,POINT (216.5 180),d5c9b,216.5,180.0,0.0,bd2be,0.0,d5c9b,datanodeDF,datanodeDF,GRIA3,GRIA4
+84,,group,#unlabeled,unlabeled,d5c9b_bd2be_unlabeled,d5c9b_bd2be_unlabeled,"LINESTRING (216.5 180, 216.5 155)",POINT (216.5 180),d5c9b,216.5,180.0,POINT (216.5 155),bd2be,216.5,155.0,0.0,d5c9b,0.0,bd2be,datanodeDF,datanodeDF,GRIA4,GRIA3

@@ -1,0 +1,53 @@
+S|P|O|S_ID|P_ID|O_ID
+Sparc|participates_in|Scavenging by Class H Receptors|http://www.ncbi.nlm.nih.gov/gene/6678|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3000497
+stabilin-1 (human)|participates_in|Scavenging by Class H Receptors|http://purl.obolibrary.org/obo/PR_Q9NY15|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3000497
+stabilin-1 (human)|participates_in|Cell adhesion|http://purl.obolibrary.org/obo/PR_Q9NY15|http://purl.obolibrary.org/obo/RO_0000056|http://purl.obolibrary.org/obo/GO_0007155
+14-3-3|participates_in|Generic Transcription Pathway|http://www.ncbi.nlm.nih.gov/gene/7532|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-212436
+TAZ|participates_in|Generic Transcription Pathway|http://www.ncbi.nlm.nih.gov/gene/25937|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-212436
+Smad2|participates_in|Generic Transcription Pathway|http://www.ncbi.nlm.nih.gov/gene/4087|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-212436
+Smad3|participates_in|Generic Transcription Pathway|http://www.ncbi.nlm.nih.gov/gene/4088|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-212436
+Smad4|participates_in|Generic Transcription Pathway|http://www.ncbi.nlm.nih.gov/gene/4089|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-212436
+TAZ|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression|http://www.ncbi.nlm.nih.gov/gene/25937|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2032785
+CCN2 (human)|participates_in|YAP1- and WWTR1 (TAZ)-stimulated gene expression|http://www.ncbi.nlm.nih.gov/gene/1490|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2032785
+Sparc|causes or contributes to condition|Neoplasm of the large intestine|http://www.ncbi.nlm.nih.gov/gene/6678|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0100834
+POSTN (human)|causes or contributes to condition|Neoplasm of the large intestine|http://www.ncbi.nlm.nih.gov/gene/10631|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0100834
+Sparc|participates_in|ECM proteoglycans|http://www.ncbi.nlm.nih.gov/gene/6678|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3000178
+SERPINE1|participates_in|ECM proteoglycans|http://www.ncbi.nlm.nih.gov/gene/5054|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3000178
+Smad2|participates_in|Loss of Function of SMAD4 in Cancer|http://www.ncbi.nlm.nih.gov/gene/4087|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3304347
+Smad3|participates_in|Loss of Function of SMAD4 in Cancer|http://www.ncbi.nlm.nih.gov/gene/4088|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3304347
+TAZ|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription|http://www.ncbi.nlm.nih.gov/gene/25937|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2173796
+Smad2|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription|http://www.ncbi.nlm.nih.gov/gene/4087|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2173796
+Smad3|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription|http://www.ncbi.nlm.nih.gov/gene/4088|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2173796
+Smad4|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription|http://www.ncbi.nlm.nih.gov/gene/4089|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2173796
+CCN2 (human)|participates_in|Generic Transcription Pathway|http://www.ncbi.nlm.nih.gov/gene/1490|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-212436
+valproic acid|interacts with|Smad2|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/4087
+valproic acid|interacts with|Periostin|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/10631
+SERPINE1|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription|http://www.ncbi.nlm.nih.gov/gene/5054|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2173796
+Smad2|causes or contributes to condition|Chronic hepatitis|http://www.ncbi.nlm.nih.gov/gene/4087|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0200123
+Chronic hepatitis|subClassOf|Hepatitis|http://purl.obolibrary.org/obo/HP_0200123|http://www.w3.org/2000/01/rdf-schema#subClassOf|http://purl.obolibrary.org/obo/HP_0012115
+Sparc|causes or contributes to condition|Hepatitis|http://www.ncbi.nlm.nih.gov/gene/6678|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0012115
+TAZ|causes or contributes to condition|Skeletal muscle atrophy|http://www.ncbi.nlm.nih.gov/gene/25937|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0003202
+Duchenne muscular dystrophy|has phenotype|Skeletal muscle atrophy|http://purl.obolibrary.org/obo/MONDO_0010679|http://purl.obolibrary.org/obo/RO_0002200|http://purl.obolibrary.org/obo/HP_0003202
+POSTN (human)|causes or contributes to condition|Duchenne muscular dystrophy|http://www.ncbi.nlm.nih.gov/gene/10631|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0010679
+Smad4|participates_in|Loss of Function of SMAD4 in Cancer|http://www.ncbi.nlm.nih.gov/gene/4089|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3304347
+TGF-β|participates_in|TGFBR2 MSI Frameshift Mutants in Cancer|http://www.ncbi.nlm.nih.gov/gene/7040|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3642279
+TGFβ-II-R|participates_in|TGFBR2 MSI Frameshift Mutants in Cancer|http://www.ncbi.nlm.nih.gov/gene/7048|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3642279
+Smad4|causes or contributes to condition|Neoplasm of the large intestine|http://www.ncbi.nlm.nih.gov/gene/4089|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0100834
+TAZ|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/25937|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+SPARC protein (human)|participates_in|Signal Transduction|http://purl.obolibrary.org/obo/PR_P09486|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+SPARC protein (human)|has_gene_template|SPARC|http://purl.obolibrary.org/obo/PR_P09486|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/6678
+TGFβ-I-R|participates_in|SMAD2/3 MH2 Domain Mutants in Cancer|http://www.ncbi.nlm.nih.gov/gene/7046|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3315487
+Smad2|participates_in|SMAD2/3 MH2 Domain Mutants in Cancer|http://www.ncbi.nlm.nih.gov/gene/4087|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3315487
+Smad3|participates_in|SMAD2/3 MH2 Domain Mutants in Cancer|http://www.ncbi.nlm.nih.gov/gene/4088|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3315487
+TGFβ-I-R|participates_in|Loss of Function of TGFBR2 in Cancer|http://www.ncbi.nlm.nih.gov/gene/7046|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3642278
+TGFβ-II-R|participates_in|Loss of Function of TGFBR2 in Cancer|http://www.ncbi.nlm.nih.gov/gene/7048|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3642278
+TGFβ-I-R|causes or contributes to condition|Aortic dissection|http://www.ncbi.nlm.nih.gov/gene/7046|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0002647
+aneurysm, intracranial berry type 1|has phenotype|Aortic dissection|http://purl.obolibrary.org/obo/MONDO_0007111|http://purl.obolibrary.org/obo/RO_0002200|http://purl.obolibrary.org/obo/HP_0002647
+TGFBR3 (human)|causes or contributes to condition|aneurysm, intracranial berry type 1|http://www.ncbi.nlm.nih.gov/gene/7049|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0007111
+TGFβ-II-R|participates_in|SMAD2/3 MH2 Domain Mutants in Cancer|http://www.ncbi.nlm.nih.gov/gene/7048|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-3315487
+Smad3|causes or contributes to condition|Neoplasm of the large intestine|http://www.ncbi.nlm.nih.gov/gene/4088|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0100834
+Smad3|causes or contributes to condition|Ureteral obstruction|http://www.ncbi.nlm.nih.gov/gene/4088|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0006000
+SERPINE1|causes or contributes to condition|Ureteral obstruction|http://www.ncbi.nlm.nih.gov/gene/5054|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0006000
+Smad3|causes or contributes to condition|Cirrhosis|http://www.ncbi.nlm.nih.gov/gene/4088|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0001394
+CCN2 (human)|causes or contributes to condition|Cirrhosis|http://www.ncbi.nlm.nih.gov/gene/1490|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0001394
+TGFβ-II-R|causes or contributes to condition|Aortic dissection|http://www.ncbi.nlm.nih.gov/gene/7048|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0002647

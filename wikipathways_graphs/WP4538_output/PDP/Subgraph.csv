@@ -1,0 +1,257 @@
+S|P|O|S_ID|P_ID|O_ID
+IL9R|participates_in|Signaling by Interleukins|http://www.ncbi.nlm.nih.gov/gene/3581|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-449147
+JAK3|participates_in|Signaling by Interleukins|http://www.ncbi.nlm.nih.gov/gene/3718|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-449147
+JAK1 (human)|participates_in|Signaling by Interleukins|http://www.ncbi.nlm.nih.gov/gene/3716|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-449147
+IL21R|causes or contributes to condition|Severe combined immunodeficiency|http://www.ncbi.nlm.nih.gov/gene/50615|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0004430
+JAK3|causes or contributes to condition|Severe combined immunodeficiency|http://www.ncbi.nlm.nih.gov/gene/3718|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0004430
+valproic acid|interacts with|IL21R|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/50615
+valproic acid|interacts with|JAK1|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/3716
+IL15RA|participates_in|Signaling by Interleukins|http://www.ncbi.nlm.nih.gov/gene/3601|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-449147
+IL6ST|participates_in|MAPK1 (ERK2) activation|http://www.ncbi.nlm.nih.gov/gene/3572|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112411
+TYK2 (human)|participates_in|MAPK1 (ERK2) activation|http://www.ncbi.nlm.nih.gov/gene/7297|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112411
+JAK1 (human)|participates_in|MAPK1 (ERK2) activation|http://www.ncbi.nlm.nih.gov/gene/3716|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112411
+JAK2|participates_in|MAPK1 (ERK2) activation|http://www.ncbi.nlm.nih.gov/gene/3717|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112411
+IL6ST|participates_in|IL-6-type cytokine receptor ligand interactions|http://www.ncbi.nlm.nih.gov/gene/3572|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-6788467
+LIFR (human)|participates_in|IL-6-type cytokine receptor ligand interactions|http://www.ncbi.nlm.nih.gov/gene/3977|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-6788467
+IFNGR1|participates_in|Interferon Signaling|http://www.ncbi.nlm.nih.gov/gene/3459|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-913531
+TYK2 (human)|participates_in|Interferon Signaling|http://www.ncbi.nlm.nih.gov/gene/7297|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-913531
+IL2RB|participates_in|Signaling by Interleukins|http://www.ncbi.nlm.nih.gov/gene/3560|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-449147
+CNTFR (human)|participates_in|IL-6-type cytokine receptor ligand interactions|http://www.ncbi.nlm.nih.gov/gene/1271|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-6788467
+IL12RB2 (human)|participates_in|IL-6-type cytokine receptor ligand interactions|http://www.ncbi.nlm.nih.gov/gene/3595|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-6788467
+IL6R (human)|participates_in|MAPK1 (ERK2) activation|http://www.ncbi.nlm.nih.gov/gene/3570|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112411
+IL11RA (human)|participates_in|IL-6-type cytokine receptor ligand interactions|http://www.ncbi.nlm.nih.gov/gene/3590|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-6788467
+CTF1 (human)|participates_in|IL-6-type cytokine receptor ligand interactions|http://www.ncbi.nlm.nih.gov/gene/1489|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-6788467
+IFNAR1|participates_in|Regulation of IFNA signaling|http://www.ncbi.nlm.nih.gov/gene/3454|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-912694
+JAK1 (human)|participates_in|Regulation of IFNA signaling|http://www.ncbi.nlm.nih.gov/gene/3716|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-912694
+TYK2 (human)|participates_in|Regulation of IFNA signaling|http://www.ncbi.nlm.nih.gov/gene/7297|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-912694
+IFNAR2|participates_in|Regulation of IFNA signaling|http://www.ncbi.nlm.nih.gov/gene/3455|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-912694
+IFNGR1|participates_in|Regulation of IFNG signaling|http://www.ncbi.nlm.nih.gov/gene/3459|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-877312
+JAK1 (human)|participates_in|Regulation of IFNG signaling|http://www.ncbi.nlm.nih.gov/gene/3716|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-877312
+IL2RB|participates_in|G beta:gamma signalling through PI3Kgamma|http://www.ncbi.nlm.nih.gov/gene/3560|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392451
+JAK1 (human)|participates_in|G beta:gamma signalling through PI3Kgamma|http://www.ncbi.nlm.nih.gov/gene/3716|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392451
+IL27RA (human)|participates_in|IL-6-type cytokine receptor ligand interactions|http://www.ncbi.nlm.nih.gov/gene/9466|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-6788467
+OSMR|participates_in|IL-6-type cytokine receptor ligand interactions|http://www.ncbi.nlm.nih.gov/gene/9180|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-6788467
+IFNGR2|participates_in|Regulation of IFNG signaling|http://www.ncbi.nlm.nih.gov/gene/3460|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-877312
+JAK2|participates_in|Regulation of IFNG signaling|http://www.ncbi.nlm.nih.gov/gene/3717|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-877312
+IL2RA|participates_in|G beta:gamma signalling through PI3Kgamma|http://www.ncbi.nlm.nih.gov/gene/3559|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392451
+CSF2RA|participates_in|G beta:gamma signalling through PI3Kgamma|http://www.ncbi.nlm.nih.gov/gene/1438|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392451
+JAK2|participates_in|G beta:gamma signalling through PI3Kgamma|http://www.ncbi.nlm.nih.gov/gene/3717|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392451
+MPL|participates_in|Platelet activation, signaling and aggregation|http://www.ncbi.nlm.nih.gov/gene/4352|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-76002
+JAK2|participates_in|Platelet activation, signaling and aggregation|http://www.ncbi.nlm.nih.gov/gene/3717|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-76002
+MPL|has gene product|thrombopoietin receptor (human)|http://www.ncbi.nlm.nih.gov/gene/4352|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_P40238
+thrombopoietin receptor (human)|molecularly interacts with|non-receptor tyrosine-protein kinase TYK2 (human)|http://purl.obolibrary.org/obo/PR_P40238|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P29597
+non-receptor tyrosine-protein kinase TYK2 (human)|has_gene_template|TYK2|http://purl.obolibrary.org/obo/PR_P29597|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/7297
+GHR|participates_in|Prolactin receptor signaling|http://www.ncbi.nlm.nih.gov/gene/2690|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1170546
+JAK2|participates_in|Prolactin receptor signaling|http://www.ncbi.nlm.nih.gov/gene/3717|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1170546
+GHR|participates_in|Cytokine Signaling in Immune system|http://www.ncbi.nlm.nih.gov/gene/2690|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1280215
+TYK2 (human)|participates_in|Cytokine Signaling in Immune system|http://www.ncbi.nlm.nih.gov/gene/7297|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1280215
+CSF3R|participates_in|Signaling by Interleukins|http://www.ncbi.nlm.nih.gov/gene/1441|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-449147
+JAK2|participates_in|Signaling by Interleukins|http://www.ncbi.nlm.nih.gov/gene/3717|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-449147
+TYK2 (human)|participates_in|Signaling by Interleukins|http://www.ncbi.nlm.nih.gov/gene/7297|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-449147
+CSF2RB|participates_in|G beta:gamma signalling through PI3Kgamma|http://www.ncbi.nlm.nih.gov/gene/1439|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392451
+IL5RA (human)|participates_in|G beta:gamma signalling through PI3Kgamma|http://www.ncbi.nlm.nih.gov/gene/3568|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392451
+JAK3|participates_in|G beta:gamma signalling through PI3Kgamma|http://www.ncbi.nlm.nih.gov/gene/3718|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392451
+IL7R|causes or contributes to condition|Severe combined immunodeficiency|http://www.ncbi.nlm.nih.gov/gene/3575|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0004430
+IL7R|participates_in|Interleukin-7 signaling|http://www.ncbi.nlm.nih.gov/gene/3575|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1266695
+IL2RG|participates_in|Interleukin-7 signaling|http://www.ncbi.nlm.nih.gov/gene/3561|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1266695
+JAK3|participates_in|Interleukin-7 signaling|http://www.ncbi.nlm.nih.gov/gene/3718|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1266695
+JAK1 (human)|participates_in|Interleukin-7 signaling|http://www.ncbi.nlm.nih.gov/gene/3716|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1266695
+NM_000206.3(IL2RG):c.43C>T (p.Gln15Ter)|causally influences|IL2RG|https://www.ncbi.nlm.nih.gov/snp/rs1057517747|http://purl.obolibrary.org/obo/RO_0002566|http://www.ncbi.nlm.nih.gov/gene/3561
+NM_000206.3(IL2RG):c.43C>T (p.Gln15Ter)|causes or contributes to condition|Severe combined immunodeficiency|https://www.ncbi.nlm.nih.gov/snp/rs1057517747|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0004430
+IL2RG|participates_in|Signaling by Interleukins|http://www.ncbi.nlm.nih.gov/gene/3561|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-449147
+IL2RG|participates_in|G beta:gamma signalling through PI3Kgamma|http://www.ncbi.nlm.nih.gov/gene/3561|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392451
+IL2RA|causes or contributes to condition|oligoarticular juvenile idiopathic arthritis|http://www.ncbi.nlm.nih.gov/gene/3559|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0019433
+IL2RB|causes or contributes to condition|oligoarticular juvenile idiopathic arthritis|http://www.ncbi.nlm.nih.gov/gene/3560|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0019433
+PIAS3|causes or contributes to condition|Cervical polyp|http://www.ncbi.nlm.nih.gov/gene/10401|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0030159
+STAT3|causes or contributes to condition|Cervical polyp|http://www.ncbi.nlm.nih.gov/gene/6774|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0030159
+PDGFRB|participates_in|SOS-mediated signalling|http://www.ncbi.nlm.nih.gov/gene/5159|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112412
+JAK1 (human)|participates_in|SOS-mediated signalling|http://www.ncbi.nlm.nih.gov/gene/3716|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112412
+PDGFRB|causes or contributes to condition|Calcinosis|http://www.ncbi.nlm.nih.gov/gene/5159|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0003761
+JAK2|causes or contributes to condition|Calcinosis|http://www.ncbi.nlm.nih.gov/gene/3717|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0003761
+PDGFRB|participates_in|PI3K/AKT activation|http://www.ncbi.nlm.nih.gov/gene/5159|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-198203
+SRC|participates_in|PI3K/AKT activation|http://www.ncbi.nlm.nih.gov/gene/6714|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-198203
+PDGFRA|participates_in|PI3K/AKT activation|http://www.ncbi.nlm.nih.gov/gene/5156|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-198203
+PDGFRA|participates_in|SOS-mediated signalling|http://www.ncbi.nlm.nih.gov/gene/5156|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112412
+JAK2|participates_in|SOS-mediated signalling|http://www.ncbi.nlm.nih.gov/gene/3717|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112412
+AGTR1|causes or contributes to condition|Spontaneous abortion|http://www.ncbi.nlm.nih.gov/gene/185|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0005268
+JAK2|causes or contributes to condition|Spontaneous abortion|http://www.ncbi.nlm.nih.gov/gene/3717|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0005268
+AGTR1|participates_in|Peptide ligand-binding receptors|http://www.ncbi.nlm.nih.gov/gene/185|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-375276
+F2RL3|participates_in|Peptide ligand-binding receptors|http://www.ncbi.nlm.nih.gov/gene/9002|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-375276
+EGFR|causes or contributes to condition|Cervix cancer|http://www.ncbi.nlm.nih.gov/gene/1956|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0030079
+JAK2|causes or contributes to condition|Cervix cancer|http://www.ncbi.nlm.nih.gov/gene/3717|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0030079
+F2RL2|participates_in|Peptide ligand-binding receptors|http://www.ncbi.nlm.nih.gov/gene/2151|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-375276
+F2R|participates_in|Peptide ligand-binding receptors|http://www.ncbi.nlm.nih.gov/gene/2149|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-375276
+F2RL3|participates_in|Thrombin signalling through proteinase activated receptors (PARs)|http://www.ncbi.nlm.nih.gov/gene/9002|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-456926
+F2RL2|participates_in|Thrombin signalling through proteinase activated receptors (PARs)|http://www.ncbi.nlm.nih.gov/gene/2151|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-456926
+AGTR2|participates_in|Peptide ligand-binding receptors|http://www.ncbi.nlm.nih.gov/gene/186|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-375276
+F2R|participates_in|Thrombin signalling through proteinase activated receptors (PARs)|http://www.ncbi.nlm.nih.gov/gene/2149|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-456926
+F2RL2|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK|http://www.ncbi.nlm.nih.gov/gene/2151|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-881907
+JAK2|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK|http://www.ncbi.nlm.nih.gov/gene/3717|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-881907
+AGTR2|participates_in|GPCR downstream signalling|http://www.ncbi.nlm.nih.gov/gene/186|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-388396
+JAK2|participates_in|GPCR downstream signalling|http://www.ncbi.nlm.nih.gov/gene/3717|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-388396
+F2R|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK|http://www.ncbi.nlm.nih.gov/gene/2149|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-881907
+TRIM28|causes or contributes to condition|Type IV atherosclerotic lesion|http://www.ncbi.nlm.nih.gov/gene/10155|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0002635
+STAT3|causes or contributes to condition|Type IV atherosclerotic lesion|http://www.ncbi.nlm.nih.gov/gene/6774|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0002635
+EGFR|participates_in|SOS-mediated signalling|http://www.ncbi.nlm.nih.gov/gene/1956|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112412
+F2RL3|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK|http://www.ncbi.nlm.nih.gov/gene/9002|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-881907
+EGFR|causes or contributes to condition|autosomal recessive polycystic kidney disease|http://www.ncbi.nlm.nih.gov/gene/1956|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0009889
+SRC|causes or contributes to condition|autosomal recessive polycystic kidney disease|http://www.ncbi.nlm.nih.gov/gene/6714|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0009889
+IFNLR1|causes or contributes to condition|Palmoplantar pustulosis|http://www.ncbi.nlm.nih.gov/gene/163702|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0100847
+TYK2 (human)|causes or contributes to condition|Palmoplantar pustulosis|http://www.ncbi.nlm.nih.gov/gene/7297|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0100847
+IL10RA|participates_in|Interleukin-10 signaling|http://www.ncbi.nlm.nih.gov/gene/3587|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-6783783
+JAK1 (human)|participates_in|Interleukin-10 signaling|http://www.ncbi.nlm.nih.gov/gene/3716|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-6783783
+IL10RA|causes or contributes to condition|Ulcerative colitis|http://www.ncbi.nlm.nih.gov/gene/3587|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0100279
+JAK2|causes or contributes to condition|Ulcerative colitis|http://www.ncbi.nlm.nih.gov/gene/3717|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0100279
+TYK2 (human)|participates_in|Interleukin-10 signaling|http://www.ncbi.nlm.nih.gov/gene/7297|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-6783783
+IL10RB|participates_in|Interleukin-10 signaling|http://www.ncbi.nlm.nih.gov/gene/3588|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-6783783
+IL10RB|causes or contributes to condition|Ulcerative colitis|http://www.ncbi.nlm.nih.gov/gene/3588|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0100279
+IL10RB|participates_in|Signaling by Interleukins|http://www.ncbi.nlm.nih.gov/gene/3588|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-449147
+IFNLR1|participates_in|Signaling by Interleukins|http://www.ncbi.nlm.nih.gov/gene/163702|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-449147
+IL10RB|participates_in|Interleukin-20 family signaling|http://www.ncbi.nlm.nih.gov/gene/3588|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-8854691
+IL22RA1|participates_in|Interleukin-20 family signaling|http://www.ncbi.nlm.nih.gov/gene/58985|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-8854691
+IFNGR2|participates_in|Interferon Signaling|http://www.ncbi.nlm.nih.gov/gene/3460|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-913531
+IL20RB|participates_in|Signaling by Interleukins|http://www.ncbi.nlm.nih.gov/gene/53833|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-449147
+IL20RB|participates_in|Interleukin-20 family signaling|http://www.ncbi.nlm.nih.gov/gene/53833|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-8854691
+IL20RA|participates_in|Interleukin-20 family signaling|http://www.ncbi.nlm.nih.gov/gene/53832|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-8854691
+IL20RA|participates_in|Signaling by Interleukins|http://www.ncbi.nlm.nih.gov/gene/53832|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-449147
+IL20RA|causes or contributes to condition|Spontaneous abortion|http://www.ncbi.nlm.nih.gov/gene/53832|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0005268
+IL22RA1|participates_in|Signaling by Interleukins|http://www.ncbi.nlm.nih.gov/gene/58985|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-449147
+IL3RA|participates_in|G beta:gamma signalling through PI3Kgamma|http://www.ncbi.nlm.nih.gov/gene/3563|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392451
+CSF2RB|participates_in|Defective CSF2RB causes SMDP5|http://www.ncbi.nlm.nih.gov/gene/1439|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5688849
+CSF2RA|participates_in|Defective CSF2RB causes SMDP5|http://www.ncbi.nlm.nih.gov/gene/1438|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5688849
+MAPK1|participates_in|Activation of the AP-1 family of transcription factors|http://www.ncbi.nlm.nih.gov/gene/5594|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-450341
+MAPK8|participates_in|Activation of the AP-1 family of transcription factors|http://www.ncbi.nlm.nih.gov/gene/5599|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-450341
+MAPK1|participates_in|ERKs are inactivated|http://www.ncbi.nlm.nih.gov/gene/5594|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-202670
+MAPK7|participates_in|ERKs are inactivated|http://www.ncbi.nlm.nih.gov/gene/5598|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-202670
+MAPK1|participates_in|MAPK family signaling cascades|http://www.ncbi.nlm.nih.gov/gene/5594|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5683057
+MAPK6|participates_in|MAPK family signaling cascades|http://www.ncbi.nlm.nih.gov/gene/5597|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5683057
+MAPK1|participates_in|Negative feedback regulation of MAPK pathway|http://www.ncbi.nlm.nih.gov/gene/5594|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5674499
+MAPK3|participates_in|Negative feedback regulation of MAPK pathway|http://www.ncbi.nlm.nih.gov/gene/5595|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5674499
+MAPK11|participates_in|Activation of the AP-1 family of transcription factors|http://www.ncbi.nlm.nih.gov/gene/5600|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-450341
+MAPK10|participates_in|Activation of the AP-1 family of transcription factors|http://www.ncbi.nlm.nih.gov/gene/5602|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-450341
+MAPK1|participates_in|Signalling to RAS|http://www.ncbi.nlm.nih.gov/gene/5594|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-167044
+MAPK13|participates_in|Signalling to RAS|http://www.ncbi.nlm.nih.gov/gene/5603|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-167044
+MAPK4 (human)|participates_in|MAPK family signaling cascades|http://www.ncbi.nlm.nih.gov/gene/5596|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5683057
+cadmium dichloride|interacts with|MAPK14|http://purl.obolibrary.org/obo/CHEBI_35456|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/1432
+cadmium dichloride|is substance that treats|Bladder neoplasm|http://purl.obolibrary.org/obo/CHEBI_35456|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0009725
+MAPK15|causes or contributes to condition|Bladder neoplasm|http://www.ncbi.nlm.nih.gov/gene/225689|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0009725
+MAPK14|participates_in|Activation of the AP-1 family of transcription factors|http://www.ncbi.nlm.nih.gov/gene/1432|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-450341
+AKT1S1|has gene product|proline-rich AKT1 substrate 1 (human)|http://www.ncbi.nlm.nih.gov/gene/84335|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_Q96B36
+proline-rich AKT1 substrate 1 (human)|molecularly interacts with|DEP domain-containing mTOR-interacting protein (human)|http://purl.obolibrary.org/obo/PR_Q96B36|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q8TB45
+DEP domain-containing mTOR-interacting protein (human)|has_gene_template|DEPTOR|http://purl.obolibrary.org/obo/PR_Q8TB45|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/64798
+MAPK14|participates_in|Activation of PPARGC1A (PGC-1alpha) by phosphorylation|http://www.ncbi.nlm.nih.gov/gene/1432|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2151209
+MAPK12|participates_in|Activation of PPARGC1A (PGC-1alpha) by phosphorylation|http://www.ncbi.nlm.nih.gov/gene/6300|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2151209
+MAPK9|participates_in|Activation of the AP-1 family of transcription factors|http://www.ncbi.nlm.nih.gov/gene/5601|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-450341
+MAPK14|participates_in|ERK/MAPK targets|http://www.ncbi.nlm.nih.gov/gene/1432|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-198753
+MAPK7|participates_in|ERK/MAPK targets|http://www.ncbi.nlm.nih.gov/gene/5598|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-198753
+MAPK3|participates_in|Activation of the AP-1 family of transcription factors|http://www.ncbi.nlm.nih.gov/gene/5595|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-450341
+MAPK11|participates_in|Activation of PPARGC1A (PGC-1alpha) by phosphorylation|http://www.ncbi.nlm.nih.gov/gene/5600|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2151209
+MAPK14|participates_in|DSCAM interactions|http://www.ncbi.nlm.nih.gov/gene/1432|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-376172
+MAPK13|participates_in|DSCAM interactions|http://www.ncbi.nlm.nih.gov/gene/5603|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-376172
+MAPK14|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/1432|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+MAPK4 (human)|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/5596|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+valproic acid|interacts with|MAPK15|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/225689
+valproic acid|interacts with|MAPK12|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/6300
+methotrexate(2-)|is substance that treats|Bladder neoplasm|http://purl.obolibrary.org/obo/CHEBI_50681|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0009725
+methotrexate(2-)|interacts with|MAPK9|http://purl.obolibrary.org/obo/CHEBI_50681|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5601
+valproic acid|interacts with|MAPK8|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5599
+MAPK15|has gene product|mitogen-activated protein kinase 15 (human)|http://www.ncbi.nlm.nih.gov/gene/225689|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_Q8TD08
+mitogen-activated protein kinase 15 (human)|has function|MAP kinase activity|http://purl.obolibrary.org/obo/PR_Q8TD08|http://purl.obolibrary.org/obo/RO_0000085|http://purl.obolibrary.org/obo/GO_0004707
+mitogen-activated protein kinase 7 (human)|has function|MAP kinase activity|http://purl.obolibrary.org/obo/PR_Q13164|http://purl.obolibrary.org/obo/RO_0000085|http://purl.obolibrary.org/obo/GO_0004707
+mitogen-activated protein kinase 7 (human)|has_gene_template|MAPK7|http://purl.obolibrary.org/obo/PR_Q13164|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/5598
+valproic acid|interacts with|MAPK10|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5602
+MAPK6|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/5597|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+MAPK7|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/5598|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+MAPK12|participates_in|Signalling to RAS|http://www.ncbi.nlm.nih.gov/gene/6300|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-167044
+AKT1S1|participates_in|PKB-mediated events|http://www.ncbi.nlm.nih.gov/gene/84335|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-109703
+RPTOR|participates_in|PKB-mediated events|http://www.ncbi.nlm.nih.gov/gene/57521|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-109703
+STAT3|causes or contributes to condition|Carcinoma|http://www.ncbi.nlm.nih.gov/gene/6774|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0030731
+STMN1 (human)|causes or contributes to condition|Carcinoma|http://www.ncbi.nlm.nih.gov/gene/3925|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0030731
+SOCS3|participates_in|Interleukin-6 signaling|http://www.ncbi.nlm.nih.gov/gene/9021|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1059683
+JAK2|participates_in|Interleukin-6 signaling|http://www.ncbi.nlm.nih.gov/gene/3717|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1059683
+JAK1 (human)|participates_in|Interleukin-6 signaling|http://www.ncbi.nlm.nih.gov/gene/3716|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1059683
+TYK2 (human)|participates_in|Interleukin-6 signaling|http://www.ncbi.nlm.nih.gov/gene/7297|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1059683
+PTPRD|causes or contributes to condition|Neoplasm of the breast|http://www.ncbi.nlm.nih.gov/gene/5789|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0100013
+STAT3|causes or contributes to condition|Neoplasm of the breast|http://www.ncbi.nlm.nih.gov/gene/6774|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0100013
+valproic acid|interacts with|PTPRD (human)|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5789
+valproic acid|interacts with|DUSP2|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/1844
+aflatoxin B1|interacts with|PTPRD (human)|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5789
+aflatoxin B1|interacts with|PTPRC|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5788
+PTPRD|causes or contributes to condition|Breast carcinoma|http://www.ncbi.nlm.nih.gov/gene/5789|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0003002
+benzo[a]pyrene|is substance that treats|Breast carcinoma|http://purl.obolibrary.org/obo/CHEBI_29865|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0003002
+benzo[a]pyrene|interacts with|PTPRT|http://purl.obolibrary.org/obo/CHEBI_29865|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/11122
+MLST8|participates_in|PKB-mediated events|http://www.ncbi.nlm.nih.gov/gene/64223|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-109703
+MTOR|participates_in|PKB-mediated events|http://www.ncbi.nlm.nih.gov/gene/2475|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-109703
+mitogen-activated protein kinase 6 (human)|has function|MAP kinase activity|http://purl.obolibrary.org/obo/PR_Q16659|http://purl.obolibrary.org/obo/RO_0000085|http://purl.obolibrary.org/obo/GO_0004707
+mitogen-activated protein kinase 6 (human)|has_gene_template|MAPK6|http://purl.obolibrary.org/obo/PR_Q16659|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/5597
+RPTOR|has gene product|regulatory-associated protein of mTOR (human)|http://www.ncbi.nlm.nih.gov/gene/57521|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_Q8N122
+regulatory-associated protein of mTOR (human)|molecularly interacts with|DEP domain-containing mTOR-interacting protein (human)|http://purl.obolibrary.org/obo/PR_Q8N122|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q8TB45
+MLST8|participates_in|CD28 dependent PI3K/Akt signaling|http://www.ncbi.nlm.nih.gov/gene/64223|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-389357
+MAPKAP1|participates_in|CD28 dependent PI3K/Akt signaling|http://www.ncbi.nlm.nih.gov/gene/79109|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-389357
+RICTOR|participates_in|CD28 dependent PI3K/Akt signaling|http://www.ncbi.nlm.nih.gov/gene/253260|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-389357
+MTOR|causes or contributes to condition|Cervical polyp|http://www.ncbi.nlm.nih.gov/gene/2475|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0030159
+MTOR|has gene product|serine/threonine-protein kinase mTOR (human)|http://www.ncbi.nlm.nih.gov/gene/2475|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_P42345
+serine/threonine-protein kinase mTOR (human)|molecularly interacts with|DEP domain-containing mTOR-interacting protein (human)|http://purl.obolibrary.org/obo/PR_P42345|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q8TB45
+MTOR|participates_in|CD28 dependent PI3K/Akt signaling|http://www.ncbi.nlm.nih.gov/gene/2475|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-389357
+MLST8|participates_in|Downstream signal transduction|http://www.ncbi.nlm.nih.gov/gene/64223|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-186763
+STAT3|participates_in|Downstream signal transduction|http://www.ncbi.nlm.nih.gov/gene/6774|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-186763
+valproic acid|interacts with|SETD7 (human)|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/80854
+valproic acid|is substance that treats|Cervical polyp|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0030159
+valproic acid|interacts with|MAPK3|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5595
+MLST8|has gene product|target of rapamycin complex subunit LST8 (human)|http://www.ncbi.nlm.nih.gov/gene/64223|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_Q9BVC4
+target of rapamycin complex subunit LST8 (human)|molecularly interacts with|DEP domain-containing mTOR-interacting protein (human)|http://purl.obolibrary.org/obo/PR_Q9BVC4|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q8TB45
+CREBBP|causes or contributes to condition|Acute megakaryocytic leukemia|http://www.ncbi.nlm.nih.gov/gene/1387|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0006733
+STAT3|causes or contributes to condition|Acute megakaryocytic leukemia|http://www.ncbi.nlm.nih.gov/gene/6774|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0006733
+MAPK3|participates_in|MAPK family signaling cascades|http://www.ncbi.nlm.nih.gov/gene/5595|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5683057
+MAPK12|participates_in|DSCAM interactions|http://www.ncbi.nlm.nih.gov/gene/6300|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-376172
+MAPK8|participates_in|DSCAM interactions|http://www.ncbi.nlm.nih.gov/gene/5599|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-376172
+MAPK13|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/5603|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+MAPK6|participates_in|MAPK6/MAPK4 signaling|http://www.ncbi.nlm.nih.gov/gene/5597|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5687128
+MAPK4 (human)|participates_in|MAPK6/MAPK4 signaling|http://www.ncbi.nlm.nih.gov/gene/5596|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5687128
+MAPK3|participates_in|Signalling to RAS|http://www.ncbi.nlm.nih.gov/gene/5595|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-167044
+MAPK11|participates_in|DSCAM interactions|http://www.ncbi.nlm.nih.gov/gene/5600|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-376172
+MAPK7|participates_in|Signaling by NTRK1 (TRKA)|http://www.ncbi.nlm.nih.gov/gene/5598|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-187037
+MAPK13|participates_in|Signaling by NTRK1 (TRKA)|http://www.ncbi.nlm.nih.gov/gene/5603|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-187037
+MAPK11|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/5600|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+valproic acid|interacts with|MAPK4|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5596
+aflatoxin B1|interacts with|MAPK6|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5597
+aflatoxin B1|interacts with|MAPK10|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5602
+PRKCB|causes or contributes to condition|adult T-cell leukemia/lymphoma|http://www.ncbi.nlm.nih.gov/gene/5579|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0019471
+STAT3|causes or contributes to condition|adult T-cell leukemia/lymphoma|http://www.ncbi.nlm.nih.gov/gene/6774|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0019471
+RICTOR|participates_in|Downstream signal transduction|http://www.ncbi.nlm.nih.gov/gene/253260|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-186763
+STAT3|participates_in|Interleukin-6 signaling|http://www.ncbi.nlm.nih.gov/gene/6774|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1059683
+DUSP2|participates_in|Signaling by Leptin|http://www.ncbi.nlm.nih.gov/gene/1844|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2586552
+STAT3|participates_in|Signaling by Leptin|http://www.ncbi.nlm.nih.gov/gene/6774|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2586552
+DUSP2|participates_in|Axon guidance|http://www.ncbi.nlm.nih.gov/gene/1844|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-422475
+PTPRC|participates_in|Axon guidance|http://www.ncbi.nlm.nih.gov/gene/5788|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-422475
+valproic acid|is substance that treats|Acute megakaryocytic leukemia|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0006733
+PTPRT|causes or contributes to condition|Acute megakaryocytic leukemia|http://www.ncbi.nlm.nih.gov/gene/11122|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0006733
+PTPRC|causes or contributes to condition|Prostate neoplasm|http://www.ncbi.nlm.nih.gov/gene/5788|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0100787
+STAT3|causes or contributes to condition|Prostate neoplasm|http://www.ncbi.nlm.nih.gov/gene/6774|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0100787
+PTPRC|causes or contributes to condition|Abnormal retinal morphology|http://www.ncbi.nlm.nih.gov/gene/5788|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0000479
+benzo[a]pyrene|is substance that treats|Abnormal retinal morphology|http://purl.obolibrary.org/obo/CHEBI_29865|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0000479
+MAPK10|participates_in|Innate Immune System|http://www.ncbi.nlm.nih.gov/gene/5602|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168249
+MAPK13|participates_in|Innate Immune System|http://www.ncbi.nlm.nih.gov/gene/5603|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168249
+MAPK7|participates_in|MAPK targets/ Nuclear events mediated by MAP kinases|http://www.ncbi.nlm.nih.gov/gene/5598|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-450282
+MAPK10|participates_in|MAPK targets/ Nuclear events mediated by MAP kinases|http://www.ncbi.nlm.nih.gov/gene/5602|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-450282
+valproic acid|interacts with|MAPK1 (human)|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5594
+MAPKAP1|participates_in|Downstream signal transduction|http://www.ncbi.nlm.nih.gov/gene/79109|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-186763
+MAPK12|participates_in|Innate Immune System|http://www.ncbi.nlm.nih.gov/gene/6300|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168249
+MAPK9|participates_in|Innate Immune System|http://www.ncbi.nlm.nih.gov/gene/5601|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168249
+MAPK3|participates_in|ERKs are inactivated|http://www.ncbi.nlm.nih.gov/gene/5595|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-202670
+MAPK12|participates_in|Signaling by NTRK1 (TRKA)|http://www.ncbi.nlm.nih.gov/gene/6300|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-187037
+MAPK12|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/6300|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+MAPK9|participates_in|MAPK targets/ Nuclear events mediated by MAP kinases|http://www.ncbi.nlm.nih.gov/gene/5601|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-450282
+MAPK targets/ Nuclear events mediated by MAP kinases|subClassOf|mitogen activated protein kinase signaling pathway|https://reactome.org/content/detail/R-HSA-450282|http://www.w3.org/2000/01/rdf-schema#subClassOf|http://purl.obolibrary.org/obo/PW_0000007
+MAPK6/MAPK4 signaling|subClassOf|mitogen activated protein kinase signaling pathway|https://reactome.org/content/detail/R-HSA-5687128|http://www.w3.org/2000/01/rdf-schema#subClassOf|http://purl.obolibrary.org/obo/PW_0000007
+MAPK11|participates_in|ERK/MAPK targets|http://www.ncbi.nlm.nih.gov/gene/5600|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-198753
+MAPK9|has gene product|mitogen-activated protein kinase 9 (human)|http://www.ncbi.nlm.nih.gov/gene/5601|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_P45984
+mitogen-activated protein kinase 9 (human)|has function|MAP kinase activity|http://purl.obolibrary.org/obo/PR_P45984|http://purl.obolibrary.org/obo/RO_0000085|http://purl.obolibrary.org/obo/GO_0004707
+mitogen-activated protein kinase 4 (human)|has function|MAP kinase activity|http://purl.obolibrary.org/obo/PR_P31152|http://purl.obolibrary.org/obo/RO_0000085|http://purl.obolibrary.org/obo/GO_0004707
+mitogen-activated protein kinase 4 (human)|has_gene_template|MAPK4|http://purl.obolibrary.org/obo/PR_P31152|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/5596
+MAPK8|participates_in|MAPK targets/ Nuclear events mediated by MAP kinases|http://www.ncbi.nlm.nih.gov/gene/5599|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-450282
+MAPK8|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/5599|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+valproic acid|interacts with|MAPK11|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5600
+valproic acid|interacts with|MAPK13|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5603
+SOCS3|participates_in|PTK6 Activates STAT3|http://www.ncbi.nlm.nih.gov/gene/9021|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-8849474
+STAT3|participates_in|PTK6 Activates STAT3|http://www.ncbi.nlm.nih.gov/gene/6774|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-8849474

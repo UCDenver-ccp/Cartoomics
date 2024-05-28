@@ -1,0 +1,41 @@
+source|target|source_label|target_label|source_id|target_id
+TrkB|C/EBP10A𝛽|TrkB|C/EBP10A𝛽|http://www.ncbi.nlm.nih.gov/gene/4915|http://www.ncbi.nlm.nih.gov/gene/1051
+PP2A|PP2A|PP2A|PP2A|http://www.ncbi.nlm.nih.gov/gene/5516|http://www.ncbi.nlm.nih.gov/gene/5516
+δ-secretase|Amyloid-beta|δ-secretase|Amyloid-beta|http://www.ncbi.nlm.nih.gov/gene/5641|http://purl.obolibrary.org/obo/CHEBI_64645
+PP2A|Microtubule-associated protein tau|PP2A|Microtubule-associated protein tau|http://www.ncbi.nlm.nih.gov/gene/5516|http://www.ncbi.nlm.nih.gov/gene/4137
+AKT 3|AKT 3|AKT 3|AKT 3|http://www.ncbi.nlm.nih.gov/gene/10000|http://www.ncbi.nlm.nih.gov/gene/10000
+Microtubule-associated protein tau|Alzheimer's disease|Microtubule-associated protein tau|Alzheimer's disease|http://www.ncbi.nlm.nih.gov/gene/4137|http://www.ebi.ac.uk/efo/EFO_0000249
+Microtubule-associated protein tau|TrkB|Microtubule-associated protein tau|TrkB|http://www.ncbi.nlm.nih.gov/gene/4137|http://www.ncbi.nlm.nih.gov/gene/4915
+δ-secretase|Alzheimer's disease|δ-secretase|Alzheimer's disease|http://www.ncbi.nlm.nih.gov/gene/5641|http://www.ebi.ac.uk/efo/EFO_0000249
+α-synuclein|DOPAL|α-synuclein|DOPAL|http://www.ncbi.nlm.nih.gov/gene/6622|http://purl.obolibrary.org/obo/CHEBI_27978
+Amyloid-beta|LGMN|Amyloid-beta|LGMN|http://purl.obolibrary.org/obo/CHEBI_64645|http://www.ncbi.nlm.nih.gov/gene/5641
+DOPAL|δ-secretase|DOPAL|δ-secretase|http://purl.obolibrary.org/obo/CHEBI_27978|http://www.ncbi.nlm.nih.gov/gene/5641
+δ-secretase|STAT1|δ-secretase|STAT1|http://www.ncbi.nlm.nih.gov/gene/5641|http://www.ncbi.nlm.nih.gov/gene/6772
+Microtubule-associated protein tau|Microtubule-associated protein tau|Microtubule-associated protein tau|Microtubule-associated protein tau|http://www.ncbi.nlm.nih.gov/gene/4137|http://www.ncbi.nlm.nih.gov/gene/4137
+SET|Microtubule-associated protein tau|SET|Microtubule-associated protein tau|http://www.ncbi.nlm.nih.gov/gene/6418|http://www.ncbi.nlm.nih.gov/gene/4137
+δ-secretase|PP2A|δ-secretase|PP2A|http://www.ncbi.nlm.nih.gov/gene/5641|http://www.ncbi.nlm.nih.gov/gene/5516
+δ-secretase|Parkinson's disease|δ-secretase|Parkinson's disease|http://www.ncbi.nlm.nih.gov/gene/5641|http://www.ebi.ac.uk/efo/EFO_0002508
+α-synuclein|Parkinson's disease|α-synuclein|Parkinson's disease|http://www.ncbi.nlm.nih.gov/gene/6622|http://www.ebi.ac.uk/efo/EFO_0002508
+TrkB|AKT 3|TrkB|AKT 3|http://www.ncbi.nlm.nih.gov/gene/4915|http://www.ncbi.nlm.nih.gov/gene/10000
+δ-secretase|δ-secretase|δ-secretase|δ-secretase|http://www.ncbi.nlm.nih.gov/gene/5641|http://www.ncbi.nlm.nih.gov/gene/5641
+C/EBP10A𝛽|LGMN|C/EBP10A𝛽|LGMN|http://www.ncbi.nlm.nih.gov/gene/1051|http://www.ncbi.nlm.nih.gov/gene/5641
+AKT 3|δ-secretase|AKT 3|δ-secretase|http://www.ncbi.nlm.nih.gov/gene/10000|http://www.ncbi.nlm.nih.gov/gene/5641
+α-synuclein|TrkB|α-synuclein|TrkB|http://www.ncbi.nlm.nih.gov/gene/6622|http://www.ncbi.nlm.nih.gov/gene/4915
+TrkB|AKT 1|TrkB|AKT 1|http://www.ncbi.nlm.nih.gov/gene/4915|http://www.ncbi.nlm.nih.gov/gene/207
+δ-secretase|TrkB|δ-secretase|TrkB|http://www.ncbi.nlm.nih.gov/gene/5641|http://www.ncbi.nlm.nih.gov/gene/4915
+SRPK2|δ-secretase|SRPK2|δ-secretase|http://www.ncbi.nlm.nih.gov/gene/6733|http://www.ncbi.nlm.nih.gov/gene/5641
+AKT 1|AKT 1|AKT 1|AKT 1|http://www.ncbi.nlm.nih.gov/gene/207|http://www.ncbi.nlm.nih.gov/gene/207
+BDNF|TrkB|BDNF|TrkB|http://www.ncbi.nlm.nih.gov/gene/627|http://www.ncbi.nlm.nih.gov/gene/4915
+STAT1|BACE1|STAT1|BACE1|http://www.ncbi.nlm.nih.gov/gene/6772|http://www.ncbi.nlm.nih.gov/gene/23621
+AKT 1|δ-secretase|AKT 1|δ-secretase|http://www.ncbi.nlm.nih.gov/gene/207|http://www.ncbi.nlm.nih.gov/gene/5641
+Prolegumain|δ-secretase|Prolegumain|δ-secretase|http://www.ncbi.nlm.nih.gov/gene/5641|http://www.ncbi.nlm.nih.gov/gene/5641
+AKT 1|AKT 3|AKT 1|AKT 3|http://www.ncbi.nlm.nih.gov/gene/207|http://www.ncbi.nlm.nih.gov/gene/10000
+δ-secretase|Microtubule-associated protein tau|δ-secretase|Microtubule-associated protein tau|http://www.ncbi.nlm.nih.gov/gene/5641|http://www.ncbi.nlm.nih.gov/gene/4137
+SET|PP2A|SET|PP2A|http://www.ncbi.nlm.nih.gov/gene/6418|http://www.ncbi.nlm.nih.gov/gene/5516
+Amyloid-beta|Alzheimer's disease|Amyloid-beta|Alzheimer's disease|http://purl.obolibrary.org/obo/CHEBI_64645|http://www.ebi.ac.uk/efo/EFO_0000249
+Dopamine|DOPAL|Dopamine|DOPAL|http://purl.obolibrary.org/obo/CHEBI_18243|http://purl.obolibrary.org/obo/CHEBI_27978
+Microtubule-associated protein tau|STAT1|Microtubule-associated protein tau|STAT1|http://www.ncbi.nlm.nih.gov/gene/4137|http://www.ncbi.nlm.nih.gov/gene/6772
+LGMN|Prolegumain|LGMN|Prolegumain|http://www.ncbi.nlm.nih.gov/gene/5641|http://www.ncbi.nlm.nih.gov/gene/5641
+BACE1|Amyloid-beta|BACE1|Amyloid-beta|http://www.ncbi.nlm.nih.gov/gene/23621|http://purl.obolibrary.org/obo/CHEBI_64645
+APP|Amyloid-beta|APP|Amyloid-beta|http://www.ncbi.nlm.nih.gov/gene/351|http://purl.obolibrary.org/obo/CHEBI_64645
+TDP-43|δ-secretase|TDP-43|δ-secretase|http://www.ncbi.nlm.nih.gov/gene/23435|http://www.ncbi.nlm.nih.gov/gene/5641

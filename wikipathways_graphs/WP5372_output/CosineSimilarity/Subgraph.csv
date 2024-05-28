@@ -1,0 +1,87 @@
+S|P|O|S_ID|P_ID|O_ID
+aflatoxin B1|interacts with|TrkB|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/4915
+aflatoxin B1|is substance that treats|Hepatocellular carcinoma|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0001402
+C/EBP10A𝛽|causes or contributes to condition|Hepatocellular carcinoma|http://www.ncbi.nlm.nih.gov/gene/1051|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0001402
+δ-secretase|participates_in|Innate Immune System|http://www.ncbi.nlm.nih.gov/gene/5641|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168249
+polypeptide|participates_in|Innate Immune System|http://purl.obolibrary.org/obo/CHEBI_15841|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168249
+Amyloid-beta|subClassOf|polypeptide|http://purl.obolibrary.org/obo/CHEBI_64645|http://www.w3.org/2000/01/rdf-schema#subClassOf|http://purl.obolibrary.org/obo/CHEBI_15841
+diazinon|interacts with|PP2A|http://purl.obolibrary.org/obo/CHEBI_34682|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5516
+diazinon|is substance that treats|Decreased body weight|http://purl.obolibrary.org/obo/CHEBI_34682|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0004325
+Microtubule-associated protein tau|causes or contributes to condition|Decreased body weight|http://www.ncbi.nlm.nih.gov/gene/4137|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0004325
+Microtubule-associated protein tau|causes or contributes to condition|Hepatocellular carcinoma|http://www.ncbi.nlm.nih.gov/gene/4137|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0001402
+fibroblastic neoplasm|has phenotype|Hepatocellular carcinoma|http://purl.obolibrary.org/obo/MONDO_0006209|http://purl.obolibrary.org/obo/RO_0002200|http://purl.obolibrary.org/obo/HP_0001402
+fibroblastic neoplasm|disease has location|fibroblast|http://purl.obolibrary.org/obo/MONDO_0006209|http://purl.obolibrary.org/obo/RO_0004026|http://purl.obolibrary.org/obo/CL_0000057
+fibroblastic neoplasm|disease arises from structure|fibroblast|http://purl.obolibrary.org/obo/MONDO_0006209|http://purl.obolibrary.org/obo/RO_0004030|http://purl.obolibrary.org/obo/CL_0000057
+AG08541 cell|derives_from|fibroblast|http://purl.obolibrary.org/obo/CLO_0034380|http://purl.obolibrary.org/obo/RO_0001000|http://purl.obolibrary.org/obo/CL_0000057
+AG08541 cell|is disease model for|Alzheimer's disease|http://purl.obolibrary.org/obo/CLO_0034380|http://purl.obolibrary.org/obo/CLO_0000179|http://www.ebi.ac.uk/efo/EFO_0000249
+valproic acid|interacts with|Microtubule-associated protein tau|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/4137
+valproic acid|is substance that treats|Autism|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0000717
+TrkB|causes or contributes to condition|Autism|http://www.ncbi.nlm.nih.gov/gene/4915|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0000717
+δ-secretase|participates_in|Metabolism|http://www.ncbi.nlm.nih.gov/gene/5641|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1430728
+doxorubicin|participates_in|Metabolism|http://purl.obolibrary.org/obo/CHEBI_28748|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1430728
+doxorubicin|is substance that treats|B-cell neoplasm|http://purl.obolibrary.org/obo/CHEBI_28748|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/MONDO_0004095
+B-cell neoplasm|disease has location|B cell|http://purl.obolibrary.org/obo/MONDO_0004095|http://purl.obolibrary.org/obo/RO_0004026|http://purl.obolibrary.org/obo/CL_0000236
+B-cell neoplasm|disease arises from structure|B cell|http://purl.obolibrary.org/obo/MONDO_0004095|http://purl.obolibrary.org/obo/RO_0004030|http://purl.obolibrary.org/obo/CL_0000236
+AG10039 cell|derives_from|B cell|http://purl.obolibrary.org/obo/CLO_0021885|http://purl.obolibrary.org/obo/RO_0001000|http://purl.obolibrary.org/obo/CL_0000236
+AG10039 cell|is disease model for|Alzheimer's disease|http://purl.obolibrary.org/obo/CLO_0021885|http://purl.obolibrary.org/obo/CLO_0000179|http://www.ebi.ac.uk/efo/EFO_0000249
+α-synuclein|causes or contributes to condition|Neurodegeneration|http://www.ncbi.nlm.nih.gov/gene/6622|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0002180
+DOPAL|is substance that treats|Neurodegeneration|http://purl.obolibrary.org/obo/CHEBI_27978|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0002180
+polypeptide|participates_in|Adaptive Immune System|http://purl.obolibrary.org/obo/CHEBI_15841|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1280218
+δ-secretase|participates_in|Adaptive Immune System|http://www.ncbi.nlm.nih.gov/gene/5641|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1280218
+PRKN|causes or contributes to condition|Neurodegeneration|http://www.ncbi.nlm.nih.gov/gene/5071|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0002180
+PRKN|participates_in|Adaptive Immune System|http://www.ncbi.nlm.nih.gov/gene/5071|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1280218
+δ-secretase|participates_in|Immune System|http://www.ncbi.nlm.nih.gov/gene/5641|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168256
+STAT1|participates_in|Immune System|http://www.ncbi.nlm.nih.gov/gene/6772|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168256
+SET|causes or contributes to condition|Intellectual disability|http://www.ncbi.nlm.nih.gov/gene/6418|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0001249
+valproic acid|is substance that treats|Intellectual disability|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0001249
+PP2A|participates_in|Adaptive Immune System|http://www.ncbi.nlm.nih.gov/gene/5516|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1280218
+Src-like-adapter 2 (human)|participates_in|Immune System|http://purl.obolibrary.org/obo/PR_Q9H6Q3|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168256
+Src-like-adapter 2 (human)|participates_in|B cell mediated immunity|http://purl.obolibrary.org/obo/PR_Q9H6Q3|http://purl.obolibrary.org/obo/RO_0000056|http://purl.obolibrary.org/obo/GO_0019724
+B cell|capable of|B cell mediated immunity|http://purl.obolibrary.org/obo/CL_0000236|http://purl.obolibrary.org/obo/RO_0002215|http://purl.obolibrary.org/obo/GO_0019724
+ND04162 cell|derives_from|B cell|http://purl.obolibrary.org/obo/CLO_0032642|http://purl.obolibrary.org/obo/RO_0001000|http://purl.obolibrary.org/obo/CL_0000236
+ND04162 cell|is disease model for|Parkinson's disease|http://purl.obolibrary.org/obo/CLO_0032642|http://purl.obolibrary.org/obo/CLO_0000179|http://www.ebi.ac.uk/efo/EFO_0002508
+methotrexate|is substance that treats|Neurodegeneration|http://purl.obolibrary.org/obo/CHEBI_44185|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0002180
+methotrexate|is substance that treats|B-cell neoplasm|http://purl.obolibrary.org/obo/CHEBI_44185|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/MONDO_0004095
+ND09224 cell|derives_from|B cell|http://purl.obolibrary.org/obo/CLO_0014910|http://purl.obolibrary.org/obo/RO_0001000|http://purl.obolibrary.org/obo/CL_0000236
+ND09224 cell|is disease model for|Parkinson's disease|http://purl.obolibrary.org/obo/CLO_0014910|http://purl.obolibrary.org/obo/CLO_0000179|http://www.ebi.ac.uk/efo/EFO_0002508
+TrkB|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/4915|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+AKT 3|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/10000|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+valproic acid|interacts with|C/EBP10A𝛽|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/1051
+valproic acid|interacts with|CPNE3 (human)|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/8895
+CPNE3 (human)|participates_in|Innate Immune System|http://www.ncbi.nlm.nih.gov/gene/8895|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168249
+AKT 3|participates_in|Adaptive Immune System|http://www.ncbi.nlm.nih.gov/gene/10000|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1280218
+α-synuclein|causes or contributes to condition|Alcoholism|http://www.ncbi.nlm.nih.gov/gene/6622|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0030955
+TrkB|causes or contributes to condition|Alcoholism|http://www.ncbi.nlm.nih.gov/gene/4915|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0030955
+TrkB|causes or contributes to condition|Depression|http://www.ncbi.nlm.nih.gov/gene/4915|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0000716
+AKT 1|causes or contributes to condition|Depression|http://www.ncbi.nlm.nih.gov/gene/207|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0000716
+aflatoxin B1|participates_in|Metabolism|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1430728
+valproic acid|interacts with|SRPK2 (human)|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/6733
+valproic acid|interacts with|ATP-dependent RNA helicase DDX3X (human)|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://purl.obolibrary.org/obo/PR_O00571
+ATP-dependent RNA helicase DDX3X (human)|participates_in|Innate Immune System|http://purl.obolibrary.org/obo/PR_O00571|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168249
+BDNF|causes or contributes to condition|Status epilepticus|http://www.ncbi.nlm.nih.gov/gene/627|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0002133
+TrkB|causes or contributes to condition|Status epilepticus|http://www.ncbi.nlm.nih.gov/gene/4915|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0002133
+STAT1|participates_in|Cytokine Signaling in Immune system|http://www.ncbi.nlm.nih.gov/gene/6772|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1280215
+HIST2H3C (human)|participates_in|Cytokine Signaling in Immune system|http://www.ncbi.nlm.nih.gov/gene/333932|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1280215
+HIST2H3C (human)|participates_in|Metabolism of proteins|http://www.ncbi.nlm.nih.gov/gene/333932|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392499
+BACE1|participates_in|Metabolism of proteins|http://www.ncbi.nlm.nih.gov/gene/23621|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392499
+AKT 1|participates_in|Adaptive Immune System|http://www.ncbi.nlm.nih.gov/gene/207|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1280218
+AKT 1|participates_in|Apoptosis|http://www.ncbi.nlm.nih.gov/gene/207|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-109581
+AKT 3|participates_in|Apoptosis|http://www.ncbi.nlm.nih.gov/gene/10000|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-109581
+26S proteasome non-ATPase regulatory subunit 11 (human)|participates_in|Adaptive Immune System|http://purl.obolibrary.org/obo/PR_O00231|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1280218
+26S proteasome non-ATPase regulatory subunit 11 (human)|participates_in|Programmed Cell Death|http://purl.obolibrary.org/obo/PR_O00231|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5357801
+Microtubule-associated protein tau|participates_in|Programmed Cell Death|http://www.ncbi.nlm.nih.gov/gene/4137|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5357801
+SET|participates_in|Cell Cycle|http://www.ncbi.nlm.nih.gov/gene/6418|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1640170
+PP2A|participates_in|Cell Cycle|http://www.ncbi.nlm.nih.gov/gene/5516|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1640170
+melittin|subClassOf|polypeptide|http://purl.obolibrary.org/obo/CHEBI_6736|http://www.w3.org/2000/01/rdf-schema#subClassOf|http://purl.obolibrary.org/obo/CHEBI_15841
+melittin|is substance that treats|Cirrhosis|http://purl.obolibrary.org/obo/CHEBI_6736|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0001394
+fibroblastic neoplasm|has phenotype|Cirrhosis|http://purl.obolibrary.org/obo/MONDO_0006209|http://purl.obolibrary.org/obo/RO_0002200|http://purl.obolibrary.org/obo/HP_0001394
+AG04159 cell|derives_from|fibroblast|http://purl.obolibrary.org/obo/CLO_0034793|http://purl.obolibrary.org/obo/RO_0001000|http://purl.obolibrary.org/obo/CL_0000057
+AG04159 cell|is disease model for|Alzheimer's disease|http://purl.obolibrary.org/obo/CLO_0034793|http://purl.obolibrary.org/obo/CLO_0000179|http://www.ebi.ac.uk/efo/EFO_0000249
+Dopamine|is substance that treats|Neurodegeneration|http://purl.obolibrary.org/obo/CHEBI_18243|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0002180
+valproic acid|is substance that treats|Hearing impairment|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/HP_0000365
+STAT1|causes or contributes to condition|Hearing impairment|http://www.ncbi.nlm.nih.gov/gene/6772|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0000365
+polypeptide|participates_in|Metabolism of proteins|http://purl.obolibrary.org/obo/CHEBI_15841|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-392499
+APP|participates_in|Innate Immune System|http://www.ncbi.nlm.nih.gov/gene/351|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168249
+TDP-43|has gene product|TAR DNA-binding protein 43 (human)|http://www.ncbi.nlm.nih.gov/gene/23435|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_Q13148
+TAR DNA-binding protein 43 (human)|molecularly interacts with|transitional endoplasmic reticulum ATPase (human)|http://purl.obolibrary.org/obo/PR_Q13148|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_P55072
+transitional endoplasmic reticulum ATPase (human)|participates_in|Immune System|http://purl.obolibrary.org/obo/PR_P55072|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-168256

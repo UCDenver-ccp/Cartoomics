@@ -1,0 +1,54 @@
+S|P|O|S_ID|P_ID|O_ID
+Sparc|participates_in|Extracellular matrix organization|http://www.ncbi.nlm.nih.gov/gene/6678|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1474244
+integrin alpha-M (human)|participates_in|Extracellular matrix organization|http://purl.obolibrary.org/obo/PR_P11215|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1474244
+integrin alpha-M (human)|participates_in|Cell adhesion|http://purl.obolibrary.org/obo/PR_P11215|http://purl.obolibrary.org/obo/RO_0000056|http://purl.obolibrary.org/obo/GO_0007155
+14-3-3|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/7532|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+TAZ|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/25937|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+Smad2|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/4087|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+Smad3|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/4088|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+Smad4|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/4089|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+aflatoxin B1|interacts with|TAZ|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/25937
+aflatoxin B1|interacts with|CNN2|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/1490
+Sparc|causes or contributes to condition|Neoplasm of the large intestine|http://www.ncbi.nlm.nih.gov/gene/6678|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0100834
+POSTN (human)|causes or contributes to condition|Neoplasm of the large intestine|http://www.ncbi.nlm.nih.gov/gene/10631|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0100834
+Sparc|participates_in|Platelet activation, signaling and aggregation|http://www.ncbi.nlm.nih.gov/gene/6678|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-76002
+SERPINE1|participates_in|Platelet activation, signaling and aggregation|http://www.ncbi.nlm.nih.gov/gene/5054|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-76002
+Smad2|participates_in|TGF-beta receptor signaling activates SMADs|http://www.ncbi.nlm.nih.gov/gene/4087|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2173789
+Smad3|participates_in|TGF-beta receptor signaling activates SMADs|http://www.ncbi.nlm.nih.gov/gene/4088|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2173789
+TAZ|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription|http://www.ncbi.nlm.nih.gov/gene/25937|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2173796
+Smad2|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription|http://www.ncbi.nlm.nih.gov/gene/4087|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2173796
+Smad3|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription|http://www.ncbi.nlm.nih.gov/gene/4088|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2173796
+Smad4|participates_in|SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription|http://www.ncbi.nlm.nih.gov/gene/4089|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-2173796
+valproic acid|interacts with|Smad2|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/4087
+valproic acid|interacts with|CNN2|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/1490
+valproic acid|interacts with|Periostin|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/10631
+valproic acid|interacts with|PAI-1|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5054
+SPARC protein (human)|participates_in|Signal Transduction|http://purl.obolibrary.org/obo/PR_P09486|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+SPARC protein (human)|has_gene_template|SPARC|http://purl.obolibrary.org/obo/PR_P09486|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/6678
+SERPINE1|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/5054|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+TAZ|causes or contributes to condition|epithelioid hemangioendothelioma|http://www.ncbi.nlm.nih.gov/gene/25937|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0015523
+valproic acid|is substance that treats|epithelioid hemangioendothelioma|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002606|http://purl.obolibrary.org/obo/MONDO_0015523
+Smad2|participates_in|Signaling by NODAL|http://www.ncbi.nlm.nih.gov/gene/4087|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1181150
+Smad4|participates_in|Signaling by NODAL|http://www.ncbi.nlm.nih.gov/gene/4089|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1181150
+TGF-β|causes or contributes to condition|Emphysema|http://www.ncbi.nlm.nih.gov/gene/7040|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0002097
+TGFβ-II-R|causes or contributes to condition|Emphysema|http://www.ncbi.nlm.nih.gov/gene/7048|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0002097
+aflatoxin B1|interacts with|Smad4|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/4089
+Smad4|causes or contributes to condition|Neoplasm of the large intestine|http://www.ncbi.nlm.nih.gov/gene/4089|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0100834
+Smad4|causes or contributes to condition|Neoplasm of the stomach|http://www.ncbi.nlm.nih.gov/gene/4089|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0006753
+SERPINE1|causes or contributes to condition|Neoplasm of the stomach|http://www.ncbi.nlm.nih.gov/gene/5054|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0006753
+TGFβ-I-R|causes or contributes to condition|Loeys-Dietz syndrome|http://www.ncbi.nlm.nih.gov/gene/7046|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0018954
+Smad2|causes or contributes to condition|Loeys-Dietz syndrome|http://www.ncbi.nlm.nih.gov/gene/4087|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0018954
+TGFβ-I-R|causes or contributes to condition|Arterial dissection|http://www.ncbi.nlm.nih.gov/gene/7046|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0005294
+Smad3|causes or contributes to condition|Arterial dissection|http://www.ncbi.nlm.nih.gov/gene/4088|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0005294
+TGFβ-I-R|causes or contributes to condition|Emphysema|http://www.ncbi.nlm.nih.gov/gene/7046|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0002097
+TGFβ-I-R|has gene product|TGF-beta receptor type-1 (human)|http://www.ncbi.nlm.nih.gov/gene/7046|http://purl.obolibrary.org/obo/RO_0002205|http://purl.obolibrary.org/obo/PR_P36897
+TGF-beta receptor type-1 (human)|molecularly interacts with|transforming growth factor beta receptor type 3 (human)|http://purl.obolibrary.org/obo/PR_P36897|http://purl.obolibrary.org/obo/RO_0002436|http://purl.obolibrary.org/obo/PR_Q03167
+transforming growth factor beta receptor type 3 (human)|has_gene_template|TGFβ-III-R|http://purl.obolibrary.org/obo/PR_Q03167|http://purl.obolibrary.org/obo/pr#has_gene_template|http://www.ncbi.nlm.nih.gov/gene/7049
+Smad3|causes or contributes to condition|Neoplasm of the large intestine|http://www.ncbi.nlm.nih.gov/gene/4088|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0100834
+TGFβ-II-R|causes or contributes to condition|Loeys-Dietz syndrome|http://www.ncbi.nlm.nih.gov/gene/7048|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0018954
+Smad3|causes or contributes to condition|Cirrhosis|http://www.ncbi.nlm.nih.gov/gene/4088|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0001394
+Sparc|causes or contributes to condition|Cirrhosis|http://www.ncbi.nlm.nih.gov/gene/6678|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0001394
+valproic acid|interacts with|Smad3|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/4088
+TGFβ-II-R|causes or contributes to condition|Aortic dissection|http://www.ncbi.nlm.nih.gov/gene/7048|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0002647
+aneurysm, intracranial berry type 1|has phenotype|Aortic dissection|http://purl.obolibrary.org/obo/MONDO_0007111|http://purl.obolibrary.org/obo/RO_0002200|http://purl.obolibrary.org/obo/HP_0002647
+TGFBR3 (human)|causes or contributes to condition|aneurysm, intracranial berry type 1|http://www.ncbi.nlm.nih.gov/gene/7049|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/MONDO_0007111

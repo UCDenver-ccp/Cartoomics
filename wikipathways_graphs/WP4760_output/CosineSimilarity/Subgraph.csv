@@ -1,0 +1,76 @@
+S|P|O|S_ID|P_ID|O_ID
+TRPC3|participates_in|Platelet calcium homeostasis|http://www.ncbi.nlm.nih.gov/gene/7222|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-418360
+Ca2+|participates_in|Platelet calcium homeostasis|http://purl.obolibrary.org/obo/CHEBI_29108|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-418360
+PLCB1|participates_in|Presynaptic function of Kainate receptors|http://www.ncbi.nlm.nih.gov/gene/23236|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-500657
+PLCB2|participates_in|Presynaptic function of Kainate receptors|http://www.ncbi.nlm.nih.gov/gene/5330|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-500657
+PLCB3|participates_in|Presynaptic function of Kainate receptors|http://www.ncbi.nlm.nih.gov/gene/5331|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-500657
+valproic acid|interacts with|PLCB1|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/23236
+valproic acid|interacts with|PLCB4|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5332
+PLCB2|participates_in|Ca2+ pathway|http://www.ncbi.nlm.nih.gov/gene/5330|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-4086398
+IP3|participates_in|Ca2+ pathway|http://purl.obolibrary.org/obo/CHEBI_16595|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-4086398
+PLCB2|participates_in|Opioid Signalling|http://www.ncbi.nlm.nih.gov/gene/5330|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-111885
+DAG|participates_in|Opioid Signalling|http://purl.obolibrary.org/obo/CHEBI_18035|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-111885
+PLCB2|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK|http://www.ncbi.nlm.nih.gov/gene/5330|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-881907
+PLCB4|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK|http://www.ncbi.nlm.nih.gov/gene/5332|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-881907
+PLCB3|participates_in|Opioid Signalling|http://www.ncbi.nlm.nih.gov/gene/5331|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-111885
+IP3|participates_in|Opioid Signalling|http://purl.obolibrary.org/obo/CHEBI_16595|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-111885
+valproic acid|interacts with|PLCB3|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5331
+PLCB1|participates_in|PLC beta mediated events|http://www.ncbi.nlm.nih.gov/gene/23236|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112043
+DAG|participates_in|PLC beta mediated events|http://purl.obolibrary.org/obo/CHEBI_18035|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112043
+valproic acid|interacts with|GNA11|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/2767
+PLCB4|participates_in|PLC beta mediated events|http://www.ncbi.nlm.nih.gov/gene/5332|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112043
+valproic acid|interacts with|PRKCG|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/5582
+valproic acid|interacts with|TRPC3|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/7222
+PRKCG|participates_in|Neurotransmitter receptors and postsynaptic signal transmission|http://www.ncbi.nlm.nih.gov/gene/5582|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112314
+GRIA2|participates_in|Neurotransmitter receptors and postsynaptic signal transmission|http://www.ncbi.nlm.nih.gov/gene/2891|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112314
+PRKCG|participates_in|Glutamate binding, activation of AMPA receptors and synaptic plasticity|http://www.ncbi.nlm.nih.gov/gene/5582|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-399721
+GRIA1|participates_in|Glutamate binding, activation of AMPA receptors and synaptic plasticity|http://www.ncbi.nlm.nih.gov/gene/2890|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-399721
+PRKCG|participates_in|Transmission across Chemical Synapses|http://www.ncbi.nlm.nih.gov/gene/5582|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112315
+GRIA3|participates_in|Transmission across Chemical Synapses|http://www.ncbi.nlm.nih.gov/gene/2892|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112315
+valproic acid|interacts with|GRIA4|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/2893
+PDK1|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/5163|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+PRKCG|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/5582|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+PIP2|participates_in|Sensory perception of sweet, bitter, and umami (glutamate) taste|http://purl.obolibrary.org/obo/CHEBI_18348|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-9717207
+IP3|participates_in|Sensory perception of sweet, bitter, and umami (glutamate) taste|http://purl.obolibrary.org/obo/CHEBI_16595|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-9717207
+PIP2|participates_in|Intracellular signaling by second messengers|http://purl.obolibrary.org/obo/CHEBI_18348|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-9006925
+DAG|participates_in|Intracellular signaling by second messengers|http://purl.obolibrary.org/obo/CHEBI_18035|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-9006925
+valproic acid|interacts with|GNA15|http://purl.obolibrary.org/obo/CHEBI_39867|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/2769
+PLCB4|participates_in|G-protein mediated events|http://www.ncbi.nlm.nih.gov/gene/5332|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112040
+IP3|participates_in|G-protein mediated events|http://purl.obolibrary.org/obo/CHEBI_16595|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112040
+GNA14|participates_in|Free fatty acids regulate insulin secretion|http://www.ncbi.nlm.nih.gov/gene/9630|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-400451
+GNA15 (human)|participates_in|Free fatty acids regulate insulin secretion|http://www.ncbi.nlm.nih.gov/gene/2769|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-400451
+PLCB1|participates_in|Ca2+ pathway|http://www.ncbi.nlm.nih.gov/gene/23236|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-4086398
+IP3R1|participates_in|Platelet calcium homeostasis|http://www.ncbi.nlm.nih.gov/gene/3708|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-418360
+CACNA1A|participates_in|Neuronal System|http://www.ncbi.nlm.nih.gov/gene/773|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112316
+Ca2+|participates_in|Neuronal System|http://purl.obolibrary.org/obo/CHEBI_29108|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112316
+RYR3|participates_in|Ion homeostasis|http://www.ncbi.nlm.nih.gov/gene/6263|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5578775
+Ca2+|participates_in|Ion homeostasis|http://purl.obolibrary.org/obo/CHEBI_29108|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5578775
+GRIA2|participates_in|Glutamate binding, activation of AMPA receptors and synaptic plasticity|http://www.ncbi.nlm.nih.gov/gene/2891|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-399721
+sodium(1+)|participates_in|Glutamate binding, activation of AMPA receptors and synaptic plasticity|http://purl.obolibrary.org/obo/CHEBI_29101|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-399721
+GRIA2|participates_in|Trafficking of AMPA receptors|http://www.ncbi.nlm.nih.gov/gene/2891|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-399719
+GRIA1|participates_in|Trafficking of AMPA receptors|http://www.ncbi.nlm.nih.gov/gene/2890|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-399719
+GRIA3|participates_in|Neurotransmitter receptors and postsynaptic signal transmission|http://www.ncbi.nlm.nih.gov/gene/2892|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112314
+GRIA4|participates_in|Neurotransmitter receptors and postsynaptic signal transmission|http://www.ncbi.nlm.nih.gov/gene/2893|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112314
+Ca2+|participates_in|Transmission across Chemical Synapses|http://purl.obolibrary.org/obo/CHEBI_29108|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112315
+IP3|participates_in|G alpha (q) signalling events|http://purl.obolibrary.org/obo/CHEBI_16595|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-416476
+IP3R1|participates_in|G alpha (q) signalling events|http://www.ncbi.nlm.nih.gov/gene/3708|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-416476
+GRIA1|participates_in|Activation of AMPA receptors|http://www.ncbi.nlm.nih.gov/gene/2890|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-399710
+GRIA3|participates_in|Activation of AMPA receptors|http://www.ncbi.nlm.nih.gov/gene/2892|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-399710
+aflatoxin B1|interacts with|GRIA3|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/2892
+aflatoxin B1|interacts with|GRIA4|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/2893
+GRIA4|participates_in|Glutamate binding, activation of AMPA receptors and synaptic plasticity|http://www.ncbi.nlm.nih.gov/gene/2893|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-399721
+GRM1|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK|http://www.ncbi.nlm.nih.gov/gene/2911|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-881907
+GNA14|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK|http://www.ncbi.nlm.nih.gov/gene/9630|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-881907
+ATP2B2|participates_in|Platelet calcium homeostasis|http://www.ncbi.nlm.nih.gov/gene/491|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-418360
+PRKCG|participates_in|Opioid Signalling|http://www.ncbi.nlm.nih.gov/gene/5582|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-111885
+JQ1|interacts with|GNAQ (human)|http://purl.obolibrary.org/obo/CHEBI_137113|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/2776
+JQ1|interacts with|GNA11|http://purl.obolibrary.org/obo/CHEBI_137113|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/2767
+GNAQ|participates_in|Hemostasis|http://www.ncbi.nlm.nih.gov/gene/2776|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-109582
+GNA14|participates_in|Hemostasis|http://www.ncbi.nlm.nih.gov/gene/9630|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-109582
+GNAQ|participates_in|Free fatty acids regulate insulin secretion|http://www.ncbi.nlm.nih.gov/gene/2776|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-400451
+GNA11|participates_in|ADP signalling through P2Y purinoceptor 1|http://www.ncbi.nlm.nih.gov/gene/2767|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-418592
+GNA14|participates_in|ADP signalling through P2Y purinoceptor 1|http://www.ncbi.nlm.nih.gov/gene/9630|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-418592
+aflatoxin B1|interacts with|GRIA1|http://purl.obolibrary.org/obo/CHEBI_2504|http://purl.obolibrary.org/obo/RO_0002434|http://www.ncbi.nlm.nih.gov/gene/2890
+GRIA3|participates_in|Glutamate binding, activation of AMPA receptors and synaptic plasticity|http://www.ncbi.nlm.nih.gov/gene/2892|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-399721
+IP3|participates_in|Metabolism|http://purl.obolibrary.org/obo/CHEBI_16595|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1430728
+PDK1|participates_in|Metabolism|http://www.ncbi.nlm.nih.gov/gene/5163|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1430728

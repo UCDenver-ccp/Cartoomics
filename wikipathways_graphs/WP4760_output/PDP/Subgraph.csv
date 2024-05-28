@@ -1,0 +1,56 @@
+S|P|O|S_ID|P_ID|O_ID
+TRPC3|participates_in|Elevation of cytosolic Ca2+ levels|http://www.ncbi.nlm.nih.gov/gene/7222|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-139853
+Ca2+|participates_in|Elevation of cytosolic Ca2+ levels|http://purl.obolibrary.org/obo/CHEBI_29108|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-139853
+PLCB1|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion|http://www.ncbi.nlm.nih.gov/gene/23236|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-434316
+PLCB2|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion|http://www.ncbi.nlm.nih.gov/gene/5330|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-434316
+PLCB3|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion|http://www.ncbi.nlm.nih.gov/gene/5331|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-434316
+PLCB1|participates_in|Synthesis of IP3 and IP4 in the cytosol|http://www.ncbi.nlm.nih.gov/gene/23236|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1855204
+PLCB4|participates_in|Synthesis of IP3 and IP4 in the cytosol|http://www.ncbi.nlm.nih.gov/gene/5332|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1855204
+IP3|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion|http://purl.obolibrary.org/obo/CHEBI_16595|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-434316
+PLCB2|participates_in|PLC beta mediated events|http://www.ncbi.nlm.nih.gov/gene/5330|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112043
+DAG|participates_in|PLC beta mediated events|http://purl.obolibrary.org/obo/CHEBI_18035|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112043
+PLCB2|participates_in|Synthesis of IP3 and IP4 in the cytosol|http://www.ncbi.nlm.nih.gov/gene/5330|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1855204
+PLCB3|participates_in|PLC beta mediated events|http://www.ncbi.nlm.nih.gov/gene/5331|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112043
+PLCB3|participates_in|Synthesis of IP3 and IP4 in the cytosol|http://www.ncbi.nlm.nih.gov/gene/5331|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1855204
+PLCB1|participates_in|PLC beta mediated events|http://www.ncbi.nlm.nih.gov/gene/23236|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112043
+GNA11|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion|http://www.ncbi.nlm.nih.gov/gene/2767|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-434316
+PLCB4|participates_in|PLC beta mediated events|http://www.ncbi.nlm.nih.gov/gene/5332|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112043
+PRKCG|participates_in|Platelet activation, signaling and aggregation|http://www.ncbi.nlm.nih.gov/gene/5582|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-76002
+TRPC3|participates_in|Platelet activation, signaling and aggregation|http://www.ncbi.nlm.nih.gov/gene/7222|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-76002
+PRKCG|participates_in|Trafficking of GluR2-containing AMPA receptors|http://www.ncbi.nlm.nih.gov/gene/5582|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-416993
+GRIA2|participates_in|Trafficking of GluR2-containing AMPA receptors|http://www.ncbi.nlm.nih.gov/gene/2891|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-416993
+GRIA1|participates_in|Trafficking of GluR2-containing AMPA receptors|http://www.ncbi.nlm.nih.gov/gene/2890|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-416993
+GRIA3|participates_in|Trafficking of GluR2-containing AMPA receptors|http://www.ncbi.nlm.nih.gov/gene/2892|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-416993
+GRIA4|participates_in|Trafficking of GluR2-containing AMPA receptors|http://www.ncbi.nlm.nih.gov/gene/2893|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-416993
+PDK1|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/5163|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+PRKCG|participates_in|Signal Transduction|http://www.ncbi.nlm.nih.gov/gene/5582|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582
+PIP2|participates_in|Erythropoietin activates Phospholipase C gamma (PLCG)|http://purl.obolibrary.org/obo/CHEBI_18348|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-9027277
+IP3|participates_in|Erythropoietin activates Phospholipase C gamma (PLCG)|http://purl.obolibrary.org/obo/CHEBI_16595|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-9027277
+DAG|participates_in|Erythropoietin activates Phospholipase C gamma (PLCG)|http://purl.obolibrary.org/obo/CHEBI_18035|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-9027277
+GNA15 (human)|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion|http://www.ncbi.nlm.nih.gov/gene/2769|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-434316
+IP3|participates_in|Synthesis of IP3 and IP4 in the cytosol|http://purl.obolibrary.org/obo/CHEBI_16595|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1855204
+GNA14|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion|http://www.ncbi.nlm.nih.gov/gene/9630|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-434316
+IP3R1|participates_in|CLEC7A (Dectin-1) induces NFAT activation|http://www.ncbi.nlm.nih.gov/gene/3708|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5607763
+Ca2+|participates_in|CLEC7A (Dectin-1) induces NFAT activation|http://purl.obolibrary.org/obo/CHEBI_29108|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5607763
+CACNA1A|participates_in|Presynaptic depolarization and calcium channel opening|http://www.ncbi.nlm.nih.gov/gene/773|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112308
+Ca2+|participates_in|Presynaptic depolarization and calcium channel opening|http://purl.obolibrary.org/obo/CHEBI_29108|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-112308
+RYR3|participates_in|Ion homeostasis|http://www.ncbi.nlm.nih.gov/gene/6263|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5578775
+Ca2+|participates_in|Ion homeostasis|http://purl.obolibrary.org/obo/CHEBI_29108|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5578775
+GRIA2|participates_in|Activation of AMPA receptors|http://www.ncbi.nlm.nih.gov/gene/2891|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-399710
+sodium(1+)|participates_in|Activation of AMPA receptors|http://purl.obolibrary.org/obo/CHEBI_29101|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-399710
+GRIA1|participates_in|Activation of AMPA receptors|http://www.ncbi.nlm.nih.gov/gene/2890|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-399710
+GRIA3|participates_in|Activation of AMPA receptors|http://www.ncbi.nlm.nih.gov/gene/2892|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-399710
+GRIA4|participates_in|Activation of AMPA receptors|http://www.ncbi.nlm.nih.gov/gene/2893|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-399710
+Ca2+|participates_in|Disinhibition of SNARE formation|http://purl.obolibrary.org/obo/CHEBI_29108|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-114516
+PRKCG|participates_in|Disinhibition of SNARE formation|http://www.ncbi.nlm.nih.gov/gene/5582|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-114516
+IP3|participates_in|CLEC7A (Dectin-1) induces NFAT activation|http://purl.obolibrary.org/obo/CHEBI_16595|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-5607763
+GRM1|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK|http://www.ncbi.nlm.nih.gov/gene/2911|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-881907
+GNA14|participates_in|Gastrin-CREB signalling pathway via PKC and MAPK|http://www.ncbi.nlm.nih.gov/gene/9630|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-881907
+ATP2B2|participates_in|Reduction of cytosolic Ca++ levels|http://www.ncbi.nlm.nih.gov/gene/491|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-418359
+Ca2+|participates_in|Reduction of cytosolic Ca++ levels|http://purl.obolibrary.org/obo/CHEBI_29108|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-418359
+DAG|participates_in|DAG and IP3 signaling|http://purl.obolibrary.org/obo/CHEBI_18035|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1489509
+PRKCG|participates_in|DAG and IP3 signaling|http://www.ncbi.nlm.nih.gov/gene/5582|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-1489509
+GNAQ|causes or contributes to condition|Iris melanoma|http://www.ncbi.nlm.nih.gov/gene/2776|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0011524
+GNA11|causes or contributes to condition|Iris melanoma|http://www.ncbi.nlm.nih.gov/gene/2767|http://purl.obolibrary.org/obo/RO_0003302|http://purl.obolibrary.org/obo/HP_0011524
+GNAQ|participates_in|Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion|http://www.ncbi.nlm.nih.gov/gene/2776|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-434316
+IP3|participates_in|Signal Transduction|http://purl.obolibrary.org/obo/CHEBI_16595|http://purl.obolibrary.org/obo/RO_0000056|https://reactome.org/content/detail/R-HSA-162582

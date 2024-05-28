@@ -1,0 +1,754 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d15" for="edge" attr.name="color" attr.type="string"/>
+<key id="d14" for="edge" attr.name="signal" attr.type="string"/>
+<key id="d13" for="edge" attr.name="interaction" attr.type="string"/>
+<key id="d12" for="edge" attr.name="arrow" attr.type="string"/>
+<key id="d11" for="edge" attr.name="edgeID" attr.type="string"/>
+<key id="d10" for="node" attr.name="geometry" attr.type="string"/>
+<key id="d9" for="node" attr.name="databaseID" attr.type="string"/>
+<key id="d8" for="node" attr.name="database" attr.type="string"/>
+<key id="d7" for="node" attr.name="color" attr.type="string"/>
+<key id="d6" for="node" attr.name="height" attr.type="string"/>
+<key id="d5" for="node" attr.name="width" attr.type="string"/>
+<key id="d4" for="node" attr.name="centerY" attr.type="string"/>
+<key id="d3" for="node" attr.name="centerX" attr.type="string"/>
+<key id="d2" for="node" attr.name="groupref" attr.type="string"/>
+<key id="d1" for="node" attr.name="graphid" attr.type="string"/>
+<key id="d0" for="node" attr.name="textlabel" attr.type="string"/>
+<graph edgedefault="directed"><node id="α-synuclein (1-103) fragment">
+  <data key="d0">α-synuclein (1-103) fragment</data>
+  <data key="d1">ddc80</data>
+  <data key="d2">None</data>
+  <data key="d3">767.74007936508</data>
+  <data key="d4">190.62072649572696</data>
+  <data key="d5">176.58333333333303</data>
+  <data key="d6">23.20299145299135</data>
+  <data key="d7">#None</data>
+  <data key="d8">Unknown</data>
+  <data key="d9">α-synuclein (1-103) fragment</data>
+  <data key="d10">POINT (767.74007936508 190.62072649572696)</data>
+</node>
+<node id="Parkinson's disease">
+  <data key="d0">Parkinson's disease</data>
+  <data key="d1">e69af</data>
+  <data key="d2">None</data>
+  <data key="d3">618.5</data>
+  <data key="d4">133.0</data>
+  <data key="d5">120.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">Wikidata</data>
+  <data key="d9">Q11085</data>
+  <data key="d10">POINT (618.5 133)</data>
+</node>
+<node id="BDNF">
+  <data key="d0">BDNF</data>
+  <data key="d1">bfc98</data>
+  <data key="d2">None</data>
+  <data key="d3">109.2133699633703</data>
+  <data key="d4">553.9893162393157</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P23560</data>
+  <data key="d10">POINT (109.2133699633703 553.9893162393157)</data>
+</node>
+<node id="TrkB">
+  <data key="d0">TrkB</data>
+  <data key="d1">b8468</data>
+  <data key="d2">None</data>
+  <data key="d3">220.2507631257625</data>
+  <data key="d4">497.05128205128216</data>
+  <data key="d5">134.89529914529987</data>
+  <data key="d6">53.269230769230944</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q16620</data>
+  <data key="d10">POINT (220.2507631257625 497.05128205128216)</data>
+</node>
+<node id="TDP-43">
+  <data key="d0">TDP-43</data>
+  <data key="d1">ec8d2</data>
+  <data key="d2">None</data>
+  <data key="d3">1092.371184371183</data>
+  <data key="d4">462.48840048839895</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q13148</data>
+  <data key="d10">POINT (1092.371184371183 462.48840048839895)</data>
+</node>
+<node id="TDP-43 fragment">
+  <data key="d0">TDP-43 fragment</data>
+  <data key="d1">cf07c</data>
+  <data key="d2">None</data>
+  <data key="d3">1092.371184371183</data>
+  <data key="d4">529.999084249081</data>
+  <data key="d5">111.58586402576998</data>
+  <data key="d6">20.192307692307793</data>
+  <data key="d7">#None</data>
+  <data key="d8">Unknown</data>
+  <data key="d9">TDP-43 fragment</data>
+  <data key="d10">POINT (1092.371184371183 529.999084249081)</data>
+</node>
+<node id="δ-secretase">
+  <data key="d0">δ-secretase</data>
+  <data key="d1">b6e95</data>
+  <data key="d2">None</data>
+  <data key="d3">343.9996532593633</data>
+  <data key="d4">406.25737787024275</data>
+  <data key="d5">118.74364308830383</data>
+  <data key="d6">65.9775389120046</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q99538</data>
+  <data key="d10">POINT (343.9996532593633 406.25737787024275)</data>
+</node>
+<node id="SET">
+  <data key="d0">SET</data>
+  <data key="d1">c31e7</data>
+  <data key="d2">None</data>
+  <data key="d3">689.1269841269848</data>
+  <data key="d4">452.84126984127</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q01105</data>
+  <data key="d10">POINT (689.1269841269848 452.84126984127)</data>
+</node>
+<node id="SET fragment">
+  <data key="d0">SET fragment</data>
+  <data key="d1">f7f35</data>
+  <data key="d2">None</data>
+  <data key="d3">690.1944444444451</data>
+  <data key="d4">548.3551587301588</data>
+  <data key="d5">90.0</data>
+  <data key="d6">24.75</data>
+  <data key="d7">#None</data>
+  <data key="d8">Unknown</data>
+  <data key="d9">SET fragment</data>
+  <data key="d10">POINT (690.1944444444451 548.3551587301588)</data>
+</node>
+<node id="AKT 1">
+  <data key="d0">AKT 1</data>
+  <data key="d1">f8b82</data>
+  <data key="d2">f4fda</data>
+  <data key="d3">439.1666666666668</data>
+  <data key="d4">473.2738095238093</data>
+  <data key="d5">60.71428571428555</data>
+  <data key="d6">26.785714285714903</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P31749</data>
+  <data key="d10">POINT (439.1666666666668 473.2738095238093)</data>
+</node>
+<node id="AKT 2"/>
+<node id="AKT 3">
+  <data key="d0">AKT 3</data>
+  <data key="d1">ca487</data>
+  <data key="d2">f4fda</data>
+  <data key="d3">439.16666666666686</data>
+  <data key="d4">531.8452380952377</data>
+  <data key="d5">60.714285714285666</data>
+  <data key="d6">26.785714285714675</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q9Y243</data>
+  <data key="d10">POINT (439.16666666666686 531.8452380952377)</data>
+</node>
+<node id="SRPK2">
+  <data key="d0">SRPK2</data>
+  <data key="d1">f75bc</data>
+  <data key="d2">None</data>
+  <data key="d3">563.006135428763</data>
+  <data key="d4">222.45708854055414</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P78362</data>
+  <data key="d10">POINT (563.006135428763 222.45708854055414)</data>
+</node>
+<node id="SRPK2 fragment">
+  <data key="d0">SRPK2 fragment</data>
+  <data key="d1">e9165</data>
+  <data key="d2">None</data>
+  <data key="d3">562.9732221617708</data>
+  <data key="d4">325.805019081485</data>
+  <data key="d5">110.561492184396</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Unknown</data>
+  <data key="d9">SRPK2 fragment</data>
+  <data key="d10">POINT (562.9732221617708 325.805019081485)</data>
+</node>
+<node id="APP">
+  <data key="d0">APP</data>
+  <data key="d1">b73f1</data>
+  <data key="d2">None</data>
+  <data key="d3">1066.9668353007307</data>
+  <data key="d4">732.8704729783988</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P05067</data>
+  <data key="d10">POINT (1066.9668353007307 732.8704729783988)</data>
+</node>
+<node id="Amyloid-beta">
+  <data key="d0">Amyloid-beta</data>
+  <data key="d1">a4b6b</data>
+  <data key="d2">None</data>
+  <data key="d3">1068.395406729303</data>
+  <data key="d4">845.703043443347</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">CHEBI:64645</data>
+  <data key="d10">POINT (1068.395406729303 845.703043443347)</data>
+</node>
+<node id="Dopamine">
+  <data key="d0">Dopamine</data>
+  <data key="d1">e3d1e</data>
+  <data key="d2">None</data>
+  <data key="d3">946.8095238095236</data>
+  <data key="d4">91.07692307692292</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">CHEBI:18243</data>
+  <data key="d10">POINT (946.8095238095236 91.07692307692292)</data>
+</node>
+<node id="DOPAL">
+  <data key="d0">DOPAL</data>
+  <data key="d1">ed7de</data>
+  <data key="d2">None</data>
+  <data key="d3">946.8095238095236</data>
+  <data key="d4">211.74358974358967</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">ChEBI</data>
+  <data key="d9">27978</data>
+  <data key="d10">POINT (946.8095238095236 211.74358974358967)</data>
+</node>
+<node id="LGMN">
+  <data key="d0">LGMN</data>
+  <data key="d1">b93db</data>
+  <data key="d2">None</data>
+  <data key="d3">450.18608414239554</data>
+  <data key="d4">765.5536292186773</data>
+  <data key="d5">92.5589459084608</data>
+  <data key="d6">27.468793342580973</data>
+  <data key="d7">#None</data>
+  <data key="d8">Ensembl</data>
+  <data key="d9">ENSG00000100600</data>
+  <data key="d10">POINT (450.18608414239554 765.5536292186773)</data>
+</node>
+<node id="Prolegumain">
+  <data key="d0">Prolegumain</data>
+  <data key="d1">a53c8</data>
+  <data key="d2">None</data>
+  <data key="d3">865.238095238095</data>
+  <data key="d4">946.6666666666671</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">Q99538</data>
+  <data key="d10">POINT (865.238095238095 946.6666666666671)</data>
+</node>
+<node id="STAT1"/>
+<node id="BACE1"/>
+<node id="α-synuclein">
+  <data key="d0">α-synuclein</data>
+  <data key="d1">f14b9</data>
+  <data key="d2">None</data>
+  <data key="d3">766.459096459096</data>
+  <data key="d4">282.1282051282053</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P37840</data>
+  <data key="d10">POINT (766.459096459096 282.1282051282053)</data>
+</node>
+<node id="Tau (1-368) fragment"/>
+<node id="C/EBP10A𝛽">
+  <data key="d0">C/EBP10A𝛽</data>
+  <data key="d1">e4db0</data>
+  <data key="d2">None</data>
+  <data key="d3">361.9393971390355</data>
+  <data key="d4">803.7121074718193</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P17676</data>
+  <data key="d10">POINT (361.9393971390355 803.7121074718193)</data>
+</node>
+<node id="MAO B"/>
+<node id="Microtubule-associated protein tau">
+  <data key="d0">Microtubule-associated protein tau</data>
+  <data key="d1">b5765</data>
+  <data key="d2">None</data>
+  <data key="d3">829.1269841269835</data>
+  <data key="d4">654.2976190476192</data>
+  <data key="d5">195.0</data>
+  <data key="d6">31.5</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P10636</data>
+  <data key="d10">POINT (829.1269841269835 654.2976190476192)</data>
+</node>
+<node id="PP2A">
+  <data key="d0">PP2A</data>
+  <data key="d1">b7788</data>
+  <data key="d2">None</data>
+  <data key="d3">396.6666666666654</data>
+  <data key="d4">603.8095238095239</data>
+  <data key="d5">90.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#None</data>
+  <data key="d8">Uniprot-TrEMBL</data>
+  <data key="d9">P62714</data>
+  <data key="d10">POINT (396.6666666666654 603.8095238095239)</data>
+</node>
+<node id="Alzheimer's disease">
+  <data key="d0">Alzheimer's disease</data>
+  <data key="d1">a2be8</data>
+  <data key="d2">None</data>
+  <data key="d3">908.5</data>
+  <data key="d4">805.0</data>
+  <data key="d5">120.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">Wikidata</data>
+  <data key="d9">Q11081</data>
+  <data key="d10">POINT (908.5 805)</data>
+</node>
+<node id="Frontotemporal dementia">
+  <data key="d0">Frontotemporal dementia</data>
+  <data key="d1">db869</data>
+  <data key="d2">e4562</data>
+  <data key="d3">1092.371184371183</data>
+  <data key="d4">601.0</data>
+  <data key="d5">150.0</data>
+  <data key="d6">25.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">Wikidata</data>
+  <data key="d9">Q18592</data>
+  <data key="d10">POINT (1092.371184371183 601)</data>
+</node>
+<node id="Amyotrophic lateral &#10;sclerosis">
+  <data key="d0">Amyotrophic lateral 
+sclerosis</data>
+  <data key="d1">f22e6</data>
+  <data key="d2">e4562</data>
+  <data key="d3">1092.371184371183</data>
+  <data key="d4">635.0</data>
+  <data key="d5">120.0</data>
+  <data key="d6">35.0</data>
+  <data key="d7">#0000ff</data>
+  <data key="d8">Wikidata</data>
+  <data key="d9">Q206901</data>
+  <data key="d10">POINT (1092.371184371183 635)</data>
+</node>
+<edge source="α-synuclein (1-103) fragment" target="Parkinson's disease">
+  <data key="d11">None</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="α-synuclein (1-103) fragment" target="TrkB">
+  <data key="d11">id81e412ea</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="α-synuclein (1-103) fragment" target="MAO B">
+  <data key="d11">ideda33385</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="BDNF" target="TrkB">
+  <data key="d11">id1610061a</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TrkB" target="C/EBP10A𝛽">
+  <data key="d11">id6bc4cd45</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TrkB" target="AKT 1">
+  <data key="d11">id76f5d713</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TrkB" target="AKT 2">
+  <data key="d11">id76f5d713</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TrkB" target="AKT 3">
+  <data key="d11">id76f5d713</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TDP-43" target="TDP-43 fragment">
+  <data key="d11">id1a41e81d</data>
+  <data key="d12">mim-cleavage</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TDP-43 fragment" target="Frontotemporal dementia">
+  <data key="d11">bfd5e</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="TDP-43 fragment" target="Amyotrophic lateral &#10;sclerosis">
+  <data key="d11">bfd5e</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="δ-secretase" target="δ-secretase">
+  <data key="d11">idc8f43ae7</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="δ-secretase" target="TDP-43 fragment">
+  <data key="d11">id1a41e81d</data>
+  <data key="d12">mim-cleavage</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="δ-secretase" target="SET fragment">
+  <data key="d11">id1e78bfcf</data>
+  <data key="d12">mim-cleavage</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="δ-secretase" target="SRPK2 fragment">
+  <data key="d11">id27acc3ef</data>
+  <data key="d12">mim-cleavage</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="δ-secretase" target="Amyloid-beta">
+  <data key="d11">id2960d61b</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="δ-secretase" target="α-synuclein (1-103) fragment">
+  <data key="d11">id5a3c0603</data>
+  <data key="d12">mim-cleavage</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="δ-secretase" target="Tau (1-368) fragment">
+  <data key="d11">idab054f4f</data>
+  <data key="d12">mim-cleavage</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SET" target="SET fragment">
+  <data key="d11">id1e78bfcf</data>
+  <data key="d12">mim-cleavage</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SET fragment" target="Microtubule-associated protein tau">
+  <data key="d11">idc229af7c</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SET fragment" target="PP2A">
+  <data key="d11">ide6e78eda</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT 1" target="AKT 1">
+  <data key="d11">id76f5d713</data>
+  <data key="d12">group</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT 1" target="AKT 2">
+  <data key="d11">c5066_ecf39_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="AKT 1" target="AKT 3">
+  <data key="d11">a0160_ca487_f8b82_3</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="AKT 1" target="δ-secretase">
+  <data key="d11">idc8f43ae7</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT 2" target="AKT 1">
+  <data key="d11">ecf39_c5066_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="AKT 2" target="AKT 2">
+  <data key="d11">id76f5d713</data>
+  <data key="d12">group</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT 2" target="AKT 3">
+  <data key="d11">ecf39_c3948_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="AKT 2" target="δ-secretase">
+  <data key="d11">idc8f43ae7</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT 3" target="AKT 1">
+  <data key="d11">a0160_ca487_f8b82_2</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#nan</data>
+</edge>
+<edge source="AKT 3" target="AKT 2">
+  <data key="d11">c3948_ecf39_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="AKT 3" target="AKT 3">
+  <data key="d11">id76f5d713</data>
+  <data key="d12">group</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="AKT 3" target="δ-secretase">
+  <data key="d11">idc8f43ae7</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SRPK2" target="SRPK2 fragment">
+  <data key="d11">id27acc3ef</data>
+  <data key="d12">mim-cleavage</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="SRPK2" target="δ-secretase">
+  <data key="d11">idc8f43ae7</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="APP" target="Amyloid-beta">
+  <data key="d11">id2960d61b</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Amyloid-beta" target="LGMN">
+  <data key="d11">idf9476c0a</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Amyloid-beta" target="Alzheimer's disease">
+  <data key="d11">idfa2f844b</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Dopamine" target="DOPAL">
+  <data key="d11">id446c1dfc</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="DOPAL" target="δ-secretase">
+  <data key="d11">ide84b785d</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="LGMN" target="Prolegumain">
+  <data key="d11">id48dc0e91</data>
+  <data key="d12">mim-transcription-translation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Prolegumain" target="δ-secretase">
+  <data key="d11">id8e405755</data>
+  <data key="d12">mim-cleavage</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="STAT1" target="BACE1">
+  <data key="d11">id4bea0ac7</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="BACE1" target="Amyloid-beta">
+  <data key="d11">id763c970c</data>
+  <data key="d12">mim-stimulation</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="α-synuclein" target="α-synuclein (1-103) fragment">
+  <data key="d11">id5a3c0603</data>
+  <data key="d12">mim-cleavage</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Tau (1-368) fragment" target="TrkB">
+  <data key="d11">id685eec5d</data>
+  <data key="d12">mim-inhibition</data>
+  <data key="d13">i</data>
+  <data key="d14">i</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Tau (1-368) fragment" target="STAT1">
+  <data key="d11">ide02413c7</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Tau (1-368) fragment" target="Alzheimer's disease">
+  <data key="d11">ef15b</data>
+  <data key="d12">Arrow</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="C/EBP10A𝛽" target="LGMN">
+  <data key="d11">ida8d8beb</data>
+  <data key="d12">mim-binding</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="MAO B" target="DOPAL">
+  <data key="d11">id446c1dfc</data>
+  <data key="d12">mim-conversion</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Microtubule-associated protein tau" target="Tau (1-368) fragment">
+  <data key="d11">idab054f4f</data>
+  <data key="d12">mim-cleavage</data>
+  <data key="d13">u</data>
+  <data key="d14">u</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Microtubule-associated protein tau" target="Microtubule-associated protein tau">
+  <data key="d11">idd7e89fb0</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="PP2A" target="PP2A">
+  <data key="d11">ide6e78eda</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="PP2A" target="Microtubule-associated protein tau">
+  <data key="d11">idd7e89fb0</data>
+  <data key="d12">mim-modification</data>
+  <data key="d13">a</data>
+  <data key="d14">a</data>
+  <data key="d15">#000000</data>
+</edge>
+<edge source="Frontotemporal dementia" target="Amyotrophic lateral &#10;sclerosis">
+  <data key="d11">db869_f22e6_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+<edge source="Amyotrophic lateral &#10;sclerosis" target="Frontotemporal dementia">
+  <data key="d11">f22e6_db869_unlabeled</data>
+  <data key="d12">group</data>
+  <data key="d13">g</data>
+  <data key="d14">a</data>
+  <data key="d15">#unlabeled</data>
+</edge>
+</graph></graphml>
