@@ -25,7 +25,7 @@
 #python wikipathways_converter.py --knowledge-graph pkl --input-type annotated_diagram --pfocr-urls-file True --enable-skipping True
 
 #Command to test wikipathways pipeline by ID with smaller graph
-python call_all_pathways_wrapper.py --knowledge-graph pkl --input-type annotated_diagram --wikipathways "['WP4533']" --enable-skipping True
+#python call_all_pathways_wrapper.py --knowledge-graph pkl --input-type annotated_diagram --wikipathways "['WP4533']" --enable-skipping True
 
 #Command to visualize wikipathways output
 #python visualize_in_cytoscape.py --knowledge-graph pkl --input-type annotated_diagram --wikipathways "['WP4533']" --enable-skipping True
@@ -34,3 +34,6 @@ python call_all_pathways_wrapper.py --knowledge-graph pkl --input-type annotated
 #python wikipathways_converter_ablations.py --knowledge-graph pkl --input-type annotated_diagram --pfocr-urls-file True --enable-skipping True
 #Update call_all_pathways_wrapper.py input and output directories to include _ablation
 #Update wikipathways_graph_evaluations.py, wikipathways_literature_comparison_evaluations.py, with ablation=true
+#Literature evaluation
+#python wikipathways_literature_comparison_evaluations.py --knowledge-graph pkl --input-type annotated_diagram --wikipathways "['WP4533', 'WP4534', 'WP4537', 'WP4538', 'WP4539', 'WP4542', 'WP4553', 'WP4562', 'WP4564', 'WP4565', 'WP4760', 'WP4856', 'WP5358', 'WP5368', 'WP5372', 'WP5373', 'WP5382', 'WP5385']" --enable-skipping True #'WP4532',     'WP4535' 'WP4829', 'WP5283', 
+python wikipathways_idf_evaluations.py --knowledge-graph pkl --input-type annotated_diagram --wikipathways "['WP4532', 'WP4533', 'WP4534', 'WP4537', 'WP4538', 'WP4539', 'WP4542', 'WP4553', 'WP4562', 'WP4564', 'WP4565', 'WP4760', 'WP4856', 'WP5358', 'WP5368', 'WP5372', 'WP5373', 'WP5382', 'WP5385']" --enable-skipping True

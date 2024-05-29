@@ -46,16 +46,18 @@ def main():
         all_wikipathways_dir = all_wikipathways_dir + '_ablations'
 
     #Gets literature comparison terms for many pathways 
-    all_pathways_comparisons = {}
-    for w in ALL_WIKIPATHWAYS:
+    all_pathways_comparisons = {key: {} for key in LITERATURE_SEARCH_TYPES}
+    for w in wikipathways:
         for search_type in LITERATURE_SEARCH_TYPES:
             #w_comparison_file = all_wikipathways_dir + "/literature_comparison/" + w + "_literature_comparison_Input_Nodes_.csv"
-            w_comparison_file = os.getcwd() + "/" + WIKIPATHWAYS_SUBFOLDER + "/literature_comparison/" + w + "_literature_comparison_Input_Nodes_.csv"
-            w_comparison_df = pd.read_csv(w_comparison_file, sep = "|")
-            #Remove duplicates and unassigned IDs from literature comparison files
-            w_comparison_df = w_comparison_df.loc[w_comparison_df['term_id'] != 'none']
-            w_comparison_df.drop_duplicates(subset=['term_id'], inplace=True)
-            all_pathways_comparisons[w] = w_comparison_df
+            w_comparison_file = os.getcwd() + "/" + WIKIPATHWAYS_SUBFOLDER + "/literature_comparison/" + search_type + "/" + w + "_literature_comparison_Input_Nodes_.csv"
+            if os.path.exists(w_comparison_file):
+                w_comparison_df = pd.read_csv(w_comparison_file, sep = "|")
+                #Remove duplicates and unassigned IDs from literature comparison files
+                w_comparison_df = w_comparison_df.loc[w_comparison_df['term_id'] != 'none']
+                w_comparison_df.drop_duplicates(subset=['term_id'], inplace=True)
+                all_pathways_comparisons[search_type][w] = w_comparison_df
+
     
     '''#Gets set of all terms from all abstracts
     all_pathways_terms = []
@@ -78,52 +80,54 @@ def main():
     #Dict of all embeddings to reuse if they exist
     embeddings = defaultdict(list)
 
-    for wikipathway in tqdm(wikipathways):
 
-        if ablation == 'true':
+    for search_type in LITERATURE_SEARCH_TYPES:
+        for wikipathway in tqdm(wikipathways):
 
-            wikipathway = wikipathway + '_ablation_0'
+            if ablation == 'true':
 
-        output_dir = all_wikipathways_dir + '/' + wikipathway + '_output'
+                wikipathway = wikipathway + '_ablation_0'
 
-        #print("Mapping between user inputs and KG nodes.......")
+            output_dir = all_wikipathways_dir + '/' + wikipathway + '_output'
+
+            #print("Mapping between user inputs and KG nodes.......")
+            
+            #Gets literature comparison terms for this pathway specifically
+            #comparison_terms_df = interactive_search_wrapper(g, labels_file, output_dir, 'literature_comparison', kg_type, enable_skipping, input_dir, wikipathway)
+
+            s = pd.read_csv(output_dir + '/_annotated_diagram_Input_Nodes_.csv',sep='|')
+
+            if cosine_similarity == 'true':
+
+                subgraph_df = pd.read_csv(output_dir + '/CosineSimilarity/Subgraph.csv',sep='|')
+
+                all_subgraphs_cosine_sim,embeddings = compare_subgraph_guiding_terms(s,subgraph_df,g,all_pathways_comparisons[search_type],kg_type,embeddings,'CosineSimilarity',emb,entity_map,wikipathway,all_subgraphs_cosine_sim,'uris')
+
+            if pdp == 'true':
+
+                subgraph_df = pd.read_csv(output_dir + '/PDP/Subgraph.csv',sep='|')
+
+                all_subgraphs_cosine_sim,embeddings = compare_subgraph_guiding_terms(s,subgraph_df,g,all_pathways_comparisons[search_type],kg_type,embeddings,'PDP',emb,entity_map,wikipathway,all_subgraphs_cosine_sim,'uris')
+
+            #Get original wikipathways edgelist
+            wikipathways_subgraph_df = get_wikipathways_subgraph(s)
+            all_subgraphs_cosine_sim,embeddings = compare_subgraph_guiding_terms(s,wikipathways_subgraph_df,g,all_pathways_comparisons[search_type],kg_type,embeddings,'Original',emb,entity_map,wikipathway,all_subgraphs_cosine_sim,'uris')
         
-        #Gets literature comparison terms for this pathway specifically
-        #comparison_terms_df = interactive_search_wrapper(g, labels_file, output_dir, 'literature_comparison', kg_type, enable_skipping, input_dir, wikipathway)
+        all_subgraphs_cosine_sim_df = output_literature_comparison_df(all_wikipathways_dir+'/literature_comparison',all_subgraphs_cosine_sim,search_type)
 
-        s = pd.read_csv(output_dir + '/_annotated_diagram_Input_Nodes_.csv',sep='|')
+        ###Add idf term to these columns here
+        #all_subgraphs_cosine_sim_df
 
-        if cosine_similarity == 'true':
+        #!For Testing
+        ##all_subgraphs_cosine_sim_df = pd.read_csv('/Users/brooksantangelo/Documents/HunterLab/Cartoomics/git/Cartoomics/wikipathways_graphs/literature_comparison/Evaluation_Files/literature_comparison_evaluation.csv',sep=',')
+        ##all_wikipathways_dir = os.getcwd() + "/" + WIKIPATHWAYS_SUBFOLDER
 
-            subgraph_df = pd.read_csv(output_dir + '/CosineSimilarity/Subgraph.csv',sep='|')
+        #Get relative cosine similarity to other pathways
+        all_subgraphs_zscore_df = compare_literature_terms_across_pathways(all_subgraphs_cosine_sim_df)
 
-            all_subgraphs_cosine_sim,embeddings = compare_subgraph_guiding_terms(s,subgraph_df,g,all_pathways_comparisons,kg_type,embeddings,'CosineSimilarity',emb,entity_map,wikipathway,all_subgraphs_cosine_sim,'uris')
-
-        if pdp == 'true':
-
-            subgraph_df = pd.read_csv(output_dir + '/PDP/Subgraph.csv',sep='|')
-
-            all_subgraphs_cosine_sim,embeddings = compare_subgraph_guiding_terms(s,subgraph_df,g,all_pathways_comparisons,kg_type,embeddings,'PDP',emb,entity_map,wikipathway,all_subgraphs_cosine_sim,'uris')
-
-        #Get original wikipathways edgelist
-        wikipathways_subgraph_df = get_wikipathways_subgraph(s)
-        all_subgraphs_cosine_sim,embeddings = compare_subgraph_guiding_terms(s,wikipathways_subgraph_df,g,all_pathways_comparisons,kg_type,embeddings,'Original',emb,entity_map,wikipathway,all_subgraphs_cosine_sim,'uris')
-        
-    all_subgraphs_cosine_sim_df = output_literature_comparison_df(all_wikipathways_dir+'/literature_comparison',all_subgraphs_cosine_sim)
-
-    ###Add idf term to these columns here
-    #all_subgraphs_cosine_sim_df
-
-    #!For Testing
-    ##all_subgraphs_cosine_sim_df = pd.read_csv('/Users/brooksantangelo/Documents/HunterLab/Cartoomics/git/Cartoomics/wikipathways_graphs/literature_comparison/Evaluation_Files/literature_comparison_evaluation.csv',sep=',')
-    ##all_wikipathways_dir = os.getcwd() + "/" + WIKIPATHWAYS_SUBFOLDER
-
-    #Get relative cosine similarity to other pathways
-    all_subgraphs_zscore_df = compare_literature_terms_across_pathways(all_subgraphs_cosine_sim_df)
-
-    visualize_literature_comparison_boxplot_all_pathways(all_subgraphs_zscore_df,all_wikipathways_dir)
-    visualize_literature_comparison_scatterplot_all_pathways(all_subgraphs_zscore_df,all_wikipathways_dir)
-    visualize_literature_comparison_heatmap_all_pathways(all_subgraphs_zscore_df,all_wikipathways_dir)
+        visualize_literature_comparison_boxplot_all_pathways(all_subgraphs_zscore_df,all_wikipathways_dir,search_type)
+        visualize_literature_comparison_scatterplot_all_pathways(all_subgraphs_zscore_df,all_wikipathways_dir,search_type)
+        visualize_literature_comparison_heatmap_all_pathways(all_subgraphs_zscore_df,all_wikipathways_dir,search_type)
 
 
 if __name__ == '__main__':

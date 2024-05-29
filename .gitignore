@@ -2,7 +2,10 @@
 __pycache__/
 
 wikipathways_graphs/annotated_diagram
-wikipathways_graphs/literature_comparison
+wikipathways_graphs/literature_comparison/*
+!wikipathways_graphs/literature_comparison/Evaluation_Files/
+wikipathways_graphs/literature_comparison/Evaluation_Files/*
+!wikipathways_graphs/literature_comparison/Evaluation_Files/concept_idf_annotated.csv
 wikipathways_graphs/pkl
 wikipathways_graphs/WP*
 !wikipathways_graphs/PFOCR_url_list.txt

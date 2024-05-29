@@ -18,6 +18,7 @@ from assign_nodes import map_input_to_nodes,manage_user_input
 
 from wikipathways_converter import get_wikipathways_list
 from constants import (
+    LITERATURE_SEARCH_TYPES,
     WIKIPATHWAYS_SUBFOLDER
 )
 
@@ -102,7 +103,7 @@ def get_node_idf_from_label(node,g,idf_df):
     return idf
 
 def main():
-
+    # Note this search_type is not used
     kg_type,embedding_dimensions,weights,search_type, pdp_weight,input_type, cosine_similarity, pdp, guiding_term, input_substring,wikipathways,pfocr_urls,pfocr_urls_file,enable_skipping = generate_graphsim_arguments()
 
     input_dir = os.getcwd() + '/' + WIKIPATHWAYS_SUBFOLDER
@@ -163,23 +164,24 @@ def main():
     #For comparison to abstract terms
     #####
 
-    literature_comparison_file = all_wikipathways_dir +'/literature_comparison/Evaluation_Files/literature_comparison_evaluation.csv'
-    literature_comparison_df = pd.read_csv(literature_comparison_file)
+    for search_type in LITERATURE_SEARCH_TYPES:
+        literature_comparison_file = all_wikipathways_dir +'/literature_comparison/Evaluation_Files/literature_comparison_evaluation_' + search_type + '.csv'
+        literature_comparison_df = pd.read_csv(literature_comparison_file)
 
-    #For appending to df
-    node_idfs_list = []
+        #For appending to df
+        node_idfs_list = []
 
-    for i in range(len(literature_comparison_df)):
-        term_id = literature_comparison_df.iloc[i].loc['Term_ID']
-        try:
-            idf = idf_df.loc[idf_df['uri'] == term_id,'idf'].values[0]
-        except IndexError:
-            idf = np.nan
-        node_idfs_list.append(idf)
+        for i in range(len(literature_comparison_df)):
+            term_id = literature_comparison_df.iloc[i].loc['Term_ID']
+            try:
+                idf = idf_df.loc[idf_df['uri'] == term_id,'idf'].values[0]
+            except IndexError:
+                idf = np.nan
+            node_idfs_list.append(idf)
 
-    literature_comparison_df['IDF'] = node_idfs_list
+        literature_comparison_df['IDF'] = node_idfs_list
 
-    literature_comparison_df.to_csv(all_wikipathways_dir +'/literature_comparison/Evaluation_Files/literature_comparison_evaluation_with_IDF.csv',sep=',',index=False)
+        literature_comparison_df.to_csv(all_wikipathways_dir +'/literature_comparison/Evaluation_Files/literature_comparison_evaluation_with_IDF_' + search_type + '.csv',sep=',',index=False)
 
 if __name__ == '__main__':
     main()
